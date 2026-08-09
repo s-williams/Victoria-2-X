@@ -8,7 +8,7 @@ from PIL import Image
 
 definition_file = "map/definition.csv"
 provinces_bmp_file = "map/provinces.bmp"
-history_folder = "history/provinces/middle earth"
+history_folder = "history/provinces/x"
 map_loc_file = "localisation/map.csv"
 region_file = "map/region.txt"
 region_sea_file = "map/region_sea.txt"
