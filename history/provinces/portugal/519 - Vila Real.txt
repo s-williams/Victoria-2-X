@@ -1,4 +1,3 @@
-owner = POR
 
 
 trade_goods = fruit

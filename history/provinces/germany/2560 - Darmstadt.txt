@@ -1,7 +1,3 @@
-owner = HES
-controller = HES
-add_core = HES
-
 trade_goods = fruit
 life_rating = 40
 #state_building = {
