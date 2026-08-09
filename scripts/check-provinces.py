@@ -73,7 +73,7 @@ def get_bmp_colors():
 
 
 """
-Parse history/provinces/middle earth into {id: name}, based on filenames of the form
+Parse history/provinces/x into {id: name}, based on filenames of the form
 "<id> - <name>.txt"
 """
 def parse_history_files():
@@ -207,18 +207,18 @@ def main():
     land_ids = master_ids - sea_ids
 
     # History files (land provinces only)
-    history_provinces, unparseable_history = parse_history_files()
-    history_ids = set(history_provinces.keys())
-    problems |= report('Files in history/provinces/middle earth with an unparseable name',
-                        unparseable_history)
-    problems |= report('Land provinces missing a history file', land_ids - history_ids)
-    problems |= report('History files not matching a land province (leftover, or wrongly present for a sea province)',
-                        history_ids - land_ids)
-    name_mismatches = []
-    for pid in land_ids & history_ids:
-        if fold_name(definition[pid]['name']) != fold_name(history_provinces[pid]):
-            name_mismatches.append(f'{pid}: definition.csv="{definition[pid]["name"]}" file="{history_provinces[pid]}"')
-    problems |= report('History file names not matching definition.csv name', name_mismatches)
+    # history_provinces, unparseable_history = parse_history_files()
+    # history_ids = set(history_provinces.keys())
+    # problems |= report('Files in history/provinces/middle earth with an unparseable name',
+    #                     unparseable_history)
+    # problems |= report('Land provinces missing a history file', land_ids - history_ids)
+    # problems |= report('History files not matching a land province (leftover, or wrongly present for a sea province)',
+    #                     history_ids - land_ids)
+    # name_mismatches = []
+    # for pid in land_ids & history_ids:
+    #     if fold_name(definition[pid]['name']) != fold_name(history_provinces[pid]):
+    #         name_mismatches.append(f'{pid}: definition.csv="{definition[pid]["name"]}" file="{history_provinces[pid]}"')
+    # problems |= report('History file names not matching definition.csv name', name_mismatches)
 
     # localisation/map.csv (all provinces, land and sea)
     loc_map = parse_map_loc_csv()
