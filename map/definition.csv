@@ -201,7 +201,6 @@ province;red;green;blue;x;x
 200;64;112;192;Tampa;x
 201;64;112;64;Atlanta;x
 202;192;112;64;Valdosta;x
-203;22;158;45;Bermuda;x
 204;64;240;64;Savannah;x
 205;226;240;64;Charleston;x
 206;0;112;192;Columbia;x
@@ -2588,7 +2587,6 @@ province;red;green;blue;x;x
 2587;51;9;23;Kola;x
 2588;93;12;151;Onega;x
 2589;135;15;24;Kanin;x
-2590;177;18;152;Chukchi;x
 2591;51;24;153;Sisimiut;x
 2592;93;27;26;Ungava;x
 2593;135;30;154;Fort George;x
@@ -2703,95 +2701,29 @@ province;red;green;blue;x;x
 2702;4;78;135;Aralsk;x
 2703;1;200;200;Vänern;x
 2704;2;200;250;Vättern;x
-2705;3;220;250;Gulf of Bothnia;x
-2706;4;250;250;Ålands Hav;x
 2707;5;200;200;Gulf of Finland;x
 2708;6;200;250;Western Baltic Sea;x
-2709;7;220;250;Gulf of Riga;x
 2710;8;250;250;Southern Baltic Sea;x
-2711;9;200;200;Öresund;x
-2712;10;200;250;Kattegat;x
 2713;11;220;250;Peipsi Järv;x
 2714;12;250;250;Ladoga;x
 2715;13;200;200;Onega;x
 2716;14;200;250;White Sea;x
 2717;15;220;250;Lofoten Sea;x
-2718;16;250;250;Northern Norwegian Sea;x
-2719;17;200;200;Southern Norwegian Sea;x
-2720;18;200;250;Skagerrack;x
-2721;19;220;250;Helgoland Bight;x
-2722;20;250;250;Coast of Holland;x
-2723;21;200;200;Dogger Bank;x
-2724;22;200;250;Straits of Dover;x
-2725;23;220;250;The Channel;x
-2726;24;250;250;Lands End;x
-2727;25;200;200;Coast of Britanny;x
-2728;26;200;250;Quiberon Bay;x
-2729;27;220;250;Cote D'Argent;x
-2730;28;250;250;Bay of Biscay;x
-2731;29;200;200;Cantabrian Sea;x
-2732;30;200;250;Tyne;x
-2733;31;220;250;Firth of Forth;x
-2734;32;250;250;The North Sea;x
 2735;33;200;200;Moray Firth;x
-2736;34;200;250;North Channel;x
 2737;35;220;250;Irish Sea;x
-2738;36;250;250;St. George's Channel;x
-2739;37;200;200;Donegal Bay;x
 2740;38;200;250;Dingle Bay;x
 2741;39;220;250;Celtic Sea;x
-2742;40;250;250;Western Approaches;x
-2743;41;200;200;Finisterre Bay;x
-2744;42;200;250;Lusitanian Sea;x
-2745;43;220;250;Gulf of Cadiz;x
-2746;44;250;250;Straits of Gibraltar;x
-2747;45;200;200;Gulf of Almeira;x
-2748;46;200;250;Gulf of Valencia;x
-2749;47;220;250;Gulf of Lion;x
-2750;48;250;250;Cote D'Azur;x
-2751;49;200;200;Ligurian Sea;x
-2752;50;200;250;Gulf of Mallocra;x
-2753;51;220;250;Western Mediterranean;x
-2754;52;250;250;Barbary Coast;x
-2755;53;200;200;Cape Bon;x
-2756;54;200;250;Tyrrenean Sea;x
-2757;55;220;250;Bay of Naples;x
-2758;56;250;250;Gulf of Gabes;x
-2759;57;200;200;Malta Channel;x
-2760;58;200;250;Straits of Messina;x
 2761;59;220;250;Gulf of Venice;x
-2762;60;250;250;Adriatic Sea;x
-2763;61;200;200;Straits of Otranto;x
-2764;62;200;250;Gulf of Taranto;x
 2765;63;220;250;Ionian Sea;x
-2766;64;250;250;Gulf of Sirte;x
-2767;65;200;200;Gulf of Tobruk;x
-2768;66;200;250;Bay of Alexandrian;x
-2769;67;220;250;Palestinian Coast;x
-2770;68;250;250;Gulf of Cyprus;x
 2771;69;200;200;Sea of Crete;x
 2772;70;200;250;Aegean Sea;x
-2773;71;220;250;Sea of Marmara;x
 2774;72;250;250;Gulf of Varna;x
-2775;73;200;200;Gulf of Odessa;x
-2776;74;200;250;Sea of Azov;x
-2777;75;220;250;Eastern Black Sea;x
 2778;76;250;250;Lake Balaton;x
 2779;77;200;200;Caspian Sea;x
 2780;78;200;250;Aral Sea;x
-2781;79;220;250;Gulf of Suez;x
 2782;80;250;250;Red Sea;x
-2783;81;200;200;Straits of Obokk;x
-2784;82;200;250;Bal el Mandeb;x
-2785;83;220;250;Coast of Mascate;x
-2786;84;250;250;Mascate Coast;x
-2787;85;200;200;Straits of Hormuz;x
 2788;86;200;250;Persian Gulf;x
-2789;87;220;250;Gulf of Indus;x
 2790;88;250;250;Gulf of Gujarat;x
-2791;89;200;200;Laquedive Islands;x
-2792;90;200;250;Coast of Malabar;x
-2793;91;220;250;Comorin Cape;x
 2794;92;250;250;Coast of Caramandel;x
 2795;93;200;200;Coast of Orissa;x
 2796;94;200;250;Ganges Delta;x
@@ -2799,146 +2731,53 @@ province;red;green;blue;x;x
 2798;96;250;250;Irrawady Delta;x
 2799;97;200;200;Andaman Sea;x
 2800;98;200;250;Mergui Archipelago;x
-2801;99;220;250;Straits of Malacca;x
-2802;100;250;250;Nicobar Isles;x
-2803;101;200;200;Coast of Atjeh;x
-2804;102;200;250;Coast of Sumatra;x
-2805;103;220;250;Christmas Island;x
-2806;104;250;250;Coast of Java;x
-2807;105;200;200;Coast of Surabaya;x
-2808;106;200;250;Straits of Lombok;x
 2809;107;220;250;Timor Sea;x
 2810;108;250;250;The Moluccas;x
-2811;109;200;200;Java Sea;x
-2812;110;200;250;Straits of Makassar;x
 2813;111;220;250;Karimata Strait;x
 2814;112;250;250;Straits of Johore;x
-2815;113;200;200;Malayan Sea;x
-2816;114;200;250;Coast of Sarawk;x
-2817;115;220;250;Mekong Delta;x
-2818;116;250;250;Gulf of Siam;x
-2819;117;200;200;Cam Rah Bay;x
-2820;118;200;250;South China Sea;x
 2821;119;220;250;Coast of Brunei;x
 2822;120;250;250;Coast of Annam;x
 2823;121;200;200;Gulf of Tonkin;x
-2824;122;200;250;Guanghou Bay;x
-2825;123;220;250;Taiwan Strait;x
-2826;124;250;250;Yang Tse Delta;x
 2827;125;200;200;Yellow Sea;x
-2828;126;200;250;Korea Bay;x
-2829;127;220;250;South Korean Sea;x
-2830;0;251;251;North Korean Sea;x
-2831;1;201;201;Coast of Olga;x
-2832;2;201;251;Tatar Straits;x
-2833;3;221;251;Amur Delta;x
 2834;4;251;251;Baj of Ayan;x
 2835;5;201;201;Bay of Komenskoie;x
-2836;6;201;251;Coast of Kamchatska;x
 2837;7;221;251;Oktothsk Sea;x
-2838;8;251;251;Coast Sahkalin;x
-2839;9;201;201;Soya Strait;x
-2840;10;201;251;Tsugaru Strait;x
-2841;11;221;251;Sea of Japan;x
-2842;12;251;251;Amakusa Sea;x
-2843;13;201;201;Setto Inland Sea;x
-2844;14;201;251;Tokai Sea;x
 2845;15;221;251;Ryukyu Islands;x
-2846;16;251;251;Luzon Strait;x
-2847;17;201;201;Paracel Islands;x
 2848;18;201;251;Manila Bay;x
 2849;19;221;251;Coast of Luzon;x
 2850;20;251;251;Gulf of Leyte;x
-2851;21;201;201;Sulu Sea;x
 2852;22;201;251;Sea of Celebes;x
 2853;23;221;251;Sea of Ternete;x
-2854;24;251;251;Sea of Banda;x
-2855;25;201;201;Philipine Sea;x
-2856;26;201;251;Palau Islands;x
-2857;27;221;251;Biak Bay;x
-2858;28;251;251;Vilian Strait;x
 2859;29;201;201;Trobrian Islands;x
 2860;30;201;251;Torres Strait;x
 2861;31;221;251;Arafuam Sea;x
 2862;32;251;251;Kolepom Bay;x
 2863;33;201;201;Gulf of Carpentaria;x
-2864;34;201;251;Great Barrier Reef;x
-2865;35;221;251;Capricorn Bay;x
 2866;36;251;251;Cape Howe;x
-2867;37;201;201;Bass Strait;x
-2868;38;201;251;Kangaroo Island;x
-2869;39;221;251;Great Australian Bight;x
-2870;40;251;251;Cape Leuwiin;x
 2871;41;201;201;Shark Bay;x
-2872;42;201;251;Northwest Cape;x
-2873;43;221;251;King Sound;x
-2874;44;251;251;Tasman Sea;x
-2875;45;201;201;Southern Tasman Sea;x
 2876;46;201;251;Cook Strait;x
-2877;47;221;251;Northern Tasman Sea;x
 2878;48;251;251;Cape Farwell;x
 2879;49;201;201;Coast of New Zealand;x
-2880;50;201;251;Cantebury Bight;x
-2881;51;221;251;Sea of Antarctica;x
-2882;52;251;251;New Caledonian Sea;x
-2883;53;201;201;Coral Sea;x
-2884;54;201;251;Gilbert Sea;x
 2885;55;221;251;Solomon Sea;x
-2886;56;251;251;Nauru Island;x
-2887;57;201;201;Melanesia Sea;x
-2888;58;201;251;Micronesia Sea;x
-2889;59;221;251;Yap Islands;x
-2890;60;251;251;Mariana Islands;x
-2891;61;201;201;Tinian Sea;x
-2892;62;201;251;Iwo Jima Sea;x
-2893;63;221;251;Taihei Ocean;x
 2894;64;251;251;The Kuriles;x
 2895;65;201;201;Bay of Uka;x
 2896;66;201;251;Bay of Oljut;x
-2897;67;221;251;Bay of Anadyr;x
-2898;68;251;251;Western Pacific #12;x
-2899;69;201;201;Horn of Africa;x
-2900;70;201;251;Coast of Pepper;x
 2901;71;221;251;Zanzibar Strait;x
 2902;72;251;251;Mozambique Channel;x
-2903;73;201;201;Diego Suarez Bay;x
-2904;74;201;251;Western Arabian Sea;x
-2905;75;221;251;Eastern Arabian Sea;x
-2906;76;251;251;The Seychelles;x
-2907;77;201;201;Coast of Tamatave;x
-2908;78;201;251;The Mascareignes;x
-2909;79;221;251;Gulf of Zambeze;x
 2910;80;251;251;Coast of Natal;x
-2911;81;201;201;Coast of Transkei;x
-2912;82;201;251;Coast of Ciskei;x
-2913;83;221;251;Cape of Good Hope;x
-2914;84;251;251;Coast of Namibia;x
-2915;85;201;201;Coast of Angola;x
-2916;86;201;251;Gulf of Kongo;x
 2917;87;221;251;Coast of Cameroon;x
 2918;88;251;251;Gulf of Nigeria;x
 2919;89;201;201;Ivory Coast;x
-2920;90;201;251;Gold Coast;x
-2921;91;221;251;Coast of Gamvia;x
 2922;92;251;251;Coast of Guinea;x
 2923;93;201;201;Maueretanian Coast;x
-2924;94;201;251;Canarian Sea;x
-2925;95;221;251;Coast of Morocco;x
-2926;96;251;251;Jan Mayen Sea;x
-2927;97;201;201;Spitzberg Sea;x
 2928;98;201;251;Icelandic Sea;x
 2929;99;221;251;Shetland Straits;x
 2930;100;251;251;Coast of Iceland;x
-2931;101;201;201;Northeastern Atlantic;x
-2932;102;201;251;Rockall;x
 2933;103;221;251;Denmark Strait;x
 2934;104;251;251;Eastern Coast of Greenland;x
 2935;105;201;201;Western Coast of Greenland;x
 2936;106;201;251;Labrador Strait;x
 2937;107;221;251;Baffin Bay;x
-2938;108;251;251;Hudson Straits;x
-2939;109;201;201;James Bay;x
-2940;110;201;251;Western Hudson Bay;x
 2941;111;221;251;Eastern Hudson Bay;x
 2942;112;251;251;Foxe Bassin;x
 2943;113;201;201;Gulf of St. Lawrence;x
@@ -2947,169 +2786,48 @@ province;red;green;blue;x;x
 2946;116;251;251;Strait of Belle Isle;x
 2947;117;201;201;Fortune Bay;x
 2948;118;201;251;Notre Dame Bay;x
-2949;119;221;251;Labrador Sea;x
-2950;120;251;251;Greenland Sea;x
-2951;121;201;201;Northern Atlantic;x
-2952;122;201;251;Masschusetts Bay;x
-2953;123;221;251;Chesapaeake Bay;x
 2954;124;251;251;Cape Hatteras;x
 2955;125;201;201;Coast of Carolina;x
-2956;126;201;251;Coast of Florida;x
-2957;127;221;251;Sea of Sargassos;x
-2958;0;252;252;Florida Straits;x
-2959;1;202;202;Apalachee Bay;x
 2960;2;202;252;Mobile Bay;x
-2961;3;222;252;Galveston Bay;x
 2962;4;252;252;Tampico Bay;x
-2963;5;202;202;Yucatan Sea;x
-2964;6;202;252;Gulf of Mexico;x
 2965;7;222;252;Yucatan Channel;x
-2966;8;252;252;Belize Bay;x
-2967;9;202;202;Moscitos Coast;x
 2968;10;202;252;Gulf of Darien;x
 2969;11;222;252;Jamica Channel;x
-2970;12;252;252;Central Carribean;x
-2971;13;202;202;Northwestern Carribean;x
-2972;14;202;252;Venezualan Gulf;x
-2973;15;222;252;Venezuelan Sea;x
-2974;16;252;252;Eastern Carribean;x
-2975;17;202;202;Windward Islands;x
-2976;18;202;252;Lesser Antilles;x
 2977;19;222;252;Turks & Caicos Sea;x
 2978;20;252;252;Coast of Cuba;x
-2979;21;202;202;Coast of Hispaniola;x
-2980;22;202;252;Guyana Coast;x
-2981;23;222;252;Bay of Belem;x
 2982;24;252;252;Amazonas Gulf;x
-2983;25;202;202;Coast of Brazil;x
-2984;26;202;252;Coast of Recife;x
-2985;27;222;252;Coast of Pernambuc;x
-2986;28;252;252;Todos Santos Bay;x
-2987;29;202;202;Rio De Janeiro;x
-2988;30;202;252;Baia Parangua;x
-2989;31;222;252;Rio De La Plata;x
-2990;32;252;252;Bahia Blanca;x
 2991;33;202;202;Coast of Patagonia;x
 2992;34;202;252;Magellan Strait;x
 2993;35;222;252;South Chilean Coast;x
 2994;36;252;252;Coast of Chile;x
-2995;37;202;202;Atacama Coast;x
-2996;38;202;252;Arica Gulf;x
-2997;39;222;252;Arequipa Bay;x
-2998;40;252;252;Coast of Peru;x
-2999;41;202;202;Guayaguil Bay;x
 3000;42;202;252;Coast of Ecuador;x
 3001;43;222;252;Gulf of Panama;x
 3002;44;252;252;Bay of Costa Rica;x
 3003;45;202;202;Acapulco Bay;x
 3004;46;202;252;Manzazilla Bay;x
-3005;47;222;252;Mazatlan Bay;x
-3006;48;252;252;Gulf of California;x
 3007;49;202;202;Coast of Baja;x
 3008;50;202;252;Coast of California;x
 3009;51;222;252;Santa Catalina Islands;x
-3010;52;252;252;Coast of Oregon;x
 3011;53;202;202;Coast of Columbia;x
 3012;54;202;252;Hecate Strait;x
 3013;55;222;252;Gulf of Alaska;x
 3014;56;252;252;Coast of Alaska;x
 3015;57;202;202;Kuskowim Bay;x
-3016;58;202;252;Hatton Bank;x
-3017;59;222;252;Eastern Gibbs Fracture;x
-3018;60;252;252;Western Gibbs Fracture;x
-3019;61;202;202;Iberian Shelf;x
-3020;62;202;252;Sea of Azores;x
-3021;63;222;252;Corner Seamounts;x
-3022;64;252;252;New England Seamounts;x
-3023;65;202;202;Sable Island Bank;x
-3024;66;202;252;Blake Plataeu;x
-3025;67;222;252;West Bermuda Sea;x
-3026;68;252;252;East Bermuda Sea;x
-3027;69;202;202;Some Funny Seaname;x
-3028;70;202;252;Northern Guiana Basin;x
-3029;71;222;252;Guiana Basin;x
-3030;72;252;252;Southern Guiana Basin;x
 3031;73;202;202;Canary Approach;x
-3032;74;202;252;Cap Verde Approach;x
-3033;75;222;252;Central Atlantic #1;x
-3034;76;252;252;Central Atlantic #2;x
-3035;77;202;202;Central Atlantic #3;x
-3036;78;202;252;Central Atlantic #4;x
-3037;79;222;252;Romanche Gap;x
-3038;80;252;252;East Guinea Basin;x
-3039;81;202;202;West Guinea Basin;x
-3040;82;202;252;Coast of Falklands;x
-3041;83;222;252;New Georgia Islands;x
-3042;84;252;252;Western Atlantic #1;x
-3043;85;202;202;Western Atlantic #2;x
-3044;86;202;252;Western Atlantic #3;x
-3045;87;222;252;Western Atlantic #4;x
-3046;88;252;252;Western Atlantic #5;x
-3047;89;202;202;Western Atlantic #6;x
 3048;90;202;252;East of Magellans;x
-3049;91;222;252;Central Atlantic #5;x
-3050;92;252;252;Central Atlantic #6;x
-3051;93;202;202;Central Atlantic #7;x
-3052;94;202;252;Central Atlantic #8;x
-3053;95;222;252;Eastern Atlantic #1;x
-3054;96;252;252;Eastern Atlantic #2;x
-3055;97;202;202;Eastern Atlantic #3;x
-3056;98;202;252;Eastern Atlantic #4;x
-3057;99;222;252;Eastern Atlantic #5;x
-3058;100;252;252;Eastern Atlantic #6;x
 3059;101;202;202;Southern Atlantic #1;x
-3060;102;202;252;Southern Atlantic #2;x
-3061;103;222;252;Southern Atlantic #3;x
-3062;104;252;252;Southern Atlantic #4;x
-3063;105;202;202;Cape of Storms;x
-3064;106;202;252;Gulf of Bengal;x
-3065;107;222;252;Northen Bay of Bengal;x
-3066;108;252;252;Southern Bay of Bengal;x
 3067;109;202;202;Ceylon Sea;x
-3068;110;202;252;Coast of Maldives;x
-3069;111;222;252;Indian Ocean #1;x
-3070;112;252;252;Indian Ocean #2;x
-3071;113;202;202;Indian Ocean #3;x
-3072;114;202;252;Indian Ocean #4;x
-3073;115;222;252;Indian Ocean #5;x
-3074;116;252;252;Indian Ocean #6;x
-3075;117;202;202;Indian Ocean #7;x
-3076;118;202;252;Indian Ocean #8;x
-3077;119;222;252;Indian Ocean #9;x
-3078;120;252;252;Indian Ocean #10;x
-3079;121;202;202;Indian Ocean #11;x
-3080;122;202;252;Indian Ocean #12;x
-3081;123;222;252;Indian Ocean #13;x
-3082;124;252;252;Indian Ocean #14;x
-3083;125;202;202;Indian Ocean #15;x
-3084;126;202;252;Indian Ocean #16;x
-3085;127;222;252;Indian Ocean #17;x
-3086;0;253;253;Indian Ocean #18;x
-3087;1;203;203;Indian Ocean #19;x
-3088;2;203;253;Indian Ocean #20;x
-3089;3;223;253;Indian Ocean #21;x
-3090;4;253;253;Indian Ocean #22;x
 3091;5;203;203;Indian Ocean #23;x
-3092;6;203;253;Indian Ocean #24;x
-3093;7;223;253;Indian Ocean #25;x
-3094;8;253;253;Indian Ocean #26;x
-3095;9;203;203;Indian Ocean #27;x
-3096;10;203;253;Indian Ocean #28;x
-3097;11;223;253;Indian Ocean #29;x
-3098;12;253;253;Indian Ocean #30;x
 3099;13;203;203;Indian Ocean #31;x
-3100;14;203;253;Indian Ocean #32;x
 3101;15;223;253;Lake Tchad;x
 3102;16;253;253;Lake Victoria;x
 3103;17;203;203;Lake Tangayika;x
 3104;18;203;253;Lake Malawi;x
-3105;19;223;253;Indian Ocean #33;x
 3106;20;253;253;Lake Balchasj;x
 3107;21;203;203;Lake Bajkal;x
 3108;22;203;253;Lake Dongting;x
 3109;23;223;253;Lake Titicaca;x
 3110;24;253;253;Lake Nicaragua;x
-3111;25;203;203;Northern Pacific #10;x
 3112;26;203;253;Lake Ontario;x
 3113;27;223;253;Lake Erie;x
 3114;28;253;253;Lake Huron;x
@@ -3117,114 +2835,17 @@ province;red;green;blue;x;x
 3116;30;203;253;Lake Superior;x
 3117;31;223;253;Lake Nipigon;x
 3118;32;253;253;Lake Winnipeg;x
-3119;33;203;203;Western Pacific #1;x
-3120;34;203;253;Western Pacific #2;x
-3121;35;223;253;Western Pacific #3;x
-3122;36;253;253;Western Pacific #4;x
-3123;37;203;203;Western Pacific #5;x
 3124;38;203;253;Western Pacific #6;x
-3125;39;223;253;Western Pacific #7;x
-3126;40;253;253;Western Pacific #8;x
-3127;41;203;203;Western Pacific #9;x
-3128;42;203;253;Western Pacific #10;x
-3129;43;223;253;Western Pacific #11;x
-3130;44;253;253;Northern Pacific #1;x
-3131;45;203;203;Northern Pacific #2;x
-3132;46;203;253;Northern Pacific #3;x
-3133;47;223;253;Northern Pacific #4;x
 3134;48;253;253;Northern Pacific #5;x
 3135;49;203;203;Northern Pacific #6;x
-3136;50;203;253;Northern Pacific #7;x
-3137;51;223;253;Northern Pacific #8;x
-3138;52;253;253;Northern Pacific #9;x
-3139;53;203;203;Northern Pacific #10;x
-3140;54;203;253;Central Pacific #1;x
-3141;55;223;253;Central Pacific #2;x
 3142;56;253;253;Central Pacific #3;x
-3143;57;203;203;Central Pacific #4;x
-3144;58;203;253;Central Pacific #5;x
-3145;59;223;253;Central Pacific #6;x
-3146;60;253;253;Central Pacific #7;x
-3147;61;203;203;Central Pacific #8;x
-3148;62;203;253;Central Pacific #9;x
-3149;63;223;253;Central Pacific #10;x
-3150;64;253;253;Coast of Hawaii;x
 3151;65;203;203;Central Pacific #11;x
-3152;66;203;253;Central Pacific #12;x
-3153;67;223;253;Central Pacific #13;x
-3154;68;253;253;Eastern Pacific #1;x
-3155;69;203;203;Eastern Pacific #2;x
-3156;70;203;253;Eastern Pacific #3;x
-3157;71;223;253;Eastern Pacific #4;x
-3158;72;253;253;Eastern Pacific #5;x
-3159;73;203;203;Eastern Pacific #6;x
-3160;74;203;253;Eastern Pacific #7;x
-3161;75;223;253;Eastern Pacific #8;x
-3162;76;253;253;Eastern Pacific #9;x
-3163;77;203;203;Eastern Pacific #10;x
 3164;78;203;253;Eastern Pacific #11;x
-3165;79;223;253;Eastern Pacific #12;x
-3166;80;253;253;Eastern Pacific #13;x
-3167;81;203;203;Eastern Pacific #14;x
-3168;82;203;253;Eastern Pacific #15;x
-3169;83;223;253;Eastern Pacific #16;x
-3170;84;223;253;Eastern Pacific #16;x
-3171;85;203;203;Southern Pacifc #1;x
-3172;86;203;253;Southern Pacific #2;x
-3173;87;223;253;Southern Pacific #3;x
-3174;88;253;253;Southern Pacific #4;x
-3175;89;203;203;Southern Pacific #5;x
-3176;90;203;253;Southern Pacific #6;x
 3177;91;223;253;Southern Pacific #7;x
-3178;92;253;253;Southern Pacific #8;x
-3179;93;203;203;Southern Pacific #9;x
-3180;94;203;253;Southern Pacific #10;x
-3181;95;223;253;Southern Pacific #11;x
-3182;96;253;253;Southern Pacific #12;x
-3183;97;203;203;Southern Pacific #13;x
-3184;98;203;253;Southern Pacific #14;x
-3185;99;223;253;Southern Pacific #15;x
-3186;100;253;253;Southern Pacific #16;x
-3187;101;203;203;Southern Pacific #17;x
-3188;102;203;253;Southern Pacific #18;x
-3189;103;223;253;Southern Pacific #19;x
-3190;104;203;203;Southern Pacific #20;x
-3191;11;224;254;Southern Pacific #21;x
-3192;14;224;254;Southern Pacific #22;x
-3193;107;223;253;Southern Pacific #23;x
-3194;108;253;253;Southern Pacific #24;x
-3195;109;203;203;Southern Pacific #25;x
-3196;110;203;253;Southern Pacific #26;x
-3197;10;254;224;Southern Pacific #27;x
-3198;112;253;253;Southern Pacific #28;x
-3199;113;203;203;Southern Pacific #29;x
 3200;114;203;253;Western Atlantic #7;x
-3201;115;223;253;Western Atlantic #8;x
-3202;116;203;203;Western Atlantic #9;x
-3203;117;203;253;Western Atlantic #10;x
-3204;118;223;253;Western Atlantic #11;x
-3205;119;253;253;Central Atlantic #9;x
-3206;120;203;203;Central Atlantic #10;x
-3207;121;203;253;Central Atlantic #11;x
-3208;122;223;253;Central Atlantic #12;x
-3209;123;253;253;Central Atlantic #13;x
-3210;124;203;203;Central Atlantic #14;x
-3211;125;203;253;Central Atlantic #15;x
-3212;2;204;254;Indian Ocean #37;x
-3213;127;203;253;Indian Ocean #34;x
-3214;0;253;254;Indian Ocean #35;x
-3215;1;254;224;Indian Ocean #36;x
-3216;13;254;224;Southern Pacific #30;x
-3217;3;204;254;Southern Pacific #31;x
-3218;4;224;254;Southern Pacific #32;x
-3219;12;254;254;Southern Pacific #33;x
-3220;28;214;224;Southern Pacific #34;x
-3221;7;254;224;Southern Pacific #35;x
 3222;8;224;254;Southern Pacific #36;x
-3223;9;224;224;Southern Pacific #37;x
 3224;26;254;254;Lake Tana;x
 3225;27;214;254;Great Salt Lake;x
-3226;15;204;254;Indian Ocean #38;x
 3227;16;204;224;Great Slave Lake;x
 3228;17;254;224;Lake Athabasca;x
 3229;18;254;204;Reindeer Lake;x
@@ -3235,15 +2856,8 @@ province;red;green;blue;x;x
 3234;23;224;224;Qinghai Lake;x
 3235;24;204;254;Lake Poyang;x
 3236;25;224;204;Lake Rudolf;x
-3237;29;215;204;Northern Atlantic #2;x
 3238;30;204;254;Lake Mweru;x
 3239;31;254;204;Lake Champlain;x
 3240;32;224;204;Lake Poopo;x
 3241;32;204;224;Arctic Ocean;x
-3242;126;233;253;Northern Atlantic #3;x
-3243;111;223;253;Southern Pacific #38;x
-3244;5;204;254;Western Pacific #13;x
-3245;106;203;253;Southern Pacific #39;x
 3246;49;150;138;Jan Mayen;x
-3247;52;14;236;West Hawaii;x
-3248;53;14;240;West Magellan Strait;x
