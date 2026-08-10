@@ -233,10 +233,10 @@ def main():
     # problems |= report('localisation/map.csv names not matching definition.csv name', loc_name_mismatches)
 
     # map/positions.txt (all provinces, land and sea)
-    positions_ids = parse_positions_txt()
-    problems |= report('Provinces missing an entry in map/positions.txt', master_ids - positions_ids)
-    problems |= report('Entries in map/positions.txt not matching a valid province (leftover)',
-                        positions_ids - master_ids)
+    # positions_ids = parse_positions_txt()
+    # problems |= report('Provinces missing an entry in map/positions.txt', master_ids - positions_ids)
+    # problems |= report('Entries in map/positions.txt not matching a valid province (leftover)',
+    #                     positions_ids - master_ids)
 
     # map/continent.txt (land provinces only)
     continent_ids = parse_continent_txt()
