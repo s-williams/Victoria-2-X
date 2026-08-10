@@ -1,5 +1,5 @@
 province;red;green;blue;x;x
-1;204;229;152;Sitka;x
+1;41;201;201;Space;x
 2;204;179;153;Yakutat;x
 3;153;230;153;Kenai;x
 4;192;0;0;Dutch Harbor;x
@@ -2754,7 +2754,6 @@ province;red;green;blue;x;x
 2862;32;251;251;Kolepom Bay;x
 2863;33;201;201;Gulf of Carpentaria;x
 2866;36;251;251;Cape Howe;x
-2871;41;201;201;Shark Bay;x
 2876;46;201;251;Cook Strait;x
 2878;48;251;251;Cape Farwell;x
 2879;49;201;201;Coast of New Zealand;x
