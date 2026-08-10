@@ -1,1 +1,3 @@
-black_sea_region = {}baltic_sea_region = {}mediterranean_region = {}
+all_sea_provinces = {
+    1
+}

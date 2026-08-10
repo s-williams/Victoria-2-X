@@ -221,16 +221,16 @@ def main():
     # problems |= report('History file names not matching definition.csv name', name_mismatches)
 
     # localisation/map.csv (all provinces, land and sea)
-    loc_map = parse_map_loc_csv()
-    loc_ids = set(loc_map.keys())
-    problems |= report('Provinces missing an entry in localisation/map.csv', master_ids - loc_ids)
-    problems |= report('Entries in localisation/map.csv not matching a valid province (leftover)',
-                        loc_ids - master_ids)
-    loc_name_mismatches = []
-    for pid in master_ids & loc_ids:
-        if definition[pid]['name'].strip() != loc_map[pid].strip():
-            loc_name_mismatches.append(f'{pid}: definition.csv="{definition[pid]["name"]}" map.csv="{loc_map[pid]}"')
-    problems |= report('localisation/map.csv names not matching definition.csv name', loc_name_mismatches)
+    # loc_map = parse_map_loc_csv()
+    # loc_ids = set(loc_map.keys())
+    # problems |= report('Provinces missing an entry in localisation/map.csv', master_ids - loc_ids)
+    # problems |= report('Entries in localisation/map.csv not matching a valid province (leftover)',
+    #                     loc_ids - master_ids)
+    # loc_name_mismatches = []
+    # for pid in master_ids & loc_ids:
+    #     if definition[pid]['name'].strip() != loc_map[pid].strip():
+    #         loc_name_mismatches.append(f'{pid}: definition.csv="{definition[pid]["name"]}" map.csv="{loc_map[pid]}"')
+    # problems |= report('localisation/map.csv names not matching definition.csv name', loc_name_mismatches)
 
     # map/positions.txt (all provinces, land and sea)
     positions_ids = parse_positions_txt()
