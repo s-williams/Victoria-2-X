@@ -83,16 +83,16 @@ province;red;green;blue;x;x
 82;160;192;192;Sanctuary of Darkness I;x
 83;224;224;224;Sanctuary of Darkness II;x
 84;16;128;128;Sanctuary of Darkness III;x
-85;16;128;0;Eureka;x
-86;144;128;0;Sacramento;x
-87;144;128;128;Monterey;x
-88;134;75;69;Mariposa;x
-89;208;0;0;Los Angeles;x
-90;80;128;0;San Diego;x
-91;115;85;191;Boise;x
-92;64;32;128;Coeur D'Alene;x
-93;208;0;128;Pocatello;x
-94;109;100;92;Carson City;x
+85;16;128;0;Kingdom End I;x
+86;144;128;0;Kingdom End II;x
+87;144;128;128;Kingdom End III;x
+88;134;75;69;Kingdom End IV;x
+89;208;0;0;Kingdom End V;x
+90;80;128;0;Kingdom End VI;x
+91;115;85;191;Kingdom End VII;x
+92;64;32;128;Kingdom End VIII;x
+93;208;0;128;Kingdom End IX;x
+94;109;100;92;Kingdom End X;x
 95;16;192;0;Elko;x
 96;204;24;24;Las Vegas;x
 97;144;64;0;Salt Lake City;x
