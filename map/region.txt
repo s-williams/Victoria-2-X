@@ -46,7 +46,7 @@ REG_SEGARIS = { }
 # Argon (Center)
 REG_GETSU_FUNE = { }
 REG_SAVAGE_SPUR = { }
-REG_MATRIX_79B = { }
+REG_MATRIX_79B = { 33 34 35 }
 REG_THARKAS_CASCADE = { }
 REG_MATRIX_101 = { }
 REG_SILENT_WITNESS = { }
@@ -255,12 +255,6 @@ ENG_13 = { 2629 }
 
 
 ENG_22 = { 2597 }
-
-
-
-ENG_30 = { 33 34 35 }
-
-
 ENG_36 = { 36 37 38 39 40 41 42 }
 
 
