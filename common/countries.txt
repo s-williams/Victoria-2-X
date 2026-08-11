@@ -53,37 +53,6 @@ GOD = "countries/Godrealm of the Paranid.txt"
 # Xenon
 XEN = "countries/Xenon.txt"
 
-# Common Great Powers
-ENG		= "countries/United Kingdom.txt"
-RUS		= "countries/Russia.txt"
-FRA		= "countries/France.txt"
-PRU		= "countries/Prussia.txt"
-GER		= "countries/Germany.txt"
-AUS		= "countries/Austria.txt"
-USA		= "countries/USA.txt"
-JAP		= "countries/Japan.txt"
-ITA		= "countries/Italy.txt"
-KUK		= "countries/Austria-Hungary.txt"
-
-# Africa
-ALD		="countries/Aldjazair.txt"
-CNG		="countries/Congo Free State.txt"
-EGY		="countries/Egypt.txt"
-ETH		="countries/Ethiopia.txt"
-MAD		="countries/Madagascar.txt"
-LIB		="countries/Liberia.txt"
-MOR		="countries/Morocco.txt"
-NAL		="countries/Natalia.txt"
-ORA		="countries/Oranje.txt"
-SAF		="countries/South Africa.txt"
-SOK		="countries/Sokoto.txt"
-RHO		="countries/Southern Rhodesia.txt"
-TRI		="countries/Tripoli.txt"
-TRN		="countries/Transvaal.txt"
-TUN		="countries/Tunis.txt"
-ZAN		="countries/Zanzibar.txt"
-ZUL		="countries/Zulu.txt"
-
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
 D01		= "countries/D01.txt"
