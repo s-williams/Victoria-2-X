@@ -1,2 +1,5 @@
+owner = GOD
+controller = GOD
+add_core = GOD
 trade_goods = fish
 life_rating = 25

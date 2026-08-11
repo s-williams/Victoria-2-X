@@ -34,7 +34,7 @@ REB 	= 	"countries/rebels.txt"
 # SPP = "countries/Scale Plate Pact.txt"
 
 # Paranid
-# GOD = "countries/Godrealm of the Paranid.txt"
+GOD = "countries/Godrealm of the Paranid.txt"
 # HOP = "countries/Holy Order of the Pontifex.txt"
 # ROT = "countries/Realm of the Trinity.txt"
 # ALI = "countries/Alliance of the Word.txt"
