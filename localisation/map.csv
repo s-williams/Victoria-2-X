@@ -194,6 +194,14 @@ PROV190;Lasting Vengeance II;x
 PROV191;Lasting Vengeance III;x
 PROV192;Lasting Vengeance IV;x
 PROV193;Lasting Vengeance V;x
+PROV194;Cardinal's Redress I;x
+PROV195;Cardinal's Redress II;x
+PROV196;Cardinal's Redress III;x
+PROV197;Cardinal's Redress IV;x
+PROV198;Cardinal's Redress V;x
+PROV199;Cardinal's Redress VI;x
+PROV200;Cardinal's Redress VII;x
+PROV201;Cardinal's Redress VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -230,3 +238,4 @@ REG_CARDINALS_DOMAIN;Cardinal's Domain;x
 REG_SACRED_RELIC;Sacred Relic;x
 REG_FREEDOMS_REACH;Freedom's Reach;x
 REG_LASTING_VENGEANCE;Lasting Vengeance;x
+REG_CARDINALS_REDRESS;Cardinal's Redress;x
