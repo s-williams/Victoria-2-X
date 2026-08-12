@@ -185,6 +185,10 @@ PROV181;Sacred Relic II;x
 PROV182;Sacred Relic III;x
 PROV183;Sacred Relic IV;x
 PROV184;Sacred Relic V;x
+PROV185;Freedom's Reach I;x
+PROV186;Freedom's Reach II;x
+PROV187;Freedom's Reach III;x
+PROV188;Freedom's Reach IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -219,3 +223,4 @@ REG_SANCTUM_VERGE;Sanctum Verge;x
 REG_TEMPTING_FUMES;Tempting Fumes;x
 REG_CARDINALS_DOMAIN;Cardinal's Domain;x
 REG_SACRED_RELIC;Sacred Relic;x
+REG_FREEDOMS_REACH;Freedom's Reach;x
