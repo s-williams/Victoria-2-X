@@ -10,3 +10,4 @@ Terrain.bmp - ???
 * https://wiki.egosoft.com
 * https://x4prodchart.com/
 * https://www.qsna.eu/x4/wares
+* https://veanturverse.com/guides/x4-universe-map.html
