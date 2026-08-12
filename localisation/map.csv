@@ -153,6 +153,12 @@ PROV149;Inner Sol IX;x
 PROV150;Inner Sol X;x
 PROV151;Inner Sol XI;x
 PROV152;Inner Sol XII;x
+PROV153;Brennan's Triumph I;x
+PROV154;Brennan's Triumph II;x
+PROV155;Brennan's Triumph III;x
+PROV156;Brennan's Triumph IV;x
+PROV157;Brennan's Triumph V;x
+PROV158;Brennan's Triumph VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -181,3 +187,4 @@ REG_GETSU_FUNE;Getsu Fune;x
 REG_SAVAGE_SPUR;Savage Spur;x
 REG_OUTER_SOL;Outer Sol;x
 REG_INNER_SOL;Inner Sol;x
+REG_BRENNANS_TRIUMPH;Brennan's Triumph;x
