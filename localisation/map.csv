@@ -168,6 +168,12 @@ PROV164;Sanctum Verge II;x
 PROV165;Sanctum Verge III;x
 PROV166;Sanctum Verge IV;x
 PROV167;Sanctum Verge V;x
+PROV168;Tempting Fumes I;x
+PROV169;Tempting Fumes II;x
+PROV170;Tempting Fumes III;x
+PROV171;Tempting Fumes IV;x
+PROV172;Tempting Fumes V;x
+PROV173;Tempting Fumes VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -199,3 +205,4 @@ REG_INNER_SOL;Inner Sol;x
 REG_BRENNANS_TRIUMPH;Brennan's Triumph;x
 REG_CIRCLE_OF_DECEIT;Circle of Deceit;x
 REG_SANCTUM_VERGE;Sanctum Verge;x
+REG_TEMPTING_FUMES;Tempting Fumes;x
