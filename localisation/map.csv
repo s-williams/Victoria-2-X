@@ -2,3 +2,152 @@
 ##### PROVINCES #####;x {
 #####################;x
 PROV1;Space;x
+PROV2;Emperor's Pride I;x
+PROV3;Emperor's Pride II;x
+PROV4;Emperor's Pride III;x
+PROV5;Emperor's Pride IV;x
+PROV6;Emperor's Pride V;x
+PROV7;Emperor's Pride VI;x
+PROV8;Litany of Fury I;x
+PROV9;Litany of Fury II;x
+PROV10;Litany of Fury III;x
+PROV11;Litany of Fury IV;x
+PROV12;Litany of Fury V;x
+PROV13;Litany of Fury VI;x
+PROV14;Litany of Fury VII;x
+PROV15;Litany of Fury VIII;x
+PROV16;Wretched Skies I;x
+PROV17;Wretched Skies II;x
+PROV18;Wretched Skies III;x
+PROV19;Wretched Skies IV;x
+PROV20;Wretched Skies V;x
+PROV21;Wretched Skies VI;x
+PROV22;Family Zhin I;x
+PROV23;Family Zhin II;x
+PROV24;Family Zhin III;x
+PROV25;Family Zhin IV;x
+PROV26;Family Zhin V;x
+PROV27;Family Zhin VI;x
+PROV28;Heretic's End I;x
+PROV29;Heretic's End II;x
+PROV30;Heretic's End III;x
+PROV31;Heretic's End IV;x
+PROV32;Heretic's End V;x
+PROV33;Matrix 79B I;x
+PROV34;Matrix 79B II;x
+PROV35;Matrix 79B III;x
+PROV36;Family Kritt I;x
+PROV37;Family Kritt II;x
+PROV38;Family Kritt III;x
+PROV39;Family Kritt IV;x
+PROV40;Family Kritt V;x
+PROV41;Family Kritt VI;x
+PROV42;Rhy's Defiance I;x
+PROV43;Rhy's Defiance II;x
+PROV44;Rhy's Defiance III;x
+PROV45;Rhy's Defiance IV;x
+PROV46;Rhy's Defiance V;x
+PROV47;Rhy's Defiance VI;x
+PROV48;Matrix 598 I;x
+PROV49;Matrix 598 II;x
+PROV50;Matrix 598 III;x
+PROV51;Matrix 598 IV;x
+PROV52;Zyarth's Dominion I;x
+PROV53;Zyarth's Dominion II;x
+PROV54;Zyarth's Dominion III;x
+PROV55;Zyarth's Dominion IV;x
+PROV56;Zyarth's Dominion V;x
+PROV57;Zyarth's Dominion VI;x
+PROV58;Zyarth's Dominion VII;x
+PROV59;Zyarth's Dominion VIII;x
+PROV60;Zyarth's Dominion IX;x
+PROV61;Family Nhuut I;x
+PROV62;Family Nhuut II;x
+PROV63;Family Nhuut III;x
+PROV64;Family Nhuut IV;x
+PROV65;Family Nhuut V;x
+PROV66;Family Nhuut VI;x
+PROV67;Watchful Gaze I;x
+PROV68;Watchful Gaze II;x
+PROV69;Watchful Gaze III;x
+PROV70;Watchful Gaze IV;x
+PROV71;Barren Shores I;x
+PROV72;Barren Shores II;x
+PROV73;Barren Shores III;x
+PROV74;Barren Shores IV;x
+PROV75;Barren Shores V;x
+PROV76;Great Reef I;x
+PROV77;Great Reef II;x
+PROV78;Great Reef III;x
+PROV79;Great Reef IV;x
+PROV80;Great Reef V;x
+PROV81;Great Reef VI;x
+PROV82;Sanctuary of Darkness I;x
+PROV83;Sanctuary of Darkness II;x
+PROV84;Sanctuary of Darkness III;x
+PROV85;Kingdom End I;x
+PROV86;Kingdom End II;x
+PROV87;Kingdom End III;x
+PROV88;Kingdom End IV;x
+PROV89;Kingdom End V;x
+PROV90;Kingdom End VI;x
+PROV91;Kingdom End VII;x
+PROV92;Kingdom End VIII;x
+PROV93;Kingdom End IX;x
+PROV94;Kingdom End X;x
+PROV95;Rolk's Demise I;x
+PROV96;Rolk's Demise II;x
+PROV97;Rolk's Demise III;x
+PROV98;Rolk's Demise IV;x
+PROV99;Rolk's Demise V;x
+PROV100;Rolk's Demise VI;x
+PROV101;Atreus' Clouds I;x
+PROV102;Atreus' Clouds II;x
+PROV103;Atreus' Clouds III;x
+PROV104;Atreus' Clouds IV;x
+PROV105;Atreus' Clouds V;x
+PROV106;Atreus' Clouds VI;x
+PROV107;Menelaus' Oasis I;x
+PROV108;Menelaus' Oasis II;x
+PROV109;Menelaus' Oasis III;x
+PROV110;Menelaus' Oasis IV;x
+PROV111;Menelaus' Oasis V;x
+PROV112;Menelaus' Oasis VI;x
+PROV113;Adventure's Promise I;x
+PROV114;Adventure's Promise II;x
+PROV115;Adventure's Promise III;x
+PROV116;Ocean of Fantasy I;x
+PROV117;Ocean of Fantasy II;x
+PROV118;Ocean of Fantasy III;x
+PROV119;Ocean of Fantasy IV;x
+PROV120;Getsu Fune I;x
+PROV121;Getsu Fune II;x
+PROV122;Getsu Fune III;x
+PROV123;Getsu Fune IV;x
+PROV124;Getsu Fune V;x
+PROV125;Getsu Fune VI;x
+###################;x }
+##### REGIONS #####;x {
+###################;x
+REG_KINGDOM_END;Kingdom End;x
+REG_ROLKS_DEMISE;Rolk's Demise;x
+REG_MENELAUS_OASIS;Menelaus' Oasis;x
+REG_ATREUS_CLOUDS;Atreus' Clouds;x
+REG_SANCTUARY_OF_DARKNESS;Sanctuary of Darkness;x
+REG_GREAT_REEF;Great Reef;x
+REG_BARREN_SHORES;Barren Shores;x
+REG_OCEAN_OF_FANTASY;Ocean of Fantasy;x
+REG_ADVENTURES_PROMISE;Adventure's Promise;x
+REG_WATCHFUL_GAZE;Watchful Gaze;x
+REG_HERETICS_END;Heretic's End;x
+REG_WRETCHED_SKIES;Wretched Skies;x
+REG_LITANY_OF_FURY;Litany of Fury;x
+REG_EMPERORS_PRIDE;Emperor's Pride;x
+REG_FAMILY_ZHIN;Family Zhin;x
+REG_FAMILY_KRITT;Family Kritt;x
+REG_RHYS_DEFIANCE;Rhy's Defiance;x
+REG_MATRIX_598;Matrix 598;x
+REG_ZYARTHS_DOMINION;Zyarth's Dominion;x
+REG_FAMILY_NHUUT;Family Nhuut;x
+REG_MATRIX_79B;Matrix 79B;x
+REG_GETSU_FUNE;Getsu Fune;x
