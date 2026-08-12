@@ -159,6 +159,10 @@ PROV155;Brennan's Triumph III;x
 PROV156;Brennan's Triumph IV;x
 PROV157;Brennan's Triumph V;x
 PROV158;Brennan's Triumph VI;x
+PROV159;Circle of Deceit I;x
+PROV160;Circle of Deceit II;x
+PROV161;Circle of Deceit III;x
+PROV162;Circle of Deceit IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -188,3 +192,4 @@ REG_SAVAGE_SPUR;Savage Spur;x
 REG_OUTER_SOL;Outer Sol;x
 REG_INNER_SOL;Inner Sol;x
 REG_BRENNANS_TRIUMPH;Brennan's Triumph;x
+REG_CIRCLE_OF_DECEIT;Circle of Deceit;x
