@@ -163,6 +163,11 @@ PROV159;Circle of Deceit I;x
 PROV160;Circle of Deceit II;x
 PROV161;Circle of Deceit III;x
 PROV162;Circle of Deceit IV;x
+PROV163;Sanctum Verge I;x
+PROV164;Sanctum Verge II;x
+PROV165;Sanctum Verge III;x
+PROV166;Sanctum Verge IV;x
+PROV167;Sanctum Verge V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -193,3 +198,4 @@ REG_OUTER_SOL;Outer Sol;x
 REG_INNER_SOL;Inner Sol;x
 REG_BRENNANS_TRIUMPH;Brennan's Triumph;x
 REG_CIRCLE_OF_DECEIT;Circle of Deceit;x
+REG_SANCTUM_VERGE;Sanctum Verge;x
