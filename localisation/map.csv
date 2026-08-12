@@ -189,6 +189,11 @@ PROV185;Freedom's Reach I;x
 PROV186;Freedom's Reach II;x
 PROV187;Freedom's Reach III;x
 PROV188;Freedom's Reach IV;x
+PROV189;Lasting Vengeance I;x
+PROV190;Lasting Vengeance II;x
+PROV191;Lasting Vengeance III;x
+PROV192;Lasting Vengeance IV;x
+PROV193;Lasting Vengeance V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -224,3 +229,4 @@ REG_TEMPTING_FUMES;Tempting Fumes;x
 REG_CARDINALS_DOMAIN;Cardinal's Domain;x
 REG_SACRED_RELIC;Sacred Relic;x
 REG_FREEDOMS_REACH;Freedom's Reach;x
+REG_LASTING_VENGEANCE;Lasting Vengeance;x
