@@ -180,6 +180,11 @@ PROV176;Cardinal's Domain III;x
 PROV177;Cardinal's Domain IV;x
 PROV178;Cardinal's Domain V;x
 PROV179;Cardinal's Domain VI;x
+PROV180;Sacred Relic I;x
+PROV181;Sacred Relic II;x
+PROV182;Sacred Relic III;x
+PROV183;Sacred Relic IV;x
+PROV184;Sacred Relic V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -213,3 +218,4 @@ REG_CIRCLE_OF_DECEIT;Circle of Deceit;x
 REG_SANCTUM_VERGE;Sanctum Verge;x
 REG_TEMPTING_FUMES;Tempting Fumes;x
 REG_CARDINALS_DOMAIN;Cardinal's Domain;x
+REG_SACRED_RELIC;Sacred Relic;x
