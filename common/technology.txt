@@ -46,14 +46,6 @@ folders = {
 	
 }
 
-
-
-
-
-
-
-
-
 schools ={
 	traditional_academic = 
 	{
