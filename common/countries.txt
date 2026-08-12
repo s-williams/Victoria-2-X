@@ -12,6 +12,7 @@ REB 	= 	"countries/rebels.txt"
 # YAK = "countries/Yaki.txt"
 # GON = "countries/Goner.txt"
 # ABN = "countries/Albion.txt"
+# SOL = "countries/Solara.txt"
 
 # Boron
 # BOR = "countries/Queendom of Boron.txt"
