@@ -130,6 +130,17 @@ PROV126;Savage Spur I;x
 PROV127;Savage Spur II;x
 PROV128;Savage Spur III;x
 PROV129;Savage Spur IV;x
+PROV130;Outer Sol I;x
+PROV131;Outer Sol II;x
+PROV132;Outer Sol III;x
+PROV133;Outer Sol IV;x
+PROV134;Outer Sol V;x
+PROV135;Outer Sol VI;x
+PROV136;Outer Sol VII;x
+PROV137;Outer Sol VIII;x
+PROV138;Outer Sol IX;x
+PROV139;Outer Sol X;x
+PROV140;Outer Sol XI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -156,3 +167,4 @@ REG_FAMILY_NHUUT;Family Nhuut;x
 REG_MATRIX_79B;Matrix 79B;x
 REG_GETSU_FUNE;Getsu Fune;x
 REG_SAVAGE_SPUR;Savage Spur;x
+REG_OUTER_SOL;Outer Sol;x

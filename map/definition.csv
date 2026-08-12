@@ -128,17 +128,17 @@ province;red;green;blue;x;x
 127;16;64;192;Savage Spur II;x
 128;16;192;192;Savage Spur III;x
 129;144;192;192;Savage Spur IV;x
-130;122;112;123;Tahlequah;x
-131;192;48;64;Okmulgee;x
-132;128;48;64;Houston;x
-133;0;176;64;Austin;x
-134;128;176;192;Dallas;x
-135;0;176;192;Lubbock;x
-136;208;128;112;El Paso;x
-137;128;176;64;San Antonio;x
-138;0;48;192;Laredo;x
-139;76;108;123;New Orleans;x
-140;79;163;196;Baton Rouge;x
+130;122;112;123;Outer Sol I;x
+131;192;48;64;Outer Sol II;x
+132;128;48;64;Outer Sol III;x
+133;0;176;64;Outer Sol IV;x
+134;128;176;192;Outer Sol V;x
+135;0;176;192;Outer Sol VI;x
+136;208;128;112;Outer Sol VII;x
+137;128;176;64;Outer Sol VIII;x
+138;0;48;192;Outer Sol IX;x
+139;76;108;123;Outer Sol X;x
+140;79;163;196;Outer Sol XI;x
 141;192;240;128;Lake Charles;x
 142;192;112;128;Shreveport;x
 143;192;240;0;Little Rock;x

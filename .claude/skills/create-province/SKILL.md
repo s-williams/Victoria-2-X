@@ -12,6 +12,8 @@ This mod's province-creation workflow is split between the user and Claude:
 
 `map/definition.csv` is the source of truth for province IDs and exact name spelling (apostrophes, capitalization, etc). Always read the current rows for the given ID range from there before creating anything - do not trust a name typed in chat if it conflicts with definition.csv, and do not trust a region name in region.txt if the user says it changed. Because this project's `grep` is aliased to `ugrep`, which silently skips this ISO-8859/cp1252 file as "binary", use `awk -F';' '$1+0>=START && $1+0<=END {print $1";"$5}' map/definition.csv` or `sed`/`grep -a` to read it, never plain `grep`.
 
+Some new province IDs reuse numbers that used to belong to vanilla Victoria 2 provinces (e.g. old USA/Mexico Texas provinces reused for X-universe "Outer Sol"). The old vanilla history file (e.g. `history/provinces/usa/133 - Austin.txt`) is left in place but emptied to 0 bytes - this is intentional and not a conflict, so do not delete, rename, or flag these files. Only create the new file under `history/provinces/x/`.
+
 ## Steps
 
 1. **Read the definition.csv rows for the given ID range.** Confirm the count of provinces and the exact name text (including apostrophes) for each.
