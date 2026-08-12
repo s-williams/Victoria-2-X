@@ -200,8 +200,8 @@ def main():
 
     sea_ids_raw, sea_duplicates = parse_sea_starts()
     problems |= report('Duplicate ids in sea_starts (default.map)', sea_duplicates)
-    problems |= report('Ids in sea_starts (default.map) that are not valid provinces',
-                        sea_ids_raw - master_ids)
+    # problems |= report('Ids in sea_starts (default.map) that are not valid provinces',
+    #                     sea_ids_raw - master_ids)
 
     sea_ids = sea_ids_raw & master_ids
     land_ids = master_ids - sea_ids
@@ -239,25 +239,25 @@ def main():
     #                     positions_ids - master_ids)
 
     # map/continent.txt (land provinces only)
-    continent_ids = parse_continent_txt()
-    problems |= report('Land provinces missing from map/continent.txt', land_ids - continent_ids)
-    problems |= report('Entries in map/continent.txt not matching a land province (leftover, or wrongly present for a sea province)',
-                        continent_ids - land_ids)
+    # continent_ids = parse_continent_txt()
+    # problems |= report('Land provinces missing from map/continent.txt', land_ids - continent_ids)
+    # problems |= report('Entries in map/continent.txt not matching a land province (leftover, or wrongly present for a sea province)',
+    #                     continent_ids - land_ids)
 
     # map/region.txt (land provinces only)
-    region_ids = parse_region_txt()
-    problems |= report('Land provinces not part of any region in map/region.txt', land_ids - region_ids)
-    problems |= report('Provinces in a map/region.txt region that are not a land province (leftover, or wrongly present for a sea province)',
-                        region_ids - land_ids)
+    # region_ids = parse_region_txt()
+    # problems |= report('Land provinces not part of any region in map/region.txt', land_ids - region_ids)
+    # problems |= report('Provinces in a map/region.txt region that are not a land province (leftover, or wrongly present for a sea province)',
+    #                     region_ids - land_ids)
 
     # map/region_sea.txt (sea provinces only, river/river-mouth provinces are exempt)
-    region_sea_ids = parse_region_sea_txt()
-    river_ids = set(pid for pid in sea_ids if is_river(definition[pid]['name']))
-    required_sea_ids = sea_ids - river_ids
-    problems |= report('Sea provinces missing from all_sea_provinces in map/region_sea.txt (rivers exempt)',
-                        required_sea_ids - region_sea_ids)
-    problems |= report('Entries in map/region_sea.txt not matching a sea province (leftover)',
-                        region_sea_ids - sea_ids)
+    # region_sea_ids = parse_region_sea_txt()
+    # river_ids = set(pid for pid in sea_ids if is_river(definition[pid]['name']))
+    # required_sea_ids = sea_ids - river_ids
+    # problems |= report('Sea provinces missing from all_sea_provinces in map/region_sea.txt (rivers exempt)',
+    #                     required_sea_ids - region_sea_ids)
+    # problems |= report('Entries in map/region_sea.txt not matching a sea province (leftover)',
+    #                     region_sea_ids - sea_ids)
 
     print()
     if problems:

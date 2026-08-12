@@ -126,6 +126,10 @@ PROV122;Getsu Fune III;x
 PROV123;Getsu Fune IV;x
 PROV124;Getsu Fune V;x
 PROV125;Getsu Fune VI;x
+PROV126;Savage Spur I;x
+PROV127;Savage Spur II;x
+PROV128;Savage Spur III;x
+PROV129;Savage Spur IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -151,3 +155,4 @@ REG_ZYARTHS_DOMINION;Zyarth's Dominion;x
 REG_FAMILY_NHUUT;Family Nhuut;x
 REG_MATRIX_79B;Matrix 79B;x
 REG_GETSU_FUNE;Getsu Fune;x
+REG_SAVAGE_SPUR;Savage Spur;x
