@@ -141,6 +141,18 @@ PROV137;Outer Sol VIII;x
 PROV138;Outer Sol IX;x
 PROV139;Outer Sol X;x
 PROV140;Outer Sol XI;x
+PROV141;Inner Sol I;x
+PROV142;Inner Sol II;x
+PROV143;Inner Sol III;x
+PROV144;Inner Sol IV;x
+PROV145;Inner Sol V;x
+PROV146;Inner Sol VI;x
+PROV147;Inner Sol VII;x
+PROV148;Inner Sol VIII;x
+PROV149;Inner Sol IX;x
+PROV150;Inner Sol X;x
+PROV151;Inner Sol XI;x
+PROV152;Inner Sol XII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -168,3 +180,4 @@ REG_MATRIX_79B;Matrix 79B;x
 REG_GETSU_FUNE;Getsu Fune;x
 REG_SAVAGE_SPUR;Savage Spur;x
 REG_OUTER_SOL;Outer Sol;x
+REG_INNER_SOL;Inner Sol;x

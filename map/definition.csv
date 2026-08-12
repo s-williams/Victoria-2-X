@@ -139,18 +139,18 @@ province;red;green;blue;x;x
 138;0;48;192;Outer Sol IX;x
 139;76;108;123;Outer Sol X;x
 140;79;163;196;Outer Sol XI;x
-141;192;240;128;Lake Charles;x
-142;192;112;128;Shreveport;x
-143;192;240;0;Little Rock;x
-144;64;112;128;Hot Springs;x
-145;64;240;0;Fayetteville;x
-146;208;0;64;St Louis;x
-147;208;64;128;Joplin;x
-148;80;192;128;Malden;x
-149;80;128;64;Jefferson City;x
-150;132;72;126;Kansas City;x
-151;144;128;192;Des Moines;x
-152;16;128;192;Oskaloosa;x
+141;192;240;128;Inner Sol I;x
+142;192;112;128;Inner Sol II;x
+143;192;240;0;Inner Sol III;x
+144;64;112;128;Inner Sol IV;x
+145;64;240;0;Inner Sol V;x
+146;208;0;64;Inner Sol VI;x
+147;208;64;128;Inner Sol VII;x
+148;80;192;128;Inner Sol VIII;x
+149;80;128;64;Inner Sol IX;x
+150;132;72;126;Inner Sol X;x
+151;144;128;192;Inner Sol XI;x
+152;16;128;192;Inner Sol XII;x
 153;144;0;192;Cedar Rapids;x
 154;74;95;122;Sioux City;x
 155;90;74;121;Minneapolis;x
