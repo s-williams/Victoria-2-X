@@ -3,8 +3,8 @@ graphical_culture = EuropeanGC
 
 party = {
 	name = "FTN_conservative"
-	start_date = 1800.1.1
-	end_date = 2000.1.1
+	start_date = 2990.1.1
+	end_date = 4000.1.1
 
 	ideology = conservative
 
