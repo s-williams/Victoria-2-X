@@ -4,52 +4,52 @@
 REB 	= 	"countries/rebels.txt"
 
 # Argon
-# AGN = "countries/Argon Federation.txt"
-# HFL = "countries/Hatikvah Free League.txt"
-# ANT = "countries/Antigone Republic.txt"
-# VIG = "countries/Vigor Syndicate.txt"
-# RIP = "countries/Riptide Rakers.txt"
-# YAK = "countries/Yaki.txt"
-# GON = "countries/Goner.txt"
-# ABN = "countries/Albion.txt"
-# SOL = "countries/Solara.txt"
+AGN = "countries/Argon Federation.txt"
+HFL = "countries/Hatikvah Free League.txt"
+ANT = "countries/Antigone Republic.txt"
+VIG = "countries/Vigor Syndicate.txt"
+RIP = "countries/Riptide Rakers.txt"
+YAK = "countries/Yaki.txt"
+GON = "countries/Goner.txt"
+ABN = "countries/Albion.txt"
+SOL = "countries/Solara.txt"
 
 # Boron
-# BOR = "countries/Queendom of Boron.txt"
-# WEN = "countries/Wenedra Prime.txt"
+BOR = "countries/Queendom of Boron.txt"
+WEN = "countries/Wenedra Prime.txt"
 
 # Split
-# ZYA = "countries/Zyarth Patriarchy.txt"
-# FRF = "countries/Free Families.txt"
-# FAF = "countries/Fallen Families.txt"
-# COC = "countries/Cabal of Curbs.txt"
+ZYA = "countries/Zyarth Patriarchy.txt"
+FRF = "countries/Free Families.txt"
+FAF = "countries/Fallen Families.txt"
+COC = "countries/Cabal of Curbs.txt"
 
 # Terran
-# TER = "countries/Terran.txt"
-# PIO = "countries/Segaris Pioneers.txt"
+TER = "countries/Terran.txt"
+PIO = "countries/Segaris Pioneers.txt"
 
 # Teladi
-# TEL = "countries/Teladi Company.txt"
-# MIN = "countries/Ministry of Finance.txt"
-# FTN = "countries/First Teladi Non-profit Organisation.txt"
-# SPP = "countries/Scale Plate Pact.txt"
+TEL = "countries/Teladi Company.txt"
+MIN = "countries/Ministry of Finance.txt"
+FTN = "countries/First Teladi Non-profit Organisation.txt"
+SPP = "countries/Scale Plate Pact.txt"
 
 # Paranid
 GOD = "countries/Godrealm of the Paranid.txt"
-# HOP = "countries/Holy Order of the Pontifex.txt"
-# ROT = "countries/Realm of the Trinity.txt"
-# ALI = "countries/Alliance of the Word.txt"
-# BUC = "countries/Dukes Buccaneers.txt"
+HOP = "countries/Holy Order of the Pontifex.txt"
+ROT = "countries/Realm of the Trinity.txt"
+ALI = "countries/Alliance of the Word.txt"
+BUC = "countries/Dukes Buccaneers.txt"
 
 # Quettanauts
-# QTA = "countries/Quettanauts.txt"
+QTA = "countries/Quettanauts.txt"
 
 # Khaak
-# KHK = "countries/Khaak.txt"
-# NKK = "countries/Northern Hive.txt"
-# WKK = "countries/Western Hive.txt"
-# EKK = "countries/Eastern Hive.txt"
-# SKK = "countries/Southern Hive.txt"
+KHK = "countries/Khaak.txt"
+NKK = "countries/Northern Hive.txt"
+WKK = "countries/Western Hive.txt"
+EKK = "countries/Eastern Hive.txt"
+SKK = "countries/Southern Hive.txt"
 
 # Xenon
 XEN = "countries/Xenon.txt"
