@@ -7,9 +7,6 @@ country_event = {
 	trigger = {
 		country = {
 			slavery = yes_slavery
-			capital_scope = {
-				NOT = { continent = europe }
-			}
 		}
 	}
 	is_triggered_only = yes
@@ -181,9 +178,6 @@ country_event = {
 	trigger = {
 		country = {
 			slavery = no_slavery
-			capital_scope = {
-				NOT = { continent = europe }
-			}
 		}
 	}
 	is_triggered_only = yes
