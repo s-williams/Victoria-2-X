@@ -1,6 +1,3 @@
-# If you add types, and use those tags, do not change them without changing everywhere they are used.
-
-
 fascist_group = {
 	fascist = {
 		uncivilized = no
@@ -42,9 +39,6 @@ fascist_group = {
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
-		
-		
-		
 	}
 }	
 
