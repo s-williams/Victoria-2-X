@@ -23,6 +23,7 @@ ZYA = "countries/Zyarth Patriarchy.txt"
 FRF = "countries/Free Families.txt"
 FAF = "countries/Fallen Families.txt"
 COC = "countries/Cabal of Curbs.txt"
+# council of proctors
 
 # Terran
 TER = "countries/Terran.txt"
@@ -53,6 +54,10 @@ SKK = "countries/Southern Hive.txt"
 
 # Xenon
 XEN = "countries/Xenon.txt"
+
+# Player
+# P00
+# P99
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
