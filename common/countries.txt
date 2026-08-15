@@ -23,7 +23,7 @@ ZYA = "countries/Zyarth Patriarchy.txt"
 FRF = "countries/Free Families.txt"
 FAF = "countries/Fallen Families.txt"
 COC = "countries/Cabal of Curbs.txt"
-# council of proctors
+COP = "countries/Council of Proctors.txt"
 
 # Terran
 TER = "countries/Terran.txt"
