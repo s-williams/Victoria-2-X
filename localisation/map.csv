@@ -231,6 +231,12 @@ PROV227;Third Redemption IV;x
 PROV228;Third Redemption V;x
 PROV229;Third Redemption VI;x
 PROV230;Third Redemption VII;x
+PROV231;Frontier Edge I;x
+PROV232;Frontier Edge II;x
+PROV233;Frontier Edge III;x
+PROV234;Frontier Edge IV;x
+PROV235;Frontier Edge V;x
+PROV236;Frontier Edge VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -272,3 +278,4 @@ REG_GAIAN_PROPHECY;Gaian Prophecy;x
 REG_SEGARIS;Segaris;x
 REG_ORE_BELT;Ore Belt;x
 REG_THIRD_REDEMPTION;Third Redemption;x
+REG_FRONTIER_EDGE;Frontier Edge;x
