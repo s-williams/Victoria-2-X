@@ -287,6 +287,12 @@ PROV283;Moo Kye's Revenge VI;x
 PROV284;Moo Kye's Revenge VII;x
 PROV285;Moo Kye's Revenge VIII;x
 PROV286;Moo Kye's Revenge IX;x
+PROV287;Mi Ton's Refuge I;x
+PROV288;Mi Ton's Refuge II;x
+PROV289;Mi Ton's Refuge III;x
+PROV290;Mi Ton's Refuge IV;x
+PROV291;Mi Ton's Refuge V;x
+PROV292;Mi Ton's Refuge VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -336,3 +342,4 @@ REG_HOLY_VISION;Holy Vision;x
 REG_PONTIFEXS_CLAIM;Pontifex's Claim;x
 REG_PIOUS_MISTS;Pious Mists;x
 REG_MOO_KYES_REVENGE;Moo Kye's Revenge;x
+REG_MI_TONS_REFUGE;Mi Ton's Refuge;x
