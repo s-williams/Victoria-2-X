@@ -329,12 +329,12 @@ province;red;green;blue;x;x
 328;65;192;224;True Sight III;x
 329;160;1;32;True Sight IV;x
 330;33;192;224;True Sight V;x
-332;64;64;223;Kalmar;x
-333;65;192;97;Vaxjo;x
-334;192;65;97;Malmo;x
-335;192;192;97;Karlskrona;x
-336;101;124;82;Oulu;x
-337;160;192;0;Kajaani;x
+331;64;64;223;Scarlet Star I;x
+332;65;192;97;Scarlet Star II;x
+333;192;65;97;Scarlet Star III;x
+334;192;192;97;Scarlet Star IV;x
+335;101;124;82;Scarlet Star V;x
+336;160;192;0;Scarlet Star VI;x
 338;224;128;128;Tornio;x
 339;32;128;1;Viipuri;x
 340;74;100;99;Kotka;x

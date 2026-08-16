@@ -331,6 +331,12 @@ PROV327;True Sight II;x
 PROV328;True Sight III;x
 PROV329;True Sight IV;x
 PROV330;True Sight V;x
+PROV331;Scarlet Star I;x
+PROV332;Scarlet Star II;x
+PROV333;Scarlet Star III;x
+PROV334;Scarlet Star IV;x
+PROV335;Scarlet Star V;x
+PROV336;Scarlet Star VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -386,3 +392,4 @@ REG_CEOS_DOUBT;CEO's Doubt;x
 REG_UNHOLY_RETRIBUTION;Unholy Retribution;x
 REG_NOPILEOS_FORTUNE;Nopileos' Fortune;x
 REG_TRUE_SIGHT;True Sight;x
+REG_SCARLET_STAR;Scarlet Star;x
