@@ -278,6 +278,15 @@ PROV274;Pious Mists IV;x
 PROV275;Pious Mists V;x
 PROV276;Pious Mists VI;x
 PROV277;Pious Mists VII;x
+PROV278;Moo Kye's Revenge I;x
+PROV279;Moo Kye's Revenge II;x
+PROV280;Moo Kye's Revenge III;x
+PROV281;Moo Kye's Revenge IV;x
+PROV282;Moo Kye's Revenge V;x
+PROV283;Moo Kye's Revenge VI;x
+PROV284;Moo Kye's Revenge VII;x
+PROV285;Moo Kye's Revenge VIII;x
+PROV286;Moo Kye's Revenge IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -326,3 +335,4 @@ REG_FAULTY_LOGIC;Faulty Logic;x
 REG_HOLY_VISION;Holy Vision;x
 REG_PONTIFEXS_CLAIM;Pontifex's Claim;x
 REG_PIOUS_MISTS;Pious Mists;x
+REG_MOO_KYES_REVENGE;Moo Kye's Revenge;x
