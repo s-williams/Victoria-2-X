@@ -392,11 +392,11 @@ province;red;green;blue;x;x
 391;145;101;116;Grand Exchange VIII;x
 392;128;128;160;Grand Exchange IX;x
 393;176;160;192;Grand Exchange X;x
-395;239;32;64;Liege;x
-396;72;111;106;Spa;x
-397;81;128;160;Luxembourg;x
-398;208;1;160;Arlon;x
-399;160;160;128;Lille;x
+394;239;32;64;Windfall I;x
+395;72;111;106;Windfall II;x
+396;81;128;160;Windfall III;x
+397;208;1;160;Windfall IV;x
+398;160;160;128;Windfall V;x
 400;224;160;192;Dunkirk;x
 401;16;96;0;Arras;x
 402;16;160;192;Amiens;x

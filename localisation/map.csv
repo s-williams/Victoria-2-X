@@ -394,6 +394,11 @@ PROV390;Grand Exchange VII;x
 PROV391;Grand Exchange VIII;x
 PROV392;Grand Exchange IX;x
 PROV393;Grand Exchange X;x
+PROV394;Windfall I;x
+PROV395;Windfall II;x
+PROV396;Windfall III;x
+PROV397;Windfall IV;x
+PROV398;Windfall V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -457,3 +462,4 @@ REG_THE_VOID;The Void;x
 REG_SECOND_CONTACT;Second Contact;x
 REG_BLACK_HOLE_SUN;Black Hole Sun;x
 REG_GRAND_EXCHANGE;Grand Exchange;x
+REG_WINDFALL;Windfall;x
