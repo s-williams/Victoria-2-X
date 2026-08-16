@@ -265,6 +265,12 @@ PROV261;Holy Vision IX;x
 PROV262;Holy Vision X;x
 PROV263;Holy Vision XI;x
 PROV264;Holy Vision XII;x
+PROV265;Pontifex's Claim I;x
+PROV266;Pontifex's Claim II;x
+PROV267;Pontifex's Claim III;x
+PROV268;Pontifex's Claim IV;x
+PROV269;Pontifex's Claim V;x
+PROV270;Pontifex's Claim VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -311,3 +317,4 @@ REG_ATIYAS_MISFORTUNE;Atiya's Misfortune;x
 REG_MISTS_OF_ARTEMIS;Mists of Artemis;x
 REG_FAULTY_LOGIC;Faulty Logic;x
 REG_HOLY_VISION;Holy Vision;x
+REG_PONTIFEXS_CLAIM;Pontifex's Claim;x

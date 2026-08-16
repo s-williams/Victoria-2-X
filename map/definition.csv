@@ -263,12 +263,12 @@ province;red;green;blue;x;x
 262;160;224;64;Holy Vision X;x
 263;32;96;192;Holy Vision XI;x
 264;96;224;64;Holy Vision XII;x
-266;160;224;0;Aberdeen;x
-267;32;224;0;Inverness;x
-268;32;96;128;Dundee;x
-269;160;224;128;Edinburgh;x
-270;160;96;128;Stirling;x
-271;32;224;128;Glasgow;x
+265;160;224;0;Pontifex's Claim I;x
+266;32;224;0;Pontifex's Claim II;x
+267;32;96;128;Pontifex's Claim III;x
+268;160;224;128;Pontifex's Claim IV;x
+269;160;96;128;Pontifex's Claim V;x
+270;32;224;128;Pontifex's Claim VI;x
 272;54;56;131;Dumfries;x
 273;32;32;192;Cardiff;x
 274;160;160;64;Cardigan;x
