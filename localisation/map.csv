@@ -337,6 +337,13 @@ PROV333;Scarlet Star III;x
 PROV334;Scarlet Star IV;x
 PROV335;Scarlet Star V;x
 PROV336;Scarlet Star VI;x
+PROV337;Void of Opportunity I;x
+PROV338;Void of Opportunity II;x
+PROV339;Void of Opportunity III;x
+PROV340;Void of Opportunity IV;x
+PROV341;Void of Opportunity V;x
+PROV342;Void of Opportunity VI;x
+PROV343;Void of Opportunity VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -393,3 +400,4 @@ REG_UNHOLY_RETRIBUTION;Unholy Retribution;x
 REG_NOPILEOS_FORTUNE;Nopileos' Fortune;x
 REG_TRUE_SIGHT;True Sight;x
 REG_SCARLET_STAR;Scarlet Star;x
+REG_VOID_OF_OPPORTUNITY;Void of Opportunity;x
