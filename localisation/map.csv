@@ -384,6 +384,16 @@ PROV380;Black Hole Sun VI;x
 PROV381;Black Hole Sun VII;x
 PROV382;Black Hole Sun VIII;x
 PROV383;Black Hole Sun IX;x
+PROV384;Grand Exchange I;x
+PROV385;Grand Exchange II;x
+PROV386;Grand Exchange III;x
+PROV387;Grand Exchange IV;x
+PROV388;Grand Exchange V;x
+PROV389;Grand Exchange VI;x
+PROV390;Grand Exchange VII;x
+PROV391;Grand Exchange VIII;x
+PROV392;Grand Exchange IX;x
+PROV393;Grand Exchange X;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -446,3 +456,4 @@ REG_ANTIGONE_MEMORIAL;Antigone Memorial;x
 REG_THE_VOID;The Void;x
 REG_SECOND_CONTACT;Second Contact;x
 REG_BLACK_HOLE_SUN;Black Hole Sun;x
+REG_GRAND_EXCHANGE;Grand Exchange;x

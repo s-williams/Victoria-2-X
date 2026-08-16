@@ -382,16 +382,16 @@ province;red;green;blue;x;x
 381;65;192;160;Black Hole Sun VII;x
 382;192;192;33;Black Hole Sun VIII;x
 383;192;65;160;Black Hole Sun IX;x
-385;65;192;33;Leeuwarden;x
-386;65;65;160;Assen;x
-387;1;128;97;Brussels;x
-388;1;65;160;Bruges;x
-389;128;65;160;Ghent;x
-390;128;0;96;Antwerp;x
-391;128;128;97;Hasselt;x
-392;145;101;116;Namur;x
-393;128;128;160;Tournai;x
-394;176;160;192;Charleroi;x
+384;65;192;33;Grand Exchange I;x
+385;65;65;160;Grand Exchange II;x
+386;1;128;97;Grand Exchange III;x
+387;1;65;160;Grand Exchange IV;x
+388;128;65;160;Grand Exchange V;x
+389;128;0;96;Grand Exchange VI;x
+390;128;128;97;Grand Exchange VII;x
+391;145;101;116;Grand Exchange VIII;x
+392;128;128;160;Grand Exchange IX;x
+393;176;160;192;Grand Exchange X;x
 395;239;32;64;Liege;x
 396;72;111;106;Spa;x
 397;81;128;160;Luxembourg;x
