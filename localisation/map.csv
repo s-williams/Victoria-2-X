@@ -344,6 +344,11 @@ PROV340;Void of Opportunity IV;x
 PROV341;Void of Opportunity V;x
 PROV342;Void of Opportunity VI;x
 PROV343;Void of Opportunity VII;x
+PROV344;Path to Profit I;x
+PROV345;Path to Profit II;x
+PROV346;Path to Profit III;x
+PROV347;Path to Profit IV;x
+PROV348;Path to Profit V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -401,3 +406,4 @@ REG_NOPILEOS_FORTUNE;Nopileos' Fortune;x
 REG_TRUE_SIGHT;True Sight;x
 REG_SCARLET_STAR;Scarlet Star;x
 REG_VOID_OF_OPPORTUNITY;Void of Opportunity;x
+REG_PATH_TO_PROFIT;Path to Profit;x
