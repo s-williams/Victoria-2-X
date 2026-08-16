@@ -293,6 +293,15 @@ PROV289;Mi Ton's Refuge III;x
 PROV290;Mi Ton's Refuge IV;x
 PROV291;Mi Ton's Refuge V;x
 PROV292;Mi Ton's Refuge VI;x
+PROV293;Loomanckstrat's Legacy I;x
+PROV294;Loomanckstrat's Legacy II;x
+PROV295;Loomanckstrat's Legacy III;x
+PROV296;Loomanckstrat's Legacy IV;x
+PROV297;Loomanckstrat's Legacy V;x
+PROV298;Loomanckstrat's Legacy VI;x
+PROV299;Loomanckstrat's Legacy VII;x
+PROV300;Loomanckstrat's Legacy VIII;x
+PROV301;Loomanckstrat's Legacy IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -343,3 +352,4 @@ REG_PONTIFEXS_CLAIM;Pontifex's Claim;x
 REG_PIOUS_MISTS;Pious Mists;x
 REG_MOO_KYES_REVENGE;Moo Kye's Revenge;x
 REG_MI_TONS_REFUGE;Mi Ton's Refuge;x
+REG_LOOMANCKSTRATS_LEGACY;Loomanckstrat's Legacy;x
