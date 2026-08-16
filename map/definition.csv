@@ -361,18 +361,18 @@ province;red;green;blue;x;x
 360;1;97;160;The Void V;x
 361;0;224;160;The Void VI;x
 362;168;255;81;The Void VII;x
-364;192;160;160;Siauliai;x
-365;128;96;160;Palanga;x
-366;128;65;224;Aarhus;x
-367;0;191;223;Aalborg;x
-368;148;70;143;Ribe;x
-369;128;65;96;Kiel;x
-370;0;192;96;Flensburg;x
-371;128;192;97;Abenra;x
-372;128;192;224;Copenhagen;x
-373;116;112;139;Odense;x
-374;144;0;224;Bornholm;x
-375;119;119;50;Amsterdam;x
+363;192;160;160;Second Contact I;x
+364;128;96;160;Second Contact II;x
+365;128;65;224;Second Contact III;x
+366;0;191;223;Second Contact IV;x
+367;148;70;143;Second Contact V;x
+368;128;65;96;Second Contact VI;x
+369;0;192;96;Second Contact VII;x
+370;128;192;97;Second Contact VIII;x
+371;128;192;224;Second Contact IX;x
+372;116;112;139;Second Contact X;x
+373;144;0;224;Second Contact XI;x
+374;119;119;50;Second Contact XII;x
 376;128;192;160;Rotterdam;x
 377;192;64;33;Utrecht;x
 378;1;192;160;Middelburg;x

@@ -363,6 +363,18 @@ PROV359;The Void IV;x
 PROV360;The Void V;x
 PROV361;The Void VI;x
 PROV362;The Void VII;x
+PROV363;Second Contact I;x
+PROV364;Second Contact II;x
+PROV365;Second Contact III;x
+PROV366;Second Contact IV;x
+PROV367;Second Contact V;x
+PROV368;Second Contact VI;x
+PROV369;Second Contact VII;x
+PROV370;Second Contact VIII;x
+PROV371;Second Contact IX;x
+PROV372;Second Contact X;x
+PROV373;Second Contact XI;x
+PROV374;Second Contact XII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -423,3 +435,4 @@ REG_VOID_OF_OPPORTUNITY;Void of Opportunity;x
 REG_PATH_TO_PROFIT;Path to Profit;x
 REG_ANTIGONE_MEMORIAL;Antigone Memorial;x
 REG_THE_VOID;The Void;x
+REG_SECOND_CONTACT;Second Contact;x
