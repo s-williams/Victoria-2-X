@@ -249,6 +249,10 @@ PROV245;Mists of Artemis II;x
 PROV246;Mists of Artemis III;x
 PROV247;Mists of Artemis IV;x
 PROV248;Mists of Artemis V;x
+PROV249;Faulty Logic I;x
+PROV250;Faulty Logic II;x
+PROV251;Faulty Logic III;x
+PROV252;Faulty Logic IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -293,3 +297,4 @@ REG_THIRD_REDEMPTION;Third Redemption;x
 REG_FRONTIER_EDGE;Frontier Edge;x
 REG_ATIYAS_MISFORTUNE;Atiya's Misfortune;x
 REG_MISTS_OF_ARTEMIS;Mists of Artemis;x
+REG_FAULTY_LOGIC;Faulty Logic;x
