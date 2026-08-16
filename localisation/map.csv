@@ -244,6 +244,11 @@ PROV240;Atiya's Misfortune IV;x
 PROV241;Atiya's Misfortune V;x
 PROV242;Atiya's Misfortune VI;x
 PROV243;Atiya's Misfortune VII;x
+PROV244;Mists of Artemis I;x
+PROV245;Mists of Artemis II;x
+PROV246;Mists of Artemis III;x
+PROV247;Mists of Artemis IV;x
+PROV248;Mists of Artemis V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -287,3 +292,4 @@ REG_ORE_BELT;Ore Belt;x
 REG_THIRD_REDEMPTION;Third Redemption;x
 REG_FRONTIER_EDGE;Frontier Edge;x
 REG_ATIYAS_MISFORTUNE;Atiya's Misfortune;x
+REG_MISTS_OF_ARTEMIS;Mists of Artemis;x
