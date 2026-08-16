@@ -302,6 +302,15 @@ PROV298;Loomanckstrat's Legacy VI;x
 PROV299;Loomanckstrat's Legacy VII;x
 PROV300;Loomanckstrat's Legacy VIII;x
 PROV301;Loomanckstrat's Legacy IX;x
+PROV302;CEO's Doubt I;x
+PROV303;CEO's Doubt II;x
+PROV304;CEO's Doubt III;x
+PROV305;CEO's Doubt IV;x
+PROV306;CEO's Doubt V;x
+PROV307;CEO's Doubt VI;x
+PROV308;CEO's Doubt VII;x
+PROV309;CEO's Doubt VIII;x
+PROV310;CEO's Doubt IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -353,3 +362,4 @@ REG_PIOUS_MISTS;Pious Mists;x
 REG_MOO_KYES_REVENGE;Moo Kye's Revenge;x
 REG_MI_TONS_REFUGE;Mi Ton's Refuge;x
 REG_LOOMANCKSTRATS_LEGACY;Loomanckstrat's Legacy;x
+REG_CEOS_DOUBT;CEO's Doubt;x
