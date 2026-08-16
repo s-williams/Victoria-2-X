@@ -375,6 +375,15 @@ PROV371;Second Contact IX;x
 PROV372;Second Contact X;x
 PROV373;Second Contact XI;x
 PROV374;Second Contact XII;x
+PROV375;Black Hole Sun I;x
+PROV376;Black Hole Sun II;x
+PROV377;Black Hole Sun III;x
+PROV378;Black Hole Sun IV;x
+PROV379;Black Hole Sun V;x
+PROV380;Black Hole Sun VI;x
+PROV381;Black Hole Sun VII;x
+PROV382;Black Hole Sun VIII;x
+PROV383;Black Hole Sun IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -436,3 +445,4 @@ REG_PATH_TO_PROFIT;Path to Profit;x
 REG_ANTIGONE_MEMORIAL;Antigone Memorial;x
 REG_THE_VOID;The Void;x
 REG_SECOND_CONTACT;Second Contact;x
+REG_BLACK_HOLE_SUN;Black Hole Sun;x
