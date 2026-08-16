@@ -356,6 +356,13 @@ PROV352;Antigone Memorial IV;x
 PROV353;Antigone Memorial V;x
 PROV354;Antigone Memorial VI;x
 PROV355;Antigone Memorial VII;x
+PROV356;The Void I;x
+PROV357;The Void II;x
+PROV358;The Void III;x
+PROV359;The Void IV;x
+PROV360;The Void V;x
+PROV361;The Void VI;x
+PROV362;The Void VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -415,3 +422,4 @@ REG_SCARLET_STAR;Scarlet Star;x
 REG_VOID_OF_OPPORTUNITY;Void of Opportunity;x
 REG_PATH_TO_PROFIT;Path to Profit;x
 REG_ANTIGONE_MEMORIAL;Antigone Memorial;x
+REG_THE_VOID;The Void;x
