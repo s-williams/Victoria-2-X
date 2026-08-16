@@ -1,2 +1,5 @@
+owner = VIG
+controller = VIG
+add_core = VIG
 trade_goods = fish
 life_rating = 25

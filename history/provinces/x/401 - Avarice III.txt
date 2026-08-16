@@ -1,2 +1,5 @@
+owner = RIP
+controller = RIP
+add_core = RIP
 trade_goods = fish
 life_rating = 25
