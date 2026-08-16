@@ -271,6 +271,13 @@ PROV267;Pontifex's Claim III;x
 PROV268;Pontifex's Claim IV;x
 PROV269;Pontifex's Claim V;x
 PROV270;Pontifex's Claim VI;x
+PROV271;Pious Mists I;x
+PROV272;Pious Mists II;x
+PROV273;Pious Mists III;x
+PROV274;Pious Mists IV;x
+PROV275;Pious Mists V;x
+PROV276;Pious Mists VI;x
+PROV277;Pious Mists VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -318,3 +325,4 @@ REG_MISTS_OF_ARTEMIS;Mists of Artemis;x
 REG_FAULTY_LOGIC;Faulty Logic;x
 REG_HOLY_VISION;Holy Vision;x
 REG_PONTIFEXS_CLAIM;Pontifex's Claim;x
+REG_PIOUS_MISTS;Pious Mists;x

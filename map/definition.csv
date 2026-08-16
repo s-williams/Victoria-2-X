@@ -269,13 +269,13 @@ province;red;green;blue;x;x
 268;160;224;128;Pontifex's Claim IV;x
 269;160;96;128;Pontifex's Claim V;x
 270;32;224;128;Pontifex's Claim VI;x
-272;54;56;131;Dumfries;x
-273;32;32;192;Cardiff;x
-274;160;160;64;Cardigan;x
-275;32;160;64;Llandrindod;x
-276;160;32;64;Holyhead;x
-277;96;224;0;Liverpool;x
-278;224;224;0;Manchester;x
+271;54;56;131;Pious Mists I;x
+272;32;32;192;Pious Mists II;x
+273;160;160;64;Pious Mists III;x
+274;32;160;64;Pious Mists IV;x
+275;160;32;64;Pious Mists V;x
+276;96;224;0;Pious Mists VI;x
+277;224;224;0;Pious Mists VII;x
 279;224;96;0;Carlisle;x
 280;96;96;0;Newcastle On Tyne;x
 281;224;96;128;Hull;x
