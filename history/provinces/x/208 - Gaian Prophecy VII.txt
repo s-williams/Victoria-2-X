@@ -1,2 +1,5 @@
+owner = PIO
+controller = PIO
+add_core = PIO
 trade_goods = fish
 life_rating = 25
