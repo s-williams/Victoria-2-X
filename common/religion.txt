@@ -89,3 +89,34 @@ pagan = {
 		
 	}
 }
+
+x_universe = {
+	human = {
+		icon = 1
+		color = { 0.8 0.8 0.8 }
+	}
+	paranid = {
+		icon = 2
+		color = { 0.8 0.8 0 }
+	}
+	split = {
+		icon = 3
+		color = { 0.8 0 0 }
+	}
+	teladi = {
+		icon = 4
+		color = { 0 0.8 0 }
+	}
+	boron = {
+		icon = 5
+		color = { 0 0.8 0.8 }
+	}
+	khaak = {
+		icon = 6
+		color = { 0.5 0.5 0 }
+	}
+	robotic = {
+		icon = 7
+		color = { 0.5 0.5 0.5 }
+	}
+}
