@@ -408,6 +408,11 @@ PROV404;Avarice VI;x
 PROV405;Avarice VII;x
 PROV406;Avarice VIII;x
 PROV407;Avarice IX;x
+PROV408;Nopileos' Memorial I;x
+PROV409;Nopileos' Memorial II;x
+PROV410;Nopileos' Memorial III;x
+PROV411;Nopileos' Memorial IV;x
+PROV412;Nopileos' Memorial V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -473,3 +478,4 @@ REG_BLACK_HOLE_SUN;Black Hole Sun;x
 REG_GRAND_EXCHANGE;Grand Exchange;x
 REG_WINDFALL;Windfall;x
 REG_AVARICE;Avarice;x
+REG_NOPILEOS_MEMORIAL;Nopileos' Memorial;x
