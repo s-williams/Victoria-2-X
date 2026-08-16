@@ -253,6 +253,18 @@ PROV249;Faulty Logic I;x
 PROV250;Faulty Logic II;x
 PROV251;Faulty Logic III;x
 PROV252;Faulty Logic IV;x
+PROV253;Holy Vision I;x
+PROV254;Holy Vision II;x
+PROV255;Holy Vision III;x
+PROV256;Holy Vision IV;x
+PROV257;Holy Vision V;x
+PROV258;Holy Vision VI;x
+PROV259;Holy Vision VII;x
+PROV260;Holy Vision VIII;x
+PROV261;Holy Vision IX;x
+PROV262;Holy Vision X;x
+PROV263;Holy Vision XI;x
+PROV264;Holy Vision XII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -298,3 +310,4 @@ REG_FRONTIER_EDGE;Frontier Edge;x
 REG_ATIYAS_MISFORTUNE;Atiya's Misfortune;x
 REG_MISTS_OF_ARTEMIS;Mists of Artemis;x
 REG_FAULTY_LOGIC;Faulty Logic;x
+REG_HOLY_VISION;Holy Vision;x

@@ -251,18 +251,18 @@ province;red;green;blue;x;x
 250;192;128;64;Faulty Logic II;x
 251;128;64;64;Faulty Logic III;x
 252;139;119;144;Faulty Logic IV;x
-254;104;142;121;Belfast;x
-255;160;96;64;Londonderry;x
-256;32;224;64;Armagh;x
-257;160;192;224;Donegal;x
-258;32;224;192;Galway;x
-259;160;96;192;Sligo;x
-260;224;96;64;Cork;x
-261;160;224;192;Limerick;x
-262;150;146;121;Waterford;x
-263;160;224;64;Dublin;x
-264;32;96;192;Kildare;x
-265;96;224;64;Wexford;x
+253;104;142;121;Holy Vision I;x
+254;160;96;64;Holy Vision II;x
+255;32;224;64;Holy Vision III;x
+256;160;192;224;Holy Vision IV;x
+257;32;224;192;Holy Vision V;x
+258;160;96;192;Holy Vision VI;x
+259;224;96;64;Holy Vision VII;x
+260;160;224;192;Holy Vision VIII;x
+261;150;146;121;Holy Vision IX;x
+262;160;224;64;Holy Vision X;x
+263;32;96;192;Holy Vision XI;x
+264;96;224;64;Holy Vision XII;x
 266;160;224;0;Aberdeen;x
 267;32;224;0;Inverness;x
 268;32;96;128;Dundee;x
