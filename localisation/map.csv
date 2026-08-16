@@ -311,6 +311,14 @@ PROV307;CEO's Doubt VI;x
 PROV308;CEO's Doubt VII;x
 PROV309;CEO's Doubt VIII;x
 PROV310;CEO's Doubt IX;x
+PROV311;Unholy Retribution I;x
+PROV312;Unholy Retribution II;x
+PROV313;Unholy Retribution III;x
+PROV314;Unholy Retribution IV;x
+PROV315;Unholy Retribution V;x
+PROV316;Unholy Retribution VI;x
+PROV317;Unholy Retribution VII;x
+PROV318;Unholy Retribution VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -363,3 +371,4 @@ REG_MOO_KYES_REVENGE;Moo Kye's Revenge;x
 REG_MI_TONS_REFUGE;Mi Ton's Refuge;x
 REG_LOOMANCKSTRATS_LEGACY;Loomanckstrat's Legacy;x
 REG_CEOS_DOUBT;CEO's Doubt;x
+REG_UNHOLY_RETRIBUTION;Unholy Retribution;x
