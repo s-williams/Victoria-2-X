@@ -16,7 +16,7 @@ Some new province IDs reuse numbers that used to belong to vanilla Victoria 2 pr
 
 ## Steps
 
-1. **Read the definition.csv rows for the given ID range.** Confirm the count of provinces and the exact name text (including apostrophes) for each.
+1. **Read the definition.csv rows for the given ID range.** Confirm the count of provinces and the exact name text (including apostrophes) for each. The ids from the first to the last province in this batch must be strictly sequential with no gaps (e.g. a 7-province region must occupy 7 consecutive ids) - a missing id partway through means definition.csv is still being edited. If you find a gap anywhere before or within the batch's own id range, stop and ask the user how to proceed rather than guessing or working around it; do not create any files for that batch yet. A gap immediately after the batch's last id (leading into whatever comes next in the file) is fine and not blocking - just note it to the user in passing.
 
 2. **Create `history/provinces/x/<id> - <Name>.txt`** for each new province. Match the id/name exactly as it appears in definition.csv. Baseline content, CRLF line endings:
    ```
