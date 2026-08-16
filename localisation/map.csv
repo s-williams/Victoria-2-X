@@ -319,6 +319,13 @@ PROV315;Unholy Retribution V;x
 PROV316;Unholy Retribution VI;x
 PROV317;Unholy Retribution VII;x
 PROV318;Unholy Retribution VIII;x
+PROV319;Nopileos' Fortune I;x
+PROV320;Nopileos' Fortune II;x
+PROV321;Nopileos' Fortune III;x
+PROV322;Nopileos' Fortune IV;x
+PROV323;Nopileos' Fortune V;x
+PROV324;Nopileos' Fortune VI;x
+PROV325;Nopileos' Fortune VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -372,3 +379,4 @@ REG_MI_TONS_REFUGE;Mi Ton's Refuge;x
 REG_LOOMANCKSTRATS_LEGACY;Loomanckstrat's Legacy;x
 REG_CEOS_DOUBT;CEO's Doubt;x
 REG_UNHOLY_RETRIBUTION;Unholy Retribution;x
+REG_NOPILEOS_FORTUNE;Nopileos' Fortune;x
