@@ -202,6 +202,13 @@ PROV198;Cardinal's Redress V;x
 PROV199;Cardinal's Redress VI;x
 PROV200;Cardinal's Redress VII;x
 PROV201;Cardinal's Redress VIII;x
+PROV202;Gaian Prophecy I;x
+PROV203;Gaian Prophecy II;x
+PROV204;Gaian Prophecy III;x
+PROV205;Gaian Prophecy IV;x
+PROV206;Gaian Prophecy V;x
+PROV207;Gaian Prophecy VI;x
+PROV208;Gaian Prophecy VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -239,3 +246,4 @@ REG_SACRED_RELIC;Sacred Relic;x
 REG_FREEDOMS_REACH;Freedom's Reach;x
 REG_LASTING_VENGEANCE;Lasting Vengeance;x
 REG_CARDINALS_REDRESS;Cardinal's Redress;x
+REG_GAIAN_PROPHECY;Gaian Prophecy;x
