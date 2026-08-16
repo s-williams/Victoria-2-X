@@ -209,6 +209,15 @@ PROV205;Gaian Prophecy IV;x
 PROV206;Gaian Prophecy V;x
 PROV207;Gaian Prophecy VI;x
 PROV208;Gaian Prophecy VII;x
+PROV209;Segaris I;x
+PROV210;Segaris II;x
+PROV211;Segaris III;x
+PROV212;Segaris IV;x
+PROV213;Segaris V;x
+PROV214;Segaris VI;x
+PROV215;Segaris VII;x
+PROV216;Segaris VIII;x
+PROV217;Segaris IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -247,3 +256,4 @@ REG_FREEDOMS_REACH;Freedom's Reach;x
 REG_LASTING_VENGEANCE;Lasting Vengeance;x
 REG_CARDINALS_REDRESS;Cardinal's Redress;x
 REG_GAIAN_PROPHECY;Gaian Prophecy;x
+REG_SEGARIS;Segaris;x

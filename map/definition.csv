@@ -207,15 +207,15 @@ province;red;green;blue;x;x
 206;0;112;64;Gaian Prophecy V;x
 207;165;153;119;Gaian Prophecy VI;x
 208;128;112;192;Gaian Prophecy VII;x
-210;0;240;64;WIlmington;x
-211;192;176;192;Richmond;x
-212;240;0;128;Manassas;x
-213;48;64;128;Fredericksburg;x
-214;64;176;192;Norfolk;x
-215;176;192;0;Staunton;x
-216;192;112;192;Roanoke;x
-217;176;64;0;Wheeling;x
-218;48;192;0;Huntington;x
+209;0;240;64;Segaris I;x
+210;192;176;192;Segaris II;x
+211;240;0;128;Segaris III;x
+212;48;64;128;Segaris IV;x
+213;64;176;192;Segaris V;x
+214;176;192;0;Segaris VI;x
+215;192;112;192;Segaris VII;x
+216;176;64;0;Segaris VIII;x
+217;48;192;0;Segaris IX;x
 219;240;128;0;Baltimore;x
 220;112;0;128;Washington;x
 221;112;128;128;Hagerstown;x
