@@ -237,6 +237,13 @@ PROV233;Frontier Edge III;x
 PROV234;Frontier Edge IV;x
 PROV235;Frontier Edge V;x
 PROV236;Frontier Edge VI;x
+PROV237;Atiya's Misfortune I;x
+PROV238;Atiya's Misfortune II;x
+PROV239;Atiya's Misfortune III;x
+PROV240;Atiya's Misfortune IV;x
+PROV241;Atiya's Misfortune V;x
+PROV242;Atiya's Misfortune VI;x
+PROV243;Atiya's Misfortune VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -279,3 +286,4 @@ REG_SEGARIS;Segaris;x
 REG_ORE_BELT;Ore Belt;x
 REG_THIRD_REDEMPTION;Third Redemption;x
 REG_FRONTIER_EDGE;Frontier Edge;x
+REG_ATIYAS_MISFORTUNE;Atiya's Misfortune;x
