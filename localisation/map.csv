@@ -218,6 +218,12 @@ PROV214;Segaris VI;x
 PROV215;Segaris VII;x
 PROV216;Segaris VIII;x
 PROV217;Segaris IX;x
+PROV218;Ore Belt I;x
+PROV219;Ore Belt II;x
+PROV220;Ore Belt III;x
+PROV221;Ore Belt IV;x
+PROV222;Ore Belt V;x
+PROV223;Ore Belt VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -257,3 +263,4 @@ REG_LASTING_VENGEANCE;Lasting Vengeance;x
 REG_CARDINALS_REDRESS;Cardinal's Redress;x
 REG_GAIAN_PROPHECY;Gaian Prophecy;x
 REG_SEGARIS;Segaris;x
+REG_ORE_BELT;Ore Belt;x

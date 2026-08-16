@@ -216,12 +216,12 @@ province;red;green;blue;x;x
 215;192;112;192;Segaris VII;x
 216;176;64;0;Segaris VIII;x
 217;48;192;0;Segaris IX;x
-219;240;128;0;Baltimore;x
-220;112;0;128;Washington;x
-221;112;128;128;Hagerstown;x
-222;112;128;0;Dover;x
-223;176;0;0;Philadelphia;x
-224;48;128;128;Scranton;x
+218;240;128;0;Ore Belt I;x
+219;112;0;128;Ore Belt II;x
+220;112;128;128;Ore Belt III;x
+221;112;128;0;Ore Belt IV;x
+222;176;0;0;Ore Belt V;x
+223;48;128;128;Ore Belt VI;x
 225;240;128;128;Williamsport;x
 226;192;192;128;Harrisburg;x
 227;108;73;77;Pittsburgh;x
