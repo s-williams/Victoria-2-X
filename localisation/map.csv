@@ -326,6 +326,11 @@ PROV322;Nopileos' Fortune IV;x
 PROV323;Nopileos' Fortune V;x
 PROV324;Nopileos' Fortune VI;x
 PROV325;Nopileos' Fortune VII;x
+PROV326;True Sight I;x
+PROV327;True Sight II;x
+PROV328;True Sight III;x
+PROV329;True Sight IV;x
+PROV330;True Sight V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -380,3 +385,4 @@ REG_LOOMANCKSTRATS_LEGACY;Loomanckstrat's Legacy;x
 REG_CEOS_DOUBT;CEO's Doubt;x
 REG_UNHOLY_RETRIBUTION;Unholy Retribution;x
 REG_NOPILEOS_FORTUNE;Nopileos' Fortune;x
+REG_TRUE_SIGHT;True Sight;x
