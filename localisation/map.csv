@@ -399,6 +399,15 @@ PROV395;Windfall II;x
 PROV396;Windfall III;x
 PROV397;Windfall IV;x
 PROV398;Windfall V;x
+PROV399;Avarice I;x
+PROV400;Avarice II;x
+PROV401;Avarice III;x
+PROV402;Avarice IV;x
+PROV403;Avarice V;x
+PROV404;Avarice VI;x
+PROV405;Avarice VII;x
+PROV406;Avarice VIII;x
+PROV407;Avarice IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -463,3 +472,4 @@ REG_SECOND_CONTACT;Second Contact;x
 REG_BLACK_HOLE_SUN;Black Hole Sun;x
 REG_GRAND_EXCHANGE;Grand Exchange;x
 REG_WINDFALL;Windfall;x
+REG_AVARICE;Avarice;x
