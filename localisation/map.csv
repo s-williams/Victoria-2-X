@@ -445,6 +445,14 @@ PROV441;Morning Star VI;x
 PROV442;Morning Star VII;x
 PROV443;Morning Star VIII;x
 PROV444;Morning Star IX;x
+PROV445;Hatikvah's Choice I;x
+PROV446;Hatikvah's Choice II;x
+PROV447;Hatikvah's Choice III;x
+PROV448;Hatikvah's Choice IV;x
+PROV449;Hatikvah's Choice V;x
+PROV450;Hatikvah's Choice VI;x
+PROV451;Hatikvah's Choice VII;x
+PROV452;Hatikvah's Choice VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -515,3 +523,4 @@ REG_HATIKVAHS_FAITH;Hatikvah's Faith;x
 REG_THE_REACH;The Reach;x
 REG_ARGON_PRIME;Argon Prime;x
 REG_MORNING_STAR;Morning Star;x
+REG_HATIKVAHS_CHOICE;Hatikvah's Choice;x

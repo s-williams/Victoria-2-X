@@ -443,14 +443,14 @@ province;red;green;blue;x;x
 442;208;32;192;Morning Star VII;x
 443;80;32;192;Morning Star VIII;x
 444;48;96;0;Morning Star IX;x
-446;80;160;192;Chateauroux;x
-447;176;96;0;Tulle;x
-448;112;192;96;Clermont-Ferrand;x
-449;240;192;96;Aurillac;x
-450;48;224;0;Cahors;x
-451;176;64;96;Lyon;x
-452;239;64;96;St Etienne;x
-453;112;64;96;Valence;x
+445;80;160;192;Hatikvah's Choice I;x
+446;176;96;0;Hatikvah's Choice II;x
+447;112;192;96;Hatikvah's Choice III;x
+448;240;192;96;Hatikvah's Choice IV;x
+449;48;224;0;Hatikvah's Choice V;x
+450;176;64;96;Hatikvah's Choice VI;x
+451;239;64;96;Hatikvah's Choice VII;x
+452;112;64;96;Hatikvah's Choice VIII;x
 454;48;192;96;Grenoble;x
 455;48;96;128;Toulouse;x
 456;176;224;0;Montauban;x
