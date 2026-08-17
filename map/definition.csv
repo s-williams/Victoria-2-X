@@ -425,15 +425,15 @@ province;red;green;blue;x;x
 424;144;96;0;The Reach V;x
 425;144;160;192;The Reach VI;x
 426;112;128;223;The Reach VII;x
-428;240;128;96;Dijon;x
-429;112;0;224;Auxerre;x
-430;240;128;224;Moulins;x
-431;109;120;150;Macon;x
-432;240;0;96;Besancon;x
-433;112;128;96;Lons;x
-434;80;160;64;Angers;x
-435;48;224;128;Laval;x
-436;176;224;128;Le Mans;x
+427;240;128;96;Argon Prime I;x
+428;112;0;224;Argon Prime II;x
+429;240;128;224;Argon Prime III;x
+430;109;120;150;Argon Prime IV;x
+431;240;0;96;Argon Prime V;x
+432;112;128;96;Argon Prime VI;x
+433;80;160;64;Argon Prime VII;x
+434;48;224;128;Argon Prime VIII;x
+435;176;224;128;Argon Prime IX;x
 437;63;116;175;La Roche;x
 438;16;223;0;Orleans;x
 439;144;224;0;Bourges;x

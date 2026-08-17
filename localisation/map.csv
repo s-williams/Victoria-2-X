@@ -427,6 +427,15 @@ PROV423;The Reach IV;x
 PROV424;The Reach V;x
 PROV425;The Reach VI;x
 PROV426;The Reach VII;x
+PROV427;Argon Prime I;x
+PROV428;Argon Prime II;x
+PROV429;Argon Prime III;x
+PROV430;Argon Prime IV;x
+PROV431;Argon Prime V;x
+PROV432;Argon Prime VI;x
+PROV433;Argon Prime VII;x
+PROV434;Argon Prime VIII;x
+PROV435;Argon Prime IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -495,3 +504,4 @@ REG_AVARICE;Avarice;x
 REG_NOPILEOS_MEMORIAL;Nopileos' Memorial;x
 REG_HATIKVAHS_FAITH;Hatikvah's Faith;x
 REG_THE_REACH;The Reach;x
+REG_ARGON_PRIME;Argon Prime;x
