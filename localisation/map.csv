@@ -453,6 +453,14 @@ PROV449;Hatikvah's Choice V;x
 PROV450;Hatikvah's Choice VI;x
 PROV451;Hatikvah's Choice VII;x
 PROV452;Hatikvah's Choice VIII;x
+PROV453;Tharka's Cascade I;x
+PROV454;Tharka's Cascade II;x
+PROV455;Tharka's Cascade III;x
+PROV456;Tharka's Cascade IV;x
+PROV457;Tharka's Cascade V;x
+PROV458;Tharka's Cascade VI;x
+PROV459;Tharka's Cascade VII;x
+PROV460;Tharka's Cascade VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -524,3 +532,4 @@ REG_THE_REACH;The Reach;x
 REG_ARGON_PRIME;Argon Prime;x
 REG_MORNING_STAR;Morning Star;x
 REG_HATIKVAHS_CHOICE;Hatikvah's Choice;x
+REG_THARKAS_CASCADE;Tharka's Cascade;x
