@@ -461,6 +461,13 @@ PROV457;Tharka's Cascade V;x
 PROV458;Tharka's Cascade VI;x
 PROV459;Tharka's Cascade VII;x
 PROV460;Tharka's Cascade VIII;x
+PROV461;Scale Plate Green I;x
+PROV462;Scale Plate Green II;x
+PROV463;Scale Plate Green III;x
+PROV464;Scale Plate Green IV;x
+PROV465;Scale Plate Green V;x
+PROV466;Scale Plate Green VI;x
+PROV467;Scale Plate Green VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -533,3 +540,4 @@ REG_ARGON_PRIME;Argon Prime;x
 REG_MORNING_STAR;Morning Star;x
 REG_HATIKVAHS_CHOICE;Hatikvah's Choice;x
 REG_THARKAS_CASCADE;Tharka's Cascade;x
+REG_SCALE_PLATE_GREEN;Scale Plate Green;x
