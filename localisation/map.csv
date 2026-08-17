@@ -436,6 +436,15 @@ PROV432;Argon Prime VI;x
 PROV433;Argon Prime VII;x
 PROV434;Argon Prime VIII;x
 PROV435;Argon Prime IX;x
+PROV436;Morning Star I;x
+PROV437;Morning Star II;x
+PROV438;Morning Star III;x
+PROV439;Morning Star IV;x
+PROV440;Morning Star V;x
+PROV441;Morning Star VI;x
+PROV442;Morning Star VII;x
+PROV443;Morning Star VIII;x
+PROV444;Morning Star IX;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -505,3 +514,4 @@ REG_NOPILEOS_MEMORIAL;Nopileos' Memorial;x
 REG_HATIKVAHS_FAITH;Hatikvah's Faith;x
 REG_THE_REACH;The Reach;x
 REG_ARGON_PRIME;Argon Prime;x
+REG_MORNING_STAR;Morning Star;x
