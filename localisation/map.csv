@@ -481,6 +481,13 @@ PROV477;Company Regard V;x
 PROV478;Company Regard VI;x
 PROV479;Company Regard VII;x
 PROV480;Company Regard VIII;x
+PROV481;Hewa's Twin I;x
+PROV482;Hewa's Twin II;x
+PROV483;Hewa's Twin III;x
+PROV484;Hewa's Twin IV;x
+PROV485;Hewa's Twin V;x
+PROV486;Hewa's Twin VI;x
+PROV487;Hewa's Twin VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -556,3 +563,4 @@ REG_THARKAS_CASCADE;Tharka's Cascade;x
 REG_SCALE_PLATE_GREEN;Scale Plate Green;x
 REG_TURQOISE_SEA;Turqoise Sea;x
 REG_COMPANY_REGARD;Company Regard;x
+REG_HEWAS_TWIN;Hewa's Twin;x
