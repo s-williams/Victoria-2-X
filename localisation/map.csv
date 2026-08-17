@@ -468,6 +468,11 @@ PROV464;Scale Plate Green IV;x
 PROV465;Scale Plate Green V;x
 PROV466;Scale Plate Green VI;x
 PROV467;Scale Plate Green VII;x
+PROV468;Turqoise Sea I;x
+PROV469;Turqoise Sea II;x
+PROV470;Turqoise Sea III;x
+PROV471;Turqoise Sea IV;x
+PROV472;Turqoise Sea V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -541,3 +546,4 @@ REG_MORNING_STAR;Morning Star;x
 REG_HATIKVAHS_CHOICE;Hatikvah's Choice;x
 REG_THARKAS_CASCADE;Tharka's Cascade;x
 REG_SCALE_PLATE_GREEN;Scale Plate Green;x
+REG_TURQOISE_SEA;Turqoise Sea;x
