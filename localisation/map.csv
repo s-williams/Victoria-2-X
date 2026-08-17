@@ -473,6 +473,14 @@ PROV469;Turqoise Sea II;x
 PROV470;Turqoise Sea III;x
 PROV471;Turqoise Sea IV;x
 PROV472;Turqoise Sea V;x
+PROV473;Company Regard I;x
+PROV474;Company Regard II;x
+PROV475;Company Regard III;x
+PROV476;Company Regard IV;x
+PROV477;Company Regard V;x
+PROV478;Company Regard VI;x
+PROV479;Company Regard VII;x
+PROV480;Company Regard VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -547,3 +555,4 @@ REG_HATIKVAHS_CHOICE;Hatikvah's Choice;x
 REG_THARKAS_CASCADE;Tharka's Cascade;x
 REG_SCALE_PLATE_GREEN;Scale Plate Green;x
 REG_TURQOISE_SEA;Turqoise Sea;x
+REG_COMPANY_REGARD;Company Regard;x
