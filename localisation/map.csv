@@ -488,6 +488,14 @@ PROV484;Hewa's Twin IV;x
 PROV485;Hewa's Twin V;x
 PROV486;Hewa's Twin VI;x
 PROV487;Hewa's Twin VII;x
+PROV488;Trinity Sanctum I;x
+PROV489;Trinity Sanctum II;x
+PROV490;Trinity Sanctum III;x
+PROV491;Trinity Sanctum IV;x
+PROV492;Trinity Sanctum V;x
+PROV493;Trinity Sanctum VI;x
+PROV494;Trinity Sanctum VII;x
+PROV495;Trinity Sanctum VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -564,3 +572,4 @@ REG_SCALE_PLATE_GREEN;Scale Plate Green;x
 REG_TURQOISE_SEA;Turqoise Sea;x
 REG_COMPANY_REGARD;Company Regard;x
 REG_HEWAS_TWIN;Hewa's Twin;x
+REG_TRINITY_SANCTUM;Trinity Sanctum;x

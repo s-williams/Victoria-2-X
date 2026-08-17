@@ -486,14 +486,14 @@ province;red;green;blue;x;x
 485;48;160;0;Hewa's Twin V;x
 486;48;32;128;Hewa's Twin VI;x
 487;176;160;128;Hewa's Twin VII;x
-489;176;160;0;Toledo;x
-490;176;32;128;Cuenca;x
-491;128;16;160;Ciudad Real;x
-492;112;32;128;BIlbao;x
-493;16;224;192;Pamplona;x
-494;158;201;184;Logrono;x
-495;80;96;64;Zaragoza;x
-496;144;96;192;Huesca;x
+488;176;160;0;Trinity Sanctum I;x
+489;176;32;128;Trinity Sanctum II;x
+490;128;16;160;Trinity Sanctum III;x
+491;112;32;128;Trinity Sanctum IV;x
+492;16;224;192;Trinity Sanctum V;x
+493;158;201;184;Trinity Sanctum VI;x
+494;80;96;64;Trinity Sanctum VII;x
+495;144;96;192;Trinity Sanctum VIII;x
 497;48;160;128;Teruel;x
 498;224;192;32;Barcelona;x
 499;17;224;65;Gerona;x
