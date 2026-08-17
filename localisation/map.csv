@@ -413,6 +413,13 @@ PROV409;Nopileos' Memorial II;x
 PROV410;Nopileos' Memorial III;x
 PROV411;Nopileos' Memorial IV;x
 PROV412;Nopileos' Memorial V;x
+PROV413;Hatikvah's Faith I;x
+PROV414;Hatikvah's Faith II;x
+PROV415;Hatikvah's Faith III;x
+PROV416;Hatikvah's Faith IV;x
+PROV417;Hatikvah's Faith V;x
+PROV418;Hatikvah's Faith VI;x
+PROV419;Hatikvah's Faith VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -479,3 +486,4 @@ REG_GRAND_EXCHANGE;Grand Exchange;x
 REG_WINDFALL;Windfall;x
 REG_AVARICE;Avarice;x
 REG_NOPILEOS_MEMORIAL;Nopileos' Memorial;x
+REG_HATIKVAHS_FAITH;Hatikvah's Faith;x
