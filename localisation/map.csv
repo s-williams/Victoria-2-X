@@ -420,6 +420,13 @@ PROV416;Hatikvah's Faith IV;x
 PROV417;Hatikvah's Faith V;x
 PROV418;Hatikvah's Faith VI;x
 PROV419;Hatikvah's Faith VII;x
+PROV420;The Reach I;x
+PROV421;The Reach II;x
+PROV422;The Reach III;x
+PROV423;The Reach IV;x
+PROV424;The Reach V;x
+PROV425;The Reach VI;x
+PROV426;The Reach VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -487,3 +494,4 @@ REG_WINDFALL;Windfall;x
 REG_AVARICE;Avarice;x
 REG_NOPILEOS_MEMORIAL;Nopileos' Memorial;x
 REG_HATIKVAHS_FAITH;Hatikvah's Faith;x
+REG_THE_REACH;The Reach;x
