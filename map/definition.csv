@@ -494,14 +494,14 @@ province;red;green;blue;x;x
 493;158;201;184;Trinity Sanctum VI;x
 494;80;96;64;Trinity Sanctum VII;x
 495;144;96;192;Trinity Sanctum VIII;x
-497;48;160;128;Teruel;x
-498;224;192;32;Barcelona;x
-499;17;224;65;Gerona;x
-500;144;96;64;Lerida;x
-501;177;233;121;Tarragona;x
-502;96;240;128;Balearic Islands;x
-503;143;223;128;Valencia;x
-504;208;96;64;Castellon;x
+496;48;160;128;Memory of Profit I;x
+497;224;192;32;Memory of Profit II;x
+498;17;224;65;Memory of Profit III;x
+499;144;96;64;Memory of Profit IV;x
+500;177;233;121;Memory of Profit V;x
+501;96;240;128;Memory of Profit VI;x
+502;143;223;128;Memory of Profit VII;x
+503;208;96;64;Memory of Profit VIII;x
 505;223;239;128;Alicante;x
 506;113;21;139;Cartagena;x
 507;98;104;120;Murcia;x

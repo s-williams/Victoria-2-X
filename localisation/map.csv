@@ -496,6 +496,14 @@ PROV492;Trinity Sanctum V;x
 PROV493;Trinity Sanctum VI;x
 PROV494;Trinity Sanctum VII;x
 PROV495;Trinity Sanctum VIII;x
+PROV496;Memory of Profit I;x
+PROV497;Memory of Profit II;x
+PROV498;Memory of Profit III;x
+PROV499;Memory of Profit IV;x
+PROV500;Memory of Profit V;x
+PROV501;Memory of Profit VI;x
+PROV502;Memory of Profit VII;x
+PROV503;Memory of Profit VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -573,3 +581,4 @@ REG_TURQOISE_SEA;Turqoise Sea;x
 REG_COMPANY_REGARD;Company Regard;x
 REG_HEWAS_TWIN;Hewa's Twin;x
 REG_TRINITY_SANCTUM;Trinity Sanctum;x
+REG_MEMORY_OF_PROFIT;Memory of Profit;x
