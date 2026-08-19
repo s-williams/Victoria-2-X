@@ -626,14 +626,14 @@ province;red;green;blue;x;x
 625;144;128;160;Matrix 9 V;x
 626;113;97;65;Matrix 9 VI;x
 627;29;107;148;Matrix 9 VII;x
-629;240;97;65;Plzen;x
-630;240;224;65;Budejovice;x
-631;239;96;128;Brno;x
-632;113;224;128;Olomouc;x
-633;81;97;97;Bratislava;x
-634;144;224;224;Trencin;x
-635;208;97;97;Nitra;x
-636;81;48;106;Banska Bystrica;x
+628;240;97;65;Matrix 451 I;x
+629;240;224;65;Matrix 451 II;x
+630;239;96;128;Matrix 451 III;x
+631;113;224;128;Matrix 451 IV;x
+632;81;97;97;Matrix 451 V;x
+633;144;224;224;Matrix 451 VI;x
+634;208;97;97;Matrix 451 VII;x
+635;81;48;106;Matrix 451 VIII;x
 637;81;224;97;Kosice;x
 638;32;192;0;Roznava;x
 639;113;97;128;Zalaegerszeg;x
