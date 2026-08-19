@@ -600,6 +600,12 @@ PROV596;Thuruk's Demise II;x
 PROV597;Thuruk's Demise III;x
 PROV598;Thuruk's Demise IV;x
 PROV599;Thuruk's Demise V;x
+PROV600;Queen's Space I;x
+PROV601;Queen's Space II;x
+PROV602;Queen's Space III;x
+PROV603;Queen's Space IV;x
+PROV604;Queen's Space V;x
+PROV605;Queen's Space VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -693,3 +699,4 @@ REG_IANAMUS_ZURA;Ianamus Zura;x
 REG_HEART_OF_ACRIMONY;Heart of Acrimony;x
 REG_THARKAS_RAVINE;Tharka's Ravine;x
 REG_THURUKS_DEMISE;Thuruk's Demise;x
+REG_QUEENS_SPACE;Queen's Space;x
