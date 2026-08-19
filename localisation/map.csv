@@ -531,6 +531,10 @@ PROV527;Silent Witness V;x
 PROV528;Silent Witness VI;x
 PROV529;Silent Witness VII;x
 PROV530;Silent Witness VIII;x
+PROV531;Profit Center Alpha I;x
+PROV532;Profit Center Alpha II;x
+PROV533;Profit Center Alpha III;x
+PROV534;Profit Center Alpha IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -613,3 +617,4 @@ REG_MITSUNOS_REMEMBRANCE;Mitsunos Remembrance;x
 REG_EIGHTEEN_BILLION;Eighteen Billion;x
 REG_PRESIDENTS_END;President's End;x
 REG_SILENT_WITNESS;Silent Witness;x
+REG_PROFIT_CENTER_ALPHA;Profit Center Alpha;x
