@@ -617,6 +617,10 @@ PROV613;Cloudbase IV;x
 PROV614;Cloudbase V;x
 PROV615;Cloudbase VI;x
 PROV616;Cloudbase VII;x
+PROV617;Sohnen I;x
+PROV618;Sohnen II;x
+PROV619;Sohnen III;x
+PROV620;Sohnen IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -713,3 +717,4 @@ REG_THURUKS_DEMISE;Thuruk's Demise;x
 REG_QUEENS_SPACE;Queen's Space;x
 REG_ELYSIUM_OF_LIGHT;Elysium of Light;x
 REG_CLOUDBASE;Cloudbase;x
+REG_SOHNEN;Sohnen;x

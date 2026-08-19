@@ -615,10 +615,10 @@ province;red;green;blue;x;x
 614;240;224;192;Cloudbase V;x
 615;176;97;65;Cloudbase VI;x
 616;17;1;160;Cloudbase VII;x
-618;143;128;32;Klagenfurt;x
-619;49;97;65;Vienna;x
-620;17;128;160;Sankt Polten;x
-621;169;121;59;Krems;x
+617;143;128;32;Sohnen I;x
+618;49;97;65;Sohnen II;x
+619;17;128;160;Sohnen III;x
+620;169;121;59;Sohnen IV;x
 622;144;1;160;Linz;x
 623;240;224;1;Sopron;x
 624;48;160;32;Eisenstadt;x
