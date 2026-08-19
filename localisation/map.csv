@@ -517,6 +517,12 @@ PROV513;Eighteen Billion V;x
 PROV514;Eighteen Billion VI;x
 PROV515;Eighteen Billion VII;x
 PROV516;Eighteen Billion VIII;x
+PROV517;President's End I;x
+PROV518;President's End II;x
+PROV519;President's End III;x
+PROV520;President's End IV;x
+PROV521;President's End V;x
+PROV522;President's End VI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -597,3 +603,4 @@ REG_TRINITY_SANCTUM;Trinity Sanctum;x
 REG_MEMORY_OF_PROFIT;Memory of Profit;x
 REG_MITSUNOS_REMEMBRANCE;Mitsunos Remembrance;x
 REG_EIGHTEEN_BILLION;Eighteen Billion;x
+REG_PRESIDENTS_END;President's End;x
