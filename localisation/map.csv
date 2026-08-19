@@ -621,6 +621,13 @@ PROV617;Sohnen I;x
 PROV618;Sohnen II;x
 PROV619;Sohnen III;x
 PROV620;Sohnen IV;x
+PROV621;Matrix 9 I;x
+PROV622;Matrix 9 II;x
+PROV623;Matrix 9 III;x
+PROV624;Matrix 9 IV;x
+PROV625;Matrix 9 V;x
+PROV626;Matrix 9 VI;x
+PROV627;Matrix 9 VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -718,3 +725,4 @@ REG_QUEENS_SPACE;Queen's Space;x
 REG_ELYSIUM_OF_LIGHT;Elysium of Light;x
 REG_CLOUDBASE;Cloudbase;x
 REG_SOHNEN;Sohnen;x
+REG_MATRIX_9;Matrix 9;x

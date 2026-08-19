@@ -619,13 +619,13 @@ province;red;green;blue;x;x
 618;49;97;65;Sohnen II;x
 619;17;128;160;Sohnen III;x
 620;169;121;59;Sohnen IV;x
-622;144;1;160;Linz;x
-623;240;224;1;Sopron;x
-624;48;160;32;Eisenstadt;x
-625;113;224;65;Prague;x
-626;144;128;160;Hradec Kralove;x
-627;113;97;65;Karlsbad;x
-628;29;107;148;Aussig;x
+621;144;1;160;Matrix 9 I;x
+622;240;224;1;Matrix 9 II;x
+623;48;160;32;Matrix 9 III;x
+624;113;224;65;Matrix 9 IV;x
+625;144;128;160;Matrix 9 V;x
+626;113;97;65;Matrix 9 VI;x
+627;29;107;148;Matrix 9 VII;x
 629;240;97;65;Plzen;x
 630;240;224;65;Budejovice;x
 631;239;96;128;Brno;x
