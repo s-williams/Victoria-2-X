@@ -595,6 +595,11 @@ PROV591;Tharka's Ravine VIII;x
 PROV592;Tharka's Ravine IX;x
 PROV593;Tharka's Ravine X;x
 PROV594;Tharka's Ravine XI;x
+PROV595;Thuruk's Demise I;x
+PROV596;Thuruk's Demise II;x
+PROV597;Thuruk's Demise III;x
+PROV598;Thuruk's Demise IV;x
+PROV599;Thuruk's Demise V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -687,3 +692,4 @@ REG_BRIGHT_PROMISE;Bright Promise;x
 REG_IANAMUS_ZURA;Ianamus Zura;x
 REG_HEART_OF_ACRIMONY;Heart of Acrimony;x
 REG_THARKAS_RAVINE;Tharka's Ravine;x
+REG_THURUKS_DEMISE;Thuruk's Demise;x
