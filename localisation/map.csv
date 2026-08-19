@@ -584,6 +584,17 @@ PROV580;Heart of Acrimony II;x
 PROV581;Heart of Acrimony III;x
 PROV582;Heart of Acrimony IV;x
 PROV583;Heart of Acrimony V;x
+PROV584;Tharka's Ravine I;x
+PROV585;Tharka's Ravine II;x
+PROV586;Tharka's Ravine III;x
+PROV587;Tharka's Ravine IV;x
+PROV588;Tharka's Ravine V;x
+PROV589;Tharka's Ravine VI;x
+PROV590;Tharka's Ravine VII;x
+PROV591;Tharka's Ravine VIII;x
+PROV592;Tharka's Ravine IX;x
+PROV593;Tharka's Ravine X;x
+PROV594;Tharka's Ravine XI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -675,3 +686,4 @@ REG_GUIDING_STAR;Guiding Star;x
 REG_BRIGHT_PROMISE;Bright Promise;x
 REG_IANAMUS_ZURA;Ianamus Zura;x
 REG_HEART_OF_ACRIMONY;Heart of Acrimony;x
+REG_THARKAS_RAVINE;Tharka's Ravine;x
