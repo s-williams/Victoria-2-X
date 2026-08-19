@@ -509,6 +509,14 @@ PROV505;Mitsunos Remembrance II;x
 PROV506;Mitsunos Remembrance III;x
 PROV507;Mitsunos Remembrance IV;x
 PROV508;Mitsunos Remembrance V;x
+PROV509;Eighteen Billion I;x
+PROV510;Eighteen Billion II;x
+PROV511;Eighteen Billion III;x
+PROV512;Eighteen Billion IV;x
+PROV513;Eighteen Billion V;x
+PROV514;Eighteen Billion VI;x
+PROV515;Eighteen Billion VII;x
+PROV516;Eighteen Billion VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -588,3 +596,4 @@ REG_HEWAS_TWIN;Hewa's Twin;x
 REG_TRINITY_SANCTUM;Trinity Sanctum;x
 REG_MEMORY_OF_PROFIT;Memory of Profit;x
 REG_MITSUNOS_REMEMBRANCE;Mitsunos Remembrance;x
+REG_EIGHTEEN_BILLION;Eighteen Billion;x
