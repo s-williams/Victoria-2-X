@@ -645,6 +645,13 @@ PROV641;Family Tkr VI;x
 PROV642;Family Tkr VII;x
 PROV643;Family Tkr VIII;x
 PROV644;Family Tkr IX;x
+PROV645;Fires of Defeat I;x
+PROV646;Fires of Defeat II;x
+PROV647;Fires of Defeat III;x
+PROV648;Fires of Defeat IV;x
+PROV649;Fires of Defeat V;x
+PROV650;Fires of Defeat VI;x
+PROV651;Fires of Defeat VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -745,3 +752,4 @@ REG_SOHNEN;Sohnen;x
 REG_MATRIX_9;Matrix 9;x
 REG_MATRIX_451;Matrix 451;x
 REG_FAMILY_TKR;Family Tkr;x
+REG_FIRES_OF_DEFEAT;Fires of Defeat;x
