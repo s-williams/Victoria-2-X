@@ -579,6 +579,11 @@ PROV575;Ianamus Zura VIII;x
 PROV576;Ianamus Zura IX;x
 PROV577;Ianamus Zura X;x
 PROV578;Ianamus Zura XI;x
+PROV579;Heart of Acrimony I;x
+PROV580;Heart of Acrimony II;x
+PROV581;Heart of Acrimony III;x
+PROV582;Heart of Acrimony IV;x
+PROV583;Heart of Acrimony V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -669,3 +674,4 @@ REG_ELEVENTH_HOUR;Eleventh Hour;x
 REG_GUIDING_STAR;Guiding Star;x
 REG_BRIGHT_PROMISE;Bright Promise;x
 REG_IANAMUS_ZURA;Ianamus Zura;x
+REG_HEART_OF_ACRIMONY;Heart of Acrimony;x
