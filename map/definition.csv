@@ -608,13 +608,13 @@ province;red;green;blue;x;x
 607;17;127;224;Elysium of Light II;x
 608;144;65;224;Elysium of Light III;x
 609;166;238;251;Elysium of Light IV;x
-611;144;192;224;Chur;x
-612;81;192;224;Innsbruck;x
-613;240;97;192;Salzburg;x
-614;208;192;224;Bregenz;x
-615;240;224;192;Lienz;x
-616;176;97;65;Graz;x
-617;17;1;160;Judenburg;x
+610;144;192;224;Cloudbase I;x
+611;81;192;224;Cloudbase II;x
+612;240;97;192;Cloudbase III;x
+613;208;192;224;Cloudbase IV;x
+614;240;224;192;Cloudbase V;x
+615;176;97;65;Cloudbase VI;x
+616;17;1;160;Cloudbase VII;x
 618;143;128;32;Klagenfurt;x
 619;49;97;65;Vienna;x
 620;17;128;160;Sankt Polten;x

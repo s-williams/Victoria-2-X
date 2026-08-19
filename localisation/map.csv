@@ -610,6 +610,13 @@ PROV606;Elysium of Light I;x
 PROV607;Elysium of Light II;x
 PROV608;Elysium of Light III;x
 PROV609;Elysium of Light IV;x
+PROV610;Cloudbase I;x
+PROV611;Cloudbase II;x
+PROV612;Cloudbase III;x
+PROV613;Cloudbase IV;x
+PROV614;Cloudbase V;x
+PROV615;Cloudbase VI;x
+PROV616;Cloudbase VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -705,3 +712,4 @@ REG_THARKAS_RAVINE;Tharka's Ravine;x
 REG_THURUKS_DEMISE;Thuruk's Demise;x
 REG_QUEENS_SPACE;Queen's Space;x
 REG_ELYSIUM_OF_LIGHT;Elysium of Light;x
+REG_CLOUDBASE;Cloudbase;x
