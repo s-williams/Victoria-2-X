@@ -523,6 +523,14 @@ PROV519;President's End III;x
 PROV520;President's End IV;x
 PROV521;President's End V;x
 PROV522;President's End VI;x
+PROV523;Silent Witness I;x
+PROV524;Silent Witness II;x
+PROV525;Silent Witness III;x
+PROV526;Silent Witness IV;x
+PROV527;Silent Witness V;x
+PROV528;Silent Witness VI;x
+PROV529;Silent Witness VII;x
+PROV530;Silent Witness VIII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -604,3 +612,4 @@ REG_MEMORY_OF_PROFIT;Memory of Profit;x
 REG_MITSUNOS_REMEMBRANCE;Mitsunos Remembrance;x
 REG_EIGHTEEN_BILLION;Eighteen Billion;x
 REG_PRESIDENTS_END;President's End;x
+REG_SILENT_WITNESS;Silent Witness;x
