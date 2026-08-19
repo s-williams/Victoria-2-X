@@ -538,13 +538,13 @@ province;red;green;blue;x;x
 537;77;98;160;Matrix 101 III;x
 538;192;128;97;Matrix 101 IV;x
 539;192;1;97;Matrix 101 V;x
-541;65;1;224;Cloppenburg;x
-542;128;128;224;Lingen;x
-543;120;75;142;Emden;x
-544;224;128;160;Schwerin;x
-545;224;65;160;Neustrelitz;x
-546;25;174;25;Stettin;x
-547;160;65;33;Swinemunde;x
+540;65;1;224;Two Grand I;x
+541;128;128;224;Two Grand II;x
+542;120;75;142;Two Grand III;x
+543;224;128;160;Two Grand IV;x
+544;224;65;160;Two Grand V;x
+545;25;174;25;Two Grand VI;x
+546;160;65;33;Two Grand VII;x
 548;86;116;82;Stralsund;x
 549;131;177;168;Berlin;x
 550;160;64;160;Prenzlau;x
