@@ -568,6 +568,17 @@ PROV564;Bright Promise IV;x
 PROV565;Bright Promise V;x
 PROV566;Bright Promise VI;x
 PROV567;Bright Promise VII;x
+PROV568;Ianamus Zura I;x
+PROV569;Ianamus Zura II;x
+PROV570;Ianamus Zura III;x
+PROV571;Ianamus Zura IV;x
+PROV572;Ianamus Zura V;x
+PROV573;Ianamus Zura VI;x
+PROV574;Ianamus Zura VII;x
+PROV575;Ianamus Zura VIII;x
+PROV576;Ianamus Zura IX;x
+PROV577;Ianamus Zura X;x
+PROV578;Ianamus Zura XI;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -657,3 +668,4 @@ REG_OPEN_MARKET;Open Market;x
 REG_ELEVENTH_HOUR;Eleventh Hour;x
 REG_GUIDING_STAR;Guiding Star;x
 REG_BRIGHT_PROMISE;Bright Promise;x
+REG_IANAMUS_ZURA;Ianamus Zura;x
