@@ -561,6 +561,13 @@ PROV557;Guiding Star II;x
 PROV558;Guiding Star III;x
 PROV559;Guiding Star IV;x
 PROV560;Guiding Star V;x
+PROV561;Bright Promise I;x
+PROV562;Bright Promise II;x
+PROV563;Bright Promise III;x
+PROV564;Bright Promise IV;x
+PROV565;Bright Promise V;x
+PROV566;Bright Promise VI;x
+PROV567;Bright Promise VII;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -649,3 +656,4 @@ REG_TWO_GRAND;Two Grand;x
 REG_OPEN_MARKET;Open Market;x
 REG_ELEVENTH_HOUR;Eleventh Hour;x
 REG_GUIDING_STAR;Guiding Star;x
+REG_BRIGHT_PROMISE;Bright Promise;x
