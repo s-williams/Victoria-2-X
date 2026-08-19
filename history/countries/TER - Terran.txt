@@ -1,4 +1,4 @@
-capital = 354
+capital = 147
 primary_culture = mashriqi
 culture = bedouin
 culture = misri

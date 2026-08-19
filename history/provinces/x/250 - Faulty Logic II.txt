@@ -1,2 +1,5 @@
+owner = XEN
+controller = XEN
+add_core = XEN
 trade_goods = fish
 life_rating = 25

@@ -1,2 +1,5 @@
+owner = WEN
+controller = WEN
+add_core = WEN
 trade_goods = fish
 life_rating = 25
