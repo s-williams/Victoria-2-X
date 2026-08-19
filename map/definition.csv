@@ -634,15 +634,15 @@ province;red;green;blue;x;x
 633;144;224;224;Matrix 451 VI;x
 634;208;97;97;Matrix 451 VII;x
 635;81;48;106;Matrix 451 VIII;x
-637;81;224;97;Kosice;x
-638;32;192;0;Roznava;x
-639;113;97;128;Zalaegerszeg;x
-640;207;32;32;Pecs;x
-641;81;224;224;Budapest;x
-642;113;95;93;Gyor;x
-643;207;223;223;Szekesfehevar;x
-644;176;33;33;Kaposvar;x
-645;132;97;101;Kecskemet;x
+636;81;224;97;Family Tkr I;x
+637;32;192;0;Family Tkr II;x
+638;113;97;128;Family Tkr III;x
+639;207;32;32;Family Tkr IV;x
+640;81;224;224;Family Tkr V;x
+641;113;95;93;Family Tkr VI;x
+642;207;223;223;Family Tkr VII;x
+643;176;33;33;Family Tkr VIII;x
+644;132;97;101;Family Tkr IX;x
 646;208;97;224;Miskolc;x
 647;81;97;160;Oradea;x
 648;16;159;159;Debrecen;x
