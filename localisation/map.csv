@@ -504,6 +504,11 @@ PROV500;Memory of Profit V;x
 PROV501;Memory of Profit VI;x
 PROV502;Memory of Profit VII;x
 PROV503;Memory of Profit VIII;x
+PROV504;Mitsunos Remembrance I;x
+PROV505;Mitsunos Remembrance II;x
+PROV506;Mitsunos Remembrance III;x
+PROV507;Mitsunos Remembrance IV;x
+PROV508;Mitsunos Remembrance V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -582,3 +587,4 @@ REG_COMPANY_REGARD;Company Regard;x
 REG_HEWAS_TWIN;Hewa's Twin;x
 REG_TRINITY_SANCTUM;Trinity Sanctum;x
 REG_MEMORY_OF_PROFIT;Memory of Profit;x
+REG_MITSUNOS_REMEMBRANCE;Mitsunos Remembrance;x
