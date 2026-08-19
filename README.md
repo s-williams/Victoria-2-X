@@ -45,6 +45,7 @@ Terrain.bmp - ???
 ## Useful resources
 * https://x3.solasistim.net
 * https://wiki.egosoft.com
+* https://x4-foundations-wiki.fandom.com
 * https://x4prodchart.com/
 * https://www.qsna.eu/x4/wares
 * https://veanturverse.com/guides/x4-universe-map.html
