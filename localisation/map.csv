@@ -556,6 +556,11 @@ PROV552;Eleventh Hour I;x
 PROV553;Eleventh Hour II;x
 PROV554;Eleventh Hour III;x
 PROV555;Eleventh Hour IV;x
+PROV556;Guiding Star I;x
+PROV557;Guiding Star II;x
+PROV558;Guiding Star III;x
+PROV559;Guiding Star IV;x
+PROV560;Guiding Star V;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -643,3 +648,4 @@ REG_MATRIX_101;Matrix 101;x
 REG_TWO_GRAND;Two Grand;x
 REG_OPEN_MARKET;Open Market;x
 REG_ELEVENTH_HOUR;Eleventh Hour;x
+REG_GUIDING_STAR;Guiding Star;x
