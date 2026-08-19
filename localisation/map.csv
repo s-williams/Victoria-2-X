@@ -606,6 +606,10 @@ PROV602;Queen's Space III;x
 PROV603;Queen's Space IV;x
 PROV604;Queen's Space V;x
 PROV605;Queen's Space VI;x
+PROV606;Elysium of Light I;x
+PROV607;Elysium of Light II;x
+PROV608;Elysium of Light III;x
+PROV609;Elysium of Light IV;x
 ###################;x }
 ##### REGIONS #####;x {
 ###################;x
@@ -700,3 +704,4 @@ REG_HEART_OF_ACRIMONY;Heart of Acrimony;x
 REG_THARKAS_RAVINE;Tharka's Ravine;x
 REG_THURUKS_DEMISE;Thuruk's Demise;x
 REG_QUEENS_SPACE;Queen's Space;x
+REG_ELYSIUM_OF_LIGHT;Elysium of Light;x
