@@ -655,7 +655,6 @@ province;red;green;blue;x;x
 655;208;97;160;Gyulafehervar;x
 656;208;224;33;Deva;x
 657;81;224;160;Nagyszeben;x
-658;96;144;192;Hawaii;x
 659;48;96;96;Brasso;x
 660;175;96;159;Udvarhely;x
 661;176;97;97;Beszterce;x
@@ -728,7 +727,6 @@ province;red;green;blue;x;x
 728;80;192;96;Brescia;x
 729;176;1;160;Venice;x
 730;48;128;160;Verona;x
-731;176;128;160;Padua;x
 732;81;65;224;Treviso;x
 733;85;72;102;Udine;x
 734;208;191;96;Trent;x
@@ -766,7 +764,6 @@ province;red;green;blue;x;x
 766;48;160;64;Sassari;x
 767;49;224;65;Maribor;x
 768;176;224;64;Ljubljana;x
-769;48;96;191;Postojna;x
 770;176;97;192;Pola;x
 771;113;160;65;Zagreb;x
 772;112;223;0;Sisak;x
@@ -1188,8 +1185,6 @@ province;red;green;blue;x;x
 1188;160;150;149;Qaratal;x
 1189;89;155;157;Bishkek;x
 1190;44;81;151;Naryn;x
-1191;138;224;220;Khiva;x
-1192;65;80;64;Nukus;x
 1193;0;224;220;Kyzylorda;x
 1194;191;16;191;Aqtau;x
 1195;192;208;64;Tashkent;x
@@ -1941,7 +1936,6 @@ province;red;green;blue;x;x
 1941;65;223;144;Abuja;x
 1942;144;144;224;Bauchi;x
 1943;192;96;144;Jos;x
-1944;192;224;17;Gombe;x
 1945;16;144;224;Kano;x
 1946;3;132;169;Kebbi;x
 1947;81;208;32;Katsina;x
@@ -2130,8 +2124,6 @@ province;red;green;blue;x;x
 2130;12;181;86;Ascension;x
 2131;48;32;208;Falkland Islands;x
 2132;181;118;12;Tristan da Cunha;x
-2133;181;16;12;South Georgia;x
-2134;144;160;128;Azores;x
 2135;56;87;25;Madeira;x
 2136;32;239;1;Canary Islands;x
 2137;223;80;192;Hermosillo;x
@@ -2587,7 +2579,6 @@ province;red;green;blue;x;x
 2587;51;9;23;Kola;x
 2588;93;12;151;Onega;x
 2589;135;15;24;Kanin;x
-2591;51;24;153;Sisimiut;x
 2592;93;27;26;Ungava;x
 2593;135;30;154;Fort George;x
 2594;177;33;27;Pickle;x
@@ -2619,7 +2610,6 @@ province;red;green;blue;x;x
 2620;132;207;199;Kolyma;x
 2621;174;210;72;Srednekolymsk;x
 2622;126;159;4;Majn;x
-2623;233;177;121;Midway Island;x
 2624;42;48;8;Loango;x
 2625;84;51;136;Port Hope Simpson;x
 2626;126;54;9;Port Harrison;x
@@ -2628,11 +2618,9 @@ province;red;green;blue;x;x
 2629;0;60;10;Beatton River;x
 2630;42;63;138;Fairbanks;x
 2631;84;66;11;Yukon;x
-2632;126;69;139;Isortoq;x
 2633;168;72;12;Palana;x
 2634;0;75;140;Khatyrka;x
 2635;42;78;13;Kariba;x
-2636;84;81;141;Aasiaat;x
 2637;126;84;14;Navarin;x
 2638;168;87;142;Sugoj;x
 2639;0;90;15;Susuman;x
