@@ -44,6 +44,7 @@ BUC = "countries/Dukes Buccaneers.txt"
 
 # Quettanauts
 QTA = "countries/Quettanauts.txt"
+SOH = "countries/Sohnen.txt"
 
 # Khaak
 KHK = "countries/Khaak.txt"
