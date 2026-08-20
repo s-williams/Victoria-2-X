@@ -169,39 +169,6 @@
 		size = 122875
 	}
 }
-#Beauvais (392000/98000 POPS)
-2570 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 750
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 1100
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 5000
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 90250
-	}
-
-}
 #Ardennes Region (1116000)
 #Laon (528000/132000 POPS)
 403 = {

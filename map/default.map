@@ -1,7 +1,7 @@
-max_provinces = 2720
+max_provinces = 652
 
 sea_starts = { 
-	1 2703 2704 2705 2706 2707 2708 2709 2710 2711 2712 2713 2714 2715 2716 2717 2718 2719 2720
+	1
 }
     
 #definitions = "definition.csv"

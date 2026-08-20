@@ -227,70 +227,6 @@
 		size = 450
 	}
 }
-#Fort Resolution (2000/500 POPS)
-2596 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 450
-	}
-}
-#Fort Liard (1600/400 POPS)
-2598 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 360
-	}
-}
 #Arviat (3200/800 POPS)
 43 = {
 	aristocrats = {
@@ -385,39 +321,6 @@
 		culture = inuit
 		religion = animist
 		size = 900
-	}
-
-}
-#Whale Cove (2800/700 POPS)
-2595 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 15
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 35
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 630
 	}
 
 }
@@ -712,38 +615,6 @@
 		size = 1750
 	}
 
-}
-#Fort Nelson (1600/400 POPS)
-2629 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 360
-	}
 }
 #Alberta Region: 64000
 #uncolonized in 1836
@@ -1129,38 +1000,6 @@
 		size = 1750
 	}
 
-}
-#Fort Vermillion (3200/800 POPS)
-2597 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 15
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 20
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 40
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 715
-	}
 }
 #Saskatchewan Region : 44000
 #uncolonized in 1836
@@ -2105,72 +1944,6 @@
 	}
 
 }
-#Pickle Lake (1200/3000 POPS)
-2594 = {
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 15
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 265
-	}
-
-}
-#Attawapiskat (5600/1600 POPS)
-2628 = {
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 35
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 80
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 1445
-	}
-
-}
 #ruled by Britain in 1836
 #Toronto (172000/43000 POPS)
 46 = {
@@ -2392,193 +2165,6 @@
 	}
 
 }
-#Erik Cove (2400/600 POPS)
-2592 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 360
-	}
-
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 2
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 3
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 180
-	}
-
-}
-#Port Harrison (2400/600 POPS)
-2626 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 2
-	}
-
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 3
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 180
-	}
-
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 360
-	}
-}
-#Fort Chimo (2400/600 POPS)
-2627 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 360
-	}
-
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 2
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 3
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 180
-	}
-}
 #Fort Rupert (2400/600 POPS)
 60 = {
 	aristocrats = {
@@ -2609,38 +2195,6 @@
 		culture = cree
 		religion = animist
 		size = 520
-	}
-}
-#Fort George (1600/400 POPS)
-2593 = {
-	aristocrats = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = cree
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = cree
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = cree
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = cree
-		religion = animist
-		size = 360
 	}
 }
 #ruled by Britain in 1836
@@ -3371,39 +2925,6 @@
 		culture = inuit
 		religion = animist
 		size = 450
-	}
-
-}
-#Cartwright (6000/1500 POPS)
-2625 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 75
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 1350
 	}
 
 }
