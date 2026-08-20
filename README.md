@@ -8,7 +8,7 @@ Terrain.bmp - ???
 ## TODO
 ### Alpha
 - [ ] Map
-    - [ ] Basic provinces
+    - [x] Basic provinces
     - [ ] Starting countries
         - [ ] All flags
         - [ ] Political parties
@@ -17,6 +17,7 @@ Terrain.bmp - ???
         - [ ] As province modifiers
     - [ ] Resources on map
     - [ ] Terrains (empty space, nebula, asteroid field, etc)
+    - [ ] Climates as sun exposure levels
     - [ ] Starting industries
     - [ ] Starting pops
 - [ ] Cultures
