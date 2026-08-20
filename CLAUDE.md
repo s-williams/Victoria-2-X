@@ -65,6 +65,59 @@ with open(path, 'wb') as f:
     f.write(content.encode('cp1252'))
 ```
 
+## Debugging Game Crashes
+
+Steam's generic compatdata logs are NOT useful for this - do not trust logs under
+`~/.local/share/Steam/steamapps/compatdata/Victoria 2/logs/` or
+`~/.local/share/Steam/steamapps/compatdata/42960/pfx/.../Victoria II/logs/` (no mod
+subfolder). Those are stale/unrelated (base game or old runs, may be months old).
+
+The real, per-mod logs that get overwritten on every launch live at:
+`~/.local/share/Steam/steamapps/compatdata/42960/pfx/drive_c/users/steamuser/Documents/Paradox Interactive/Victoria II/X/logs/`
+(`setup.log`, `system.log`, `game.log`, `time.log`, etc. - 42960 is Victoria II's Steam
+appid). Even a hard crash with no error dialog leaves partial logs behind - the last
+line written tells you which loading phase failed (map init, database load, history
+parse, the "Executing History" chronological replay, event load, etc.) even with no
+explicit error message. `setup.log` in particular lists every history file loaded, in
+order, right up to the crash point.
+
+## Removing Provinces (map trimming)
+
+Victoria 2's mod system silently falls back to the base game's file for anything not
+overridden in the mod folder. When shrinking `map/definition.csv` / `map/provinces.bmp`
+to remove unused provinces, the removed IDs can still crash the game via LEFTOVER
+VANILLA DATA that references them, even after `map/`, `history/provinces/`, and
+`history/countries/` all look clean. Checklist, in order:
+
+1. `map/definition.csv` - trim to the IDs you keep. No gaps required, but no duplicate
+   RGB colors allowed anywhere in the file (a duplicate color has caused a crash before,
+   see git history around commit b838f91 "Somehow this works").
+2. `map/provinces.bmp` - run `scripts/replace-province-colors.py` AFTER trimming
+   `definition.csv`, so it recolors now-invalid pixels to a valid target color (default
+   target matches province 1, "Space").
+3. `map/default.map` - `max_provinces` must be >= highest surviving ID + 1, and
+   `sea_starts` must not list IDs that no longer exist.
+4. `map/region.txt`, `map/region_sea.txt`, `map/continent.txt` - check for stale
+   references to removed IDs.
+5. `history/provinces/<country>/` - vanilla files for removed IDs should be emptied
+   (0 bytes), not deleted. This is the established convention in this repo even when the
+   ID is not reused, so mod-fallback never pulls the vanilla file back in.
+6. `history/pops/<date>/*.txt` - the one that actually caused a real crash here.
+   Victoria 2 has multiple pop-history checkpoint dates (this mod uses `1836.1.1`,
+   `1861.4.14`, `2990.1.1`). Each date folder holds one file per vanilla country
+   (`Afghanistan.txt`, `Bermuda.txt`, ...), keyed directly by literal province ID
+   (`2224 = { aristocrats = { ... } ... }`). These are easy to forget because they don't
+   look like province/country history - but they were still the full, untouched vanilla
+   dataset referencing thousands of removed province IDs, and the game crashed trying to
+   populate pops into nonexistent provinces during the "Executing History" replay.
+   Filter these files to keep only blocks whose leading ID is still valid (a brace-depth
+   parse, not a naive line filter, since pop type blocks nest inside the province block).
+   Only empty a file entirely if every block in it was for a removed province.
+7. `history/wars/`, `history/units/`, `history/diplomacy/` - check these too if not
+   fully populated by the mod. Empty files here fall back to vanilla, which references
+   countries/provinces the mod doesn't have. Not confirmed to crash on its own, but worth
+   checking first if problems resurface after fixing the above.
+
 ## Victoria 2 Modding Reference
 
 **Always check the wiki before writing Clausewitz script** to avoid hallucinating invalid effects, conditions, or scopes.
