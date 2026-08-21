@@ -1,2 +1,5 @@
+owner = SOH
+controller = SOH
+add_core = SOH
 trade_goods = fish
 life_rating = 25
