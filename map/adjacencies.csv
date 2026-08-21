@@ -1,1 +1,122 @@
 #From;To;Type;Through;Data;Comment
+602;94;land;1;0;Queen's Space III to Kingdom End X
+87;95;land;1;0;Kingdom End III to Rolk's Demise I
+96;101;land;1;0;Rolk's Demise II to Atreus' Clouds I
+652;107;land;1;0;Rolk's Demise VII to Menelaus' Oasis I
+108;104;land;1;0;Menelaus' Oasis II to Atreus' Clouds IV
+102;113;land;1;0;Atreus' Clouds II to Adventure's Promise I
+114;219;land;1;0;Adventure's Promise II to Ore Belt II
+86;82;land;1;0;Kingdom End II to Sanctuary of Darkness I
+84;79;land;1;0;Sanctuary of Darkness III to Great Reef IV
+80;74;land;1;0;Great Reef V to Barren Shores IV
+81;116;land;1;0;Great Reef VI to Ocean of Fantasy I
+117;122;land;1;0;Ocean of Fantasy II to Getsu Fune III
+71;70;land;1;0;Barren Shores I to Watchful Gaze IV
+67;30;land;1;0;Watchful Gaze I to Heretic's End III
+28;17;land;1;0;Heretic's End I to Wretched Skies II
+16;14;land;1;0;Wretched Skies I to Litany of Fury VII
+11;2;land;1;0;Litany of Fury IV to Emperor's Pride I
+19;26;land;1;0;Wretched Skies IV to Family Zhin V
+23;458;land;1;0;Family Zhin II to Tharka's Cascade VI
+25;61;land;1;0;Family Zhin IV to Family Nhuut I
+27;36;land;1;0;Family Zhin VI to Family Kritt I
+37;42;land;1;0;Family Kritt II to Rhy's Defiance I
+46;49;land;1;0;Rhy's Defiance V to Matrix 598 II
+48;60;land;1;0;Matrix 598 I to Zyarth's Dominion IX
+57;552;land;1;0;Zyarth's Dominion VI to Eleventh Hour I
+54;551;land;1;0;Zyarth's Dominion III to Open Market V
+55;64;land;1;0;Zyarth's Dominion IV to Family Nhuut IV
+653;550;land;1;0;Family Nhuut VII to Open Market IV
+554;558;land;1;0;Eleventh Hour III to Guiding Star III
+548;545;land;1;0;Open Market II to Two Grand VI
+557;546;land;1;0;Guiding Star II to Two Grand VII
+543;648;land;1;0;Two Grand IV to Fires of Defeat IV
+542;534;land;1;0;Two Grand III to Profit Center Alpha IV
+649;587;land;1;0;Fires of Defeat V to Tharka's Ravine IV
+586;580;land;1;0;Tharka's Ravine III to Heart of Acrimony II
+646;622;land;1;0;Fires of Defeat II to Matrix 9 II
+647;639;land;1;0;Fires of Defeat III to Family Tkr IV
+638;591;land;1;0;Family Tkr III to Tharka's Ravine VIII
+643;633;land;1;0;Family Tkr VIII to Matrix 451 VI
+644;597;land;1;0;Family Tkr IX to Thuruk's Demise III
+623;635;land;1;0;Matrix 9 III to Matrix 451 VIII
+630;570;land;1;0;Matrix 451 III to Ianamus Zura III
+596;571;land;1;0;Thuruk's Demise II to Ianamus Zura IV
+574;505;land;1;0;Ianamus Zura VII to Mitsunos Remembrance II
+572;566;land;1;0;Ianamus Zura V to Bright Promise VI
+565;533;land;1;0;Bright Promise V to Profit Center Alpha III
+531;526;land;1;0;Profit Center Alpha I to Silent Witness IV
+536;459;land;1;0;Matrix 101 II to Tharka's Cascade VII
+455;448;land;1;0;Tharka's Cascade III to Hatikvah's Choice IV
+456;35;land;1;0;Tharka's Cascade IV to Matrix 79B III
+33;127;land;1;0;Matrix 79B I to Savage Spur II
+32;439;land;1;0;Heretic's End V to Morning Star IV
+438;450;land;1;0;Morning Star III to Hatikvah's Choice VI
+446;428;land;1;0;Hatikvah's Choice II to Argon Prime II
+517;613;land;1;0;President's End I to Cloudbase IV
+452;524;land;1;0;Hatikvah's Choice VIII to Silent Witness II
+525;518;land;1;0;Silent Witness III to President's End II
+510;396;land;1;0;Eighteen Billion II to Windfall III
+511;387;land;1;0;Eighteen Billion III to Grand Exchange IV
+512;499;land;1;0;Eighteen Billion IV to Memory of Profit IV
+126;124;land;1;0;Savage Spur I to Getsu Fune V
+422;429;land;1;0;The Reach III to Argon Prime III
+497;303;land;1;0;Memory of Profit II to CEO's Doubt II
+489;314;land;1;0;Trinity Sanctum II to Unholy Retribution IV
+493;564;land;1;0;Trinity Sanctum VI to Bright Promise IV
+492;482;land;1;0;Trinity Sanctum V to Hewa's Twin II
+483;477;land;1;0;Hewa's Twin III to Company Regard V
+474;462;land;1;0;Company Regard II to Scale Plate Green II
+475;469;land;1;0;Company Regard III to Turqoise Sea II
+471;463;land;1;0;Turqoise Sea IV to Scale Plate Green III
+611;435;land;1;0;Cloudbase II to Argon Prime IX
+431;414;land;1;0;Argon Prime V to Hatikvah's Faith II
+415;412;land;1;0;Hatikvah's Faith III to Nopileos' Memorial V
+430;367;land;1;0;Argon Prime IV to Second Contact V
+121;131;land;1;0;Getsu Fune II to Outer Sol II
+120;359;land;1;0;Getsu Fune I to The Void IV
+394;400;land;1;0;Windfall I to Avarice II
+395;382;land;1;0;Windfall II to Black Hole Sun VIII
+142;135;land;1;0;Inner Sol II to Outer Sol VI
+352;210;land;1;0;Antigone Memorial IV to Segaris II
+351;361;land;1;0;Antigone Memorial III to The Void VI
+358;232;land;1;0;The Void III to Frontier Edge II
+362;364;land;1;0;The Void VII to Second Contact II
+365;330;land;1;0;Second Contact III to True Sight V
+374;379;land;1;0;Second Contact XII to Black Hole Sun V
+378;339;land;1;0;Black Hole Sun IV to Void of Opportunity III
+380;390;land;1;0;Black Hole Sun VI to Grand Exchange VII
+389;324;land;1;0;Grand Exchange VI to Nopileos' Fortune VI
+388;345;land;1;0;Grand Exchange V to Path to Profit II
+305;296;land;1;0;CEO's Doubt IV to Loomanckstrat's Legacy IV
+315;272;land;1;0;Unholy Retribution V to Pious Mists II
+312;319;land;1;0;Unholy Retribution II to Nopileos' Fortune I
+225;221;land;1;0;Third Redemption II to Ore Belt IV
+132;155;land;1;0;Outer Sol III to Brennan's Triumph III
+154;160;land;1;0;Brennan's Triumph II to Circle of Deceit II
+157;202;land;1;0;Brennan's Triumph V to Gaian Prophecy I
+203;212;land;1;0;Gaian Prophecy II to Segaris IV
+223;234;land;1;0;Ore Belt VI to Frontier Edge IV
+219;164;land;1;0;Ore Belt II to Sanctum Verge II
+233;238;land;1;0;Frontier Edge III to Atiya's Misfortune II
+328;256;land;1;0;True Sight III to Holy Vision IV
+332;342;land;1;0;Scarlet Star II to Void of Opportunity VI
+343;344;land;1;0;Void of Opportunity VII to Path to Profit I
+607;341;land;1;0;Elysium of Light II to Void of Opportunity V
+608;347;land;1;0;Elysium of Light III to Path to Profit IV
+294;289;land;1;0;Loomanckstrat's Legacy II to Mi Ton's Refuge III
+239;244;land;1;0;Atiya's Misfortune III to Mists of Artemis I
+243;251;land;1;0;Atiya's Misfortune VII to Faulty Logic III
+252;259;land;1;0;Faulty Logic IV to Holy Vision VII
+258;265;land;1;0;Holy Vision VI to Pontifex's Claim I
+254;201;land;1;0;Holy Vision II to Cardinal's Redress VIII
+292;281;land;1;0;Mi Ton's Refuge VI to Moo Kye's Revenge IV
+273;182;land;1;0;Pious Mists III to Sacred Relic III
+274;269;land;1;0;Pious Mists IV to Pontifex's Claim V
+181;175;land;1;0;Sacred Relic II to Cardinal's Domain II
+176;279;land;1;0;Cardinal's Domain III to Moo Kye's Revenge II
+174;173;land;1;0;Cardinal's Domain I to Tempting Fumes VI
+196;191;land;1;0;Cardinal's Redress III to Lasting Vengeance III
+195;185;land;1;0;Cardinal's Redress II to Freedom's Reach I
+168;163;land;1;0;Tempting Fumes I to Sanctum Verge I
+167;159;land;1;0;Sanctum Verge V to Circle of Deceit I
