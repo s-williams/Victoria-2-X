@@ -1,6 +1,6 @@
 ---
 name: create-province
-description: Wire up new X-tag provinces after the user has added them to map/definition.csv and provinces.bmp - creates history files, updates map/region.txt, and fills in localisation/map.csv. Use when the user says things like "create/add province(s) <name> <id range>", "do the same for <region name> <id range>", or asks to fill in region.txt / map.csv for provinces already in definition.csv.
+description: Wire up new X-tag provinces after the user has added them to map/definition.csv and provinces.bmp - creates history files, updates map/region.txt and map/default.map's max_provinces, and fills in localisation/map.csv. Use when the user says things like "create/add province(s) <name> <id range>", "do the same for <region name> <id range>", or asks to fill in region.txt / map.csv for provinces already in definition.csv.
 ---
 
 # Creating basic provinces
@@ -29,17 +29,19 @@ Some new province IDs reuse numbers that used to belong to vanilla Victoria 2 pr
    ```
    Only add `owner = <TAG>`, `controller = <TAG>`, `add_core = <TAG>` lines (in that order, before trade_goods) if the user explicitly asks for an owner/controller/core - otherwise leave them out. Check a sibling file in the same region for the current template/line-ending convention before assuming CRLF, since these have occasionally been hand-edited to LF.
 
-3. **Update `map/region.txt`.** Each region is one line: `REG_<NAME> = { id id id ... }`. Derive `<NAME>` from the province base name (without the roman numeral) by:
+3. **Check `map/default.map`'s `max_provinces`.** It must be strictly greater than the highest province id in the whole mod (i.e. `>= highest id + 1`), not just higher than this batch. Read the current value and compare against the batch's highest new id - if `max_provinces <= highest new id`, update it to `highest new id + 1`. Leave it alone if it's already sufficient. This is a common miss because it lives outside `map/definition.csv` and nothing else in the normal workflow touches it.
+
+4. **Update `map/region.txt`.** Each region is one line: `REG_<NAME> = { id id id ... }`. Derive `<NAME>` from the province base name (without the roman numeral) by:
    - stripping apostrophes (`Rhy's Defiance` -> `RHYS_DEFIANCE`, not `RHY_S_DEFIANCE`)
    - uppercasing and replacing spaces with underscores
    Many `REG_*` lines already exist pre-declared but empty (`REG_FOO = { }`) under geography-section headers (`# Boron (Northwest)`, `# Zyarth (North)`, etc) - fill in the existing empty line rather than adding a new one if one already matches. Only append a new line if no placeholder exists.
 
-4. **Update `localisation/map.csv`.** Two sections, each delimited by `{ ... }` comment markers:
+5. **Update `localisation/map.csv`.** Two sections, each delimited by `{ ... }` comment markers:
    - Provinces block: add `PROV<id>;<Name>;x` for each new province, keeping numeric id order.
    - Regions block: add `REG_<NAME>;<Display Name>;x` (display name = the province base name with apostrophes intact, e.g. `Rhy's Defiance`) if this region doesn't already have a line.
    This file must stay ASCII/Windows-1252 safe like other localisation CSVs - province names here are English text with plain straight apostrophes only, so the Edit tool is fine as long as no curly quotes or accents are introduced.
 
-5. **Cross-check names once more** across definition.csv, the new file names, region.txt, and map.csv before finishing - apostrophe placement and typos (e.g. "Arteus'" vs "Atreus'", "Heretic's" vs "Heretics") have drifted before. If you find an existing mismatch outside the current task's scope, flag it to the user rather than silently renaming unrelated files.
+6. **Cross-check names once more** across definition.csv, the new file names, region.txt, and map.csv before finishing - apostrophe placement and typos (e.g. "Arteus'" vs "Atreus'", "Heretic's" vs "Heretics") have drifted before. If you find an existing mismatch outside the current task's scope, flag it to the user rather than silently renaming unrelated files.
 
 ## Reference
 
