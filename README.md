@@ -10,7 +10,7 @@ Terrain.bmp - ???
 - [ ] Map
     - [x] Basic provinces
     - [ ] Starting countries
-        - [ ] All flags
+        - [x] All flags
         - [ ] Political parties
         - [ ] Starting governments, reforms
     - [x] Adjacencies (gates)
