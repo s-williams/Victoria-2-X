@@ -2587,3 +2587,115 @@ bears = {
 	}
 	union = SCA
 }
+
+human_group = {
+	leader = european
+	unit = EuropeanGC
+
+	argon = {
+		color = { 47 127 230 }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+	}
+
+	terran = {
+		color = { 159 208 255 }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+	}
+
+	goner = {
+		color = { 111 52 0 }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+	}
+
+}
+
+paranid_group = {
+	leader = european
+	unit = EuropeanGC
+
+	paranid = {
+		color = { 185 90 199 }
+		first_names = { Amanckalat Axiom Maximus Nobumancketslat Olmancketslat Tebathimanckatt }
+		last_name = { Paranidia }
+	}
+
+}
+
+split_group = {
+	leader = european
+	unit = EuropeanGC
+	split = {
+		color = { 154 202 75 }
+		first_names = { Ghus Lu  }
+		last_names = { "t'Gllt" "t'Tn" }
+	}
+}
+
+teladi_group = {
+	leader = european
+	unit = EuropeanGC
+	teladi = {
+		color = { 212 179 16 }
+		first_names = { Ganatos Isemados Mikimades Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yoolis Ysandreis }
+		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yohiris }
+	}
+}
+
+boron_group = {
+	leader = european
+	unit = EuropeanGC
+	boron = {
+		color = { 62 199 230 }
+		first_names = { Boso Fomo Suli  }
+		last_names = { Do Fi Ta }
+	}
+}
+
+wenendra_group = {
+	leader = european
+	unit = EuropeanGC
+	wenendra = {
+		color = { 34 139 211 }
+		first_names = { Coral Echo Finn Luna Marina Marino Oceanus Pearl Splash Storm Ripple }
+		last_names = { Wenendra }
+	}
+}
+
+khaak_group = {
+	leader = european
+	unit = EuropeanGC
+
+	khaak = {
+		color = { 136 4 26 }
+		first_names = { x xx xxx xxxx z zz zzz zzzz }
+		last_name = { x xx xxx xxxx z zz zzz zzzz }
+	}
+
+}
+
+agi_group = {
+	leader = european
+	unit = EuropeanGC
+
+	xenon = {
+		color = { 239 68 68 }
+		first_names = { AGI AI CPU GPU MTRX TF }
+		last_name = { 			
+			aaaa abac abad acde acce
+			baaa bbbb baba babe babb
+			caaa cccc caca ccdd ceca cece
+			daaa dddd daff deff 
+			eaaa eaea eeee efaa efab edda edde eded 
+			faaa fafa feee fefe ffff
+		}
+	}
+	quettanaut = {
+		color = { 34 197 94 }
+		first_names = { Quint }
+		last_name = { Felden }
+	}
+
+}
