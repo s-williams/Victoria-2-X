@@ -24,10 +24,7 @@ ironclad = {
 
 	#Building Costs
 	build_time = 360
-	build_cost = {	
-		steamer_convoy = 20
-		artillery = 6
-		canned_food = 10
+	build_cost = {
 	}
 	min_port_level = 3
 	limit_per_port = -1
@@ -35,9 +32,6 @@ ironclad = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.32
-		artillery = 0.192
-		canned_food = 0.4
 	}
 	
 	#Naval Abilties
