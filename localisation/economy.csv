@@ -1,0 +1,43 @@
+#################;x
+##### GOODS #####;x {
+#################;x
+weapon_components;Weapon components;x
+drone_components;Drone components;x
+missile_components;Missile components;x
+turret_components;Turret components;x
+shield_components;Shield components;x
+silicon;Silicon;x
+ore;Ore;x
+methane;Methane;x
+ice;Ice;x
+energy_cells;Energy cells;x
+nvidium;Nvidium;x
+silicon_wafers;Silicon wafers;x
+refined_metals;Refined metals;x
+graphene;Graphene;x
+microchips;Microchips;x
+scanning_arrays;Scanning arrays;x
+engine_parts;Engine parts;x
+advanced_composites;Advanced composites;x
+hull_parts;Hull parts;x
+quantum_tubes;Quantum tubes;x
+plasma_conductors;Plasma conductors;x
+electronics;Electronics;x
+claytronics;Claytronics;x
+water;Water;x
+alcohol;Alcohol;x
+protein;Protein;x
+carbohydrates;Carbohydrates;x
+spices;Spices;x
+cloth_rimes;Cloth rimes;x
+medical_supplies;Medical supplies;x
+meal_rations;Meal rations;x
+regular_clothes;Regular clothes;x
+luxury_clothes;Luxury clothes;x
+#######################;x
+##### GOODS TYPES #####;x
+#######################;x
+TRADE_RAW_MATERIALS;Raw Materials;x
+TRADE_INDUSTRIAL_GOODS;Industrial Goods;x
+TRADE_CONSUMER_GOODS;Consumer Goods;x
+TRADE_MILITARY_GOODS;Military Goods;x

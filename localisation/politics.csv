@@ -4,13 +4,16 @@
 ABN_ADJ;Albion;x
 ABN;Albion;x
 AGN_ADJ;Argon;x
+AGN_monarchy;Argon Empire;x
 AGN;Argon Federation;x
 ALI_ADJ;Alliance;x
 ALI;Alliance of the Word;x
 ANT_ADJ;Antigone;x
+ANT_monarchy;Kingdom of Antigone;x
 ANT;Antigone Republic;x
 BOR_ADJ;Boron;x
 BOR;Queendom of Boron;x
+BOR_republic;Boron Federation;x
 BUC_ADJ;Buccaneer;x
 BUC;Duke's Buccaneers;x
 CKK_ADJ;Khaak;x
@@ -30,10 +33,12 @@ FTN;First Teladi Non-profit Organisation;x
 GOD_ADJ;Paranid;x
 GOD;Godrealm of the Paranid;x
 GON_ADJ;Goner;x
+GON_republic;Goner Republic;x
 GON;Goner;x
 HFL_ADJ;Hatikvah;x
 HFL;Hatikvah Free League;x
 HOP_ADJ;Pontifex;x
+HOP_republic;Holy Republic;x
 HOP;Holy Order of the Pontifex;x
 KHK_ADJ;Khaak;x
 KHK;Khaak;x
@@ -48,6 +53,7 @@ QTA;Quettanauts;x
 RIP_ADJ;Riptide;x
 RIP;Riptide Rakers;x
 ROT_ADJ;Trinity;x
+ROT_republic;Republic of the Trinity;x
 ROT;Realm of the Trinity;x
 SKK_ADJ;Khaak;x
 SKK;Southern Hive;x
@@ -58,9 +64,11 @@ SOL;Solara;x
 SPP_ADJ;Scale Plate;x
 SPP;Scale Plate Pact;x
 TEL_ADJ;Teladi;x
+TEL_monarchy;Teladi Empire;x
 TEL;Teladi Company;x
 TER_ADJ;Terran;x
-TER;Terran;x
+TER_monarchy;Terran Empire;x
+TER; Terran Protectorate;x
 VIG_ADJ;Vigor;x
 VIG;Vigor Syndicate;x
 WEN_ADJ;Wenedran;x
@@ -72,7 +80,25 @@ XEN;Xenon;x
 YAK_ADJ;Yaki;x
 YAK;Yaki;x
 ZYA_ADJ;Zyarth;x
+ZYA_republic;Zyarth Republic;x
 ZYA;Zyarth Patriarchy;x
+######################;
+##### IDEOLOGIES #####;
+######################;
+fascist;Xenon;x
+fascist_uh;Fascists support the extension of social reform, and the removal of political reform, but will oppose any reform as long as the ruling party is not Fascist.;x
+reactionary;Conservative;x
+reactionary_uh;Reactionaries always attempt to roll back both political and social reforms.;x
+conservative;Centrist;x
+conservative_uh;Conservatives prefer the status-quo, but may back reforms under conditions of high militancy.;x
+socialist;Progressive;x
+socialist_uh;Socialists want to see the enactment of further social reforms, but may back political reforms under conditions of high militancy.;x
+collectivist;Collectivist;
+communist_uh;Communists want to enact social reforms, but want to see political reforms rolled back.;x
+liberal;Neoliberal;x
+liberal_uh;Liberals want to enact further political reforms, but will also support social reform under conditions of high militancy.;x
+anarcho_liberal;Corporatist;x
+anarcho_liberal_uh;Anarcho-Liberals want to see social reforms rolled back, and will never support further reforms of any kind.;x
 #############################;x
 ##### POLITICAL PARTIES #####;x {
 #############################;x

@@ -1,9 +1,11 @@
-
-### Factories #####################################################################################
+#############################
+##### Factory Templates #####
+#############################
 
 factory_template = {
 	efficiency = {
-		hull_parts = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
+		hull_parts = 0.05 #if no cement, work at 75% efficiency #cost = 16.0
+		energy_cells = 0.5
 	}
 	
 	owner =
@@ -31,98 +33,9 @@ factory_template = {
 	workforce = 10000 
 }
 
-cheap_factory_template = {
-	efficiency = {
-		cement = 0.25 #if no cement, work at 75% efficiency #cost = ï¿½4/level
-		
-	}
-	
-	owner =
-	{
-		poptype = capitalists 
-		effect = input
-		effect_multiplier = -1.5
-	}
-	
-	employees = {		
-		{ 
-			poptype = craftsmen
-			effect = throughput
-			amount = 0.8
-		}		
-		{ 
-			poptype = clerks 
-			effect = output
-			effect_multiplier = 1.5
-			amount = 0.2
-		}
-	
-	}
-	type = factory
-	workforce = 10000 
-}
-
-machine_part_user_template = {
-	efficiency = {
-		cement = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
-	}
-	
-	owner =
-	{
-		poptype = capitalists 
-		effect = input
-		effect_multiplier = -2.5
-	}
-	
-	employees = {		
-		{ 
-			poptype = craftsmen
-			effect = throughput
-			amount = 0.8
-		}		
-		{ 
-			poptype = clerks 
-			effect = output
-			effect_multiplier = 1.5
-			amount = 0.2
-		}
-	
-	}
-	type = factory
-	workforce = 10000 
-}
-
-cement_template = {
-	efficiency = {
-		hull_parts = 2.3 #if no cement, work at 75% efficiency #cost = 16.0
-	}
-	
-	owner =
-	{
-		poptype = capitalists 
-		effect = input
-		effect_multiplier = -2.5
-	}
-	
-	employees = {		
-		{ 
-			poptype = craftsmen
-			effect = throughput
-			amount = 0.8
-		}		
-		{ 
-			poptype = clerks 
-			effect = output
-			effect_multiplier = 1.5
-			amount = 0.2
-		}
-	
-	}
-	type = factory
-	workforce = 10000 
-}
-
-############# FACTORIES
+#####################
+##### Factories #####
+#####################
 
 silicon_refinery = {
 	template = factory_template
@@ -138,7 +51,9 @@ silicon_refinery = {
 	}
 }
 
-### RGOs #####################################################################################
+################
+##### RGOs #####
+################
 
 RGO_template_farmers = {
 	owner =
@@ -230,4 +145,6 @@ ice_mine = {
 	mine = yes
 }
 
-### Artisans #####################################################################################
+####################
+##### Artisans #####
+####################

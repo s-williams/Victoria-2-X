@@ -1134,6 +1134,7 @@ PRODUCTION_THROUGHPUT_EFFICIENCY_TOOLTIP;Throughput: ;x
 PRODUCTION_POP_UNEMPLOYED_TOOLTIP;Unemployed: $UNEMPLOYED$;x
 PRODUCTION_POP_OWNER_PRESCENCE_TOOLTIP;Presence in state: $PRESCENCE$;x
 PRODUCTION_MUST_PRODUCE_GOODS_TOOLTIP;State must produce one of the following: ;x
+PRODUCTION_FACTORIES_IN_STATE;Factories in State\n;
 PRODUCTION_FACTOR_FROM;From;x
 PRODUCTION_FACTOR_OWNER;Owners;x
 PRODUCTION_FACTOR_WORKER;Workers;x
@@ -1142,11 +1143,14 @@ PRODUCTION_FACTORY_UNIQUE_TOOLTIP;No §Y$NAME$§W in state\n;x
 GOODS_PROJECT_COMPLETE;All goods needs fulfilled;x
 GOODS_PROJECT_LACK_GOODS;Gathering the following goods before construction can begin:;x
 BUILDING_IN_PROGRESS;Estimated to finish §Y$DATE$§W;x
+BUILD_CIVILIZED;Civilized;x
 PRODUCTION_RESOURCE_COST;Resource cost:;x
 PRODUCTION_IN_STOCKPILE;In stockpile:;x
 PRODUCTION_BASE_PRICE;Base Price:;x
 PRODUCTION_INPUT_PRICE;Input Price:;x
 PRODUCTION_TOTAL;Total:;x
+PRODUCTION_TOGGLE_FILTER_TOOLTIP;Shows/hides factories which relies on or produce $GOODS$;x
+PRODUCTION_SHOW_EMPTY_TOOLTIP;Shows/hides states with no displayed factories;x
 PRODUCTION_CURRENT_FUNDS;Current Funds:;x
 PRODUCTION_BASE_OUTPUT;Base :;x
 PRODUCTION_GOODS_TAB;Production;x
@@ -2617,6 +2621,7 @@ MODIFIER_POOR_SAVINGS_MODIFIER;Poor Savings;x
 MODIFIER_POP_MILITANCY_MODIFIER;Pop militancy;x
 MODIFIER_MOBILISATION_SIZE;Mobilisation Size;x
 MODIFIER_MOBILISATION_ECONOMY_IMPACT;Mobilisation Impact;x
+MODIFIER_MOBILIZATION_IMPACT;Mobilization impact;x
 MODIFIER_GREATPOWER_INFLUENCE_GAIN;Influence;x
 MODIFIER_DIPLOPOINTS_GAIN;Diplomatic points;x
 MODIFIER_SUPPLY_LIMIT;Supply Limit;x
@@ -3709,7 +3714,14 @@ PROVINCEVIEW_ADMIN_POPS;From §YBureaucrats: $VALUE$%§W;x
 PROVINCEVIEW_SELECT_NATIONAL_FOCUS_TO_COLONIZE;Select national focus to colonize.;x
 #;;x
 NONE;None;x
+MODIFIER_FACTORY_OWNER_COST;Factory Owner Cost;x
+RULE_BUILD_FACTORY;Build Factory;x
 RULE_BUILD_RAILWAY;Build Railway;x
+RULE_FACTORY_PRIORITY;Factory Priority;x
+RULE_EXPAND_FACTORY_INVEST;Expand foreign factory;x
+RULE_OPEN_FACTORY_INVEST;Open foreign factory;x
+RULE_POP_BUILD_FACTORY_INVEST;Investors can build foreign factory;x
+RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factory;x
 RULE_PRIMARY_CULTURE_VOTING;Primary Culture Voting;x
 RULE_CULTURE_VOTING;Culture Voting;x
 RULE_ALL_VOTING;All Voting;x
@@ -4942,7 +4954,11 @@ PROVINCE_CONTROL_DAYS_LATER_THAN;Province control not changed in the last §Y$DA
 PROVINCE_CONTROL_DAYS;Province control changed in the last §Y$DAYS$§W days.\n;x
 ENFORCE_DEMANDS_TRIGGER;These rebels will win if the following is true:;x
 POLITICS_REFORMS;Reforms;x
-POLITICS_RELEASE_NATIONS;Release realms;x
+POLITICS_RELEASE_NATIONS;Release Nations;x
+POLITICS_RELEASE_VASSAL_DESC;§Y$TAG$§b will receive the following §Y$NUM$§b province(s): §Y$PROVINCES$§b;x
+POLITICS_RELEASE_VASSAL_DESC_LIMIT;§b and others.;x
+POLITICS_SATELLITE;Satellite;x
+POLITICS_DOMINION;Dominion;x
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;x
 BE_SECOND_RANK;Secondary Power;x
 COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed guild workers:;x
@@ -5414,6 +5430,7 @@ OTHERS_CB_DETECTED_BTN2;OK;x
 OTHERS_CB_DETECTED_BTN3;Goto;x
 OTHERS_CB_DETECTED_MAP;*;x
 BUILDING_AT_MAX_TERRAIN;Level $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);x
+PRODUCTION_FACTORIES;Factories;x
 PRODUCTION_INVEST;Foreign Investment;x
 PRODUCTION_TAB_INVEST;Shows overview of investment in foreign realms;x
 FLAG_SUBMENU_INTERESTING;Set realm as interesting.;x
@@ -5425,6 +5442,7 @@ MESSAGE_BUTTON_SEARCH;Search;x
 MESSAGE_BUTTON_CLEAR;Clear;x
 MESSAGE_SEARCH_TOOLTIP;Enter key words separated by §Yspace§! to filter the list.;x
 SIDEMENU_menubar_msg_settings;Click to open message filter settings.;x
+RULE_BUILD_FACTORY_INVEST;Build foreign factory;x
 RULE_BUILD_RAILWAY_INVEST;Investors can build foreign railways;x
 RULE_CAN_INVEST_IN_POP_PROJECTS;Invest in pop projects;x
 RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign guilds;x
@@ -6264,10 +6282,6 @@ TRADE_FLOW_CONSUME_DESC_POPS;Our §Y$POP$§! are using §Y$AMOUNT$ $RESOURCE$§!
 TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using §Y$AMOUNT$ $RESOURCE$§! as a daily supply consumption.;x
 TRADE_FLOW_MAY_USE_MILITARY_DESC;§Y$INPUT$§! may be used by our armies as a daily supply consumption.;x
 TRADE_FLOW_MAY_USE_DESC;§Y$INPUT$§! may be used by §Y$PRODUCER$§! to produce §Y$OUTPUT$§!.;x
-TRADE_RAW_MATERIALS;Raw Materials;x
-TRADE_INDUSTRIAL_GOODS;Industrial Goods;x
-TRADE_CONSUMER_GOODS;Consumer Goods;x
-TRADE_MILITARY_GOODS;Military Goods;x
 TRADE_NEEDS;Needs;x
 TRADE_MARKET_ACTIVITY;Market Activity;x
 TRADE_STOCKPILE;Stockpile;x
