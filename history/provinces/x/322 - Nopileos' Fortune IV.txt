@@ -1,2 +1,5 @@
+owner = BUC
+controller = BUC
+add_core = BUC
 trade_goods = fish
 life_rating = 25

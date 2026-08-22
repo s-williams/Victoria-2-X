@@ -52,6 +52,7 @@ NKK = "countries/Northern Hive.txt"
 WKK = "countries/Western Hive.txt"
 EKK = "countries/Eastern Hive.txt"
 SKK = "countries/Southern Hive.txt"
+CKK = "countries/Central Hive.txt"
 
 # Xenon
 XEN = "countries/Xenon.txt"

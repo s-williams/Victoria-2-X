@@ -1,0 +1,12 @@
+alliance = {
+	first = AGN
+	second = ANT
+	start_date = 1.1.1
+	end_date = 9999.1.1
+}
+alliance = {
+	first = TER
+	second = PIO
+	start_date = 1.1.1
+	end_date = 9999.1.1
+}

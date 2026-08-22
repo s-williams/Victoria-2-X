@@ -1,4 +1,4 @@
-capital = 83
+capital = 527
 primary_culture = mashriqi
 culture = bedouin
 culture = misri
@@ -30,7 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = WKK_conservative
+ruling_party = EKK_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25

@@ -1,5 +1,6 @@
-owner = HOP
-controller = HOP
+owner = SKK
+controller = SKK
 add_core = HOP
+add_core = SKK
 trade_goods = fish
 life_rating = 25

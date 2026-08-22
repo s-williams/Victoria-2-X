@@ -1,5 +1,6 @@
-owner = GOD
-controller = GOD
+owner = ALI
+controller = ALI
 add_core = GOD
+add_core = ALI
 trade_goods = fish
 life_rating = 25

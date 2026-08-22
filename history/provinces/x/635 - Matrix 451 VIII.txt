@@ -1,5 +1,6 @@
-owner = XEN
-controller = XEN
+owner = EKK
+controller = EKK
 add_core = XEN
+add_core = EKK
 trade_goods = fish
 life_rating = 25

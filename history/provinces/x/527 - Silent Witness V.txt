@@ -1,2 +1,5 @@
+owner = CKK
+controller = CKK
+add_core = CKK
 trade_goods = fish
 life_rating = 25

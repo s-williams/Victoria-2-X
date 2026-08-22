@@ -1,5 +1,6 @@
-owner = TEL
-controller = TEL
+owner = MIN
+controller = MIN
 add_core = TEL
+add_core = MIN
 trade_goods = fish
 life_rating = 25
