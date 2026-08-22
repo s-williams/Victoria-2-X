@@ -2,8 +2,8 @@
 ##### Country Selection #####;x {
 #############################;x
 GC_NAME;The Lord of the Rings;x
-GC_DESC;Year 2954, of the Third Age. It is a time of great sorrow for the Men of the West. In the past year, both King Fengel of Rohan and Steward Turgon have died. In TA 2951, Sauron declared his return to Mordor, started rebuilding his Dark Tower of Barad-dûr and sent three Nazgûl off to unknown places. In the north, Goblin raids have slowly been increasing, despite their losses in the Battle of the Five Armies. The Elves, as always, look to their own borders, caring not for the troubles of Men, and the Dwarves delve ever deeper into their mountains, too concerned about their riches to be of help. A new great Calamity is coming.;x
-WORLD_YEAR;Middle Earth: TA $YEAR$;x
+GC_DESC;It is the year 2990, 38 years after the initial jumpgate shutdown that plunged the universe into chaos. The network is now stabilised once more, and the scars of previous conflicts have reopened, with new chaos emerging after sectors forged their own path in isolation. Power and profit is open to those who seek to take it.;x
+WORLD_YEAR;EY $YEAR$;x
 ################;x }
 ##### Time #####;x {
 ################;x
@@ -183,6 +183,8 @@ INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes with $MUC
 INFLUENCE_CHANGE_SHORT;Influence with §Y$PASSIVE$§W changed by $MUCH$.\n;x
 HAVE_DIPLOMATIC_INFLUENCE;has more diplomatic influence than;x
 HAVE_LESS_DIPLOMATIC_INFLUENCE;has lower diplomatic influence than;x
+INCREASERELATION_BUTTON;Increase Relations;x
+DECREASERELATION_BUTTON;Decrease Relations;x
 CALLALLY_OFFER;The realm of $ACTOR$, your faithful ally, is requesting that you come to their aid in the $LIST$.;x
 CALLALLY_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
 CALLALLY_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
@@ -242,6 +244,7 @@ RANK_INDUSTRY;Industrial Power;x
 RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of guilds and the total value of the goods output of your realm. §RYou gain 1 point for every 2500 Guild Artisans employed§!;x
 RANK_MILITARY;Military Power;x
 RANK_MILITARY_D;The Military score is a measure of the power of your army, it scores your military by both size and equipment.;x
+RANK_TOTAL_D;The four countries with the highest rank are §YGreat Powers§W who have the ability to influence and control lesser nations. The next four are §YSecondary Powers§W who have the ability to colonize, and will challenge the great powers at times. The final two ranks are §Ycivilized§W and §Yuncivilized§W nations, who are rated depending if they are centralized or not.;x
 TYPE_SPECIAL;Other;x
 PRODUCTION_COST_BUILD;Build Cost: §Y$VAL$§W;x
 PRODUCTION_COST_INPUT;Input Cost: §Y$VAL$§W;x
@@ -368,9 +371,10 @@ LEDGER_EMPLOYED;Employed;x
 LEDGER_LEVEL;Level;x
 LEDGER_HEADER_FACTORYPRODUCTION;Guild production;x
 BUDGET;Budget;x
-BUDGET_TAX_POOR_DESC;;x
-BUDGET_TAX_MIDDLE_DESC;;x
-BUDGET_TAX_RICH_DESC;;x
+BUDGET_INDUSTRIAL_SUBSIDIES;Industrial Subsidies;x
+BUDGET_TAX_POOR_DESC;Tax (Poor);x
+BUDGET_TAX_MIDDLE_DESC;Tax (Middle);x
+BUDGET_TAX_RICH_DESC;Tax (Rich);x
 BUDGET_TOTAL_FUNDS;Total Funds;x
 BUDGET_TOTAL_DEBT;Total Debt;x
 BUDGET_TAKE_LOAN;Take Loan;x
@@ -385,6 +389,7 @@ BUDGET_GOLD_DESC;;x
 BUDGET_MIL_COST_DESC;;x
 BUDGET_NAT_STOCK_DESC;;x
 BUDGET_IND_SUP_DESC;;x
+IND_SUP_DESC;Costs of government subsidizing of factories. National cash reserves will be used to help factories buy goods needed and pay worker salaries;x
 BUDGET_EDUCATION_DESC;;x
 BUDGET_ADMIN_DESC;;x
 BUDGET_SOCIAL_SPEND_DESC;;x
@@ -984,6 +989,9 @@ DIPLOMACY_FRIENDLY_LABEL;Friendly:;x
 DIPLOMACY_CORDIAL_LABEL;Cordial:;x
 DIPLOMACY_SPHERE_LABEL;Sphere:;x
 DIPLOMACY_COLONIALNATION_STATUS;Secondary Power;x
+DIPLOMACY_CIVILIZEDNATION_STATUS;Centralized Nation;x
+DIPLOMACY_UNCIVILIZEDNATION_STATUS;Uncentralized Nation;x
+DIPLOMACY_UNCIVILIZEDNATION_APPEND;(Uncentralized);x
 NEED_POSITIVE_WARSCORE;The War is not going well enough;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our realm, but have only $VALUE$;x
 ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We suspect §Y$WHO$§W is behind this.;x
@@ -1029,25 +1037,48 @@ MILITARY_ADMIRALS_LABEL;Admirals:;x
 MILITARY_GENERALS_LABEL;Generals:;x
 MILITARY_LACK_OF_LEADER;We need at least §Y$VALUE$§W leadership to recruit a leader.;x
 POLITICS;Politics;x
+POLITICS_CAN_DO_SOCIAL_REFROMS;Can enact social reforms;x
+POLITICS_CAN_REVOKE_SOCIAL_REFROMS;Can revoke social reforms;x
+POLITICS_CAN_NOT_DO_SOCIAL_REFROMS;Can't enact social reforms;x
 POLITICS_CAN_DO_POLITICAL_REFROMS;Can enact political reforms;x
 POLITICS_CAN_NOT_DO_POLITICAL_REFROMS;Can't enact political reforms;x
 POLITICS_CAN_REVOKE_POLITICAL_REFROMS;Can revoke political reforms;x
+POLITICS_SUPPORT_REFORM;$IDEOLOGY$: $POSITIVE$% votes yes, $NEGATIVE$% votes no.($PERCENT$% of upperhouse)\n;x
+POLITICS_TOTAL_SUPPORT_REFORM;$PERCENT$% of Upper House votes yes\n;x
+POLITICS_VIEW_ALL_PARTIES_TOOLTIP;View all parties\n;x
+POLITICS_CURRENT_RULING_PARTY_TOOLTIP;Current ruling party: $PARTY$\n;x
 POLITICS_PARTY_TOOLTIP;$PARTY$ ($IDEOLOGY$)\n;x
+POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$% of the upper house are $IDEOLOGY$\n;x
+POLITICS_VOTERS_CHART_TOOLTIP;$PERCENT$% of the voters are $IDEOLOGY$\n;x
+POLITICS_PEOPLE_CHART_TOOLTIP;$PERCENT$% of our population are $IDEOLOGY$\n;x
+POLITICS_SET_RULING_PARTY_TOOLTIP;Select $PARTY$ as our ruling party\n;x
+POLITICS_CANNOT_SET_RULING_PARTY_TOOLTIP;We cannot select $PARTY$ as our ruling party because:\n;x
+HOLD_ELECTION;Hold Election;x
+POLITICS_HOLD_ELECTION_TOOLTIP;Hold election to appoint a new ruling party.\n;x
 POLITICS_CANNOT_HOLD_ELECTION_TOOLTIP;$GOVERNMENT$ does not allow elections.\n;x
 POLITICS_ALREADY_HOLDING_ELECTION_TOOLTIP;An election is under way. A new ruling party will elected $DATE$.\n;x
 POLITICS_SORT_BY_ISSUE_NAME_TOOLTIP;Sort list by issues;x
 POLITICS_SORT_BY_PEOPLE_TOOLTIP;Sort list by how important it is to our population;x
 POLITICS_SORT_BY_VOTERS_TOOLTIP;Sort list by how important it is to our voters;x
-POLITICS_PLURALITY_TOOLTIP;Our Popular Anxiety is $PERCENT$%.\n;x
+POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of of upperhouse in favor of reforms);x
+POLITICS_NATIONALVALUE_TOOLTIP;Our national value is §Y$NATIONALVALUE$§W.\n;x
+POLITICS_PLURALITY_TOOLTIP;Our plurality is $PERCENT$%.\n;x
 POLITICS_REVANCHSIM_TOOLTIP;Our revanchism is $PERCENT$%.\n;x
+REMOVE_HOLD_ELECTION;Hold Election\n;x
 POLITICS_IMPORTANT_ISSUES_DESC;Important Issues;x
+REMOVE_POLITICS_PEOPLE_IDEOLOGIES;People Ideologies;x
+REMOVE_POLITICS_VOTERS_IDEOLOGIES;Voters Ideologies;x
 POLITICS_ISSUE;Issue;x
 POLITICS_PEOPLE;People;x
 POLITICS_VOTERS;Voters;x
+POLITICS_UPPERHOUSE;Upperhouse;x
+POLITICS_SOCIAL_REFORMS;Social Reforms;x
 POLITICS_POLITICAL_REFORMS;Political Reforms;x
+POLITICS_SELECT_NEW_RULER_PARTY;Select New Ruling Party;x
 SLAVE_STATE;Slave State;x
 POLITICS_COUNTRY_MODIFIERS;Country Modifiers;x
 POLITICS_REBELS;Rebels;x
+POLITICS_DECISIONS;Decisions;x
 #;;x
 PRODUCTION;Production;x
 PRODUCTION_CLOSE_WINDOW;Closes production window;x
@@ -3265,6 +3296,7 @@ OL_VIEW_ARMY_CONSTRUCTION;Toggles §YArmy Construction§W view.;x
 OL_VIEW_NAVY_CONSTRUCTION;Toggles §YNavy Construction§W view.;x
 #;;x
 TERM_FOR_LIFE;There are no elections.;x
+CAN_APPOINT_RULING_PARTY;Can appoint ruling party;x
 TERM_DURATION;Elections must be held every $YEARS$ year.;x
 NEXT_ELECTION;Next election is due;x
 #;;x
@@ -3556,6 +3588,7 @@ clerk;Clerk;x
 WORKFORCE_DISTTITLE;Workforce;x
 NATIONALITY_DISTTITLE;Nationality;x
 ELECTORATE_DISTTITLE;Electorate Vote;x
+IDEOLOGY_DISTTITLE;Ideology;x
 DOMINANT_ISSUES_DISTTITLE;Dominant Issues;x
 SECONDARY_ISSUES_DISTTITLE;Secondary Issues;x
 PV_SLICE_DESC;§Y$TYPE$§W: $VAL$%;x
@@ -4913,6 +4946,7 @@ POLITICS_RELEASE_NATIONS;Release realms;x
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;x
 BE_SECOND_RANK;Secondary Power;x
 COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed guild workers:;x
+TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in last §Y$DAYS$§! days.;x
 TOPBAR_POPULATION_VISUAL;Our total population times four is $CURR$.;x
 REL_SPHERE_OF_INFLUENCE;In Sphere;x
 TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: $COUNT$;x
@@ -6065,6 +6099,7 @@ PRODUCTION_CANCEL_SUBSIDIES;Cancel subsidies;x
 PRODUCTION_MONEY_NEEDED;Money needed: $VALUE$;x
 PRODUCTION_TAB_PRODUCTION;Shows production overview of our realm. Also shows the production output of each of our producers;x
 PRODUCTION_TAB_PROJECTS;Shows what our §Y$POPTYPE$§W are planning to build;x
+PRODUCTION_TAB_FACTORIES;Shows overview of all factories in our country;x
 PRODUCTION_NOTHING_PRODUCED;We are not producing any §Y$GOOD$§W in our realm;x
 PRODUCTION_PRODUCING_EACH_DAY;Our §Y$TYPE$§W are producing §Y$VALUE$ $GOOD$§W each day;x
 PRODUCTION_WANTS_EACH_DAY;Our §Y$TYPE$§W needs §Y$VALUE$ $GOOD$§W each day;x
@@ -6207,3 +6242,58 @@ DOMINION_OF;§YDominion§W of;x
 SATELLITE_OF;§YVassal§W of;x
 SORT_BY_INFRA;Sort by average state infrastructure;x
 LEDGER_HEADER_RANK;Nation Ranking;x
+TOPBAR_RULING_PARTY;Our current ruling party is §Y$CURR$§W;x
+COUNTRYALERT_NO_HasClosedFactories;There are no bankrupt factories in our nation;x
+COUNTRYALERT_NO_IsBuildingFactories;We are currently not building/expanding any factories;x
+TOPBAR_HISTORICAL_INCOME;The last §Y$DAYS$§! days, our highest income was $MAX$ and our lowest was $MIN$.;x
+TOPBAR_FUNDS;Yesterday we earned $YESTERDAY$¤. Our current cash reserve is §Y$CASH$§W¤.;x
+TOPBAR_PROJECTED_INCOME;Projected daily income: $VAL$¤;x
+STOCKPILE_COST_ESTIMATED;We §Yestimate§! tomorrow's stockpile purchases will cost:;x
+MILITARY_SPENDINGS_LAND;Spending on §YLand§! units:;x
+MILITARY_SPENDINGS_NAVAL;Spending on §YNaval§! units:;x
+MILITARY_SPENDINGS_PROJECTS;Spending on §YConstructions§!:;x
+STOCKPILE_COST_ACTUAL;Today we §Yactually§! spent on stockpile:;x
+PRODUCTION_OUR_INVEST;Our investment: $AMOUNT$¤ ($PERCENTAGE$%);x
+INVEST_PROJECT_TITLE;Invest into project: "§Y$PROJ$§!" at §Y$LOC$§!;x
+PROVINCEVIEW_GOODSINCOME;Sold §Y$GOODS$§! for §Y$VALUE$§! yesterday;x
+TRADE_FLOW_DESC_ARTISAN;Our Artisans are producing §Y$AMOUNT$ $RESOURCE$§! each day.;x
+TRADE_FLOW_DESC_FACTORY;Our §Y$FACTORY$§! in §Y$STATE$§! is producing §Y$AMOUNT$ $RESOURCE$§! each day.;x
+TRADE_FLOW_CONSUME_DESC_RGO;§Y$POP$§! are using §Y$AMOUNT$ $RESOURCE$§! to produce §Y$OUTPUT$§!.;x
+TRADE_FLOW_CONSUME_DESC_FACTORY;Our §Y$FACTORY$§! in §Y$STATE$§! is using §Y$AMOUNT$ $RESOURCE$§! for an input and/or maintenance requirements.;x
+TRADE_FLOW_CONSUME_DESC_POPS;Our §Y$POP$§! are using §Y$AMOUNT$ $RESOURCE$§! as part of their daily needs.;x
+TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using §Y$AMOUNT$ $RESOURCE$§! as a daily supply consumption.;x
+TRADE_FLOW_MAY_USE_MILITARY_DESC;§Y$INPUT$§! may be used by our armies as a daily supply consumption.;x
+TRADE_FLOW_MAY_USE_DESC;§Y$INPUT$§! may be used by §Y$PRODUCER$§! to produce §Y$OUTPUT$§!.;x
+TRADE_RAW_MATERIALS;Raw Materials;x
+TRADE_INDUSTRIAL_GOODS;Industrial Goods;x
+TRADE_CONSUMER_GOODS;Consumer Goods;x
+TRADE_MILITARY_GOODS;Military Goods;x
+TRADE_NEEDS;Needs;x
+TRADE_MARKET_ACTIVITY;Market Activity;x
+TRADE_STOCKPILE;Stockpile;x
+TRADE_COMMON_MARKET;Common Market;x
+TRADE_POPULATION;Population;x
+TRADE_FACTORIES;Guilds;x
+TRADE_GOVERNMENT;Government;x
+TRADE_NEED;Need;x
+TRADE_GOODS;Goods;x
+TRADE_ACTIVITY;Activity;x
+TRADE_COST;Cost;Gain;x
+TRADE_STOCK;Stock;Stock;x
+TRADE_INCREASE;Increase;x
+TRADE_PRODUCED;Produced;x
+TRADE_EXPORTED;Exported;x
+TRADE_CONFIRM_TRADE;Confirm Trade;x
+TRADE_AUTOMATE;Automate;Automatiser;x
+TRADE_BUY_INTERNAL;Buy Internal;x
+TRADE_BUY_FROM_STOCKPILE;Make stockpile available to the common market;x
+TRADE_SELL;Sell;x
+TRADE_SELLING;Selling stockpile;x
+TRADE_BUYING;Buying up stockpile;x
+TRADE_IN_DEMAND;In high demand;x
+TRADE_NOT_IN_DEMAND;Not in high demand;x
+ACTUAL_BOUGHT;Actual bought: §Y$VAL$§!;x
+SUPPLY;Supply: §Y$VAL$§!;x
+DEMAND;Demand: §Y$VAL$§!;x
+TRADE_PRICE_TREND;Price change since yesterday: §Y$VALUE$§!;x
+TRADE_PRICE_TREND_UNCHANGED;Price unchanged since yesterday;x
