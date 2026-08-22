@@ -43,6 +43,7 @@ Terrain.bmp - ???
     - [ ] Xenon quest for sentience
     - [ ] Random events
     - [ ] Political events
+    - [ ] Add Aldrin?
 
 ## Useful resources
 * https://x3.solasistim.net
