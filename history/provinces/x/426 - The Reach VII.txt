@@ -1,5 +1,5 @@
 owner = AGN
 controller = AGN
 add_core = AGN
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

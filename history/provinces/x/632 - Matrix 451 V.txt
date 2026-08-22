@@ -1,5 +1,5 @@
 owner = XEN
 controller = XEN
 add_core = XEN
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

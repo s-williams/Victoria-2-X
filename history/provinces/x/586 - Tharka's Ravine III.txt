@@ -2,5 +2,5 @@ owner = FRF
 controller = FRF
 add_core = FRF
 add_core = COC
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

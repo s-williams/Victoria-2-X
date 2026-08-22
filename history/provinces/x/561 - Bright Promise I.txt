@@ -1,5 +1,5 @@
 owner = TEL
 controller = TEL
 add_core = TEL
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

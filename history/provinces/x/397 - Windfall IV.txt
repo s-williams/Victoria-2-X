@@ -1,5 +1,5 @@
 owner = VIG
 controller = VIG
 add_core = VIG
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

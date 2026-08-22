@@ -1,5 +1,5 @@
 owner = SOH
 controller = SOH
 add_core = SOH
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

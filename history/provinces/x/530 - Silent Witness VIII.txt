@@ -1,5 +1,5 @@
 owner = SPP
 controller = SPP
 add_core = SPP
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

@@ -1,5 +1,5 @@
 owner = BUC
 controller = BUC
 add_core = BUC
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

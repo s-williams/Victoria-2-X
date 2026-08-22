@@ -1,5 +1,5 @@
 owner = PIO
 controller = PIO
 add_core = PIO
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

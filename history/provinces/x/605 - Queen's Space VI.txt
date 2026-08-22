@@ -1,5 +1,5 @@
 owner = WEN
 controller = WEN
 add_core = WEN
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25

@@ -2,5 +2,5 @@ owner = EKK
 controller = EKK
 add_core = XEN
 add_core = EKK
-trade_goods = fish
+trade_goods = energy_cells
 life_rating = 25
