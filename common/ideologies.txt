@@ -1,5 +1,5 @@
 fascist_group = {
-	fascist = {
+	fascist = { # Xenon
 		uncivilized = no
 		color = { 60 60 60 }
 		date = 1905.1.1
@@ -43,7 +43,7 @@ fascist_group = {
 }	
 
 conservative_group = {
-	reactionary = {
+	reactionary = { # Conservative
 		color = { 30 30 100 }
 		
 		add_political_reform = {
@@ -68,7 +68,7 @@ conservative_group = {
 		}
 	}
 	
-	conservative = {
+	conservative = { # Centrist
 		color = { 10 10 250 }
 		
 		can_reduce_militancy = yes
@@ -228,7 +228,7 @@ conservative_group = {
 	}
 }
 socialist_group = {
-	socialist = {
+	socialist = { # Progressive
 		uncivilized = no
 		color = { 255 0 0 }
 		date = 1860.1.1
@@ -312,7 +312,7 @@ socialist_group = {
 		}
 	}
 	
-	communist = {
+	communist = { # Collectivist
 		uncivilized = no
 		color = { 150 10 10 }
 		date = 1865.1.1
@@ -334,7 +334,7 @@ socialist_group = {
 
 liberal_group = {
 	
-	liberal = {
+	liberal = { # Neoliberal
 		color = { 255 255 0 }
 		
 		
@@ -426,7 +426,7 @@ liberal_group = {
 		}
 	}
 	
-	anarcho_liberal = {
+	anarcho_liberal = { # Corporatist
 		color = { 150 150 10 }
 		date = 1848.1.1
 		
