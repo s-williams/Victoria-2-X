@@ -3,8 +3,7 @@
 
 factory_template = {
 	efficiency = {
-		cement = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
-		machine_parts = 0.05 # was 0.01 cost = 36.5		# 9.825/day/level for both
+		hull_parts = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
 	}
 	
 	owner =
@@ -34,7 +33,7 @@ factory_template = {
 
 cheap_factory_template = {
 	efficiency = {
-		cement = 0.25 #if no cement, work at 75% efficiency #cost = £4/level
+		cement = 0.25 #if no cement, work at 75% efficiency #cost = ï¿½4/level
 		
 	}
 	
@@ -95,8 +94,7 @@ machine_part_user_template = {
 
 cement_template = {
 	efficiency = {
-		iron = 2.3 #if no cement, work at 75% efficiency #cost = 16.0
-		machine_parts = 0.05 # was 0.01 cost = 36.5 		#9.825/day/level for both
+		hull_parts = 2.3 #if no cement, work at 75% efficiency #cost = 16.0
 	}
 	
 	owner =
@@ -126,16 +124,16 @@ cement_template = {
 
 ############# FACTORIES
 
-lumber_mill = {
+silicon_refinery = {
 	template = factory_template
 	input_goods = {
-		timber = 100
+		silicon = 100
 	}
-	output_goods = lumber
+	output_goods = silicon_wafers
 
 	value = 110
 	bonus = {
-		trigger = { trade_goods_in_state = timber }
+		trigger = { trade_goods_in_state = silicon }
 		value = 0.25
 	}
 }
@@ -190,21 +188,6 @@ RGO_template_labourers = {
 	workforce = 40000
 }
 
-
-cattle_ranch = {
-	template = RGO_template_farmers
-	output_goods = cattle 
-	value = 1.8
-	farm = yes
-}
-
-coal_mine = {
-	template = RGO_template_labourers
-	output_goods = coal 
-	value = 2.4
-	mine = yes
-}
-
 coffee_plantation = {
 	template = RGO_template_farmers
 	output_goods = coffee 
@@ -247,13 +230,6 @@ iron_mine = {
 	mine = yes
 }
 
-oil_rig = {
-	template = RGO_template_labourers
-	output_goods = oil 
-	value = 1
-	mine = yes
-}
-
 opium_plantation = {
 	template = RGO_template_farmers
 	output_goods = opium 
@@ -273,13 +249,6 @@ precious_metal_mine = {
 	output_goods = precious_metal 
 	value = 2
 	mine = yes
-}
-
-rubber_lodge = {
-	template = RGO_template_labourers
-	output_goods = rubber 
-	value = 0.75
-	farm = yes
 }
 
 sheep_ranch = {
@@ -310,13 +279,6 @@ tea_plantation = {
 	farm = yes
 }
 
-timber_lodge = {
-	template = RGO_template_labourers
-	output_goods = timber 
-	value = 8
-	farm = yes
-}
-
 tobacco_plantation = {
 	template = RGO_template_farmers
 	output_goods = tobacco 
@@ -324,11 +286,46 @@ tobacco_plantation = {
 	farm = yes
 }
 
-tropical_wood_lodge = {
-	template = RGO_template_labourers
-	output_goods = tropical_wood 
+solar_power_plant = {
+	template = RGO_template_farmers
+	output_goods = energy_cells
 	value = 4
 	farm = yes
+}
+
+methane_mine = {
+	template = RGO_template_labourers
+	output_goods = methane
+	value = 2
+	mine = yes
+}
+
+ore_mine = {
+	template = RGO_template_labourers
+	output_goods = ore
+	value = 2
+	mine = yes
+}
+
+silicon_mine = {
+	template = RGO_template_labourers
+	output_goods = silicon
+	value = 2
+	mine = yes
+}
+
+nvidium_mine = {
+	template = RGO_template_labourers
+	output_goods = nvidium
+	value = 2
+	mine = yes
+}
+
+ice_mine = {
+	template = RGO_template_labourers
+	output_goods = ice
+	value = 2
+	mine = yes
 }
 
 ### Artisans #####################################################################################

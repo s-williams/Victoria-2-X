@@ -65,85 +65,86 @@ industrial_goods = {
 		cost = 3.5
 		color = { 111 111 111 }
 	}
-	timber = { 
+	microchips = { 
 		cost = 0.9
 		color = { 146 72 17 }
 	}
-	tropical_wood = { 
+	scanning_arrays = { 
 		cost = 5.4
 		color = { 213 177 118 }
 	}
-	rubber = { 
+	engine_parts = { 
 		cost = 7.0
 		color = { 123 110 86 }
 	}
-	oil = { 
+	advanced_composites = { 
 		cost = 12.0
 		color = { 0 0 0 }
 	}
-	steel = { 
+	hull_parts = { 
 		cost = 4.7
 		color = { 95 128 147 }
-		available_from_start = no
 	}
-	cement = { 
+	quantum_tubes = { 
 		cost = 16.0
 		color = { 185 187 164 }
 	}
-	machine_parts = { 
+	plasma_conductors = { 
 		cost = 36.5
 		color = { 177 198 196 }
-		available_from_start = no
 	}
-	glass = { 
+	electronics = { 
 		cost = 2.9
 		color = { 201 200 199 }
 	}
-	fuel = { 
+	claytronics = { 
 		cost = 25.00 
-		available_from_start = no
 		color = { 145 110 89 }
-	}
-	fertilizer = { 
-		cost = 10.0
-		color = { 133 101 35 }
-	}
-	explosives = { 
-		cost = 20.00
-		color = { 192 68 20 }
-		available_from_start = no
-	}
-	clipper_convoy = { 
-		cost = 42.00 
-		overseas_penalty = yes
-		available_from_start = no
-		color = { 21 65 30 }
-	}
-	steamer_convoy = { 
-		cost = 65.00
-		available_from_start = no
-		overseas_penalty = yes
-		color = { 76 18 0 }
-	}
-	electric_gear = { 
-		cost = 16.00 
-		available_from_start = no
-		color = { 255 255 0 }
-	}
-	fabric = { 
-		cost = 1.8
-		color = { 186 50 40 }
-	}
-	lumber = { 
-		cost = 1.0
-		color = { 180 94 26 }
 	}
 }
 
 consumer_goods = {
-	paper = { 
+	water = { 
+		cost = 10.0
+		color = { 133 101 35 }
+	}
+	alcohol = { 
+		cost = 20.00
+		color = { 192 68 20 }
+	}
+	protein = { 
+		cost = 42.00 
+		overseas_penalty = yes
+		color = { 21 65 30 }
+	}
+	carbohydrates = { 
+		cost = 65.00
+		overseas_penalty = yes
+		color = { 76 18 0 }
+	}
+	spices = { 
+		cost = 16.00 
+		color = { 255 255 0 }
+	}
+	cloth_rimes = { 
+		cost = 1.8
+		color = { 186 50 40 }
+	}
+	medical_supplies = { 
+		cost = 1.0
+		color = { 180 94 26 }
+	}
+	meal_rations = { 
 		cost = 3.4
 		color = { 216 185 77 }
+	}
+	regular_clothes = { 
+		cost = 5.8
+		color = { 217 17 19 }
+	}
+	luxury_clothes = { 
+		cost = 65.00
+		color = { 234 227 40 }
 	}
 	cattle = { 
 		cost = 2.0
@@ -179,12 +180,10 @@ consumer_goods = {
 	}
 	automobiles = {	
 		cost = 70.00 
-		available_from_start = no
 		color = { 61 67 64 }
 	}
 	telephones = { 
 		cost = 16.00
-		available_from_start = no
 		color = { 123 112 54 }
 	}
 	wine = { 
@@ -195,14 +194,6 @@ consumer_goods = {
 		cost = 6.4
 		color = { 76 5 0 }
 	}
-	regular_clothes = { 
-		cost = 5.8
-		color = { 217 17 19 }
-	}
-	luxury_clothes = { 
-		cost = 65.00
-		color = { 234 227 40 }
-	}
 	furniture = { 
 		cost = 4.9
 		color = { 173 129 40 }
@@ -212,8 +203,7 @@ consumer_goods = {
 		color = { 255 140 184 }
 	}
 	radio = { 
-		cost = 16.00 
-		available_from_start = no
+		cost = 16.00
 		color = { 129 63 6 }
 	}
 }
