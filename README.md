@@ -13,7 +13,7 @@ Terrain.bmp - ???
         - [ ] All flags
         - [ ] Political parties
         - [ ] Starting governments, reforms
-    - [ ] Adjacencies (gates)
+    - [x] Adjacencies (gates)
         - [ ] As province modifiers
     - [ ] Resources on map
     - [ ] Terrains (empty space, nebula, asteroid field, etc)
@@ -35,6 +35,7 @@ Terrain.bmp - ???
     - [ ] Inventions
 - [ ] Flavour
     - [ ] Argon-Antigone
+    - [ ] HFL joining Argon
     - [ ] Terran-Segaris
     - [ ] Paranid Civil War
     - [ ] Split Civil War
