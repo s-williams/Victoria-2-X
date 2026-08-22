@@ -2618,7 +2618,7 @@ paranid_group = {
 
 	paranid = {
 		color = { 185 90 199 }
-		first_names = { Amanckalat Axiom Maximus Nobumancketslat Olmancketslat Tebathimanckatt }
+		first_names = { Amanckalat Axiom Ebmancketvahs Maximus Nobumancketslat Olmancketslat Tebathimanckatt }
 		last_name = { Paranidia }
 	}
 
