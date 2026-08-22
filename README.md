@@ -11,7 +11,7 @@ Terrain.bmp - ???
     - [x] Basic provinces
     - [ ] Starting countries
         - [x] All flags
-        - [ ] Political parties
+        - [/] Political parties
         - [ ] Starting governments, reforms
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
@@ -26,7 +26,7 @@ Terrain.bmp - ???
 - [ ] Politics
     - [ ] Cultures weighted issues/ideologies
 - [ ] Industry
-    - [ ] Resources
+    - [x] Resources
     - [ ] Production types
     - [ ] Buildings
 
