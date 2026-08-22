@@ -221,7 +221,7 @@ social_reforms;Social Reforms;x
 wage_reform;Minimum Wage;x
 no_minimum_wage;No Minimum Wage;x
 no_minimum_wage_desc;No minimum level for wages.;x
-REMOVE_trinket_wage;Symbolic Minimum Wage;x
+trinket_wage;Trinket Minimum Wage;x
 trinket_wage_desc;Minimum wages are very low.;x
 low_minimum_wage;Low Minimum Wage;x
 low_minimum_wage_desc;Minimum wages are low.;x
@@ -360,16 +360,16 @@ trinket_health_care_l;Trinket Healthcare;x
 low_health_care_l;Low Healthcare;x
 acceptable_health_care_l;Acceptable Healthcare;x
 good_health_care_l;Good Healthcare;x
-school_reforms;School system;Système d'éducation;Schulsystem;;;;;;;;;;;x
-no_schools;No School system;Système inexistant;Kein Schulsystem;;;;;;;;;;;x
-low_schools;Basic School system;Système de base;Einfaches Schulsystem;;;;;;;;;;;x
-acceptable_schools;Acceptable School system;Système acceptable;Akzeptables Schulsystem;;;;;;;;;;;x
-good_schools;Good School system;Système de bon niveau;Gutes Schulsystem;;;;;;;;;;;x
-no_schools_l;No School system;Système d'éducation inexistant;Kein Schulsystem;;;;;;;;;;;x
-low_schools_l;Basic School system;Système d'éducation de base;Einfaches Schulsystem;;;;;;;;;;;x
-acceptable_schools_l;Acceptable School system;Système d'éducation acceptable;Akzeptables Schulsystem;;;;;;;;;;;x
-good_schools_l;Good School system;Système d'éducation de bon niveau;Gutes Schulsystem;;;;;;;;;;;x
-no_schools_desc;No public Schools.;Pas d'écoles publiques.;Keine öffentlichen Schulen.;;;;;;;;;;;x
-low_schools_desc;Public Schools are uncommon.;Les écoles publiques sont rares.;Öffentliche Schulen sind nicht verbreitet.;;;;;;;;;;;x
-acceptable_schools_desc;Public Schools are common.;Les écoles publiques sont fréquentes.;Öffentliche Schulen sind verbreitet.;;;;;;;;;;;x
-good_schools_desc;There are really a lot of Public Schools.;Il y a beaucoup d'écoles publiques.;Es gibt wirklich viele öffentliche Schulen.;;;;;;;;;;;x
+school_reforms;School system;x
+no_schools;No School system;x
+low_schools;Basic School system;x
+acceptable_schools;Acceptable School system;x
+good_schools;Good School system;x
+no_schools_l;No School system;x
+low_schools_l;Basic School system;x
+acceptable_schools_l;Acceptable School system;x
+good_schools_l;Good School system;x
+no_schools_desc;No public Schools.;x
+low_schools_desc;Public Schools are uncommon.;x
+acceptable_schools_desc;Public Schools are common.;x
+good_schools_desc;There are really a lot of Public Schools.;x
