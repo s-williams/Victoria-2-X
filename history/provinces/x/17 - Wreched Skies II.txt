@@ -1,5 +1,5 @@
 owner = ZYA
 controller = ZYA
 add_core = ZYA
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 25

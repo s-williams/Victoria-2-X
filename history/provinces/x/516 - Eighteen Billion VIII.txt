@@ -2,5 +2,5 @@ owner = MIN
 controller = MIN
 add_core = TEL
 add_core = MIN
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 25

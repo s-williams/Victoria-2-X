@@ -1,5 +1,5 @@
 owner = TEL
 controller = TEL
 add_core = TEL
-trade_goods = energy_cells
+trade_goods = nividium
 life_rating = 25

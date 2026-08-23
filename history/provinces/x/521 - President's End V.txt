@@ -1,5 +1,5 @@
 owner = AGN
 controller = AGN
 add_core = AGN
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 25

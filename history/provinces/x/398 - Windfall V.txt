@@ -1,5 +1,5 @@
 owner = VIG
 controller = VIG
 add_core = VIG
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 25

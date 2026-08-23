@@ -1,5 +1,5 @@
 owner = PIO
 controller = PIO
 add_core = PIO
-trade_goods = energy_cells
+trade_goods = nividium
 life_rating = 25

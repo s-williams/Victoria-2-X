@@ -2,5 +2,5 @@ owner = SKK
 controller = SKK
 add_core = HOP
 add_core = SKK
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 25

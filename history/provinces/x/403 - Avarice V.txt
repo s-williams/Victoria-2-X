@@ -1,5 +1,5 @@
 owner = RIP
 controller = RIP
 add_core = RIP
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 25

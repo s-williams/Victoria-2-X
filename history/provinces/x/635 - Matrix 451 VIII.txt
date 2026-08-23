@@ -2,5 +2,5 @@ owner = EKK
 controller = EKK
 add_core = XEN
 add_core = EKK
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 25

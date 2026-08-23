@@ -1,5 +1,5 @@
 owner = ANT
 controller = ANT
 add_core = ANT
-trade_goods = energy_cells
+trade_goods = nividium
 life_rating = 25
