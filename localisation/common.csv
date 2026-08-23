@@ -2594,6 +2594,9 @@ MODIFIER_POOR_EVERYDAY_NEEDS;Everyday Needs for Poor Strata;x
 MODIFIER_UNEMPLOYMENT_BENEFIT;Unemployment Benefit;x
 MODIFIER_PENSION_LEVEL;Pension Level;x
 MODIFIER_POPULATION_GROWTH;Population Growth;x
+MODIFIER_FACTORY_INPUT;Factory Input;x
+MODIFIER_FACTORY_OUTPUT;Factory Output;x
+MODIFIER_FACTORY_THROUGHPUT;Factory Throughput;x
 MODIFIER_RGO_INPUT;RGO Input;x
 MODIFIER_RGO_OUTPUT;RGO Output;x
 MODIFIER_RGO_THROUGHPUT;RGO Throughput;x
@@ -3732,8 +3735,11 @@ RULE_DESTROY_FACTORY;Destroy Factories;x
 RULE_CAN_SUBSIDISE;Can Subsidise;x
 RULE_POP_BUILD_FACTORY;Capitalists Build Factories;x
 RULE_POP_OPEN_FACTORY;Capitalists Open Factories;x
+RULE_POP_EXPAND_FACTORY;Pop Expand Factory;x
 RULE_POP_BUILD_FACTORY_INVEST;Investors can build foreign factory;x
 RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factory;x
+RULE_POP_EXPAND_FACTORY_INVEST;Investors can expand foreign factory;x
+RULE_DELETE_FACTORY_IF_NO_INPUT;Delete Factory if No Input;x
 RULE_PRIMARY_CULTURE_VOTING;Primary Culture Voting;x
 RULE_CULTURE_VOTING;Culture Voting;x
 RULE_ALL_VOTING;All Voting;x
