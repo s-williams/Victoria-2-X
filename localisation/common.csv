@@ -241,10 +241,10 @@ MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed wit
 RANK_PRESTIGE;Prestige;x
 RANK_PRESTIGE_D;Prestige is accumulated through cultural development and performing well with your realm;x
 RANK_INDUSTRY;Industrial Power;x
-RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of guilds and the total value of the goods output of your realm. §RYou gain 1 point for every 2500 Guild Artisans employed§!;x
+RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of factories and the total value of the goods output of your realm. §RYou gain 1 point for every 2500 Guild Artisans employed§!;x
 RANK_MILITARY;Military Power;x
 RANK_MILITARY_D;The Military score is a measure of the power of your army, it scores your military by both size and equipment.;x
-RANK_TOTAL_D;The four countries with the highest rank are §YGreat Powers§W who have the ability to influence and control lesser nations. The next four are §YSecondary Powers§W who have the ability to colonize, and will challenge the great powers at times. The final two ranks are §Ycivilized§W and §Yuncivilized§W nations, who are rated depending if they are centralized or not.;x
+RANK_TOTAL_D;The four countries with the highest rank are §YGreat Powers§W who have the ability to influence and control lesser nations. The next four are §YSecondary Powers§W who have the ability to colonize, and will challenge the great powers at times. The final two ranks are §Ycentralized§W and §Yuncentralized§W nations, who are rated depending if they are centralized or not.;x
 TYPE_SPECIAL;Other;x
 PRODUCTION_COST_BUILD;Build Cost: §Y$VAL$§W;x
 PRODUCTION_COST_INPUT;Input Cost: §Y$VAL$§W;x
@@ -1109,8 +1109,8 @@ PRODUCTION_CANNOT_BUILD_MISSING_MONEY_TOOLTIP;You need more money to set up a ne
 PRODUCTION_CANNOT_BUILD_MISSING_SELECTION;Select a Guild from the list\n;x
 PRODUCTION_BUILD_FACTORY_TOOLTIP;Set up a new $GUILD$\n;x
 PRODUCTION_CLOSE_TOOLTIP;Close window\n;x
-PRODUCTION_NOT_ALLOWED_TO_BUILD_TOOLTIP;We are not allowed to build guilds because:\n;x
-PRODUCTION_NOT_ALLOWED_TO_BUILD_MAX_FACTORIES_TOOLTIP;We can only build $NUMBER$ guilds in each state\n;x
+PRODUCTION_NOT_ALLOWED_TO_BUILD_TOOLTIP;We are not allowed to build factories because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_BUILD_MAX_FACTORIES_TOOLTIP;We can only build $NUMBER$ factories in each state\n;x
 PRODUCTION_NOT_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;We cannot change hire priority for this Guild because:\n;x
 PRODUCTION_NOT_ALLOWED_TO_SUBSIDISE_TOOLTIP;We cannot subsidise this Guild because:\n;x
 PRODUCTION_NOT_ALLOWED_TO_CLOSE_TOOLTIP;We cannot close this Guild because:\n;x
@@ -1138,12 +1138,12 @@ PRODUCTION_FACTORIES_IN_STATE;Factories in State\n;
 PRODUCTION_FACTOR_FROM;From;x
 PRODUCTION_FACTOR_OWNER;Owners;x
 PRODUCTION_FACTOR_WORKER;Workers;x
-PRODUCTION_FACTORY_COUNT_TOOLTIP;State guilds: $CURRENT$/$MAX$\n;x
+PRODUCTION_FACTORY_COUNT_TOOLTIP;State factories: $CURRENT$/$MAX$\n;x
 PRODUCTION_FACTORY_UNIQUE_TOOLTIP;No §Y$NAME$§W in state\n;x
 GOODS_PROJECT_COMPLETE;All goods needs fulfilled;x
 GOODS_PROJECT_LACK_GOODS;Gathering the following goods before construction can begin:;x
 BUILDING_IN_PROGRESS;Estimated to finish §Y$DATE$§W;x
-BUILD_CIVILIZED;Civilized;x
+BUILD_CIVILIZED;Centralized;x
 PRODUCTION_RESOURCE_COST;Resource cost:;x
 PRODUCTION_IN_STOCKPILE;In stockpile:;x
 PRODUCTION_BASE_PRICE;Base Price:;x
@@ -1301,6 +1301,7 @@ REMOVEFROMSPHERE_THEY_ACCEPT_LOG;We have removed $RECIPIENT$ from the Sphere of 
 REMOVEFROMSPHERE_WE_ACCEPT_LOG;$ACTOR$ has removed us from the Sphere of Influence of $TARGET$.;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_LOG;$ACTOR$ has removed $RECIPIENT$ from the Sphere of Influence of $TARGET$.;x
 REMOVEFROMSPHERE_BUTTON;Remove from Sphere;x
+REMOVEFROMSPHERE_DESC;Removes nation from a §YGreat Power§W's Sphere of Influence.;x
 INCREASERELATION_THEY_ACCEPT_LOG;We have increased our relations with $RECIPIENT$.;x
 INCREASERELATION_OTHER_ACCEPT_LOG;$ACTOR$ has increased their relations with $RECIPIENT$.;x
 INCREASERELATION_DESC;Increases the relations between our realms.;x
@@ -2425,10 +2426,15 @@ BUILDTYPE_NAVALBASE;Port;x
 BUILDTYPE_FORT;Castle;x
 UV_BACKGROUND;Background: $VAL$;x
 UV_BACKGROUND_LABEL;Background;x
+MOB_SIZE_IRO;We can mobilize §Y$VALUE$§W% of our poor strata into soldiers.;x
+MOB_SIZE_LABEL;Brigades to Mobilize.;x
 MOB_FROM_TECH;From technology: §G+$VALUE$§W;x
 MOB_ECO_IMPACT;Our development reduces it by §G-$VALUE$§W.;x
 MOB_ECO_PENALTY;Currently our development increases impact by §R$VALUE$§W.;x
+MOBILIZATION_IMPACT_LIMIT_DESC;Mobilization impact §Y$IMPACT$§! from §Y$POLICY$§! war policy, limits the amount of mobilized units to §Y$UNITS$§!.;x
+MOBILIZATION_IMPACT_LIMIT_DESC2;(Current amount of raised regiments: §Y$CURR$§!, multiplied by §Y$IMPACT$§!);x
 MOB_IMPACT_LABEL;Production Impact.;x
+NOT_ENOUGH_FOR_BRIGADE;There is not enough currently to mobilize a brigade;x
 COLONIZE_SETTLED;Province already settled;x
 AT_WAR_WITH;At war with:;x
 ALLIED_WITH;Allied with:;x
@@ -3718,8 +3724,14 @@ MODIFIER_FACTORY_OWNER_COST;Factory Owner Cost;x
 RULE_BUILD_FACTORY;Build Factory;x
 RULE_BUILD_RAILWAY;Build Railway;x
 RULE_FACTORY_PRIORITY;Factory Priority;x
+RULE_EXPAND_FACTORY;Expand Factory;x
 RULE_EXPAND_FACTORY_INVEST;Expand foreign factory;x
+RULE_OPEN_FACTORY;Open/Close Factory;x
 RULE_OPEN_FACTORY_INVEST;Open foreign factory;x
+RULE_DESTROY_FACTORY;Destroy Factories;x
+RULE_CAN_SUBSIDISE;Can Subsidise;x
+RULE_POP_BUILD_FACTORY;Capitalists Build Factories;x
+RULE_POP_OPEN_FACTORY;Capitalists Open Factories;x
 RULE_POP_BUILD_FACTORY_INVEST;Investors can build foreign factory;x
 RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factory;x
 RULE_PRIMARY_CULTURE_VOTING;Primary Culture Voting;x
@@ -3824,8 +3836,8 @@ TB_PRODUCTION_PRODUCED;Top produced:;x
 TB_PRODUCTION_LOSING_MONEY;Losing money;x
 TB_PRODUCTION_SHOULD_EXPAND;Guild at full capacity;x
 TB_PRODUCTION_IS_SUBSIDIZING;Is subsidizing;x
-TB_PRODUCTION_CAN_OPEN;Can open guild;x
-TB_PRODUCTION_MOST_PROFITABLE;Most profitable guilds:;x
+TB_PRODUCTION_CAN_OPEN;Can open factories;x
+TB_PRODUCTION_MOST_PROFITABLE;Most profitable factories:;x
 TB_BUDGET_INCOME;Income: $PARAM$;x
 TB_BUDGET_EXPENSE;Expense: $PARAM$;x
 TB_BUDGET_DAILY_BALANCE;Daily balance: $PARAM$;x
@@ -4632,8 +4644,8 @@ MAY_GAS_DEFEND;Can defend against Aerial Support\n;x
 IMMIGRANTS_FROM;There were §G$VAL$§W immigrants from $NAME$.;x
 EMIGRANTS_TO;§R$VAL$§W emigrated to $NAME$.;x
 PW_ALL_FOCUSES_USED;All national focuses are already used.;x
-HAS_NO_FACTORIES;Has NO guilds.\n;x
-HAS_FACTORIES;Has guilds.\n;x
+HAS_NO_FACTORIES;Has NO factories.\n;x
+HAS_FACTORIES;Has factories.\n;x
 RETREAT_DELAY_IRO;There is still §Y$VAL$§W day(s) left until a voluntary retreat can be made.;x
 CULTURE_IS_NOT;Culture is NOT;x
 CULTURE_IS;Culture is;x
@@ -5159,7 +5171,7 @@ MIL_FROM_CAP_SHIPS;Capital Ships;x
 MIL_FROM_LEADERS;Leaders;x
 OCCUPATION_SCORE;Occupation: ;x
 BLOCKADE_SCORE;Blockade: ;x
-OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Employed in guilds (§Y$PERC$§!%);x
+OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Employed in factories (§Y$PERC$§!%);x
 TRADE_SUPPLY_NEED_A;$VAL$ to supply army each day.\n;x
 TRADE_SUPPLY_NEED_N;$VAL$ to supply navy each day.\n;x
 DIPLOMACY_CANNOT_SET_PRIO_WAR;We cannot influence this realm while we have a war with them.;x
@@ -5421,6 +5433,7 @@ OTHERS_CB_DETECTED_SETUP;A war justification process against someone is detected
 OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;x
 OTHERS_CB_DETECTED_1;War Justification;x
 OTHERS_CB_DETECTED_2;An attempt to justify war using;x
+OTHERS_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;x
 OTHERS_CB_DETECTED_4;against $TARGET$ by;x
 OTHERS_CB_DETECTED_5;$COUNTRY$;x
 OTHERS_CB_DETECTED_6;was detected!;x
@@ -5445,7 +5458,7 @@ SIDEMENU_menubar_msg_settings;Click to open message filter settings.;x
 RULE_BUILD_FACTORY_INVEST;Build foreign factory;x
 RULE_BUILD_RAILWAY_INVEST;Investors can build foreign railways;x
 RULE_CAN_INVEST_IN_POP_PROJECTS;Invest in pop projects;x
-RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign guilds;x
+RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factories;x
 MSG_FILTER_HEADER;Messages filter settings;x
 MSG_FILTER_TITLE;We are interested in:;x
 MSG_FILTER_DESELECT;Deselect All;x
@@ -5996,7 +6009,7 @@ TOTAL_TAX_EFFICIENCY;Tax Efficiency: §Y$VAL$§W;x
 TOTAL_TAX_EFFICIENCY_BASED;Calculated from:;x
 TAX_POOR_DESC;This controls how much of the poor strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs.;x
 TAX_MIDDLE_DESC;This controls how much of the middle strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs or businesses;x
-TAX_RICH_DESC;This controls how much of the rich strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs and less likely to invest in projects like building new guilds.;x
+TAX_RICH_DESC;This controls how much of the rich strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs and less likely to invest in projects like building new factories.;x
 MIL_COST_DESC;Supply costs for your military.;x
 NAT_STOCK_DESC;Costs of trades to fill our national stockpile.;x
 TARIFFS_DESC;Tariffs impose an extra cost on imported goods, with the proceeds going to the national treasury. Negative tariffs can be used to help subsidize imports for anyone in your realm;x
@@ -6218,7 +6231,7 @@ DIPLO_WE_DOMINION;We are a dominion of theirs;x
 DIPLO_WE_SATELLITE;We are a vassal of theirs;x
 DIPLO_THEY_DOMINION;They are a dominion of our realm;x
 DIPLO_THEY_SATELLITE;They are a vassal of our realm;x
-BUY_FROM_STOCKPILE_DESC;Allow pops/guilds to buy from realm stockpile;x
+BUY_FROM_STOCKPILE_DESC;Allow pops/factories to buy from realm stockpile;x
 FOCUS_OWNED_BY;You can not place national focus in someone elses province unless it is a potential flashpoint for your cores.;x
 NO_CB_EFFECT;§RWe lack proper justification for this and will incur an infamy penalty§W;x
 M_GOTO_BUTTON;Find realm or Province;x
@@ -6311,3 +6324,20 @@ SUPPLY;Supply: §Y$VAL$§!;x
 DEMAND;Demand: §Y$VAL$§!;x
 TRADE_PRICE_TREND;Price change since yesterday: §Y$VALUE$§!;x
 TRADE_PRICE_TREND_UNCHANGED;Price unchanged since yesterday;x
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;x
+NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;x
+NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial Conquest of $STATE$;x
+NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$ Conquest of $STATE$;x
+NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;x
+NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$ War;x
+NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Submission;x
+NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;x
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND$ War;
+NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;x
+MILITARY_MOBILIZE;Mobilize our Armed Forces;x
+MILITARY_MOBILIZE_DESC;Apart from our standing army, our country can also, in the event of war, draw upon additional resources in the form of conscript levies. By ordering mobilization, our conscript armies will begin amassing at major population centers, and begin preparations for full out war. While mobilization may be essential to overcoming a sizable enemy invasion, we must always be wary of its impact on the national economy.;x
+MILITARY_DEMOBILIZE;Demobilize our Armed Forces;x
+MILITARY_DEMOBILIZE_DESC;By giving the order to stand down, our conscript armies will leave the field of battle and return to their homes. While any country ravaged by the tribulations of war certainly longs for a return to normalcy, we would do well to first ensure that the war is won, before sheathing our sword.;x
+MOBILISE;Mobilize;x
+DEMOBILISE;Demobilize;x
