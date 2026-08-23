@@ -1,654 +1,654 @@
-ID;Name
-1;Space
-2;Emperor's Pride I
-3;Emperor's Pride II
-4;Emperor's Pride III
-5;Emperor's Pride IV
-6;Emperor's Pride V
-7;Emperor's Pride VI
-8;Litany of Fury I
-9;Litany of Fury II
-10;Litany of Fury III
-11;Litany of Fury IV
-12;Litany of Fury V
-13;Litany of Fury VI
-14;Litany of Fury VII
-15;Litany of Fury VIII
-16;Wretched Skies I
-17;Wretched Skies II
-18;Wretched Skies III
-19;Wretched Skies IV
-20;Wretched Skies V
-21;Wretched Skies VI
-22;Family Zhin I
-23;Family Zhin II
-24;Family Zhin III
-25;Family Zhin IV
-26;Family Zhin V
-27;Family Zhin VI
-28;Heretic's End I
-29;Heretic's End II
-30;Heretic's End III
-31;Heretic's End IV
-32;Heretic's End V
-33;Matrix 79B I
-34;Matrix 79B II
-35;Matrix 79B III
-36;Family Kritt I
-37;Family Kritt II
-38;Family Kritt III
-39;Family Kritt IV
-40;Family Kritt V
-41;Family Kritt VI
-42;Rhy's Defiance I
-43;Rhy's Defiance II
-44;Rhy's Defiance III
-45;Rhy's Defiance IV
-46;Rhy's Defiance V
-47;Rhy's Defiance VI
-48;Matrix 598 I
-49;Matrix 598 II
-50;Matrix 598 III
-51;Matrix 598 IV
-52;Zyarth's Dominion I
-53;Zyarth's Dominion II
-54;Zyarth's Dominion III
-55;Zyarth's Dominion IV
-56;Zyarth's Dominion V
-57;Zyarth's Dominion VI
-58;Zyarth's Dominion VII
-59;Zyarth's Dominion VIII
-60;Zyarth's Dominion IX
-61;Family Nhuut I
-62;Family Nhuut II
-63;Family Nhuut III
-64;Family Nhuut IV
-65;Family Nhuut V
-66;Family Nhuut VI
-67;Watchful Gaze I
-68;Watchful Gaze II
-69;Watchful Gaze III
-70;Watchful Gaze IV
-71;Barren Shores I
-72;Barren Shores II
-73;Barren Shores III
-74;Barren Shores IV
-75;Barren Shores V
-76;Great Reef I
-77;Great Reef II
-78;Great Reef III
-79;Great Reef IV
-80;Great Reef V
-81;Great Reef VI
-82;Sanctuary of Darkness I
-83;Sanctuary of Darkness II
-84;Sanctuary of Darkness III
-85;Kingdom End I
-86;Kingdom End II
-87;Kingdom End III
-88;Kingdom End IV
-89;Kingdom End V
-90;Kingdom End VI
-91;Kingdom End VII
-92;Kingdom End VIII
-93;Kingdom End IX
-94;Kingdom End X
-95;Rolk's Demise I
-96;Rolk's Demise II
-97;Rolk's Demise III
-98;Rolk's Demise IV
-99;Rolk's Demise V
-100;Rolk's Demise VI
-101;Atreus' Clouds I
-102;Atreus' Clouds II
-103;Atreus' Clouds III
-104;Atreus' Clouds IV
-105;Atreus' Clouds V
-106;Atreus' Clouds VI
-107;Menelaus' Oasis I
-108;Menelaus' Oasis II
-109;Menelaus' Oasis III
-110;Menelaus' Oasis IV
-111;Menelaus' Oasis V
-112;Menelaus' Oasis VI
-113;Adventure's Promise I
-114;Adventure's Promise II
-115;Adventure's Promise III
-116;Ocean of Fantasy I
-117;Ocean of Fantasy II
-118;Ocean of Fantasy III
-119;Ocean of Fantasy IV
-120;Getsu Fune I
-121;Getsu Fune II
-122;Getsu Fune III
-123;Getsu Fune IV
-124;Getsu Fune V
-125;Getsu Fune VI
-126;Savage Spur I
-127;Savage Spur II
-128;Savage Spur III
-129;Savage Spur IV
-130;Outer Sol I
-131;Outer Sol II
-132;Outer Sol III
-133;Outer Sol IV
-134;Outer Sol V
-135;Outer Sol VI
-136;Outer Sol VII
-137;Outer Sol VIII
-138;Outer Sol IX
-139;Outer Sol X
-140;Outer Sol XI
-141;Inner Sol I
-142;Inner Sol II
-143;Inner Sol III
-144;Inner Sol IV
-145;Inner Sol V
-146;Inner Sol VI
-147;Inner Sol VII
-148;Inner Sol VIII
-149;Inner Sol IX
-150;Inner Sol X
-151;Inner Sol XI
-152;Inner Sol XII
-153;Brennan's Triumph I
-154;Brennan's Triumph II
-155;Brennan's Triumph III
-156;Brennan's Triumph IV
-157;Brennan's Triumph V
-158;Brennan's Triumph VI
-159;Circle of Deceit I
-160;Circle of Deceit II
-161;Circle of Deceit III
-162;Circle of Deceit IV
-163;Sanctum Verge I
-164;Sanctum Verge II
-165;Sanctum Verge III
-166;Sanctum Verge IV
-167;Sanctum Verge V
-168;Tempting Fumes I
-169;Tempting Fumes II
-170;Tempting Fumes III
-171;Tempting Fumes IV
-172;Tempting Fumes V
-173;Tempting Fumes VI
-174;Cardinal's Domain I
-175;Cardinal's Domain II
-176;Cardinal's Domain III
-177;Cardinal's Domain IV
-178;Cardinal's Domain V
-179;Cardinal's Domain VI
-180;Sacred Relic I
-181;Sacred Relic II
-182;Sacred Relic III
-183;Sacred Relic IV
-184;Sacred Relic V
-185;Freedom's Reach I
-186;Freedom's Reach II
-187;Freedom's Reach III
-188;Freedom's Reach IV
-189;Lasting Vengeance I
-190;Lasting Vengeance II
-191;Lasting Vengeance III
-192;Lasting Vengeance IV
-193;Lasting Vengeance V
-194;Cardinal's Redress I
-195;Cardinal's Redress II
-196;Cardinal's Redress III
-197;Cardinal's Redress IV
-198;Cardinal's Redress V
-199;Cardinal's Redress VI
-200;Cardinal's Redress VII
-201;Cardinal's Redress VIII
-202;Gaian Prophecy I
-203;Gaian Prophecy II
-204;Gaian Prophecy III
-205;Gaian Prophecy IV
-206;Gaian Prophecy V
-207;Gaian Prophecy VI
-208;Gaian Prophecy VII
-209;Segaris I
-210;Segaris II
-211;Segaris III
-212;Segaris IV
-213;Segaris V
-214;Segaris VI
-215;Segaris VII
-216;Segaris VIII
-217;Segaris IX
-218;Ore Belt I
-219;Ore Belt II
-220;Ore Belt III
-221;Ore Belt IV
-222;Ore Belt V
-223;Ore Belt VI
-224;Third Redemption I
-225;Third Redemption II
-226;Third Redemption III
-227;Third Redemption IV
-228;Third Redemption V
-229;Third Redemption VI
-230;Third Redemption VII
-231;Frontier Edge I
-232;Frontier Edge II
-233;Frontier Edge III
-234;Frontier Edge IV
-235;Frontier Edge V
-236;Frontier Edge VI
-237;Atiya's Misfortune I
-238;Atiya's Misfortune II
-239;Atiya's Misfortune III
-240;Atiya's Misfortune IV
-241;Atiya's Misfortune V
-242;Atiya's Misfortune VI
-243;Atiya's Misfortune VII
-244;Mists of Artemis I
-245;Mists of Artemis II
-246;Mists of Artemis III
-247;Mists of Artemis IV
-248;Mists of Artemis V
-249;Faulty Logic I
-250;Faulty Logic II
-251;Faulty Logic III
-252;Faulty Logic IV
-253;Holy Vision I
-254;Holy Vision II
-255;Holy Vision III
-256;Holy Vision IV
-257;Holy Vision V
-258;Holy Vision VI
-259;Holy Vision VII
-260;Holy Vision VIII
-261;Holy Vision IX
-262;Holy Vision X
-263;Holy Vision XI
-264;Holy Vision XII
-265;Pontifex's Claim I
-266;Pontifex's Claim II
-267;Pontifex's Claim III
-268;Pontifex's Claim IV
-269;Pontifex's Claim V
-270;Pontifex's Claim VI
-271;Pious Mists I
-272;Pious Mists II
-273;Pious Mists III
-274;Pious Mists IV
-275;Pious Mists V
-276;Pious Mists VI
-277;Pious Mists VII
-278;Moo Kye's Revenge I
-279;Moo Kye's Revenge II
-280;Moo Kye's Revenge III
-281;Moo Kye's Revenge IV
-282;Moo Kye's Revenge V
-283;Moo Kye's Revenge VI
-284;Moo Kye's Revenge VII
-285;Moo Kye's Revenge VIII
-286;Moo Kye's Revenge IX
-287;Mi Ton's Refuge I
-288;Mi Ton's Refuge II
-289;Mi Ton's Refuge III
-290;Mi Ton's Refuge IV
-291;Mi Ton's Refuge V
-292;Mi Ton's Refuge VI
-293;Loomanckstrat's Legacy I
-294;Loomanckstrat's Legacy II
-295;Loomanckstrat's Legacy III
-296;Loomanckstrat's Legacy IV
-297;Loomanckstrat's Legacy V
-298;Loomanckstrat's Legacy VI
-299;Loomanckstrat's Legacy VII
-300;Loomanckstrat's Legacy VIII
-301;Loomanckstrat's Legacy IX
-302;CEO's Doubt I
-303;CEO's Doubt II
-304;CEO's Doubt III
-305;CEO's Doubt IV
-306;CEO's Doubt V
-307;CEO's Doubt VI
-308;CEO's Doubt VII
-309;CEO's Doubt VIII
-310;CEO's Doubt IX
-311;Unholy Retribution I
-312;Unholy Retribution II
-313;Unholy Retribution III
-314;Unholy Retribution IV
-315;Unholy Retribution V
-316;Unholy Retribution VI
-317;Unholy Retribution VII
-318;Unholy Retribution VIII
-319;Nopileos' Fortune I
-320;Nopileos' Fortune II
-321;Nopileos' Fortune III
-322;Nopileos' Fortune IV
-323;Nopileos' Fortune V
-324;Nopileos' Fortune VI
-325;Nopileos' Fortune VII
-326;True Sight I
-327;True Sight II
-328;True Sight III
-329;True Sight IV
-330;True Sight V
-331;Scarlet Star I
-332;Scarlet Star II
-333;Scarlet Star III
-334;Scarlet Star IV
-335;Scarlet Star V
-336;Scarlet Star VI
-337;Void of Opportunity I
-338;Void of Opportunity II
-339;Void of Opportunity III
-340;Void of Opportunity IV
-341;Void of Opportunity V
-342;Void of Opportunity VI
-343;Void of Opportunity VII
-344;Path to Profit I
-345;Path to Profit II
-346;Path to Profit III
-347;Path to Profit IV
-348;Path to Profit V
-349;Antigone Memorial I
-350;Antigone Memorial II
-351;Antigone Memorial III
-352;Antigone Memorial IV
-353;Antigone Memorial V
-354;Antigone Memorial VI
-355;Antigone Memorial VII
-356;The Void I
-357;The Void II
-358;The Void III
-359;The Void IV
-360;The Void V
-361;The Void VI
-362;The Void VII
-363;Second Contact I
-364;Second Contact II
-365;Second Contact III
-366;Second Contact IV
-367;Second Contact V
-368;Second Contact VI
-369;Second Contact VII
-370;Second Contact VIII
-371;Second Contact IX
-372;Second Contact X
-373;Second Contact XI
-374;Second Contact XII
-375;Black Hole Sun I
-376;Black Hole Sun II
-377;Black Hole Sun III
-378;Black Hole Sun IV
-379;Black Hole Sun V
-380;Black Hole Sun VI
-381;Black Hole Sun VII
-382;Black Hole Sun VIII
-383;Black Hole Sun IX
-384;Grand Exchange I
-385;Grand Exchange II
-386;Grand Exchange III
-387;Grand Exchange IV
-388;Grand Exchange V
-389;Grand Exchange VI
-390;Grand Exchange VII
-391;Grand Exchange VIII
-392;Grand Exchange IX
-393;Grand Exchange X
-394;Windfall I
-395;Windfall II
-396;Windfall III
-397;Windfall IV
-398;Windfall V
-399;Avarice I
-400;Avarice II
-401;Avarice III
-402;Avarice IV
-403;Avarice V
-404;Avarice VI
-405;Avarice VII
-406;Avarice VIII
-407;Avarice IX
-408;Nopileos' Memorial I
-409;Nopileos' Memorial II
-410;Nopileos' Memorial III
-411;Nopileos' Memorial IV
-412;Nopileos' Memorial V
-413;Hatikvah's Faith I
-414;Hatikvah's Faith II
-415;Hatikvah's Faith III
-416;Hatikvah's Faith IV
-417;Hatikvah's Faith V
-418;Hatikvah's Faith VI
-419;Hatikvah's Faith VII
-420;The Reach I
-421;The Reach II
-422;The Reach III
-423;The Reach IV
-424;The Reach V
-425;The Reach VI
-426;The Reach VII
-427;Argon Prime I
-428;Argon Prime II
-429;Argon Prime III
-430;Argon Prime IV
-431;Argon Prime V
-432;Argon Prime VI
-433;Argon Prime VII
-434;Argon Prime VIII
-435;Argon Prime IX
-436;Morning Star I
-437;Morning Star II
-438;Morning Star III
-439;Morning Star IV
-440;Morning Star V
-441;Morning Star VI
-442;Morning Star VII
-443;Morning Star VIII
-444;Morning Star IX
-445;Hatikvah's Choice I
-446;Hatikvah's Choice II
-447;Hatikvah's Choice III
-448;Hatikvah's Choice IV
-449;Hatikvah's Choice V
-450;Hatikvah's Choice VI
-451;Hatikvah's Choice VII
-452;Hatikvah's Choice VIII
-453;Tharka's Cascade I
-454;Tharka's Cascade II
-455;Tharka's Cascade III
-456;Tharka's Cascade IV
-457;Tharka's Cascade V
-458;Tharka's Cascade VI
-459;Tharka's Cascade VII
-460;Tharka's Cascade VIII
-461;Scale Plate Green I
-462;Scale Plate Green II
-463;Scale Plate Green III
-464;Scale Plate Green IV
-465;Scale Plate Green V
-466;Scale Plate Green VI
-467;Scale Plate Green VII
-468;Turqoise Sea I
-469;Turqoise Sea II
-470;Turqoise Sea III
-471;Turqoise Sea IV
-472;Turqoise Sea V
-473;Company Regard I
-474;Company Regard II
-475;Company Regard III
-476;Company Regard IV
-477;Company Regard V
-478;Company Regard VI
-479;Company Regard VII
-480;Company Regard VIII
-481;Hewa's Twin I
-482;Hewa's Twin II
-483;Hewa's Twin III
-484;Hewa's Twin IV
-485;Hewa's Twin V
-486;Hewa's Twin VI
-487;Hewa's Twin VII
-488;Trinity Sanctum I
-489;Trinity Sanctum II
-490;Trinity Sanctum III
-491;Trinity Sanctum IV
-492;Trinity Sanctum V
-493;Trinity Sanctum VI
-494;Trinity Sanctum VII
-495;Trinity Sanctum VIII
-496;Memory of Profit I
-497;Memory of Profit II
-498;Memory of Profit III
-499;Memory of Profit IV
-500;Memory of Profit V
-501;Memory of Profit VI
-502;Memory of Profit VII
-503;Memory of Profit VIII
-504;Mitsunos Remembrance I
-505;Mitsunos Remembrance II
-506;Mitsunos Remembrance III
-507;Mitsunos Remembrance IV
-508;Mitsunos Remembrance V
-509;Eighteen Billion I
-510;Eighteen Billion II
-511;Eighteen Billion III
-512;Eighteen Billion IV
-513;Eighteen Billion V
-514;Eighteen Billion VI
-515;Eighteen Billion VII
-516;Eighteen Billion VIII
-517;President's End I
-518;President's End II
-519;President's End III
-520;President's End IV
-521;President's End V
-522;President's End VI
-523;Silent Witness I
-524;Silent Witness II
-525;Silent Witness III
-526;Silent Witness IV
-527;Silent Witness V
-528;Silent Witness VI
-529;Silent Witness VII
-530;Silent Witness VIII
-531;Profit Center Alpha I
-532;Profit Center Alpha II
-533;Profit Center Alpha III
-534;Profit Center Alpha IV
-535;Matrix 101 I
-536;Matrix 101 II
-537;Matrix 101 III
-538;Matrix 101 IV
-539;Matrix 101 V
-540;Two Grand I
-541;Two Grand II
-542;Two Grand III
-543;Two Grand IV
-544;Two Grand V
-545;Two Grand VI
-546;Two Grand VII
-547;Open Market I
-548;Open Market II
-549;Open Market III
-550;Open Market IV
-551;Open Market V
-552;Eleventh Hour I
-553;Eleventh Hour II
-554;Eleventh Hour III
-555;Eleventh Hour IV
-556;Guiding Star I
-557;Guiding Star II
-558;Guiding Star III
-559;Guiding Star IV
-560;Guiding Star V
-561;Bright Promise I
-562;Bright Promise II
-563;Bright Promise III
-564;Bright Promise IV
-565;Bright Promise V
-566;Bright Promise VI
-567;Bright Promise VII
-568;Ianamus Zura I
-569;Ianamus Zura II
-570;Ianamus Zura III
-571;Ianamus Zura IV
-572;Ianamus Zura V
-573;Ianamus Zura VI
-574;Ianamus Zura VII
-575;Ianamus Zura VIII
-576;Ianamus Zura IX
-577;Ianamus Zura X
-578;Ianamus Zura XI
-579;Heart of Acrimony I
-580;Heart of Acrimony II
-581;Heart of Acrimony III
-582;Heart of Acrimony IV
-583;Heart of Acrimony V
-584;Tharka's Ravine I
-585;Tharka's Ravine II
-586;Tharka's Ravine III
-587;Tharka's Ravine IV
-588;Tharka's Ravine V
-589;Tharka's Ravine VI
-590;Tharka's Ravine VII
-591;Tharka's Ravine VIII
-592;Tharka's Ravine IX
-593;Tharka's Ravine X
-594;Tharka's Ravine XI
-595;Thuruk's Demise I
-596;Thuruk's Demise II
-597;Thuruk's Demise III
-598;Thuruk's Demise IV
-599;Thuruk's Demise V
-600;Queen's Space I
-601;Queen's Space II
-602;Queen's Space III
-603;Queen's Space IV
-604;Queen's Space V
-605;Queen's Space VI
-606;Elysium of Light I
-607;Elysium of Light II
-608;Elysium of Light III
-609;Elysium of Light IV
-610;Cloudbase I
-611;Cloudbase II
-612;Cloudbase III
-613;Cloudbase IV
-614;Cloudbase V
-615;Cloudbase VI
-616;Cloudbase VII
-617;Sohnen I
-618;Sohnen II
-619;Sohnen III
-620;Sohnen IV
-621;Matrix 9 I
-622;Matrix 9 II
-623;Matrix 9 III
-624;Matrix 9 IV
-625;Matrix 9 V
-626;Matrix 9 VI
-627;Matrix 9 VII
-628;Matrix 451 I
-629;Matrix 451 II
-630;Matrix 451 III
-631;Matrix 451 IV
-632;Matrix 451 V
-633;Matrix 451 VI
-634;Matrix 451 VII
-635;Matrix 451 VIII
-636;Family Tkr I
-637;Family Tkr II
-638;Family Tkr III
-639;Family Tkr IV
-640;Family Tkr V
-641;Family Tkr VI
-642;Family Tkr VII
-643;Family Tkr VIII
-644;Family Tkr IX
-645;Fires of Defeat I
-646;Fires of Defeat II
-647;Fires of Defeat III
-648;Fires of Defeat IV
-649;Fires of Defeat V
-650;Fires of Defeat VI
-651;Fires of Defeat VII
-652;Rolk's Demise VII
-653;Family Nhuut VII
+ID;Name;Tag;total_pop;aristocrats_pc;aristocrats_bd;capitalists_pc;capitalists_bd;bureaucrats_pc;bureaucrats_bd;officers_pc;officers_bd;soldiers_pc;soldiers_bd;clergymen_pc;clergymen_bd;artisans_pc;artisans_bd;clerks_pc;clerks_bd;craftsmen_pc;craftsmen_bd;slaves_pc;slaves_bd;farmers_labourers_bd;farmers_labourers_pc;comment
+2;Emperor's Pride I;XEN;12500;1.5;100 xenon;0.5;100 xenon;1;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;5;100 xenon;;;;;17;5 split 95 paranid;rest;100 xenon;
+3;Emperor's Pride II;XEN;2250;1;100 xenon;;;1;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;6;100 xenon;;;;;16;10 split 90 paranid;rest;100 xenon;
+4;Emperor's Pride III;XEN;2350;1;100 xenon;;;1;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;5;100 xenon;;;;;15;10 split 90 paranid;rest;100 xenon;
+5;Emperor's Pride IV;XEN;1950;0.5;100 xenon;;;0.5;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;6;100 xenon;;;;;14;10 split 90 paranid;rest;100 xenon;
+6;Emperor's Pride V;XEN;1975;1;100 xenon;;;0.5;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;7;100 xenon;;;;;13;10 split 90 paranid;rest;100 xenon;
+7;Emperor's Pride VI;XEN;1050;1;100 xenon;;;0.5;100 xenon;0.2;100 xenon;4;100 xenon;0.5;100 xenon;6;100 xenon;;;;;12;5 split 95 paranid;rest;100 xenon;
+8;Litany of Fury I;GOD;8500;1.5;100 paranid;0.5;100 paranid;1;100 paranid;0.2;100 paranid;3;100 paranid;0.2;100 paranid;5;100 paranid;;;;;;;rest;100 paranid;
+9;Litany of Fury II;GOD;1500;0.5;100 paranid;;;1;100 paranid;0.2;100 paranid;3;100 paranid;0.1;100 paranid;5;100 paranid;;;;;;;rest;100 paranid;
+10;Litany of Fury III;GOD;1000;0.5;100 paranid;;;1;100 paranid;0.2;100 paranid;3;100 paranid;0.1;100 paranid;5;100 paranid;;;;;;;rest;100 paranid;
+11;Litany of Fury IV;GOD;1250;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;3;100 paranid;0.1;100 paranid;6;100 paranid;;;;;;;rest;100 paranid;
+12;Litany of Fury V;GOD;1300;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;3;100 paranid;0.1;100 paranid;6;100 paranid;;;;;;;rest;100 paranid;
+13;Litany of Fury VI;GOD;1400;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;3;100 paranid;0.1;100 paranid;6;100 paranid;;;;;;;rest;100 paranid;
+14;Litany of Fury VII;GOD;2200;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;2;100 paranid;0.1;100 paranid;5;100 paranid;;;;;;;rest;100 paranid;
+15;Litany of Fury VIII;GOD;1150;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;2;100 paranid;0.1;100 paranid;7;100 paranid;;;;;;;rest;100 paranid;
+16;Wretched Skies I;GOD;3250;0.5;100 paranid;;;0.5;100 paranid;0.2;100 paranid;4;100 paranid;0.1;100 paranid;5;100 paranid;;;;;;;rest;100 paranid;
+17;Wretched Skies II;ZYA;4400;0.5;100 split;;;0.5;100 split;0.3;100 split;3;100 split;0.1;100 split;5;100 split;;;;;;;rest;100 split;
+18;Wretched Skies III;ZYA;3500;0.5;100 split;;;0.75;100 split;0.3;100 split;3;100 split;0.1;100 split;6;100 split;;;;;;;rest;100 split;
+19;Wretched Skies IV;ZYA;3750;0.5;100 split;;;0.25;100 split;0.2;100 split;3;100 split;0.1;100 split;5;100 split;;;;;;;rest;100 split;
+20;Wretched Skies V;ZYA;3950;0.5;100 split;;;0.25;100 split;0.2;100 split;3;100 split;0.1;100 split;5;100 split;;;;;;;rest;100 split;
+21;Wretched Skies VI;ZYA;4125;0.5;100 split;;;0.25;100 split;0.2;100 split;3;100 split;0.1;100 split;6;100 split;;;;;;;rest;100 split;
+22;Family Zhin I;ZYA;11500;1.5;100 split;0.5;;0.3;100 split;0.4;100 split;4;100 split;0.2;100 split;7;100 split;;;;;;;rest;100 split;
+23;Family Zhin II;ZYA;9500;1;100 split;;;0.25;100 split;0.3;100 split;3;100 split;0.2;100 split;5;100 split;;;;;;;rest;100 split;
+24;Family Zhin III;ZYA;9550;1;100 split;;;0.3;100 split;0.2;100 split;3;100 split;0.2;100 split;7;100 split;;;;;;;rest;100 split;
+25;Family Zhin IV;ZYA;10500;1;100 split;;;0.5;100 split;0.2;100 split;3;100 split;0.2;100 split;5;100 split;;;;;;;rest;100 split;
+26;Family Zhin V;ZYA;10000;1;100 split;;;0.5;100 split;0.2;100 split;3;100 split;0.2;100 split;6;100 split;;;;;;;rest;100 split;
+27;Family Zhin VI;ZYA;9750;0.5;100 split;;;0.25;100 split;0.2;100 split;3;100 split;0.2;100 split;5;100 split;;;;;;;rest;100 split;
+28;Heretic's End I;;250;2;100 split;;;;;;;4;100 split;0.2;100 split;6;100 split;;;;;15;50 boron 50 argon;rest;100 split;
+29;Heretic's End II;NKK;12350;1.5;100 khaak;;;0.1;100 khaak;0.3;100 khaak;5;100 khaak;0.4;100 khaak;10;100 khaak;0;;0;;10;70 split 30 argon;rest;100 khaak;
+30;Heretic's End III;;575;2;100 split;;;;;;;4;100 split;;;;;;;;;30;60 boron 40 split;rest;100 split;
+31;Heretic's End IV;;675;2;100 split;;;;;;;4;100 split;;;;;;;;;25;60 split 40 argon;rest;100 split;
+32;Heretic's End V;;325;2;100 split;;;;;;;4;100 split;;;;;;;;;20;50 split 50 argon;rest;100 split;
+33;Matrix 79B I;XEN;3250;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+34;Matrix 79B II;XEN;4550;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+35;Matrix 79B III;XEN;3725;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+36;Family Kritt I;ZYA;3555;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+37;Family Kritt II;ZYA;3255;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+38;Family Kritt III;ZYA;1955;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+39;Family Kritt IV;ZYA;2950;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+40;Family Kritt V;ZYA;2955;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+41;Family Kritt VI;ZYA;3100;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+42;Rhy's Defiance I;XEN;10300;;;;;;;;;;;;;;;;;;;10;100 split;rest;100 xenon;
+43;Rhy's Defiance II;XEN;11000;;;;;;;;;;;;;;;;;;;15;100 split;rest;100 xenon;
+44;Rhy's Defiance III;XEN;8700;;;;;;;;;;;;;;;;;;;12;100 split;rest;100 xenon;
+45;Rhy's Defiance IV;XEN;6000;;;;;;;;;;;;;;;;;;;13;100 split;rest;100 xenon;
+46;Rhy's Defiance V;XEN;6500;;;;;;;;;;;;;;;;;;;14;100 split;rest;100 xenon;
+47;Rhy's Defiance VI;XEN;7600;;;;;;;;;;;;;;;;;;;11;100 split;rest;100 xenon;
+48;Matrix 598 I;XEN;9500;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+49;Matrix 598 II;XEN;8200;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+50;Matrix 598 III;XEN;11250;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+51;Matrix 598 IV;XEN;14500;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+52;Zyarth's Dominion I;ZYA;21500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+53;Zyarth's Dominion II;ZYA;15000;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+54;Zyarth's Dominion III;ZYA;15500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+55;Zyarth's Dominion IV;ZYA;17250;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+56;Zyarth's Dominion V;ZYA;16500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+57;Zyarth's Dominion VI;ZYA;13205;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+58;Zyarth's Dominion VII;ZYA;12250;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+59;Zyarth's Dominion VIII;ZYA;11500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+60;Zyarth's Dominion IX;ZYA;9500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+61;Family Nhuut I;ZYA;18500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+62;Family Nhuut II;ZYA;13500;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+63;Family Nhuut III;ZYA;14000;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+64;Family Nhuut IV;ZYA;14250;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+65;Family Nhuut V;ZYA;17250;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+66;Family Nhuut VI;ZYA;16050;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+67;Watchful Gaze I;;1000;;;;;;;;;;;;;;;;;;;;;rest;50 split 50 boron;
+68;Watchful Gaze II;;1050;;;;;;;;;;;;;;;;;;;;;rest;50 split 50 boron;
+69;Watchful Gaze III;;900;;;;;;;;;;;;;;;;;;;;;rest;50 split 50 boron;
+70;Watchful Gaze IV;;850;;;;;;;;;;;;;;;;;;;;;rest;50 split 50 boron;
+71;Barren Shores I;BOR;5000;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+72;Barren Shores II;BOR;3750;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+73;Barren Shores III;BOR;1240;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+74;Barren Shores IV;BOR;1100;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+75;Barren Shores V;BOR;1050;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+76;Great Reef I;BOR;1550;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+77;Great Reef II;BOR;1250;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+78;Great Reef III;BOR;950;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+79;Great Reef IV;BOR;1025;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+80;Great Reef V;BOR;850;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+81;Great Reef VI;BOR;1125;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+82;Sanctuary of Darkness I;;750;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+83;Sanctuary of Darkness II;WKK;12500;;;;;;;;;;;;;;;;;;;20;100 boron;rest;100 khaak;
+84;Sanctuary of Darkness III;;950;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+85;Kingdom End I;BOR;85500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+86;Kingdom End II;BOR;23500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+87;Kingdom End III;BOR;11500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+88;Kingdom End IV;BOR;15450;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+89;Kingdom End V;BOR;18500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+90;Kingdom End VI;BOR;17500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+91;Kingdom End VII;BOR;19500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+92;Kingdom End VIII;BOR;20200;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+93;Kingdom End IX;BOR;22500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+94;Kingdom End X;BOR;18500;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+95;Rolk's Demise I;BOR;1250;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+96;Rolk's Demise II;BOR;1150;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+97;Rolk's Demise III;BOR;1050;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+98;Rolk's Demise IV;BOR;1275;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+99;Rolk's Demise V;BOR;1375;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+100;Rolk's Demise VI;BOR;1475;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+101;Atreus' Clouds I;BOR;75500;2;75 boron 10 argon 10 teladi 3 split 2 paranid;;;;;0.3;100 boron;;;;;;;;;;;;;rest;80 boron 10 argon 9 teladi 1 split;
+102;Atreus' Clouds II;BOR;49500;2;85 boron 10 argon 5 teladi;;;;;0.4;100 boron;;;;;;;;;;;;;rest;80 boron 10 argon 9 teladi 1 paranid;
+103;Atreus' Clouds III;BOR;48750;2;85 boron 5 argon 10 teladi;;;;;0.2;100 boron;;;;;;;;;;;;;rest;80 boron 5 argon 5 teladi 5 split 5 paranid;
+104;Atreus' Clouds IV;BOR;56500;2;90 boron 5 argon 5 teladi;;;;;0.3;100 boron;;;;;;;;;;;;;rest;80 boron 5 argon 10 teladi 5 split;
+105;Atreus' Clouds V;BOR;45650;2;95 boron 5 teladi;;;;;0.4;100 boron;;;;;;;;;;;;;rest;85 boron 5 argon 5 teladi 5 split;
+106;Atreus' Clouds VI;BOR;52250;1.5;95 boron 5 argon;;;;;0.5;100 boron;;;;;;;;;;;;;rest;85 boron 5 argon 5 teladi 5 paranid;
+107;Menelaus' Oasis I;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+108;Menelaus' Oasis II;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+109;Menelaus' Oasis III;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+110;Menelaus' Oasis IV;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+111;Menelaus' Oasis V;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+112;Menelaus' Oasis VI;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+113;Adventure's Promise I;;950;;;;;;;;;;;;;;;;;;;;;rest;50 boron 25 paranid 25 argon;
+114;Adventure's Promise II;;975;;;;;;;;;;;;;;;;;;;;;rest;35 boron 25 paranid 25 argon 15 terran;
+115;Adventure's Promise III;;875;;;;;;;;;;;;;;;;;;;;;rest;45 boron 25 paranid 25 argon 5 terran;
+116;Ocean of Fantasy I;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+117;Ocean of Fantasy II;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+118;Ocean of Fantasy III;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+119;Ocean of Fantasy IV;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+120;Getsu Fune I;;250;;;;;;;;;;;;;;;;;;;;;rest;5 boron 15 paranid 20 teladi 60 argon;
+121;Getsu Fune II;;300;;;;;;;;;;;;;;;;;;;;;rest;20 boron 20 teladi 20 paranid 40 argon;
+122;Getsu Fune III;;325;;;;;;;;;;;;;;;;;;;;;rest;15 boron 15 paranid 40 argon 30 terran;
+123;Getsu Fune IV;;275;;;;;;;;;;;;;;;;;;;;;rest;15 boron 15 teladi 30 argon 10 split 30 paranid;
+124;Getsu Fune V;;245;;;;;;;;;;;;;;;;;;;;;rest;35 boron 35 argon 30 paranid;
+125;Getsu Fune VI;;315;;;;;;;;;;;;;;;;;;;;;rest;30 boron 50 argon 20 teladi;
+126;Savage Spur I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+127;Savage Spur II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+128;Savage Spur III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+129;Savage Spur IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+130;Outer Sol I;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+131;Outer Sol II;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+132;Outer Sol III;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+133;Outer Sol IV;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+134;Outer Sol V;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+135;Outer Sol VI;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+136;Outer Sol VII;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+137;Outer Sol VIII;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+138;Outer Sol IX;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+139;Outer Sol X;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+140;Outer Sol XI;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+141;Inner Sol I;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+142;Inner Sol II;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+143;Inner Sol III;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+144;Inner Sol IV;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+145;Inner Sol V;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+146;Inner Sol VI;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+147;Inner Sol VII;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+148;Inner Sol VIII;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+149;Inner Sol IX;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+150;Inner Sol X;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+151;Inner Sol XI;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+152;Inner Sol XII;TER;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+153;Brennan's Triumph I;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+154;Brennan's Triumph II;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+155;Brennan's Triumph III;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+156;Brennan's Triumph IV;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+157;Brennan's Triumph V;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+158;Brennan's Triumph VI;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+159;Circle of Deceit I;;;;;;;;;;;;;;;;;;;;;;;rest;80 terran 20 paranid;
+160;Circle of Deceit II;;;;;;;;;;;;;;;;;;;;;;;rest;85 terran 15 paranid;
+161;Circle of Deceit III;;;;;;;;;;;;;;;;;;;;;;;rest;90 terran 10 paranid;
+162;Circle of Deceit IV;;;;;;;;;;;;;;;;;;;;;;;rest;95 terran 5 paranid;
+163;Sanctum Verge I;;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+164;Sanctum Verge II;;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+165;Sanctum Verge III;;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+166;Sanctum Verge IV;;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+167;Sanctum Verge V;;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+168;Tempting Fumes I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+169;Tempting Fumes II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+170;Tempting Fumes III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+171;Tempting Fumes IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+172;Tempting Fumes V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+173;Tempting Fumes VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+174;Cardinal's Domain I;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+175;Cardinal's Domain II;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+176;Cardinal's Domain III;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+177;Cardinal's Domain IV;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+178;Cardinal's Domain V;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+179;Cardinal's Domain VI;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+180;Sacred Relic I;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+181;Sacred Relic II;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+182;Sacred Relic III;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+183;Sacred Relic IV;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+184;Sacred Relic V;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+185;Freedom's Reach I;;;;;;;;;;;;;;;;;;;;;;;rest;65 paranid 35 teladi;
+186;Freedom's Reach II;;;;;;;;;;;;;;;;;;;;;;;rest;95 paranid 5 teladi;
+187;Freedom's Reach III;;;;;;;;;;;;;;;;;;;;;;;rest;90 paranid 10 teladi;
+188;Freedom's Reach IV;;;;;;;;;;;;;;;;;;;;;;;rest;90 paranid 5 teladi 5 argon;
+189;Lasting Vengeance I;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+190;Lasting Vengeance II;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+191;Lasting Vengeance III;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+192;Lasting Vengeance IV;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+193;Lasting Vengeance V;SKK;;;;;;;;;;;;;;;;;;;;25;100 paranid;rest;100 khaak;
+194;Cardinal's Redress I;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+195;Cardinal's Redress II;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+196;Cardinal's Redress III;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+197;Cardinal's Redress IV;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+198;Cardinal's Redress V;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+199;Cardinal's Redress VI;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+200;Cardinal's Redress VII;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+201;Cardinal's Redress VIII;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+202;Gaian Prophecy I;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+203;Gaian Prophecy II;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+204;Gaian Prophecy III;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+205;Gaian Prophecy IV;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+206;Gaian Prophecy V;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+207;Gaian Prophecy VI;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+208;Gaian Prophecy VII;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+209;Segaris I;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+210;Segaris II;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+211;Segaris III;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+212;Segaris IV;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+213;Segaris V;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+214;Segaris VI;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+215;Segaris VII;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+216;Segaris VIII;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+217;Segaris IX;PIO;;;;;;;;;;;;;;;;;;;;;;rest;100 terran;
+218;Ore Belt I;;;;;;;;;;;;;;;;;;;;;;;rest;75 argon 25 teladi;
+219;Ore Belt II;;;;;;;;;;;;;;;;;;;;;;;rest;70 argon 30 teladi;
+220;Ore Belt III;;;;;;;;;;;;;;;;;;;;;;;rest;65 argon 35 teladi;
+221;Ore Belt IV;;;;;;;;;;;;;;;;;;;;;;;rest;80 argon 20 teladi;
+222;Ore Belt V;;;;;;;;;;;;;;;;;;;;;;;rest;85 argon 15 teladi;
+223;Ore Belt VI;;;;;;;;;;;;;;;;;;;;;;;rest;80 argon 20 teladi;
+224;Third Redemption I;;;;;;;;;;;;;;;;;;;;;;;rest;50 argon 50 paranid;
+225;Third Redemption II;;;;;;;;;;;;;;;;;;;;;;;rest;45 argon 55 paraid;
+226;Third Redemption III;;;;;;;;;;;;;;;;;;;;;;;rest;55 argon 55 paranid;
+227;Third Redemption IV;;;;;;;;;;;;;;;;;;;;;;;rest;60 argon 40 paranid;
+228;Third Redemption V;;;;;;;;;;;;;;;;;;;;;;;rest;40 argon 60 paranid;
+229;Third Redemption VI;;;;;;;;;;;;;;;;;;;;;;;rest;35 argon 65 paranid;
+230;Third Redemption VII;;;;;;;;;;;;;;;;;;;;;;;rest;30 argon 70 paranid;
+231;Frontier Edge I;;;;;;;;;;;;;;;;;;;;;;;rest;85 argon 15 teladi;
+232;Frontier Edge II;;;;;;;;;;;;;;;;;;;;;;;rest;80 argon 15 teladi 5 paranid;
+233;Frontier Edge III;;;;;;;;;;;;;;;;;;;;;;;rest;80 argon 10 teladi 10 paranid;
+234;Frontier Edge IV;;;;;;;;;;;;;;;;;;;;;;;rest;70 argon 15 teladi 15 paranid;
+235;Frontier Edge V;;;;;;;;;;;;;;;;;;;;;;;rest;75 argon 10 teladi 15 paranid;
+236;Frontier Edge VI;;;;;;;;;;;;;;;;;;;;;;;rest;75 argon 20 teladi 5 paranid;
+237;Atiya's Misfortune I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+238;Atiya's Misfortune II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+239;Atiya's Misfortune III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+240;Atiya's Misfortune IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+241;Atiya's Misfortune V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+242;Atiya's Misfortune VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+243;Atiya's Misfortune VII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+244;Mists of Artemis I;;;;;;;;;;;;;;;;;;;;;;;rest;50 argon 50 teladi;
+245;Mists of Artemis II;;;;;;;;;;;;;;;;;;;;;;;rest;55 argon 45 teladi;
+246;Mists of Artemis III;;;;;;;;;;;;;;;;;;;;;;;rest;45 argon 55 teladi;
+247;Mists of Artemis IV;;;;;;;;;;;;;;;;;;;;;;;rest;40 argon 60 teladi;
+248;Mists of Artemis V;;;;;;;;;;;;;;;;;;;;;;;rest;60 argon 40 teladi;
+249;Faulty Logic I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+250;Faulty Logic II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+251;Faulty Logic III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+252;Faulty Logic IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+253;Holy Vision I;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+254;Holy Vision II;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+255;Holy Vision III;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+256;Holy Vision IV;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+257;Holy Vision V;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+258;Holy Vision VI;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+259;Holy Vision VII;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+260;Holy Vision VIII;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+261;Holy Vision IX;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+262;Holy Vision X;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+263;Holy Vision XI;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+264;Holy Vision XII;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+265;Pontifex's Claim I;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+266;Pontifex's Claim II;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+267;Pontifex's Claim III;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+268;Pontifex's Claim IV;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+269;Pontifex's Claim V;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+270;Pontifex's Claim VI;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+271;Pious Mists I;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+272;Pious Mists II;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+273;Pious Mists III;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+274;Pious Mists IV;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+275;Pious Mists V;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+276;Pious Mists VI;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+277;Pious Mists VII;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+278;Moo Kye's Revenge I;;;;;;;;;;;;;;;;;;;;;;;rest;50 paranid 50 teladi;
+279;Moo Kye's Revenge II;;;;;;;;;;;;;;;;;;;;;;;rest;55 paranid 45 teladi;
+280;Moo Kye's Revenge III;;;;;;;;;;;;;;;;;;;;;;;rest;60 paranid 40 teladi;
+281;Moo Kye's Revenge IV;;;;;;;;;;;;;;;;;;;;;;;rest;65 paranid 35 teladi;
+282;Moo Kye's Revenge V;;;;;;;;;;;;;;;;;;;;;;;rest;45 paranid 55 teladi;
+283;Moo Kye's Revenge VI;;;;;;;;;;;;;;;;;;;;;;;rest;40 paranid 60 teladi;
+284;Moo Kye's Revenge VII;;;;;;;;;;;;;;;;;;;;;;;rest;35 paranid 65 teladi;
+285;Moo Kye's Revenge VIII;;;;;;;;;;;;;;;;;;;;;;;rest;45 paranid 45 teladi 10 argon;
+286;Moo Kye's Revenge IX;;;;;;;;;;;;;;;;;;;;;;;rest;40 paranid 45 teladi 15 argon;
+287;Mi Ton's Refuge I;;;;;;;;;;;;;;;;;;;;;;;rest;80 teladi 15 paranid 5 argon;
+288;Mi Ton's Refuge II;;;;;;;;;;;;;;;;;;;;;;;rest;95 teladi 5 paranid;
+289;Mi Ton's Refuge III;;;;;;;;;;;;;;;;;;;;;;;rest;90 teladi 10 paranid;
+290;Mi Ton's Refuge IV;;;;;;;;;;;;;;;;;;;;;;;rest;90 teladi 5 paranid 5 argon;
+291;Mi Ton's Refuge V;;;;;;;;;;;;;;;;;;;;;;;rest;85 teladi 10 paranid 5 argon;
+292;Mi Ton's Refuge VI;;;;;;;;;;;;;;;;;;;;;;;rest;95 teladi 5 argon;
+293;Loomanckstrat's Legacy I;;;;;;;;;;;;;;;;;;;;;;;rest;80 teladi 15 paranid 5 argon;
+294;Loomanckstrat's Legacy II;;;;;;;;;;;;;;;;;;;;;;;rest;95 teladi 5 paranid;
+295;Loomanckstrat's Legacy III;;;;;;;;;;;;;;;;;;;;;;;rest;90 teladi 10 paranid;
+296;Loomanckstrat's Legacy IV;;;;;;;;;;;;;;;;;;;;;;;rest;90 teladi 5 paranid 5 argon;
+297;Loomanckstrat's Legacy V;;;;;;;;;;;;;;;;;;;;;;;rest;85 teladi 10 paranid 5 argon;
+298;Loomanckstrat's Legacy VI;;;;;;;;;;;;;;;;;;;;;;;rest;95 teladi 5 argon;
+299;Loomanckstrat's Legacy VII;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+300;Loomanckstrat's Legacy VIII;;;;;;;;;;;;;;;;;;;;;;;rest;75 teladi 15 argon 10 paranid;
+301;Loomanckstrat's Legacy IX;;;;;;;;;;;;;;;;;;;;;;;rest;80 teladi 10 paranid 5 argon 5 split;
+302;CEO's Doubt I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+303;CEO's Doubt II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+304;CEO's Doubt III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+305;CEO's Doubt IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+306;CEO's Doubt V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+307;CEO's Doubt VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+308;CEO's Doubt VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+309;CEO's Doubt VIII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+310;CEO's Doubt IX;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+311;Unholy Retribution I;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+312;Unholy Retribution II;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+313;Unholy Retribution III;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+314;Unholy Retribution IV;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+315;Unholy Retribution V;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+316;Unholy Retribution VI;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+317;Unholy Retribution VII;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+318;Unholy Retribution VIII;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+319;Nopileos' Fortune I;;;;;;;;;;;;;;;;;;;;;;;rest;75 paranid 25 teladi;
+320;Nopileos' Fortune II;BUC;;;;;;;;;;;;;;;;;;;;;;rest;95 paranid 5 teladi;
+321;Nopileos' Fortune III;BUC;;;;;;;;;;;;;;;;;;;;;;rest;95 paranid 5 teladi;
+322;Nopileos' Fortune IV;BUC;;;;;;;;;;;;;;;;;;;;;;rest;95 paranid 5 teladi;
+323;Nopileos' Fortune V;;;;;;;;;;;;;;;;;;;;;;;rest;80 paranid 20 teladi;
+324;Nopileos' Fortune VI;;;;;;;;;;;;;;;;;;;;;;;rest;85 paranid 15 teladi;
+325;Nopileos' Fortune VII;;;;;;;;;;;;;;;;;;;;;;;rest;90 paranid 10 teladi;
+326;True Sight I;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+327;True Sight II;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+328;True Sight III;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+329;True Sight IV;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+330;True Sight V;HOP;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+331;Scarlet Star I;;;;;;;;;;;;;;;;;;;;;;;rest;50 teladi 25 argon 25 paranid;
+332;Scarlet Star II;;;;;;;;;;;;;;;;;;;;;;;rest;55 teladi 20 argon 25 paranid;
+333;Scarlet Star III;;;;;;;;;;;;;;;;;;;;;;;rest;60 teladi 20 argon 20 paranid;
+334;Scarlet Star IV;;;;;;;;;;;;;;;;;;;;;;;rest;45 teladi 30 argon 25 paranid;
+335;Scarlet Star V;;;;;;;;;;;;;;;;;;;;;;;rest;50 teladi 30 argon 20 paranid;
+336;Scarlet Star VI;;;;;;;;;;;;;;;;;;;;;;;rest;55 teladi 30 argon 15 paranid;
+337;Void of Opportunity I;;;;;;;;;;;;;;;;;;;;;;;rest;50 teladi 25 argon 25 paranid;
+338;Void of Opportunity II;;;;;;;;;;;;;;;;;;;;;;;rest;55 teladi 20 argon 25 paranid;
+339;Void of Opportunity III;;;;;;;;;;;;;;;;;;;;;;;rest;60 teladi 20 argon 20 paranid;
+340;Void of Opportunity IV;;;;;;;;;;;;;;;;;;;;;;;rest;45 teladi 30 argon 25 paranid;
+341;Void of Opportunity V;;;;;;;;;;;;;;;;;;;;;;;rest;50 teladi 30 argon 20 paranid;
+342;Void of Opportunity VI;;;;;;;;;;;;;;;;;;;;;;;rest;55 teladi 30 argon 15 paranid;
+343;Void of Opportunity VII;;;;;;;;;;;;;;;;;;;;;;;rest;60 teladi 30 argon 10 paranid;
+344;Path to Profit I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+345;Path to Profit II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+346;Path to Profit III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+347;Path to Profit IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+348;Path to Profit V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+349;Antigone Memorial I;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+350;Antigone Memorial II;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+351;Antigone Memorial III;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+352;Antigone Memorial IV;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+353;Antigone Memorial V;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+354;Antigone Memorial VI;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+355;Antigone Memorial VII;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+356;The Void I;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+357;The Void II;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+358;The Void III;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+359;The Void IV;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+360;The Void V;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+361;The Void VI;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+362;The Void VII;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+363;Second Contact I;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+364;Second Contact II;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+365;Second Contact III;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+366;Second Contact IV;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+367;Second Contact V;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+368;Second Contact VI;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+369;Second Contact VII;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+370;Second Contact VIII;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+371;Second Contact IX;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+372;Second Contact X;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+373;Second Contact XI;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+374;Second Contact XII;ANT;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+375;Black Hole Sun I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+376;Black Hole Sun II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+377;Black Hole Sun III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+378;Black Hole Sun IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+379;Black Hole Sun V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+380;Black Hole Sun VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+381;Black Hole Sun VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+382;Black Hole Sun VIII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+383;Black Hole Sun IX;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+384;Grand Exchange I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+385;Grand Exchange II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+386;Grand Exchange III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+387;Grand Exchange IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+388;Grand Exchange V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+389;Grand Exchange VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+390;Grand Exchange VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+391;Grand Exchange VIII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+392;Grand Exchange IX;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+393;Grand Exchange X;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+394;Windfall I;VIG;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+395;Windfall II;VIG;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+396;Windfall III;VIG;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+397;Windfall IV;VIG;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+398;Windfall V;VIG;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+399;Avarice I;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+400;Avarice II;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+401;Avarice III;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+402;Avarice IV;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+403;Avarice V;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+404;Avarice VI;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+405;Avarice VII;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+406;Avarice VIII;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+407;Avarice IX;RIP;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+408;Nopileos' Memorial I;;;;;;;;;;;;;;;;;;;;;;;rest;50 teladi 50 paranid;
+409;Nopileos' Memorial II;;;;;;;;;;;;;;;;;;;;;;;rest;55 teladi 45 paranid;
+410;Nopileos' Memorial III;;;;;;;;;;;;;;;;;;;;;;;rest;45 teladi 55 teladi;
+411;Nopileos' Memorial IV;;;;;;;;;;;;;;;;;;;;;;;rest;60 teladi 40 paranid;
+412;Nopileos' Memorial V;;;;;;;;;;;;;;;;;;;;;;;rest;40 teladi 60 paranid;
+413;Hatikvah's Faith I;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+414;Hatikvah's Faith II;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+415;Hatikvah's Faith III;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+416;Hatikvah's Faith IV;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+417;Hatikvah's Faith V;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+418;Hatikvah's Faith VI;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+419;Hatikvah's Faith VII;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+420;The Reach I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;Lorewise full of aristocrats
+421;The Reach II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+422;The Reach III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+423;The Reach IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+424;The Reach V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+425;The Reach VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+426;The Reach VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+427;Argon Prime I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+428;Argon Prime II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+429;Argon Prime III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+430;Argon Prime IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+431;Argon Prime V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+432;Argon Prime VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+433;Argon Prime VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+434;Argon Prime VIII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+435;Argon Prime IX;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+436;Morning Star I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+437;Morning Star II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+438;Morning Star III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+439;Morning Star IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+440;Morning Star V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+441;Morning Star VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+442;Morning Star VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+443;Morning Star VIII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+444;Morning Star IX;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+445;Hatikvah's Choice I;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+446;Hatikvah's Choice II;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+447;Hatikvah's Choice III;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+448;Hatikvah's Choice IV;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+449;Hatikvah's Choice V;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+450;Hatikvah's Choice VI;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+451;Hatikvah's Choice VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+452;Hatikvah's Choice VIII;HFL;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+453;Tharka's Cascade I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+454;Tharka's Cascade II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+455;Tharka's Cascade III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+456;Tharka's Cascade IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+457;Tharka's Cascade V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+458;Tharka's Cascade VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+459;Tharka's Cascade VII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+460;Tharka's Cascade VIII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+461;Scale Plate Green I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+462;Scale Plate Green II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+463;Scale Plate Green III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+464;Scale Plate Green IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+465;Scale Plate Green V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+466;Scale Plate Green VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+467;Scale Plate Green VII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+468;Turqoise Sea I;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+469;Turqoise Sea II;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+470;Turqoise Sea III;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+471;Turqoise Sea IV;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+472;Turqoise Sea V;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+473;Company Regard I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+474;Company Regard II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+475;Company Regard III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+476;Company Regard IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+477;Company Regard V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+478;Company Regard VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+479;Company Regard VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+480;Company Regard VIII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+481;Hewa's Twin I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+482;Hewa's Twin II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+483;Hewa's Twin III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+484;Hewa's Twin IV;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+485;Hewa's Twin V;;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+486;Hewa's Twin VI;SPP;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+487;Hewa's Twin VII;SPP;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+488;Trinity Sanctum I;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+489;Trinity Sanctum II;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+490;Trinity Sanctum III;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+491;Trinity Sanctum IV;ALI;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+492;Trinity Sanctum V;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+493;Trinity Sanctum VI;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+494;Trinity Sanctum VII;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+495;Trinity Sanctum VIII;GOD;;;;;;;;;;;;;;;;;;;;;;rest;100 paranid;
+496;Memory of Profit I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+497;Memory of Profit II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+498;Memory of Profit III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+499;Memory of Profit IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+500;Memory of Profit V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+501;Memory of Profit VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+502;Memory of Profit VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+503;Memory of Profit VIII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+504;Mitsunos Remembrance I;QTA;;;;;;;;;;;;;;;;;;;;;;rest;100 quettanaut;
+505;Mitsunos Remembrance II;QTA;;;;;;;;;;;;;;;;;;;;;;rest;100 quettanaut;
+506;Mitsunos Remembrance III;QTA;;;;;;;;;;;;;;;;;;;;;;rest;100 quettanaut;
+507;Mitsunos Remembrance IV;QTA;;;;;;;;;;;;;;;;;;;;;;rest;100 quettanaut;
+508;Mitsunos Remembrance V;QTA;;;;;;;;;;;;;;;;;;;;;;rest;100 quettanaut;
+509;Eighteen Billion I;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+510;Eighteen Billion II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+511;Eighteen Billion III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+512;Eighteen Billion IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+513;Eighteen Billion V;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+514;Eighteen Billion VI;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+515;Eighteen Billion VII;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+516;Eighteen Billion VIII;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+517;President's End I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+518;President's End II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+519;President's End III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+520;President's End IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+521;President's End V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+522;President's End VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+523;Silent Witness I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+524;Silent Witness II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+525;Silent Witness III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+526;Silent Witness IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+527;Silent Witness V;CKK;;;;;;;;;;;;;;;;;;;;20;100 argon;rest;100 khaak;
+528;Silent Witness VI;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+529;Silent Witness VII;;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+530;Silent Witness VIII;SPP;;;;;;;;;;;;;;;;;;;;;;rest;80 teladi 20 argon;
+531;Profit Center Alpha I;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+532;Profit Center Alpha II;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+533;Profit Center Alpha III;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+534;Profit Center Alpha IV;MIN;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+535;Matrix 101 I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+536;Matrix 101 II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+537;Matrix 101 III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+538;Matrix 101 IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+539;Matrix 101 V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+540;Two Grand I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+541;Two Grand II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+542;Two Grand III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+543;Two Grand IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+544;Two Grand V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+545;Two Grand VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+546;Two Grand VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+547;Open Market I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+548;Open Market II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+549;Open Market III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+550;Open Market IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+551;Open Market V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+552;Eleventh Hour I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+553;Eleventh Hour II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+554;Eleventh Hour III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+555;Eleventh Hour IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+556;Guiding Star I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+557;Guiding Star II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+558;Guiding Star III;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+559;Guiding Star IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+560;Guiding Star V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+561;Bright Promise I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+562;Bright Promise II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+563;Bright Promise III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+564;Bright Promise IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+565;Bright Promise V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+566;Bright Promise VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+567;Bright Promise VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+568;Ianamus Zura I;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+569;Ianamus Zura II;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+570;Ianamus Zura III;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+571;Ianamus Zura IV;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+572;Ianamus Zura V;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+573;Ianamus Zura VI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+574;Ianamus Zura VII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+575;Ianamus Zura VIII;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+576;Ianamus Zura IX;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+577;Ianamus Zura X;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+578;Ianamus Zura XI;TEL;;;;;;;;;;;;;;;;;;;;;;rest;100 teladi;
+579;Heart of Acrimony I;;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+580;Heart of Acrimony II;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+581;Heart of Acrimony III;;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+582;Heart of Acrimony IV;;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+583;Heart of Acrimony V;;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+584;Tharka's Ravine I;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+585;Tharka's Ravine II;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+586;Tharka's Ravine III;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+587;Tharka's Ravine IV;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+588;Tharka's Ravine V;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+589;Tharka's Ravine VI;XEN;;;;;;;;;;;;;;;;;;;;15;100 split;rest;100 xenon;
+590;Tharka's Ravine VII;XEN;;;;;;;;;;;;;;;;;;;;20;100 split;rest;100 xenon;
+591;Tharka's Ravine VIII;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+592;Tharka's Ravine IX;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+593;Tharka's Ravine X;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+594;Tharka's Ravine XI;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+595;Thuruk's Demise I;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+596;Thuruk's Demise II;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+597;Thuruk's Demise III;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+598;Thuruk's Demise IV;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+599;Thuruk's Demise V;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+600;Queen's Space I;WEN;5500;;;;;;;;;;;;;;;;;;;;;rest;100 wenendra ;
+601;Queen's Space II;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+602;Queen's Space III;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+603;Queen's Space IV;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+604;Queen's Space V;WEN;1250;;;;;;;;;;;;;;;;;;;;;rest;100 wenendra ;
+605;Queen's Space VI;WEN;1350;;;;;;;;;;;;;;;;;;;;;rest;100 wenendra ;
+606;Elysium of Light I;GON;;;;;;;;;;;;;;;;;;;;;;rest;100 goner;
+607;Elysium of Light II;GON;;;;;;;;;;;;;;;;;;;;;;rest;100 goner;
+608;Elysium of Light III;GON;;;;;;;;;;;;;;;;;;;;;;rest;100 goner;
+609;Elysium of Light IV;GON;;;;;;;;;;;;;;;;;;;;;;rest;100 goner;
+610;Cloudbase I;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+611;Cloudbase II;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+612;Cloudbase III;GON;;;;;;;;;;;;;;;;;;;;;;rest;80 goner 20 argon;
+613;Cloudbase IV;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+614;Cloudbase V;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+615;Cloudbase VI;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+616;Cloudbase VII;AGN;;;;;;;;;;;;;;;;;;;;;;rest;100 argon;
+617;Sohnen I;SOH;;;;;;;;;;;;;;;;;;;;;;rest;100 sohnen;
+618;Sohnen II;SOH;;;;;;;;;;;;;;;;;;;;;;rest;100 sohnen;
+619;Sohnen III;SOH;;;;;;;;;;;;;;;;;;;;;;rest;100 sohnen;
+620;Sohnen IV;SOH;;;;;;;;;;;;;;;;;;;;;;rest;100 sohnen;
+621;Matrix 9 I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+622;Matrix 9 II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+623;Matrix 9 III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+624;Matrix 9 IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+625;Matrix 9 V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+626;Matrix 9 VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+627;Matrix 9 VII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+628;Matrix 451 I;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+629;Matrix 451 II;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+630;Matrix 451 III;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+631;Matrix 451 IV;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+632;Matrix 451 V;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+633;Matrix 451 VI;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+634;Matrix 451 VII;XEN;;;;;;;;;;;;;;;;;;;;;;rest;100 xenon;
+635;Matrix 451 VIII;EKK;;;;;;;;;;;;;;;;;;;;10;100 split;rest;100 khaak;
+636;Family Tkr I;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+637;Family Tkr II;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+638;Family Tkr III;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+639;Family Tkr IV;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+640;Family Tkr V;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+641;Family Tkr VI;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+642;Family Tkr VII;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+643;Family Tkr VIII;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+644;Family Tkr IX;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+645;Fires of Defeat I;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+646;Fires of Defeat II;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+647;Fires of Defeat III;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+648;Fires of Defeat IV;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+649;Fires of Defeat V;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+650;Fires of Defeat VI;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+651;Fires of Defeat VII;FRF;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+652;Rolk's Demise VII;BOR;;;;;;;;;;;;;;;;;;;;;;rest;100 boron;
+653;Family Nhuut VII;ZYA;;;;;;;;;;;;;;;;;;;;;;rest;100 split;
+;;;;;;;;;;;;;;;;;;;;;;;;rest;;
