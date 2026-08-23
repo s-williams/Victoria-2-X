@@ -1,6 +1,6 @@
 capital = 488
-primary_culture = greek
-religion = orthodox
+primary_culture = paranid
+religion = paranid
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

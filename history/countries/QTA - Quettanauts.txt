@@ -1,9 +1,6 @@
 capital = 504
-primary_culture = mashriqi
-culture = bedouin
-culture = misri
-culture = maghrebi
-religion = sunni
+primary_culture = quettanaut
+religion = agi
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order

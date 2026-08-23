@@ -1,9 +1,8 @@
 capital = 394
-primary_culture = mashriqi
-culture = bedouin
-culture = misri
-culture = maghrebi
-religion = sunni
+primary_culture = argon
+culture = terran
+culture = goner
+religion = human
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
