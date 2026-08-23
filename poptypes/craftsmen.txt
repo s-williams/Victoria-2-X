@@ -5,16 +5,24 @@ color = { 12 157 162 }
 
 strata = poor
 
-
+everyday_needs = {
+	energy_cells = 0.5
+	water = 0.1
+}
 
 everyday_needs = {
+	meal_rations = 1
+	regular_clothes = 1
+	medical_supplies = 0.5
 }
-
-life_needs = {
-}
-
 
 luxury_needs = {
+	luxury_clothes = 0.5
+	cloth_rimes = 0.1
+	spices = 0.1
+	alcohol = 0.2
+	microchips = 0.1
+	electronics = 0.1
 }
 
 

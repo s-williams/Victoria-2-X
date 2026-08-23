@@ -15,14 +15,24 @@ rebel =
 	irregular = 0
 }
 
-everyday_needs = {
-}
-
 life_needs = {
+	energy_cells = 2.2
+	water = 0.2
 }
 
+everyday_needs = {
+	meal_rations = 2.5
+	regular_clothes = 2.5
+	medical_supplies = 1.5
+}
 
 luxury_needs = {
+	luxury_clothes = 3.0
+	cloth_rimes = 0.1
+	spices = 0.5
+	alcohol = 1.5
+	microchips = 0.1
+	electronics = 0.1
 }
 
 
