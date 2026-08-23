@@ -241,7 +241,7 @@ MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed wit
 RANK_PRESTIGE;Prestige;x
 RANK_PRESTIGE_D;Prestige is accumulated through cultural development and performing well with your realm;x
 RANK_INDUSTRY;Industrial Power;x
-RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of factories and the total value of the goods output of your realm. §RYou gain 1 point for every 2500 Guild Artisans employed§!;x
+RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of factories and the total value of the goods output of your realm. §RYou gain 1 point for every 2500 Craftsmen employed§!;x
 RANK_MILITARY;Military Power;x
 RANK_MILITARY_D;The Military score is a measure of the power of your army, it scores your military by both size and equipment.;x
 RANK_TOTAL_D;The four countries with the highest rank are §YGreat Powers§W who have the ability to influence and control lesser nations. The next four are §YSecondary Powers§W who have the ability to colonize, and will challenge the great powers at times. The final two ranks are §Ycentralized§W and §Yuncentralized§W nations, who are rated depending if they are centralized or not.;x
@@ -352,7 +352,7 @@ LEDGER_COUNTRY_STATUS;Status;x
 LEDGER_HEADER_COUNTRYCOMPARE;National Comparison;x
 LEDGER_COUNTRY_TOTAL_POP;Total pop.;x
 LEDGER_COUNTRY_PROVCOUNT;Provinces;x
-LEDGER_COUNTRY_FACTORYCOUNT;Guilds;x
+LEDGER_COUNTRY_FACTORYCOUNT;Factories;x
 LEDGER_COUNTRY_LITERACY;Literacy;x
 LEDGER_COUNTRY_LEADERSHIP;Leadership;x
 LEDGER_COUNTRY_DIVISIONS;Brigades;x
@@ -369,7 +369,7 @@ LEDGER_OUTPUT;Output;x
 LEDGER_INCOME;Income;x
 LEDGER_EMPLOYED;Employed;x
 LEDGER_LEVEL;Level;x
-LEDGER_HEADER_FACTORYPRODUCTION;Guild production;x
+LEDGER_HEADER_FACTORYPRODUCTION;Factory production;x
 BUDGET;Budget;x
 BUDGET_INDUSTRIAL_SUBSIDIES;Industrial Subsidies;x
 BUDGET_TAX_POOR;Tax (Poor);x
@@ -529,48 +529,26 @@ FE_METASERVER;Metaserver;x
 FE_BACK;Back;x
 FE_PLAYER;Player;x
 FE_PLAYER_NAME;Player name:;x
-FE_SINGLE_PLAYER;Adventure Alone;x
-FE_MULTI_PLAYER;Join a Fellowship;x
-FE_TUTORIAL;TTA Information;x
+FE_SINGLE_PLAYER;Single Player;x
+FE_MULTI_PLAYER;Multi Player;x
+FE_TUTORIAL;Tutorial;x
 FE_OPTIONS;Settings;x
 FE_CREDITS;Credits;x
-FE_EXIT;Leave Middle Earth;x
+FE_EXIT;Exit X;x
 FE_BASIC;Highlights;x
-FE_SECONDARY_REALM_1;The Rivermen of the Celduin;x
-FE_SECONDARY_REALM_DESCRIPTION_1;Nestled along the banks of the Celduin River, the Rivermen are scattered among various kingdoms centered around larger settlements. Unite them to face the ever growing threats from the Amov Clan and the Barding Realm!;x
-FE_SECONDARY_REALM_2;The Amov Clan;x
-FE_SECONDARY_REALM_DESCRIPTION_2;The dawn breaks, and warhorns sound. The formerly migrating tribe of the Amov Clan has finally settled on the western banks of the Carnen. The local Northmen bested, the Khan turns his gaze father west, towards the unoccupied lands directly adjacent, and the Northmen kingdoms beyond. Can you take command and lead the clan to glory?;x
-FE_PRIMARY_REALM_1;The Barding Realm;x
-FE_PRIMARY_REALM_DESCRIPTION_1;Rising like a phoenix out of the ashes of Smaug's desolation is the Barding Realm. Having united all Lakemen and their Adhalling brothers under one banner, the Bardings look east to unite with all of Gramavuld.\n\nTo the east, lies the lands of the leaderless Grammas and to the southeast along the Celdiun, lie the Rivermen. To unite Gramavuld, both culture will need to join the realm.\n\nFinally, to the south, lies the old Northmen home of Rhovanion. Depopulated and weak, a stronger realm could claim themselves the heir to Vidugavia and unite the Northmen of Rhovanion.\n\nWill you be able to bring justice to the Grammas, subjugate the Rivermen, and lay claim to Rhovanion?;;x
-FE_MECHANIC_1;The Alliance of Dwarves and Men;x
-FE_MECHANIC_DESCRIPTION_1;Starting off just containing the Dwarves of Erebor and the Barding Realm, the Alliance of Dwarves and Men in a new diplomatic mechanic for any good-aligned realm within Rhovanion, Mirkwood and the Anduin Vale.\n\nMembership brings a number of benefits, including the ability to tranfer cores, call alliance members into wars, unlock flavor specific to your realm, and even take steps towards a powerful unification tag, the Free Folk of the North!\n\nDespite the name, the alliance is not limited to just Dwarves and Men -- Elves and Hobbits can join too assuming they are good-aligned. Will you be able to expand the alliance across Rhovanion, and the unite them into the Free Folk of the North?;x
-FE_MEDIUM;Changelog;x
-FE_CHANGELOG_HIGHLIGHTS;Highlights;x
-FE_CHANGELOG_HIGHLIGHTS_DESCRIPTION;• Ahistorical Barding Realm flavor\n• Political Rework;x
-FE_CHANGELOG_GRAPHICS_CONTENT;Graphics;x
-FE_CHANGELOG_GRAPHICS_CONTENT_DESCRIPTION;• Unit Models from CK2 by Trigori\n• Newspaper remodel\n• More terrain descriptions and tweaks;x
-FE_CHANGELOG_MECHANICS_CONTENT;Political Rework;x
-FE_CHANGELOG_MECHANICS_CONTENT_DESCRIPTION;• Leaders become political parties\n• Ideologies stay as interest groups, but interest groups are much more specific than "High Nobility", "Low Nobility", etc...\n• Upper House renamed Council of the Realm\n• Interest Groups support reforms only when they are in power\n• Alignments Renamed and made a party reform\n• Good Alignment renamed Anti-Sauron\n• Neutral Alignment renamed Opportunistic\n• Evil Alignment renamed Sauronite\n• Change Alignment cb removed\n• Reforms rebalanced\n• Government Type consolidation\n• Old leader system (that replaced national value) replaced with heirloom system\n• Dynamic Traits removed\n• Added Pretender Rebels, removed many others\n• Trade and Tax Policy re-added (from vanilla);x
+FE_MEDIUM;Medium;x
 FE_TAGS_CONTENT;Content;x
 FE_TAGS_CONTENT_DESCRIPTION;• Extra minor flavor\n• Myriad of bug fixes\n• Unaccepted bureaucrats automatically demote into labourers\n• New flags by SneakyDeer and Argelia4President;x
 FE_CULTURES_CONTENT; ;x
 FE_CULTURES_CONTENT_DESCRIPTION; ;x
-FE_ADVANCED;Recommended Realms;x
-FE_LEGACY_FLAVOR;Legacy Flavor;x
-FE_LEGACY_FLAVOR_1;Kingdom of Gondor;x
-FE_MINOR_FLAVOR;Minor Flavor;x
-FE_MINOR_FLAVOR_1;Kaupaborg;x
-FE_MINOR_FLAVOR_2;Amov Clan;x
-FE_MAJOR_FLAVOR;Major Flavor;x
-FE_MAJOR_FLAVOR_1;Barding Realm;x
-FE_TTA_VERSION;V0.5.1: Bearers of the Black Arrow, Political Rework Edition;x
-FE_NATION_TO_PLAY;Click the realm you wish to play...;x
+FE_ADVANCED;Advanced;x
+FE_NATION_TO_PLAY;Click the nation you wish to play...;x
 FE_NEW_GAME;New Game;x
 FE_SAVE_GAME;Save Games;x
 FE_HISTORICAL_START;Historical Start;x
 FE_SAVED_GAMES;Saved Games;x
-FE_SELECT_NATION;Click on the map to select a realm...;x
-FE_NO_COUNTRY_SELECTED;No realm selected;x
+FE_SELECT_NATION;Click on the map to select a nation...;x
+FE_NO_COUNTRY_SELECTED;No nation selected;x
 FE_MILITARY;Military;x
 FE_ECONOMY;Economy;x
 FE_DIPLOMACY;Diplomacy;x
@@ -861,11 +839,12 @@ MILITARY_SCORE;Military: §Y$VAL$§W;x
 INDUSTRIAL_SCORE;Industry: §Y$VAL$§W;x
 BE_POPULATION;Population:;x
 BE_PROVINCES;Provinces:;x
-BE_FACTORIES;Guilds:;x
+BE_FACTORIES;Factories:;x
 BE_LITERACY;Literacy:;x
 BE_NAVY;Warships:;x
 BE_ARMY;Brigades:;x
 BE_GOV;Government:;x
+BE_PARTY;Ruling party:;x
 BA_WORK_FORCE;Work Force;x
 BA_IDEOLOGY;Interest Group;x
 BE_IN_SPHERE_OF;In sphere of $COUNTRY$;x
@@ -1100,30 +1079,31 @@ PRODUCTION_FACTORY_LEVEL_TOOLTIP;Level: $LEVEL$/$MAX$\n;x
 PRODUCTION_FACTORY_INCOME_TOOLTIP;Last day's income: $INCOME$\n;x
 PRODUCTION_FACTORY_MONEY_TOOLTIP;Current money: $MONEY$\n;x
 PRODUCTION_FACTORY_EMPLOYEECOUNT_TOOLTIP;Current affiliates: $EMPLOYEES$/$EMPLOYEE_MAX$\n;x
-PRODUCTION_BUILD_NEW_FACTORY_TOOLTIP;Set up a new Guild;x
+PRODUCTION_BUILD_NEW_FACTORY_TOOLTIP;Set up a new Factory;x
 PRODUCTION_EFFICIENCY_TOOLTIP;;x
 PRODUCTION_SORT_BY_NAME;Name;x
-PRODUCTION_SORT_BY_FACTORIES;Guilds;x
+PRODUCTION_SORT_BY_FACTORIES;Factories;x
 PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE;Available workforce;x
 PRODUCTION_SORT_BY_NAME_TOOLTIP;Sort by state name\n;x
-PRODUCTION_CANNOT_BUILD_MISSING_RGO_OUTPUT_TOOLTIP;This state does not produce any of the inputs for the artisans of the Guild\n;x
-PRODUCTION_CANNOT_BUILD_MISSING_GOODS_TOOLTIP;You do not have enough goods to set up this Guild\n;x
-PRODUCTION_CANNOT_BUILD_MISSING_MONEY_TOOLTIP;You need more money to set up a new Guild\n;x
-PRODUCTION_CANNOT_BUILD_MISSING_SELECTION;Select a Guild from the list\n;x
-PRODUCTION_BUILD_FACTORY_TOOLTIP;Set up a new $GUILD$\n;x
+PRODUCTION_SORT_BY_FACTORIES_TOOLTIP;Sort by number of factories\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_RGO_OUTPUT_TOOLTIP;This state does not produce any of the inputs for the artisans of the Factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_GOODS_TOOLTIP;You do not have enough goods to set up this Factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_MONEY_TOOLTIP;You need more money to set up a new Factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_SELECTION;Select a Factory from the list\n;x
+PRODUCTION_BUILD_FACTORY_TOOLTIP;Set up a new $FACTORY$\n;x
 PRODUCTION_CLOSE_TOOLTIP;Close window\n;x
 PRODUCTION_NOT_ALLOWED_TO_BUILD_TOOLTIP;We are not allowed to build factories because:\n;x
 PRODUCTION_NOT_ALLOWED_TO_BUILD_MAX_FACTORIES_TOOLTIP;We can only build $NUMBER$ factories in each state\n;x
-PRODUCTION_NOT_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;We cannot change hire priority for this Guild because:\n;x
-PRODUCTION_NOT_ALLOWED_TO_SUBSIDISE_TOOLTIP;We cannot subsidise this Guild because:\n;x
-PRODUCTION_NOT_ALLOWED_TO_CLOSE_TOOLTIP;We cannot close this Guild because:\n;x
-PRODUCTION_NOT_ALLOWED_TO_OPEN_TOOLTIP;We cannot open this Guild because:\n;x
-PRODUCTION_NOT_ALLOWED_TO_UPGRADE_TOOLTIP;We cannot upgrade this Guild because:\n;x
-PRODUCTION_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;Changes hire priority in Guild\n;x
-PRODUCTION_ALLOWED_TO_SUBSIDISE_TOOLTIP;Subsidise Guild\n;x
-PRODUCTION_ALLOWED_TO_CLOSE_TOOLTIP;Shut down Guild\n;x
-PRODUCTION_ALLOWED_TO_OPEN_TOOLTIP;Reopen Guild\n;x
-PRODUCTION_ALLOWED_TO_UPGRADE_TOOLTIP;Upgrade Guild\n;x
+PRODUCTION_NOT_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;We cannot change hire priority for this Factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_SUBSIDISE_TOOLTIP;We cannot subsidise this Factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_CLOSE_TOOLTIP;We cannot close this Factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_OPEN_TOOLTIP;We cannot open this Factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_UPGRADE_TOOLTIP;We cannot upgrade this Factory because:\n;x
+PRODUCTION_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;Changes hire priority in Factory\n;x
+PRODUCTION_ALLOWED_TO_SUBSIDISE_TOOLTIP;Subsidise Factory\n;x
+PRODUCTION_ALLOWED_TO_CLOSE_TOOLTIP;Shut down Factory\n;x
+PRODUCTION_ALLOWED_TO_OPEN_TOOLTIP;Reopen Factory\n;x
+PRODUCTION_ALLOWED_TO_UPGRADE_TOOLTIP;Upgrade Factory\n;x
 PRODUCTION_OUTPUT_GOODS_TOOLTIP;Produces §Y$CURR$§W each day\n;x
 PRODUCTION_OUTPUT_EXPLANATION;(Base x Throughput x Output);x
 PRODUCTION_INPUT_EXPLANATION;(Base x Throughput x Input);x
@@ -2422,7 +2402,7 @@ SOLMP_DETAILS;There is currently §Y$CURRENT$§W brigades recruited from this pr
 PROVTIP_NAVAL_BASE;Closest Port: ;x
 COLONIZE_CLOSEST_BASE_TO_FAR;No port close enough;x
 CONFIRM_CREATE_STATE_TITLE;Create State;x
-BUILDTYPE_FACTORY;Guild;x
+BUILDTYPE_FACTORY;Factory;x
 BUILDTYPE_RGO;Rgo;x
 BUILDTYPE_INFRASTRUCTURE;Infrastructure;x
 BUILDTYPE_NAVALBASE;Port;x
@@ -2589,8 +2569,8 @@ MODIFIER_MIDDLE_VOTE;Middle Vote;x
 MODIFIER_POOR_VOTE;Poor Vote;x
 MODIFIER_MINIMUN_WAGE;Minimum Wage;x
 MODIFIER_POOR_LUXURY_NEEDS;Luxury Needs for Poor Strata;x
-MODIFIER_FACTORY_EFFICIENCY;Guild Efficiency;x
-MODIFIER_FACTORY_MAINTENANCE;Guild Maintenance;x
+MODIFIER_FACTORY_EFFICIENCY;Factory Efficiency;x
+MODIFIER_FACTORY_MAINTENANCE;Factory Maintenance;x
 MODIFIER_RICH_EVERYDAY_NEEDS;Everyday Needs for Rich Strata;x
 MODIFIER_MIDDLE_EVERYDAY_NEEDS;Everyday Needs for Middle Strata;x
 MODIFIER_POOR_EVERYDAY_NEEDS;Everyday Needs for Poor Strata;x
@@ -3289,7 +3269,7 @@ ANY_CORE_PROVINCE;Any Core;x
 OL_COMBAT;Combats;x
 OL_ARMIES;Armies;x
 OL_NAVIES;Navies;x
-OL_STATEBUILDING_CONSTRUCTION;Guild construction;x
+OL_STATEBUILDING_CONSTRUCTION;Factory construction;x
 OL_PROVINCE_CONSTRUCTION;Province construction;x
 OL_ARMY_CONSTRUCTION;Army construction;x
 OL_NAVY_CONSTRUCITON;Navy construction;x
@@ -3307,7 +3287,7 @@ OL_VIEW_COMBAT;Toggles §YCombat§W view.;x
 OL_VIEW_NAVALCOMBAT;Toggles §YNaval Combat§W view.;x
 OL_VIEW_ARMIES;Toggles §YArmy§W view.;x
 OL_VIEW_NAVIES;Toggles §YNavy§W view.;x
-OL_VIEW_FACTORIES;Toggles §YGuild Construction§W view.;x
+OL_VIEW_FACTORIES;Toggles §YFactory Construction§W view.;x
 OL_VIEW_BUILDINGS;Toggles §YBuilding Construction§W view.;x
 OL_VIEW_ARMY_CONSTRUCTION;Toggles §YArmy Construction§W view.;x
 OL_VIEW_NAVY_CONSTRUCTION;Toggles §YNavy Construction§W view.;x
@@ -3845,7 +3825,7 @@ POPULATION;Population;x
 TRADE;Trade;x
 TB_PRODUCTION_PRODUCED;Top produced:;x
 TB_PRODUCTION_LOSING_MONEY;Losing money;x
-TB_PRODUCTION_SHOULD_EXPAND;Guild at full capacity;x
+TB_PRODUCTION_SHOULD_EXPAND;Factory at full capacity;x
 TB_PRODUCTION_IS_SUBSIDIZING;Is subsidizing;x
 TB_PRODUCTION_CAN_OPEN;Can open factories;x
 TB_PRODUCTION_MOST_PROFITABLE;Most profitable factories:;x
@@ -4009,8 +3989,8 @@ NOT_WORK_AVAILABLE;No work available for;x
 WORK_AVAILABLE;Work available for;x
 HAVE_PRESTIGE_LESS_THAN;Prestige less than;x
 HAVE_PRESTIGE_MORE_THAN;Prestige at least;x
-CAN_NOT_BUILD_FACTORY;Can not build guild.\n;x
-CAN_BUILD_FACTORY;Can not build guild.\n;x
+CAN_NOT_BUILD_FACTORY;Can not build factory.\n;x
+CAN_BUILD_FACTORY;Can not build factory.\n;x
 GEN_POP_HAVE;Must have $WHAT$;x
 GEN_POP_NOT_HAVE;Must not have $WHAT$.;x
 IS_NOT_SPHERELEADER_OF;Has NOT $ADJ$ in sphere of influence.;x
@@ -4610,8 +4590,8 @@ ENDGAME_DESC;Over one hundred momentous years have passed and we have entered th
 NEEDS_BOUGHT;Estimated needs for today:;x
 TOTAL_NEEDS_BOUGHT;Estimated needs cost:;x
 TOTAL_SOLD_FOR;Yesterday we produced $NUM$ §Y$GOOD$§W which sold for $CASH$;x
-COULDNT_AFFORD;Guild couldn't afford to buy all its inputs yesterday;x
-INPUT_LACKING;There's not enough §Y$GOOD$§W on the market to satisfy guild input needs;x
+COULDNT_AFFORD;Factory couldn't afford to buy all its inputs yesterday;x
+INPUT_LACKING;There's not enough §Y$GOOD$§W on the market to satisfy factory input needs;x
 OUTPUT_WASTED;$NUM$ of $PRODUCED$ §Y$GOOD$§W didn't get sold yesterday;x
 TRADE_CONFIRM_DESC;Setting a manual trade means we might end up taking loans to afford purchases.;x
 BUDGET_TAX_EFFICIENCY;Tax Efficiency: §Y$VALUE$%§W;x
@@ -4984,7 +4964,7 @@ POLITICS_SATELLITE;Satellite;x
 POLITICS_DOMINION;Dominion;x
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;x
 BE_SECOND_RANK;Secondary Power;x
-COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed guild workers:;x
+COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed factory workers:;x
 TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in last §Y$DAYS$§! days.;x
 TOPBAR_POPULATION_VISUAL;Our total population times four is $CURR$.;x
 REL_SPHERE_OF_INFLUENCE;In Sphere;x
@@ -5324,11 +5304,11 @@ REMOVE_RANDOM_ECO_REFORMS_EFFECT;Remove §R$VAL$§! economic reforms.\n;x
 REMOVE_RANDOM_MIL_REFORMS_EFFECT;Remove §R$VAL$§! military reforms.\n;x
 PRODUCTION_FACTORY_PURE_INCOME;Last day's pure income: $VALUE$;x
 PRODUCTION_FACTORY_MARKET_SPENDINGS;Market spendings: $VALUE$;x
-PRODUCTION_FACTORY_POP_PAYCHECKS;Workers and Guild Masters paychecks: $VALUE$;x
+PRODUCTION_FACTORY_POP_PAYCHECKS;Workers and capitalists paychecks: $VALUE$;x
 PRODUCTION_FACTORY_TOTAL_BALANCE;Last day's balance: $VALUE$;x
 PRODUCTION_FACTORY_TODAY_PROFIT;Last day's profitability: $VALUE$;x
 PRODUCTION_FACTORY_PROFITABILITY;Avg. profitability (last $DAYS$ days): $VALUE$;x
-PRODUCTION_FACTORY_CURRENT_BUDGET;Current guild budget: $VALUE$;x
+PRODUCTION_FACTORY_CURRENT_BUDGET;Current factory budget: $VALUE$;x
 PRODUCTION_FACTORY_INVESTMENT;From investments: $VALUE$;x
 PRODUCTION_FACTORY_SUBSIDIES;From investments: $VALUE$;x
 INFLUENCE_OVERFLOW_TOOLTIP;We are spending §Y$VALUE$§! of influence points each day, to reduce the influence of other realm.;x
@@ -5688,7 +5668,7 @@ IW_SUPPLY_COST;You need §Y$VAL$§W every day to pay for supplies of this unit.;
 HAS_NOT_CULTURE_CORE;$CUL$ is NOT a core-culture of $WHERE$.\n;x
 HAS_CULTURE_CORE;$CUL$ is a core-culture of $WHERE$.\n;x
 PROMOTION_EFFECT_FROM_ADMIN;Admin. efficiency effect on promotion speed: §Y$PERCENTAGE$§!;x
-OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;Local guild employment: $PERC$;x
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;Local factory employment: $PERC$;x
 REVOLTALLIANCE_LOG;A revolution! Our alliance is broken!;x
 Workforce;Workforce;x
 SELL;SELL;x
@@ -5739,9 +5719,9 @@ war_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $T
 rebels_win_small_title;Revolution!;x
 rebels_win_small_desc;$STRING_0_0$ have defeated $TAG_0_0$ and broken the realm, what will the $STRING_0_3$ $STRING_0_4$ do now?;x
 GOODS_PRICE_UP_TITLE_LARGE;PRICES RISE!;x
-GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Guild Masters and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
+GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
 GOODS_PRICE_UP_TITLE_MEDIUM;PRICES RISE!;x
-GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Guild Masters and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
+GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
 GOODS_PRICE_UP_TITLE_SMALL;PRICES RISE!;x
 GOODS_PRICE_UP_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen!;x
 GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;x
@@ -5862,7 +5842,7 @@ COMMUNIST_REVOLUTION_NEWS_LARGE_COMMUNIST;Workers of the world, unite!' Once mor
 COMMUNIST_REVOLUTION_NEWS_TITLE_MEDIUM_COMMUNIST;COMMUNISM IN $TAG_0_0_UPPER$!;x
 COMMUNIST_REVOLUTION_NEWS_MEDIUM_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our communist comrades have been victorious in overthrowing the government and establishing the one and true people's party: $STRING_0_0$!;x
 COMMUNIST_REVOLUTION_NEWS_TITLE_SMALL_COMMUNIST;REVOLUTION!;x
-COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt Guild Master crooks!;x
+COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt Capitalist crooks!;x
 battle_we_lose_large_censored_press;Reports from the field tell us that on $DATE_LONG_0$, our courageous troops have made a tactical retreat from the battle against $TAG_0_3$ in $STRING_0_3$. This has been proven necessary to maximise our element of unpredictability and surprise. $VALUE_INT_0_4$ enemy soldiers have been killed by our valiant boys. Although $VALUE_INT_0_2$ of our soldiers are yet to report back for duty, it's worth noting that many of our troops remain hidden to surprise the enemy in an ambush, showing true courage and resilience!;x
 battle_we_lose_medium_censored_press;On $DATE_LONG_0$, a tactical retreat from the battle against $TAG_0_3$ has been proven necessary, in order to maximise our element of surprise! $VALUE_INT_0_2$ of our soldiers are said to be hiding for an ambush, while $VALUE_INT_0_4$ enemy troops have been killed!;x
 battle_we_lose_small_censored_press;On $DATE_LONG_0$, a tactical retreat has been conducted from the battle against $TAG_0_3$. It is thought $VALUE_INT_0_2$ of our troops are in hiding, preparing for an ambush!;x
@@ -6038,7 +6018,7 @@ PRODUCTION_OUTPUT_YESTERDAY;Produced §Y$VALUE$§W yesterday.;x
 PRODUCTION_OUTPUT_GOODS_TOOLTIP2;Max output: §Y$CURR$§W;x
 PRODUCTION_CURRENT_STOCKPILE;Current stockpile: §Y$VALUE$§W;x
 POP_DAILY_INTEREST;Savings Interest: §Y$VAL$§W Interets d'epargne : §Y$VAL$§W Sparzinsen: §Y$VAL$§W;x
-MODIFIER_OVERSEAS_PRODUCTION_PENALTY;Overseas Guild/RGO penalty: $VALUE$;x
+MODIFIER_OVERSEAS_PRODUCTION_PENALTY;Overseas Factory/RGO penalty: $VALUE$;x
 PRODUCTION_FACTORY_EMPLOYEECOUNT_TOOLTIP2;Current employees: $EMPLOYEES$/$EMPLOYEE_MAX$;x
 LIFERATING_EFFECT;$DIRECTION$ $VALUE$ Life rating\n;x
 MILITARY_ARMY_COUNT_TOOLTIP;Number of armies: §Y$VALUE$§W;x
@@ -6110,7 +6090,7 @@ DIPLOMACY_NEGOTIATE_VASSAL;We are not allowed to negotiate with §YVassals§W or
 DIPLOMACY_NEGOTIATE_WE_VASSAL;We are not allowed to negotiate with realms if we are a §YVassal§W or §YDominion§W;x
 PW_OPEN_POPSCREEN;View population statistics for §Y$LOC$§W;x
 HAVE_MILITARY_SCORE_MORE_THAN;Have a higher Military Score than: ;x
-PRODUCTIONVIEW_FACTORY;§YGuild§W;x
+PRODUCTIONVIEW_FACTORY;§YFactory§W;x
 PRODUCTIONVIEW_RGO;§YRGO§W;x
 PRODUCTIONVIEW_ARTISAN;§YArtisan§W;x
 PROVINCE_NEXT_LEVEL;§YNext level:§W;x
@@ -6311,7 +6291,7 @@ TRADE_MARKET_ACTIVITY;Market Activity;x
 TRADE_STOCKPILE;Stockpile;x
 TRADE_COMMON_MARKET;Common Market;x
 TRADE_POPULATION;Population;x
-TRADE_FACTORIES;Guilds;x
+TRADE_FACTORIES;Factories;x
 TRADE_GOVERNMENT;Government;x
 TRADE_NEED;Need;x
 TRADE_GOODS;Goods;x
