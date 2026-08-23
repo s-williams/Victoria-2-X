@@ -34,6 +34,63 @@ medical_supplies;Medical supplies;x
 meal_rations;Meal rations;x
 regular_clothes;Regular clothes;x
 luxury_clothes;Luxury clothes;x
+#####################;x
+##### FACTORIES #####;x
+#####################;x
+weapon_components_factory;Weapon Components Factory;x
+weapon_components_factory_desc;Made up from such things as trigger and reloading mechanisms, chambers and barrels, weapon components make up the mechanical part of all ship weapons. Combined with specialised advanced electronics, a number of different weapons can be made from the modular components, also across different size ranges.;x
+drone_components_factory;Drone Components Factory;x
+drone_components_factory_desc;Much like weapon and turret components, drone components have been generalised and standardised across much of the Jump Gate network to be modularly used in all kinds of drone, making them a highly sought-after resource.;x
+missile_components_factory;Missile Components Factory;x
+missile_components_factory_desc;Missile components are used in the construction of all missiles, often with a different number and configuration making up the construction of each missile.;x
+turret_components_factory;Turret Components Factory;x
+turret_components_factory_desc;After the unification of the design process in station and capital ship weapon systems, many different turrets can be built from different configurations of these turret components.;x
+shield_components_factory;Shield Components Factory;x
+shield_components_factory_desc;From generators to coils that maintain energy over time, shield components are a wide arrange of technologies that provide everything necessary to build a variety of shields. Completely modular, each part can be used in each shield, which has led to a wide variety of new-generation shields being produced in recent years.;x
+silicon_refinery;Silicon Refinery;x
+silicon_refinery_desc;If a technology requires any kind of chip, it is highly likely that is uses silicon wafers. Light, efficient and cheap to produce, these wafers are usually layered or constructed in hexagonal meshes to allow for quick transfer of data across a component.;x
+ore_refinery;Ore Refinery;x
+ore_refinery_desc;Refined from ore found in countless asteroids across the Jump Gate network, these refined metals are cheap to produce and easy to reinforce, making them perfect for use in constructing all kinds of Hull Parts, not just for ships and stations, but also for smaller components that used across all of space.;x
+graphene_refinery;Graphene Refinery;x
+graphene_refinery_desc;Produced from refined and heavily modified methane gas in the modern era, graphene is a semi-metal that has many uncommon properties. Due to its strength and resistance to heat and electricity, it is used to produce a variety of tech-level resources, and is also used to help in the reinforcement of hull parts.;x
+microchips_factory;Microchips Factory;x
+microchips_factory_desc;Used in a wide variety of equipment parts, micro-chips are produced using silicon wafers, which, while fragile, allows them to conduct at a much higher rate. This, in turn, allows far better processing in the equipment that uses the micro-chips, which includes many advanced electronics and components.;x
+scanning_arrays_factory;Scanning Arrays Factory;x
+scanning_arrays_factory_desc;Scanning arrays have seen elegant redesign over the years so that ships and stations do not risk fragile antennas being broken or destroyed by collisions. Now entirely internal systems, scanning arrays are used not just in ship and station scanners and radars, but are also used in the targeting systems supplied with turret and drone components.;x
+engine_parts_factory;Engine Parts Factory;x
+engine_parts_factory_desc;Comprised of a number of different components that make up ship engines, engine parts are delivered straight to the end customer, most commonly shipyards and equipment docks, who then use them themselves to produce or repair engines. While naturally engine parts are a very necessary resource across the entire Jump Gate network, the ability to produce and repair engines on demand, instead of requiring an entirely separate production step for each, has greatly streamlined the universal economy.;x
+advanced_composites_factory;Advanced Composites Factory;x
+advanced_composites_factory_desc;Formed from some of the refined resources collected from mining ships, advanced composites is a general term for many compounds created to serve several purposes; most commonly used in the production of a variety of equipment parts.;x
+hull_parts_factory;Hull Parts Factory;x
+hull_parts_factory_desc;Made from refined metals, Hull Parts are most commonly used to build the hulls of ships and stations, though they do have some other uses such as in drones and weapons. Usually layered for additional protection, and using other compounds to further reinforce, Hull Parts are still cheap to produce - a bonus, considering their position as the most frequently used resource in the Jump Gate network.;x
+quantum_tubes_factory;Quantum Tubes Factory;x
+quantum_tubes_factory_desc;An example of complex technology being made cheap through years of continuous research, no one outside of those manufacturing the technology quite knows how quantum tubes work. Though the outer wiring itself it easy to make and understand, the internal structure and what the wiring actually carries must be constructed only by those with countless hours of study and examination under their belts; otherwise risking catastrophic failures that can lead to entire shutdowns of the equipment in which they are used.;x
+plasma_conductors_factory;Plasma Conductors Factory;x
+plasma_conductors_factory_desc; These conductors are designed to allow the flow of plasma through a component at the greatest possible efficiency.Though made relatively cheap to produce through years of research and development, plasma conductors remain highly complex pieces of technology. They are used primarily in the construction of weapon and shield components.;x
+electronics_factory;Electronics Factory;x
+electronics_factory_desc;Designed specifically to work alongside weapon and turret components, it is a variety of advanced electronics that allow different weapons and turrets to have a range of turning speeds, fire rates and cooldowns. Whereas field coils for shields and antimatter converters for engines are more modular and can be used 'across the board', different weapons and turrets expect different electronic systems to be used in order to ensure the correct properties.;x
+claytronics_factory;Claytronics Factory;x
+claytronics_factory_desc;More commonly known as programmable matter, claytronics are made up of millions of individual nanometre-scale computers known as catoms. This technology lives at the heart of any station, used to build anything from internal wiring to computer systems and control mechanisms - effectively everything but the hull of the station itself. Claytronics are always in high-demand, as the universe rebuilds itself after the Jump Gate shutdown.;x
+water_refinery;Water Refinery;x
+water_refinery_desc;Essential to all known biological life forms, water has never become much of a catalyst for dispute amongst species, owing to its ubiquity in space. It is being used somewhere in the manufacturing process of nearly all goods available across space; especially, however, in the production of edible goods.;x
+alcohol_distillery;Alcohol Distillery;x
+alcohol_distillery_desc;Alcohol is the most ubiquitous depressant throughout the universe, enabling all known forms of life to decrease activity in the central nervous system and the body. Even in areas where the consumption of alcohol for recreational purposes is not permitted, alcohol production serves a vital medicinal role as an antiseptic, disinfectant, and antidote.;x
+protein_ranch;Protein Ranch;x
+protein_ranch_desc;Protein comes in a great variety and is vital for all known life. For humans, the most sought-after type as of late is so-called 'vegan meat', synthesised and cloned not from real animals, but from cell cultures replicating Argnu meat. Paranid's prefer Maja snails grown in terrariums. Whilst both the Split and Boron get their protein grown in aquiriums, from Chelts and Plankton respectively.;x
+carbohydrates_farm;Carbohydrates Farm;x
+carbohydrates_farm_desc;Staple ingredients in food rations, and vital for all known life, carbohydrates are grown from a variety of plants across stations. Humans have perfected the growing of wheat in space, whilst Teladi prefer Sunrise Flowers, which can be squeezed into a bitter tasting oil.;x
+spices_mixery;Spices Mixery;x
+spices_mixery_desc;Spices are used in many food and pharmaceutical products; primarily as an agent to add extra flavour, but also sometimes due to other properties that some are known to have, ranging from acting as a relaxant to a mild hallucinogenic. Factories that legally produce spices are commonly inspected to make sure their produce is in line with the local law, but as they are often shipped as a mixture, it is sometimes difficult to keep an eye on which spice is being used for which purpose.;x
+cloth_rimes_fact;Cloth Rimes Fact;x
+cloth_rimes_fact_desc;Fabrics are synthesised on stations and traded in great bolts of cloth known as Rimes. Whilst they have some niche military uses, cloth is mostly used in the manufacture of durable work clothing and leisure wear.;x
+medical_supplies_factory;Medical Supplies Factory;x
+medical_supplies_factory_desc;Medical supplies contain a number of different concoctions and remedies used to keep populations healthier and happier during their time in space.;x
+meal_rations_factory;Meal Rations Factory;x
+meal_rations_factory_desc;Food Rations come in a large variety; as far as rations for the species Homo sapiens are concerned, they mainly contain wheat, freeze-dried meat and different spices as well as vitamins and essential minerals.;x
+luxury_clothes_factory;Luxury Clothes Factory;x
+luxury_clothes_factory_desc;Made from sewing cloth with refined metals, and utilising basic microchips, luxury clothes are highly sought out as both fashion items and key work wear. Luxury clothes are durable with built-in capabilities.;x
+regular_clothes_factory;Regular Clothes Factory;x
+regular_clothes_factory_desc;Clothing is made from working cloth into wearable outfits for all known species. Gymnophobia, or prejudice against nudity, is not quite universal among all known life. The Teladi can frequently be seen on stations naked as the day they hatched, but even they need clothing on more formal, cross-species occassions.;x
 #######################;x
 ##### GOODS TYPES #####;x
 #######################;x
