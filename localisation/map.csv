@@ -755,3 +755,12 @@ REG_MATRIX_9;Matrix 9;x
 REG_MATRIX_451;Matrix 451;x
 REG_FAMILY_TKR;Family Tkr;x
 REG_FIRES_OF_DEFEAT;Fires of Defeat;x
+######################;x
+##### CONTINENTS #####;x
+######################;x
+europe;North West;x
+asia;North East;x
+africa;Center;x
+north_america;East;x
+south_america;South West;x
+oceania;South East;x
