@@ -3319,6 +3319,8 @@ NEXT_ELECTION;Next election is due;x
 #;;x
 #;;x
 UPPERHOUSE_HEADER;Political News in $COUNTRY$;x
+UPPERHOUSE_1;Upper House rearranged;x
+UPPERHOUSE_2;$MONARCHTITLE$, our new Upper House has now been assembled.;x
 UPPERHOUSE_3;$DETAILS$;x
 UPPERHOUSE_4;*;x
 UPPERHOUSE_5;*;x
