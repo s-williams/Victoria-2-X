@@ -9,7 +9,97 @@
 # time = x #==> number of days to build.
 #
 
-############# FACTORIES
+#####################
+##### FACTORIES #####
+#####################
+# Military goods factories
+
+weapon_components_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = weapon_components_factory
+	pop_build_factory = yes
+}
+
+drone_components_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = drone_components_factory
+	pop_build_factory = yes
+}
+
+missile_components_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = missile_components_factory
+	pop_build_factory = yes
+}
+
+turret_components_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = turret_components_factory
+	pop_build_factory = yes
+}
+
+shield_components_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = shield_components_factory
+	pop_build_factory = yes
+}
+
+# Industrial Goods Factories
 silicon_refinery = {
 	type = factory
 	on_completion = factory
@@ -26,6 +116,369 @@ silicon_refinery = {
 	production_type = silicon_refinery
 	pop_build_factory = yes
 }
+
+ore_refinery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = ore_refinery
+	pop_build_factory = yes
+}
+
+graphene_refinery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = graphene_refinery
+	pop_build_factory = yes
+}
+
+microchips_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = microchips_factory
+	pop_build_factory = yes
+}
+
+scanning_arrays_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = scanning_arrays_factory
+	pop_build_factory = yes
+}
+
+engine_parts_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = engine_parts_factory
+	pop_build_factory = yes
+}
+
+advanced_composites_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = advanced_composites_factory
+	pop_build_factory = yes
+}
+
+hull_parts_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = hull_parts_factory
+	pop_build_factory = yes
+}
+
+quantum_tubes_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = quantum_tubes_factory
+	pop_build_factory = yes
+}
+
+plasma_conductors_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = plasma_conductors_factory
+	pop_build_factory = yes
+}
+
+electronics_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = electronics_factory
+	pop_build_factory = yes
+}
+
+claytronics_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = claytronics_factory
+	pop_build_factory = yes
+}
+
+# Consumer goods factories
+
+water_refinery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = water_refinery
+	pop_build_factory = yes
+}
+
+alcohol_distillery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = alcohol_distillery
+	pop_build_factory = yes
+}
+
+protein_ranch = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = protein_ranch
+	pop_build_factory = yes
+}
+
+carbohydrates_farm = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = carbohydrates_farm
+	pop_build_factory = yes
+}
+
+spices_mixery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = spices_mixery
+	pop_build_factory = yes
+}
+
+cloth_rimes_fact = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = cloth_rimes_fact
+	pop_build_factory = yes
+}
+
+medical_supplies_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = medical_supplies_factory
+	pop_build_factory = yes
+}
+
+meal_rations_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = meal_rations_factory
+	pop_build_factory = yes
+}
+
+luxury_clothes_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = luxury_clothes_factory
+	pop_build_factory = yes
+}
+
+regular_clothes_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		silicon = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = regular_clothes_factory
+	pop_build_factory = yes
+}
+
+###########################
+##### OTHER BUILDINGS #####
+###########################
 
 fort = {
 	type = fort
