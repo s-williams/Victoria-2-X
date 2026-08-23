@@ -49,7 +49,7 @@ raw_material_goods = {
 		cost = 10.0
 		color = { 125 158 43 }
 	}
-	nvidium = { 
+	nividium = { 
 		cost = 8
 		tradeable = no
 		money = yes	

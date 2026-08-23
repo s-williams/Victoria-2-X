@@ -131,9 +131,9 @@ silicon_mine = {
 	mine = yes
 }
 
-nvidium_mine = {
+nividium_mine = {
 	template = RGO_template_labourers
-	output_goods = nvidium
+	output_goods = nividium
 	value = 2
 	mine = yes
 }
