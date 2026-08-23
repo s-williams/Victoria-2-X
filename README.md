@@ -15,7 +15,7 @@ Terrain.bmp - ???
         - [ ] Starting governments, reforms
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
-    - [ ] Resources on map
+    - [x] Resources on map
     - [ ] Terrains (empty space, nebula, asteroid field, etc)
     - [ ] Climates as sun exposure levels
     - [ ] Starting industries
@@ -29,10 +29,10 @@ Terrain.bmp - ???
     - [x] Resources
     - [ ] Production types
     - [ ] Buildings
-
-# Beta
 - [ ] Technology
     - [ ] Inventions
+
+# Beta
 - [ ] Flavour
     - [ ] Argon-Antigone
     - [ ] HFL joining Argon
