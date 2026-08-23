@@ -25,7 +25,6 @@ silicon_refinery = {
 
 	production_type = silicon_refinery
 	pop_build_factory = yes
-	default_enabled = yes
 }
 
 fort = {

@@ -4,22 +4,27 @@ military_goods = {
 	weapon_components = { 
 		cost = 17.50
 		color = { 208 202 127 }
+		available_from_start = no
 	}
 	drone_components = { 
 		cost = 37.00 
 		color = { 189 118 22 }
+		available_from_start = no
 	}
 	missile_components = { 
 		cost = 60.00 
 		color = { 145 130 86 }
+		available_from_start = no
 	}
 	turret_components = { 
 		cost = 86.00 
 		color = { 255 39 12 }
+		available_from_start = no
 	}
 	shield_components = {	
 		cost = 98.00 
 		color = { 55 41 9 }
+		available_from_start = no
 	}
 }
 
@@ -60,46 +65,57 @@ industrial_goods = {
 	refined_metals = { 
 		cost = 6.0
 		color = { 181 228 102 }
+		available_from_start = no
 	}
 	graphene = { 
 		cost = 3.5
 		color = { 111 111 111 }
+		available_from_start = no
 	}
 	microchips = { 
 		cost = 0.9
 		color = { 146 72 17 }
+		available_from_start = no
 	}
 	scanning_arrays = { 
 		cost = 5.4
 		color = { 213 177 118 }
+		available_from_start = no
 	}
 	engine_parts = { 
 		cost = 7.0
 		color = { 123 110 86 }
+		available_from_start = no
 	}
 	advanced_composites = { 
 		cost = 12.0
 		color = { 0 0 0 }
+		available_from_start = no
 	}
 	hull_parts = { 
 		cost = 4.7
 		color = { 95 128 147 }
+		available_from_start = no
 	}
 	quantum_tubes = { 
 		cost = 16.0
 		color = { 185 187 164 }
+		available_from_start = no
 	}
 	plasma_conductors = { 
 		cost = 36.5
 		color = { 177 198 196 }
+		available_from_start = no
 	}
 	electronics = { 
 		cost = 2.9
 		color = { 201 200 199 }
+		available_from_start = no
 	}
 	claytronics = { 
 		cost = 25.00 
 		color = { 145 110 89 }
+		available_from_start = no
 	}
 }
 
@@ -107,43 +123,53 @@ consumer_goods = {
 	water = { 
 		cost = 10.0
 		color = { 133 101 35 }
+		available_from_start = no
 	}
 	alcohol = { 
 		cost = 20.00
 		color = { 192 68 20 }
+		available_from_start = no
 	}
 	protein = { 
 		cost = 42.00 
 		overseas_penalty = yes
 		color = { 21 65 30 }
+		available_from_start = no
 	}
 	carbohydrates = { 
 		cost = 65.00
 		overseas_penalty = yes
 		color = { 76 18 0 }
+		available_from_start = no
 	}
 	spices = { 
 		cost = 16.00 
 		color = { 255 255 0 }
+		available_from_start = no
 	}
 	cloth_rimes = { 
 		cost = 1.8
 		color = { 186 50 40 }
+		available_from_start = no
 	}
 	medical_supplies = { 
 		cost = 1.0
 		color = { 180 94 26 }
+		available_from_start = no
 	}
 	meal_rations = { 
 		cost = 3.4
 		color = { 216 185 77 }
+		available_from_start = no
 	}
 	regular_clothes = { 
 		cost = 5.8
 		color = { 217 17 19 }
+		available_from_start = no
 	}
 	luxury_clothes = { 
 		cost = 65.00
 		color = { 234 227 40 }
+		available_from_start = no
 	}
 }
