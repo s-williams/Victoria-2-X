@@ -1140,6 +1140,7 @@ DIPLOMACY_COLONIALNATION_STATUS;Secondary Power;x
 DIPLOMACY_CIVILIZEDNATION_STATUS;Centralized Nation;x
 DIPLOMACY_UNCIVILIZEDNATION_STATUS;Uncentralized Nation;x
 DIPLOMACY_UNCIVILIZEDNATION_APPEND;(Uncentralized);x
+DIPLOMACY_PRIMITIVENATION_STATUS;Uncentralized Nation;x
 NEED_POSITIVE_WARSCORE;The War is not going well enough;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$;x
 ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We suspect §Y$WHO$§W is behind this.;x
