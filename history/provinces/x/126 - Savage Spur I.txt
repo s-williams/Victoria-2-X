@@ -1,5 +1,5 @@
-owner = XEN
-controller = XEN
-add_core = XEN
+owner = YAK
+controller = YAK
+add_core = YAK
 trade_goods = ore
 life_rating = 25
