@@ -2639,8 +2639,8 @@ teladi_group = {
 	unit = EuropeanGC
 	teladi = {
 		color = { 212 179 16 }
-		first_names = { Dagobas Ganatos Isemados Lahubasis Mikimades Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yoolis Ysandreis }
-		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yohiris Yurilos }
+		first_names = { Dagobas Ganatos Isemados Lahubasis Mikimades Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yoolis Ysandreis Zusilas }
+		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yalos Yohiris Yurilos }
 	}
 }
 
