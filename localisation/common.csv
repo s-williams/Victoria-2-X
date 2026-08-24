@@ -1,7 +1,7 @@
 #############################;x
 ##### Country Selection #####;x {
 #############################;x
-GC_NAME;The Lord of the Rings;x
+GC_NAME;Foundations;x
 GC_DESC;It is the year 2990, 38 years after the initial jumpgate shutdown that plunged the universe into chaos. The network is now stabilised once more, and the scars of previous conflicts have reopened, with new chaos emerging after sectors forged their own path in isolation. Power and profit is open to those who seek to take it.;x
 WORLD_YEAR;EY $YEAR$;x
 ################;x }
