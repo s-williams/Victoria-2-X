@@ -98,3 +98,18 @@ TRADE_RAW_MATERIALS;Raw Materials;x
 TRADE_INDUSTRIAL_GOODS;Industrial Goods;x
 TRADE_CONSUMER_GOODS;Consumer Goods;x
 TRADE_MILITARY_GOODS;Military Goods;x
+#####################;x
+##### POP TYPES #####;x
+#####################;x
+aristocrats;Magnates;x
+artisans;Traders;x
+bureaucrats;Bureaucrats;x
+capitalists;Corporatists;x
+clergymen;Clergymen;x
+clerks;Clerks;x
+craftsmen;Engineers;x
+farmers;Technicians;x
+labourers;Miners;x
+officers;Officers;x
+slaves;Slaves;x
+soldiers;Soldiers;x
