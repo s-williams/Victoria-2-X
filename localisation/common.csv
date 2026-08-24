@@ -1210,6 +1210,9 @@ POLITICS_SORT_BY_ISSUE_NAME_TOOLTIP;Sort list by issues;x
 POLITICS_SORT_BY_PEOPLE_TOOLTIP;Sort list by how important it is to our population;x
 POLITICS_SORT_BY_VOTERS_TOOLTIP;Sort list by how important it is to our voters;x
 POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of of upperhouse in favor of reforms);x
+POLITICS_ALREADY_RULING_PARTY;$PARTY$ is already the ruling party.;x
+POLITICS_CANNOT_SET_RULING_PARTY_RULE;Our government form does not allow us to appoint ruling parties;x
+POLITICS_CANNOT_SET_RULING_PARTY_IN_ELECTION;It is not possible to switch ruling parties in the middle of an election.;x
 POLITICS_NATIONALVALUE_TOOLTIP;Our national value is §Y$NATIONALVALUE$§W.\n;x
 POLITICS_PLURALITY_TOOLTIP;Our plurality is $PERCENT$%.\n;x
 POLITICS_REVANCHSIM_TOOLTIP;Our revanchism is $PERCENT$%.\n;x
@@ -3753,6 +3756,7 @@ TRIGMODLOST_BTN3;Details;x
 TRIGMODLOST_MAP;*;x
 clerk;Clerk;x
 WORKFORCE_DISTTITLE;Workforce;x
+RELIGION_DISTTITLE;Species;x
 NATIONALITY_DISTTITLE;Nationality;x
 ELECTORATE_DISTTITLE;Electorate Vote;x
 IDEOLOGY_DISTTITLE;Ideology;x

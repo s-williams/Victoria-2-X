@@ -5,11 +5,16 @@ ABN_ADJ;Albion;x
 ABN;Albion;x
 AGN_ADJ;Argon;x
 AGN_absolute_monarchy;Argon Empire;x
+AGN_hms_government;Kingdom of Argon;x
+AGN_prussian_constitutionalism;Kingdom of Argon;x
+AGN_proletarian_dictatorship;Argon Union;x
 AGN;Argon Federation;x
 ALI_ADJ;Alliance;x
 ALI;Alliance of the Word;x
 ANT_ADJ;Antigone;x
-ANT_absolute_monarchy;Kingdom of Antigone;x
+ANT_absolute_monarchy;Antigone Empire;x
+ANT_hms_government;Kingdom of Antigone;x
+ANT_prussian_constitutionalism;Kingdom of Antigone;x
 ANT;Antigone Republic;x
 BOR_ADJ;Boron;x
 BOR;Queendom of Boron;x
@@ -29,19 +34,31 @@ FAF;Fallen Families;x
 FRF_ADJ;Free Families;x
 FRF;Free Families;x
 FTN_ADJ;Teladi;x
+FTN_bourgeois_dictatorship;Teladi Non-profit For-profit Organisation;x
 FTN;First Teladi Non-profit Organisation;x
 GOD_ADJ;Paranid;x
 GOD;Godrealm of the Paranid;x
 GON_ADJ;Goner;x
 GON_democracy;Goner Republic;x
+GON_presidential_dictatorship;Goner Republic;x
+GON_bourgeois_dictatorship;Goner Company;x
 GON;Goner;x
 HFL_ADJ;Hatikvah;x
 HFL;Hatikvah Free League;x
 HOP_ADJ;Pontifex;x
 HOP_democracy;Holy Republic;x
+ROT_presidential_dictatorship;Holy Republic;x
+ROT_bourgeois_dictatorship;Holy Company;x
 HOP;Holy Order of the Pontifex;x
 KHK_ADJ;Khaak;x
 KHK_absolute_monarchy;Khaak Empire;x
+KHK_bourgeois_dictatorship;Khaak Company;x
+KHK_democracy;Khaak Republic;x
+KHK_fascist_dictatorship;Khaak;x
+KHK_hms_government;Khaak Empire;x
+KHK_presidential_dictatorship;Khaak Republic;x
+KHK_proletarian_dictatorship;Khaak Commonwealth;x
+KHK_prussian_constitutionalism;Khaak Empire;x
 KHK;Khaak;x
 MIN_ADJ;Ministry;x
 MIN;Ministry of Finance;x
@@ -55,6 +72,8 @@ RIP_ADJ;Riptide;x
 RIP;Riptide Rakers;x
 ROT_ADJ;Trinity;x
 ROT_democracy;Republic of the Trinity;x
+ROT_presidential_dictatorship;Republic of the Trinity;x
+ROT_bourgeois_dictatorship;Trinity Company;x
 ROT;Realm of the Trinity;x
 SKK_ADJ;Khaak;x
 SKK;Southern Hive;x
@@ -66,9 +85,14 @@ SPP_ADJ;Scale Plate;x
 SPP;Scale Plate Pact;x
 TEL_ADJ;Teladi;x
 TEL_absolute_monarchy;Teladi Empire;x
-TEL;Teladi Company;x
+TEL_bourgeois_dictatorship;Teladi Company;x
+TEL;Teladi;x
 TER_ADJ;Terran;x
 TER_absolute_monarchy;Terran Empire;x
+TER_bourgeois_dictatorship;TerraCorp;x
+TER_hms_government;Terran Empire;x
+TER_prussian_constitutionalism;Terran Empire;x
+TER_proletarian_dictatorship;Terran Union;x
 TER; Terran Protectorate;x
 VIG_ADJ;Vigor;x
 VIG;Vigor Syndicate;x
@@ -77,11 +101,20 @@ WEN;Wenedra Prime;x
 WKK_ADJ;Khaak;x
 WKK;Western Hive;x
 XEN_ADJ;Xenon;x
-XEN;Xenon;x
+XEN_absolute_monarchy;Terraformer Empire;x
+XEN_bourgeois_dictatorship;Terraformer Company;x
+XEN_democracy;Terraformer Republic;x
+XEN_fascist_dictatorship;Xenon;x
+XEN_hms_government;Terraformer Empire;x
+XEN_presidential_dictatorship;Terraformer Republic;x
+XEN_proletarian_dictatorship;Terraformer Commonwealth;x
+XEN_prussian_constitutionalism;Terraformer Empire;x
+XEN;Terraformers;x
 YAK_ADJ;Yaki;x
 YAK;Yaki;x
 ZYA_ADJ;Zyarth;x
 ZYA_democracy;Zyarth Republic;x
+ZYA_presidential_dictatorship;Zyarth Republic;x
 ZYA;Zyarth Patriarchy;x
 ##################################;x
 ##### CULTURES AND RELIGIONS #####;x {
@@ -95,7 +128,7 @@ teladi;Teladi;x
 boron;Boron;x
 wenendra;Wenendra;x
 khaak;Khaak;x
-xenon;Xenon;x
+terraformer;Xenon;x
 quettanaut;Quettanaut;x
 sohnen;Sohnen;x
 human;Human;x
@@ -124,7 +157,6 @@ generic_reactionary;Conservative Party;x
 generic_conservative;Centrist Party;x
 generic_liberal;Neoliberal Party;x
 generic_anarcho_liberal;Corporatist Party;x
-generic_conservative;Centrist Party;x
 generic_socialist;Progressive Party;x
 generic_communist;Collectivist Party;x
 KHK_communist;Khaak Hivemind;x
@@ -138,8 +170,8 @@ bourgeois_dictatorship_ruler;President;x
 bourgeois_dictatorship;Bourgeois Dictatorship;x
 democracy_ruler;President;x
 democracy;Democracy;x
-fascist_dictatorship_ruler;Lord;x
-fascist_dictatorship;Fascist Dictatorship;x
+fascist_dictatorship_ruler;Hivemind;x
+fascist_dictatorship;Hivemind;x
 hms_government_ruler;Prime Minister;x
 hms_government;Parliamentary Monarchy;x
 presidential_dictatorship_ruler;President;x
