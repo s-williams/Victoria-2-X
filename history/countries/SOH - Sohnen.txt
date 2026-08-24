@@ -2,7 +2,7 @@ capital = 617
 primary_culture = sohnen
 culture = quettanaut
 religion = agi
-government = absolute_monarchy
+government = democracy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
@@ -12,7 +12,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
