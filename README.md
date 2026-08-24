@@ -12,27 +12,34 @@ Terrain.bmp - ???
     - [ ] Starting countries
         - [x] All flags
         - [/] Political parties
-        - [ ] Starting governments, reforms
+        - [/] Starting governments, reforms
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
     - [x] Resources on map
     - [ ] Terrains (empty space, nebula, asteroid field, etc)
     - [ ] Climates as sun exposure levels
     - [ ] Starting industries
-    - [ ] Starting pops
-- [ ] Cultures
+    - [x] Starting pops
+- [x] Cultures
     - [x] Species as religions
-    - [ ] Cultures
+    - [x] Cultures
 - [ ] Politics
     - [ ] Cultures weighted issues/ideologies
 - [ ] Industry
     - [x] Resources
-    - [ ] Production types
-    - [ ] Buildings
+    - [x] Production types
+    - [x] Buildings
+    - [ ] Icons
 - [ ] Technology
+    - [ ] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [ ] Inventions
+- [ ] Units
+    - [ ] Rework
+    - [ ] Resource costs
+    - [ ] Icons
 
 # Beta
+- [ ] Uncivilised Politics Rework
 - [ ] Flavour
     - [ ] Argon-Antigone
     - [ ] HFL joining Argon
