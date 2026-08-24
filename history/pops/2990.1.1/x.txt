@@ -316,25 +316,10 @@
 		religion = paranid
 		size = 1138
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 179
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 126
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 76
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 6477
+		size = 6858
 	}
 }
 9 = {
@@ -368,20 +353,10 @@
 		religion = paranid
 		size = 117
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 50
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 13
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1227
+		size = 1290
 	}
 }
 10 = {
@@ -415,20 +390,10 @@
 		religion = paranid
 		size = 82
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 28
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 7
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 815
+		size = 850
 	}
 }
 11 = {
@@ -462,20 +427,10 @@
 		religion = paranid
 		size = 100
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 48
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 12
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1008
+		size = 1069
 	}
 }
 12 = {
@@ -509,20 +464,10 @@
 		religion = paranid
 		size = 115
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 22
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 14
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1089
+		size = 1126
 	}
 }
 13 = {
@@ -556,20 +501,10 @@
 		religion = paranid
 		size = 120
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 23
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 8
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1164
+		size = 1195
 	}
 }
 14 = {
@@ -603,20 +538,10 @@
 		religion = paranid
 		size = 222
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 32
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 14
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1821
+		size = 1866
 	}
 }
 15 = {
@@ -650,20 +575,10 @@
 		religion = paranid
 		size = 96
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 34
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 13
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 930
+		size = 977
 	}
 }
 16 = {
@@ -697,20 +612,10 @@
 		religion = paranid
 		size = 332
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 22
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 13
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 2659
+		size = 2693
 	}
 }
 17 = {
@@ -7988,30 +7893,10 @@
 		religion = paranid
 		size = 13995
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1289
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 401
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 630
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 544
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 53966
+		size = 56830
 	}
 }
 175 = {
@@ -8045,30 +7930,10 @@
 		religion = paranid
 		size = 13915
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1024
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 256
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 363
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 491
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 55453
+		size = 57587
 	}
 }
 176 = {
@@ -8102,30 +7967,10 @@
 		religion = paranid
 		size = 16250
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1671
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 726
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 581
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 654
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 55447
+		size = 59078
 	}
 }
 177 = {
@@ -8159,30 +8004,10 @@
 		religion = paranid
 		size = 15522
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1170
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 356
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 509
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 509
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 55370
+		size = 57914
 	}
 }
 178 = {
@@ -8216,30 +8041,10 @@
 		religion = paranid
 		size = 10770
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1132
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 632
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 395
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 474
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 47648
+		size = 50280
 	}
 }
 179 = {
@@ -8273,30 +8078,10 @@
 		religion = paranid
 		size = 11788
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 859
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 292
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 309
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 258
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 44776
+		size = 46495
 	}
 }
 180 = {
@@ -8330,30 +8115,10 @@
 		religion = paranid
 		size = 14295
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1375
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 589
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 622
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 687
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 58351
+		size = 61625
 	}
 }
 181 = {
@@ -8387,30 +8152,10 @@
 		religion = paranid
 		size = 7395
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 791
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 328
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 502
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 309
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 30271
+		size = 32200
 	}
 }
 182 = {
@@ -8444,30 +8189,10 @@
 		religion = paranid
 		size = 6395
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 373
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 252
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 121
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 186
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 29209
+		size = 30141
 	}
 }
 183 = {
@@ -8501,30 +8226,10 @@
 		religion = paranid
 		size = 6963
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 701
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 283
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 328
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 179
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 27855
+		size = 29347
 	}
 }
 184 = {
@@ -8558,30 +8263,10 @@
 		religion = paranid
 		size = 5145
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 173
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 75
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 59
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 87
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 24806
+		size = 25199
 	}
 }
 185 = {
@@ -8853,30 +8538,10 @@
 		religion = paranid
 		size = 8687
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 337
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 196
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 133
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 118
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 41227
+		size = 42012
 	}
 }
 190 = {
@@ -8910,30 +8575,10 @@
 		religion = paranid
 		size = 7984
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 357
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 117
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 171
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 132
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 37436
+		size = 38213
 	}
 }
 191 = {
@@ -8967,30 +8612,10 @@
 		religion = paranid
 		size = 7976
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 401
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 178
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 143
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 170
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 37087
+		size = 37979
 	}
 }
 192 = {
@@ -9024,30 +8649,10 @@
 		religion = paranid
 		size = 6014
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 401
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 128
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 237
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 146
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 26268
+		size = 27181
 	}
 }
 193 = {
@@ -9138,25 +8743,10 @@
 		religion = paranid
 		size = 2432
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 377
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 140
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 121
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 12468
+		size = 13107
 	}
 }
 195 = {
@@ -9190,25 +8780,10 @@
 		religion = paranid
 		size = 2476
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 333
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 163
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 109
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 11516
+		size = 12121
 	}
 }
 196 = {
@@ -9242,25 +8817,10 @@
 		religion = paranid
 		size = 1499
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 195
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 75
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 72
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 9526
+		size = 9868
 	}
 }
 197 = {
@@ -9294,25 +8854,10 @@
 		religion = paranid
 		size = 2078
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 207
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 92
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 100
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 10380
+		size = 10779
 	}
 }
 198 = {
@@ -9346,25 +8891,10 @@
 		religion = paranid
 		size = 2026
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 366
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 115
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 160
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10917
+		size = 11558
 	}
 }
 199 = {
@@ -9398,25 +8928,10 @@
 		religion = paranid
 		size = 1296
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 87
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 35
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 30
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 7637
+		size = 7789
 	}
 }
 200 = {
@@ -9450,25 +8965,10 @@
 		religion = paranid
 		size = 1487
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 241
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 109
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 88
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 8396
+		size = 8834
 	}
 }
 201 = {
@@ -9502,25 +9002,10 @@
 		religion = paranid
 		size = 1676
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 153
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 73
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 79
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 9674
+		size = 9979
 	}
 }
 202 = {
@@ -11986,30 +11471,10 @@
 		religion = paranid
 		size = 11816
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 921
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 282
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 376
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 301
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 48277
+		size = 50157
 	}
 }
 254 = {
@@ -12043,30 +11508,10 @@
 		religion = paranid
 		size = 14103
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1026
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 473
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 526
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 605
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 51209
+		size = 53839
 	}
 }
 255 = {
@@ -12100,30 +11545,10 @@
 		religion = paranid
 		size = 9853
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1052
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 491
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 491
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 304
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 44267
+		size = 46605
 	}
 }
 256 = {
@@ -12157,30 +11582,10 @@
 		religion = paranid
 		size = 7888
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 363
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 210
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 182
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 201
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 36583
+		size = 37539
 	}
 }
 257 = {
@@ -12214,30 +11619,10 @@
 		religion = paranid
 		size = 6946
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 426
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 189
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 199
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 132
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 32112
+		size = 33058
 	}
 }
 258 = {
@@ -12271,30 +11656,10 @@
 		religion = paranid
 		size = 7569
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 373
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 212
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 119
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 144
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 33067
+		size = 33915
 	}
 }
 259 = {
@@ -12328,30 +11693,10 @@
 		religion = paranid
 		size = 8096
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1147
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 548
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 349
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 449
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 38637
+		size = 41130
 	}
 }
 260 = {
@@ -12385,30 +11730,10 @@
 		religion = paranid
 		size = 8562
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 224
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 130
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 112
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 124
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 38068
+		size = 38657
 	}
 }
 261 = {
@@ -12442,30 +11767,10 @@
 		religion = paranid
 		size = 8119
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 785
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 352
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 208
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 256
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 37032
+		size = 38634
 	}
 }
 262 = {
@@ -12499,30 +11804,10 @@
 		religion = paranid
 		size = 6600
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 505
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 143
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 219
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 230
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 30994
+		size = 32092
 	}
 }
 263 = {
@@ -12556,30 +11841,10 @@
 		religion = paranid
 		size = 7469
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 470
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 174
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 184
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 194
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 31981
+		size = 33003
 	}
 }
 264 = {
@@ -12613,30 +11878,10 @@
 		religion = paranid
 		size = 7038
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 660
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 240
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 330
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 270
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 30886
+		size = 32387
 	}
 }
 265 = {
@@ -12670,30 +11915,10 @@
 		religion = paranid
 		size = 12038
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 505
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 234
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 197
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 296
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 44569
+		size = 45801
 	}
 }
 266 = {
@@ -12727,30 +11952,10 @@
 		religion = paranid
 		size = 11533
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 1200
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 496
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 548
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 365
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 43146
+		size = 45756
 	}
 }
 267 = {
@@ -12784,30 +11989,10 @@
 		religion = paranid
 		size = 9886
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 439
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 167
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 241
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 199
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 40997
+		size = 42043
 	}
 }
 268 = {
@@ -12841,30 +12026,10 @@
 		religion = paranid
 		size = 9281
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 298
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 145
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 97
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 152
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 40325
+		size = 41017
 	}
 }
 269 = {
@@ -12898,30 +12063,10 @@
 		religion = paranid
 		size = 9609
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 927
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 391
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 474
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 268
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 36932
+		size = 38993
 	}
 }
 270 = {
@@ -12955,30 +12100,10 @@
 		religion = paranid
 		size = 7140
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 507
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 190
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 279
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 292
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 31711
+		size = 32978
 	}
 }
 271 = {
@@ -13012,25 +12137,10 @@
 		religion = paranid
 		size = 2934
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 212
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 73
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 81
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 14037
+		size = 14403
 	}
 }
 272 = {
@@ -13064,25 +12174,10 @@
 		religion = paranid
 		size = 2631
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 454
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 164
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 164
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12211
+		size = 12993
 	}
 }
 273 = {
@@ -13116,25 +12211,10 @@
 		religion = paranid
 		size = 2423
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 167
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 54
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 49
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12026
+		size = 12296
 	}
 }
 274 = {
@@ -13168,25 +12248,10 @@
 		religion = paranid
 		size = 1592
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 255
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 113
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 104
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 9461
+		size = 9933
 	}
 }
 275 = {
@@ -13220,25 +12285,10 @@
 		religion = paranid
 		size = 2014
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 110
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 67
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 47
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10450
+		size = 10674
 	}
 }
 276 = {
@@ -13272,25 +12322,10 @@
 		religion = paranid
 		size = 1875
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 217
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 72
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 112
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 11318
+		size = 11720
 	}
 }
 277 = {
@@ -13324,25 +12359,10 @@
 		religion = paranid
 		size = 2654
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 204
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 118
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 86
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12584
+		size = 12992
 	}
 }
 278 = {
@@ -15272,30 +14292,10 @@
 		religion = paranid
 		size = 5424
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 697
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 212
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 363
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 242
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 24669
+		size = 26183
 	}
 }
 312 = {
@@ -15329,30 +14329,10 @@
 		religion = paranid
 		size = 5072
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 706
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 250
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 162
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 353
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 23540
+		size = 25011
 	}
 }
 313 = {
@@ -15386,30 +14366,10 @@
 		religion = paranid
 		size = 4782
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 307
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 84
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 147
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 161
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 21317
+		size = 22016
 	}
 }
 314 = {
@@ -15443,30 +14403,10 @@
 		religion = paranid
 		size = 4553
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 485
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 201
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 272
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 225
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 19234
+		size = 20416
 	}
 }
 315 = {
@@ -15500,25 +14440,10 @@
 		religion = paranid
 		size = 3190
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 271
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 187
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 187
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 14712
+		size = 15356
 	}
 }
 316 = {
@@ -15552,30 +14477,10 @@
 		religion = paranid
 		size = 3324
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 140
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 54
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 51
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 54
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 16599
+		size = 16898
 	}
 }
 317 = {
@@ -15609,30 +14514,10 @@
 		religion = paranid
 		size = 3758
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 569
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 223
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 235
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 210
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 20400
+		size = 21638
 	}
 }
 318 = {
@@ -15666,30 +14551,10 @@
 		religion = paranid
 		size = 3729
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 306
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 149
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 85
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 171
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 18216
+		size = 18927
 	}
 }
 319 = {
@@ -16207,25 +15072,10 @@
 		religion = paranid
 		size = 2074
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 303
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 94
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 155
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 11877
+		size = 12429
 	}
 }
 327 = {
@@ -16259,25 +15109,10 @@
 		religion = paranid
 		size = 2524
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 373
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 170
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 111
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 13145
+		size = 13799
 	}
 }
 328 = {
@@ -16311,25 +15146,10 @@
 		religion = paranid
 		size = 1727
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 307
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 90
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 132
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10344
+		size = 10873
 	}
 }
 329 = {
@@ -16363,25 +15183,10 @@
 		religion = paranid
 		size = 1962
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 209
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 93
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 85
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10431
+		size = 10818
 	}
 }
 330 = {
@@ -16415,25 +15220,10 @@
 		religion = paranid
 		size = 2718
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 345
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 254
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 222
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 13143
+		size = 13963
 	}
 }
 331 = {
@@ -23006,30 +21796,10 @@
 		religion = paranid
 		size = 6245
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 495
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 193
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 290
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 230
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 28207
+		size = 29415
 	}
 }
 489 = {
@@ -23063,30 +21833,10 @@
 		religion = paranid
 		size = 7045
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 599
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 277
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 263
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 321
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 27875
+		size = 29335
 	}
 }
 490 = {
@@ -23120,30 +21870,10 @@
 		religion = paranid
 		size = 5347
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 248
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 93
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 130
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 149
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 26890
+		size = 27510
 	}
 }
 491 = {
@@ -23177,30 +21907,10 @@
 		religion = paranid
 		size = 7003
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 817
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 243
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 261
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 417
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 32471
+		size = 34209
 	}
 }
 492 = {
@@ -23234,30 +21944,10 @@
 		religion = paranid
 		size = 7586
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 872
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 357
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 357
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 396
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 31089
+		size = 33071
 	}
 }
 493 = {
@@ -23291,30 +21981,10 @@
 		religion = paranid
 		size = 8370
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 315
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 111
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 85
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 144
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 35778
+		size = 36433
 	}
 }
 494 = {
@@ -23348,30 +22018,10 @@
 		religion = paranid
 		size = 7654
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 459
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 172
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 172
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 153
-	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 30651
+		size = 31607
 	}
 }
 495 = {
@@ -23405,30 +22055,10 @@
 		religion = paranid
 		size = 9235
 	}
-	slaves = {
-		culture = paranid
-		religion = paranid
-		size = 872
-	}
-	slaves = {
-		culture = teladi
-		religion = teladi
-		size = 581
-	}
-	slaves = {
-		culture = split
-		religion = split
-		size = 332
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 290
-	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 36424
+		size = 38498
 	}
 }
 496 = {
