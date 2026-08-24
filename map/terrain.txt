@@ -2,6 +2,9 @@ terrain = 64
 
 
 categories =  {
+	############################
+	##### VANILLA TERRAINS #####
+	############################
 	ocean = {
 		movement_cost = 1.0
 		is_water = yes
@@ -91,7 +94,6 @@ categories =  {
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
 		supply_limit = 8
-
 	}
 	plains = {
 		movement_cost = 1.0
@@ -101,7 +103,6 @@ categories =  {
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
 		supply_limit = 10
-
 	}
 
 	jungle = {
@@ -149,7 +150,46 @@ categories =  {
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
 		supply_limit = 2
-	}	
+	}
+
+	######################
+	##### X TERRAINS #####
+	######################
+	empty_space_template = {
+		movement_cost = 1.0
+		color = { 241 221 184 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 10
+	}
+	
+	asteroid_field_template = {
+		movement_cost = 1.4
+		defence = 2
+		color = { 117 108 119 }
+		farm_rgo_size = 0
+		farm_rgo_eff = -0.25
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.1
+		supply_limit = 2
+		min_build_railroad = 2
+		combat_width = -0.66
+	}
+	
+	nebula_template = {
+		movement_cost = 1.4
+		defence = 1
+		color = { 76 112 105 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = -0.5
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.1
+		supply_limit = 2
+		min_build_railroad = 4
+		combat_width = -0.25
+	}
 }
 
 
