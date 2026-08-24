@@ -1,36 +1,36 @@
 2 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 35
 	}
 	capitalists = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 62
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 110
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 241
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 149
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1639
 	}
@@ -50,34 +50,34 @@
 		size = 36
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 10097
 	}
 }
 3 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 53
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 25
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 236
 	}
@@ -92,39 +92,39 @@
 		size = 26
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1803
 	}
 }
 4 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 11
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 21
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 39
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 25
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 250
 	}
@@ -139,39 +139,39 @@
 		size = 15
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1962
 	}
 }
 5 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 14
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 40
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 28
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 164
 	}
@@ -186,39 +186,39 @@
 		size = 7
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1676
 	}
 }
 6 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 16
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 48
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 25
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 197
 	}
@@ -233,34 +233,34 @@
 		size = 19
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1627
 	}
 }
 7 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 14
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 85
 	}
@@ -275,7 +275,7 @@
 		size = 18
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 871
 	}
@@ -1457,32 +1457,32 @@
 }
 33 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 12
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 23
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 45
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 47
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 354
 	}
@@ -1497,34 +1497,34 @@
 		size = 25
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2696
 	}
 }
 34 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 14
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 36
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 99
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 61
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 477
 	}
@@ -1539,39 +1539,39 @@
 		size = 11
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3813
 	}
 }
 35 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 13
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 31
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 80
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 56
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 393
 	}
@@ -1586,7 +1586,7 @@
 		size = 14
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3111
 	}
@@ -1875,32 +1875,32 @@
 }
 42 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 24
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 89
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 126
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 146
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1385
 	}
@@ -1920,39 +1920,39 @@
 		size = 44
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8213
 	}
 }
 43 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 21
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 81
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 116
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 126
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1638
 	}
@@ -1972,39 +1972,39 @@
 		size = 50
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8862
 	}
 }
 44 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 63
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 175
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 93
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1108
 	}
@@ -2024,39 +2024,39 @@
 		size = 37
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7083
 	}
 }
 45 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 43
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 134
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 80
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 696
 	}
@@ -2071,39 +2071,39 @@
 		size = 22
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4928
 	}
 }
 46 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 27
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 46
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 70
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 78
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 828
 	}
@@ -2118,39 +2118,39 @@
 		size = 21
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5331
 	}
 }
 47 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 58
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 131
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 101
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1036
 	}
@@ -2170,39 +2170,39 @@
 		size = 46
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6031
 	}
 }
 48 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 42
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 77
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 151
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 119
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1143
 	}
@@ -2222,39 +2222,39 @@
 		size = 61
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7628
 	}
 }
 49 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 71
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 122
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 98
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1082
 	}
@@ -2274,39 +2274,39 @@
 		size = 54
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6604
 	}
 }
 50 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 54
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 87
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 152
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 114
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1564
 	}
@@ -2326,39 +2326,39 @@
 		size = 82
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8868
 	}
 }
 51 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 64
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 112
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 229
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 155
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2108
 	}
@@ -2378,7 +2378,7 @@
 		size = 116
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 11427
 	}
@@ -6030,32 +6030,32 @@
 }
 127 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 15
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 28
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 65
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 41
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 392
 	}
@@ -6070,7 +6070,7 @@
 		size = 35
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2837
 	}
@@ -11070,32 +11070,32 @@
 }
 237 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 405
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1170
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 32
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2310
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1680
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 29100
 	}
@@ -11120,39 +11120,39 @@
 		size = 1474
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 108283
 	}
 }
 238 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 439
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1054
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 54
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3100
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1770
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 22841
 	}
@@ -11177,39 +11177,39 @@
 		size = 975
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 90507
 	}
 }
 239 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 375
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1062
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 15
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3062
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1725
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 23475
 	}
@@ -11234,39 +11234,39 @@
 		size = 559
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 90985
 	}
 }
 240 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 245
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 863
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 32
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1853
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1342
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 21300
 	}
@@ -11291,39 +11291,39 @@
 		size = 322
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 79577
 	}
 }
 241 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 504
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 847
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 48
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1443
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1260
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 21675
 	}
@@ -11348,39 +11348,39 @@
 		size = 682
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 86102
 	}
 }
 242 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 468
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 745
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1432
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1270
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 17906
 	}
@@ -11405,39 +11405,39 @@
 		size = 1118
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 68999
 	}
 }
 243 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 251
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 635
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 21
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1441
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1020
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 16763
 	}
@@ -11462,7 +11462,7 @@
 		size = 537
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 66012
 	}
@@ -11729,32 +11729,32 @@
 }
 249 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 107
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 244
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 738
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 488
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5164
 	}
@@ -11779,39 +11779,39 @@
 		size = 169
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 25020
 	}
 }
 250 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 69
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 239
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 495
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 362
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5535
 	}
@@ -11836,39 +11836,39 @@
 		size = 251
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 23652
 	}
 }
 251 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 109
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 216
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 642
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 312
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4464
 	}
@@ -11893,39 +11893,39 @@
 		size = 68
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19828
 	}
 }
 252 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 24
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 170
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 505
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 273
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2956
 	}
@@ -11950,7 +11950,7 @@
 		size = 144
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 16538
 	}
@@ -21437,32 +21437,32 @@
 }
 453 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 29
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 46
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 100
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 76
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 668
 	}
@@ -21477,39 +21477,39 @@
 		size = 39
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4875
 	}
 }
 454 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 24
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 65
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 113
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 90
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1022
 	}
@@ -21529,39 +21529,39 @@
 		size = 28
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7171
 	}
 }
 455 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 40
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 70
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 226
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 127
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1162
 	}
@@ -21581,39 +21581,39 @@
 		size = 45
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7919
 	}
 }
 456 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 16
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 57
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 94
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 76
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 914
 	}
@@ -21633,39 +21633,39 @@
 		size = 49
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5651
 	}
 }
 457 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 26
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 70
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 199
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 120
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1147
 	}
@@ -21685,39 +21685,39 @@
 		size = 108
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7051
 	}
 }
 458 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 36
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 102
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 199
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 151
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1536
 	}
@@ -21737,39 +21737,39 @@
 		size = 102
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9049
 	}
 }
 459 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 31
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 98
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 238
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 153
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1658
 	}
@@ -21789,39 +21789,39 @@
 		size = 127
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8750
 	}
 }
 460 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 45
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 109
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 293
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 143
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1846
 	}
@@ -21841,39 +21841,39 @@
 		size = 56
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 10502
 	}
 }
 461 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 55
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 147
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 86
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 833
 	}
@@ -21888,39 +21888,39 @@
 		size = 33
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5092
 	}
 }
 462 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 29
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 58
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 181
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 113
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1041
 	}
@@ -21940,39 +21940,39 @@
 		size = 53
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5963
 	}
 }
 463 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 54
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 89
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 253
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 184
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1649
 	}
@@ -21992,39 +21992,39 @@
 		size = 62
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9705
 	}
 }
 464 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 95
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 137
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 160
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1713
 	}
@@ -22044,39 +22044,39 @@
 		size = 78
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9063
 	}
 }
 465 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 39
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 105
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 199
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 151
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2017
 	}
@@ -22096,39 +22096,39 @@
 		size = 32
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 11338
 	}
 }
 466 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 38
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 86
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 159
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 133
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1366
 	}
@@ -22148,39 +22148,39 @@
 		size = 76
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7405
 	}
 }
 467 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 57
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 177
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 79
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 945
 	}
@@ -22200,7 +22200,7 @@
 		size = 59
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5704
 	}
@@ -24906,32 +24906,32 @@
 }
 535 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 43
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 91
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 163
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 148
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1423
 	}
@@ -24951,39 +24951,39 @@
 		size = 30
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8681
 	}
 }
 536 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 18
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 128
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 261
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 189
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2049
 	}
@@ -25003,39 +25003,39 @@
 		size = 69
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 11838
 	}
 }
 537 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 51
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 82
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 188
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 157
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1595
 	}
@@ -25055,39 +25055,39 @@
 		size = 42
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8690
 	}
 }
 538 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 102
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 315
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 182
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1678
 	}
@@ -25107,39 +25107,39 @@
 		size = 105
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9925
 	}
 }
 539 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 51
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 96
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 92
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 883
 	}
@@ -25159,7 +25159,7 @@
 		size = 44
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5685
 	}
@@ -27069,32 +27069,32 @@
 }
 589 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 11
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 39
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 119
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 69
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 621
 	}
@@ -27109,39 +27109,39 @@
 		size = 77
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4375
 	}
 }
 590 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 32
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 68
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 114
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 101
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1293
 	}
@@ -27161,7 +27161,7 @@
 		size = 46
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 7715
 	}
@@ -28413,32 +28413,32 @@
 }
 621 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 45
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 102
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 93
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 849
 	}
@@ -28453,39 +28453,39 @@
 		size = 62
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5041
 	}
 }
 622 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 60
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 122
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 94
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 810
 	}
@@ -28500,39 +28500,39 @@
 		size = 20
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5774
 	}
 }
 623 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 42
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 89
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 262
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 161
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1531
 	}
@@ -28552,39 +28552,39 @@
 		size = 78
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8926
 	}
 }
 624 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 26
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 67
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 166
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 110
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1003
 	}
@@ -28604,39 +28604,39 @@
 		size = 106
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6511
 	}
 }
 625 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 45
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 108
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 144
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 190
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1654
 	}
@@ -28656,39 +28656,39 @@
 		size = 45
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 10505
 	}
 }
 626 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 20
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 70
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 83
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 109
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1051
 	}
@@ -28708,39 +28708,39 @@
 		size = 73
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6293
 	}
 }
 627 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 35
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 90
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 161
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 121
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1506
 	}
@@ -28760,39 +28760,39 @@
 		size = 28
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9996
 	}
 }
 628 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 19
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 75
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 119
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 109
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1462
 	}
@@ -28812,39 +28812,39 @@
 		size = 93
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8330
 	}
 }
 629 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 15
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 51
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 102
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 65
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 739
 	}
@@ -28859,39 +28859,39 @@
 		size = 24
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5329
 	}
 }
 630 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 46
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 85
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 3
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 221
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 167
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1639
 	}
@@ -28911,39 +28911,39 @@
 		size = 89
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 8984
 	}
 }
 631 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 55
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 98
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 6
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 297
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 140
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1676
 	}
@@ -28963,39 +28963,39 @@
 		size = 42
 	}
 	labourers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 10182
 	}
 }
 632 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 15
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 84
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 4
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 263
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 143
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1646
 	}
@@ -29015,39 +29015,39 @@
 		size = 80
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 9099
 	}
 }
 633 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 10
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 46
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 99
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 83
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 804
 	}
@@ -29062,39 +29062,39 @@
 		size = 43
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5198
 	}
 }
 634 = {
 	aristocrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 32
 	}
 	bureaucrats = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 62
 	}
 	officers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 2
 	}
 	soldiers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 99
 	}
 	clergymen = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 84
 	}
 	artisans = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 988
 	}
@@ -29114,7 +29114,7 @@
 		size = 71
 	}
 	farmers = {
-		culture = xenon
+		culture = terraformer
 		religion = agi
 		size = 5959
 	}

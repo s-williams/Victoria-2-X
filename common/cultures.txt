@@ -3,31 +3,26 @@
 human_group = {
 	leader = european
 	unit = EuropeanGC
-
 	argon = {
 		color = { 47 127 230 }
 		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
 		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
 	}
-
 	terran = {
 		color = { 159 208 255 }
 		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
 		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
 	}
-
 	goner = {
 		color = { 111 52 0 }
 		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
 		last_name = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
 	}
-
 }
 
 paranid_group = {
 	leader = european
 	unit = EuropeanGC
-
 	paranid = {
 		color = { 185 90 199 }
 		first_names = { Amanckalat Axiom Ebmancketvahs Maximus Nobumancketslat Olmanckarsat Olmancketslat Tebathimanckatt }
@@ -76,34 +71,9 @@ wenendra_group = {
 	}
 }
 
-khaak_group = {
-	leader = european
-	unit = EuropeanGC
-
-	khaak = {
-		color = { 136 4 26 }
-		first_names = { x xx xxx xxxx z zz zzz zzzz }
-		last_name = { x xx xxx xxxx z zz zzz zzzz }
-	}
-
-}
-
 agi_group = {
 	leader = european
 	unit = EuropeanGC
-
-	xenon = {
-		color = { 239 68 68 }
-		first_names = { AGI AI CPU GPU MTRX TF }
-		last_name = { 			
-			aaaa abac abad acde acce
-			baaa bbbb baba babe babb
-			caaa cccc caca ccdd ceca cece
-			daaa dddd daff deff 
-			eaaa eaea eeee efaa efab edda edde eded 
-			faaa fafa feee fefe ffff
-		}
-	}
 	quettanaut = {
 		color = { 34 197 94 }
 		first_names = { Quint }
@@ -113,5 +83,20 @@ agi_group = {
 		color = { 105 105 105 }
 		first_names = { Aged Aging Ancient Antique Experienced Grizzled Old }
 		last_names = { Being Life One }
+	}
+	terraformer = {
+		color = { 239 68 68 }
+		first_names = { AGI AI CPU GPU MTRX TF }
+		last_name = { aaaa abac abad acde acce baaa bbbb baba babe babb caaa cccc caca ccdd ceca cece daaa dddd daff deff eaaa eaea eeee efaa efab edda edde eded faaa fafa feee fefe ffff }
+	}
+}
+
+khaak_group = {
+	leader = european
+	unit = EuropeanGC
+	khaak = {
+		color = { 136 4 26 }
+		first_names = { x xx xxx xxxx z zz zzz zzzz }
+		last_name = { x xx xxx xxxx z zz zzz zzzz }
 	}
 }

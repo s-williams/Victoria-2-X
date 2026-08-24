@@ -1,5 +1,5 @@
 capital = 535
-primary_culture = xenon
+primary_culture = terraformer
 religion = agi
 government = absolute_monarchy
 plurality = 0.2
