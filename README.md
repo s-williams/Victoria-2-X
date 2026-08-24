@@ -17,7 +17,7 @@ Terrain.bmp - ???
         - [ ] As province modifiers
     - [x] Resources on map
     - [ ] Terrains (empty space, nebula, asteroid field, etc)
-    - [ ] Climates as sun exposure levels
+    - [x] Climates as sun exposure levels
     - [ ] Starting industries
     - [x] Starting pops
 - [x] Cultures
