@@ -43,6 +43,9 @@ Terrain.bmp - ???
     - [ ] Xenon quest for sentience
     - [ ] Random events
     - [ ] Political events
+- [ ] Politics
+    - [ ] Theocracy government type
+    - [ ] Patriarchy government type?
 - [ ] Add X-Rebirth sectors? Add Aldrin? Tharka's Sun (CoP)?
 
 ## Useful resources
