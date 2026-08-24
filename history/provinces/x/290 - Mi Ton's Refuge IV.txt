@@ -1,2 +1,5 @@
+owner = SPP
+controller = SPP
+add_core = SPP
 trade_goods = nividium
 life_rating = 25
