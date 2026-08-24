@@ -1,29 +1,25 @@
-mild_climate =
-{
+mild_climate = {
 	farm_rgo_size = 0.0
 	farm_rgo_eff = 0.0
 	mine_rgo_size = 0.0
 	mine_rgo_eff = 0.0
 }
 
-temperate_climate =
-{
+temperate_climate = {
 	farm_rgo_size = 0.0
 	farm_rgo_eff = 0.0
 	mine_rgo_size = 0.0
 	mine_rgo_eff = 0.0
 }
 
-harsh_climate =
-{
+harsh_climate = {
 	farm_rgo_size = 0.0
 	farm_rgo_eff = 0.0
 	mine_rgo_size = 0.0
 	mine_rgo_eff = 0.0
 }
 
-inhospitable_climate =
-{
+inhospitable_climate = {
 	farm_rgo_size = 0.0
 	farm_rgo_eff = 0.0
 	mine_rgo_size = 0.0
