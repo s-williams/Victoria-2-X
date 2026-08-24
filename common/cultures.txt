@@ -2649,8 +2649,8 @@ boron_group = {
 	unit = EuropeanGC
 	boron = {
 		color = { 62 199 230 }
-		first_names = { Boso Fomo Suli  }
-		last_names = { Do Fi Ta }
+		first_names = { Boso Fomo Nila Suli  }
+		last_names = { Do Fi Ta Ti }
 	}
 }
 
