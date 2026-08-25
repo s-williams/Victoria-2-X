@@ -2,48 +2,46 @@
 # If adding new technology, make sure they are uniquely named.
 
 folders = {
-	army_tech = 
+	army_tech = #tech_group_military
 	{
-		army_doctrine
-		light_armament
-		heavy_armament
-		military_science
-		army_leadership
+		army_doctrine #tech_static_defences
+		light_armament #tech_light_armament
+		heavy_armament #tech_heavy_armament
+		military_science #tech_military_doctrine
+		army_leadership #tech_military_leadership
 	}
 
-	navy_tech = {
-		naval_doctrine
-		ship_construction
-		naval_engineering
-		naval_science
-		naval_leadership
+	navy_tech = { #tech_group_extraction
+		naval_doctrine #solar_extraction
+		ship_construction #ore_extraction
+		naval_engineering #silicon_extraction
+		naval_science #ice_extraction
+		naval_leadership #gas_extraction
 	}
 	
-	commerce_tech = {
-		financial_institutions
-		monetary_system
-		economic_thought_and_critique
-		market_functionality
-		tech_organization
+	commerce_tech = { # tech_group_commerce
+		financial_institutions #tech_financial_institutions
+		monetary_system # tech_administration
+		economic_thought_and_critique # tech_efficiency
+		market_functionality #tech_infrastructure
+		tech_organization #tech_markets
 	}
 	
-	culture_tech = {
-		aesthetics
-		philosophy
-		social_thought
-		political_thought
-		psychology
+	industry_tech = { # tech_group_industry
+		tech_power #tech_mechanization
+		mechanization #tech_biotech
+		metallurgy #tech_material_science
+		tech_infrastructure # tech_weapons_production
+		chemistry_and_electricity #tech_medicine
 	}
 	
-	industry_tech = {
-		tech_power
-		mechanization
-		metallurgy
-		tech_infrastructure
-		chemistry_and_electricity
-	}
-	
-	
+	culture_tech = { tech_group_culture
+		aesthetics # tech_aesthetics
+		philosophy # tech_education
+		social_thought # tech_social_thought
+		political_thought # tech_political_thought
+		psychology #martial_culture
+	}	
 }
 
 schools ={
