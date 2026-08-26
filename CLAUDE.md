@@ -44,7 +44,7 @@ Comments use `#`. String values use `"quotes"` or bare words.
 | [history/provinces/](history/provinces/) | Per-province starting state: owner, controller, pops, buildings |
 | [localisation/](localisation/) | Windows-1252 CSV files mapping keys to displayed text. Format: `KEY;English text;;;;;;;;;` |
 | [map/](map/) | Province definitions, regions, terrain, adjacencies, positions |
-| [technologies/](technologies/) | 7 tech tree files (army, navy, commerce, diplomacy, military_theory, knowledge, population) |
+| [technologies/](technologies/) | Tech tree files |
 | [inventions/](inventions/) | Invention unlocks triggered by technologies |
 | [poptypes/](poptypes/) | Population type definitions must reference every ideology |
 | [interface/](interface/) | UI layout files (`.gui`, `.gfx`) |
