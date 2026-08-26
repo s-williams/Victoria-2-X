@@ -209,6 +209,8 @@ ADD_RELATIVE_INCOME_EFFECT;Treasury: $VALUE$§!;x
 SUPPLY_LOAD_STATUS_DESC_BASIC;The total §Ysailor capacity§! of all our §Yports§! is §Y$TOT$§Yk§!.\nAll our ships requires in total §Y$REQ$§Yk§!.;x
 NF_OVERWRITE_HEADER;To set the new national focus §Y$NF$§! you must remove another one.;x
 NF_OVERWRITE_ENTRY;§Y$NF$§!\nin §G$STATE$§!;x
+WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;If we complete this wargoal, we will gain $PRES$ prestige.;x
+WAR_GOAL_FAILURE_PRESTIGE_CHANGE;If we fail to achieve this wargoal, we will lose $PRES$ prestige.;x
 POP_INTERNAL_MIGRATION;§Y$NUM$§! people intend to move to other national provinces.;x
 POP_EXTERNAL_MIGRATION;§Y$NUM$§! people intend to move to another country.;x
 POP_COLONIAL_MIGRATION;§Y$NUM$§! people intend to move to the territories.;x
@@ -587,7 +589,7 @@ TAXES_POOR;Taxes Rural Strata: §Y$VAL$§W;x
 TAXES_MIDDLE;Taxes Urban Strata: §Y$VAL$§W;x
 TAXES_RICH;Taxes Nobility Strata: §Y$VAL$§W;x
 TARIFFS_INCOME;Tariffs: §Y$VAL$§W;x
-BUDGET_GOLD;Gold: §Y$VAL$§W;x
+BUDGET_GOLD;Nividium: §Y$VAL$§W;x
 BUDGET_ADMIN_EFFICIENCY;Administrative efficiency: §Y$PERC$%§W;x
 BUDGET_ADMIN_EFFICIENCY_DESC;§Y$PERC$%§W of our population are §Ybureaucrats§W.\nFor maximum administrative efficiency, we need at least §Y$MAX$%§W bureaucrats.§W\n;x
 ADM_EXPLAIN_DESC;This needed percentage is based on the following.\n;x
@@ -1031,7 +1033,7 @@ mild_climate;Mild Climate;x
 temperate_climate;Temperate Climate;x
 harsh_climate;Harsh Climate;x
 inhospitable_climate;Inhospitable Climate;x
-GOLD;Gold;x
+GOLD;Nividium;x
 INTEREST;Interest;x
 NATIONAL_BANK;National bank;x
 EDUCATION;Education;x
@@ -2752,6 +2754,7 @@ MODIFIER_POPULATION_GROWTH;Population Growth;x
 MODIFIER_FACTORY_INPUT;Factory Input;x
 MODIFIER_FACTORY_OUTPUT;Factory Output;x
 MODIFIER_FACTORY_THROUGHPUT;Factory Throughput;x
+MODIFIER_FACTORY_COST;Factory Cost;x
 MODIFIER_RGO_INPUT;RGO Input;x
 MODIFIER_RGO_OUTPUT;RGO Output;x
 MODIFIER_RGO_THROUGHPUT;RGO Throughput;x
@@ -3908,6 +3911,7 @@ RULE_RICH_ONLY;Rich Only;x
 RULE_STATE_VOTE;State Vote;x
 RULE_POPULATION_VOTE;Population Vote;x
 RULE_SLAVERY_ALLOWED;Slavery Allowed;x
+RULE_SAME_AS_RULING_PARTY;Same As Ruling Party;x
 ENABLE_CRIME_TECH; ;x
 DIGIN_FROM_TECH;Dig-In Cap;x
 ENABLE_UNIT_TECH;Allows construction of;x
@@ -5574,8 +5578,10 @@ OUR_CB_DETECTED_SETUP;When our war justification process is detected;x
 OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;x
 OUR_CB_DETECTED_1;War Justification;x
 OUR_CB_DETECTED_2;Our attempt to justify war using;x
+OUR_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;x
 OUR_CB_DETECTED_4;against;x
 OUR_CB_DETECTED_5;$TARGET$;x
+OUR_CB_DETECTED_6;was detected! This costs us §R$BADBOY$§! infamy;x
 OUR_CB_DETECTED_LOG;Our war justification process against $TARGET$ was detected.;x
 OUR_CB_DETECTED_BTN1;OK;x
 OUR_CB_DETECTED_BTN2;OK;x
@@ -6158,6 +6164,7 @@ POP_WANT_AFFORD;Afforded: §Y$VAL$§W;x
 POP_PRODUCER_MARKET;This Producer;x
 POP_WORLD_MARKET;§YWorld Market§W;x
 OR_TRIG_SHORT;Either..;x
+WAR_HAS_COMPLETE_VICTORY;Complete Victory;x
 DIPLOMACY_CAN_INTERVENE;Intervene in War;x
 DIPLOMACY_CANNOT_INTERVENE;Intervene in War\nWe cannot join this side because:;x
 DIPLOMACY_OPINION_INFLUENCE;Opinion of §Y$GP$§W: §Y$OPINION$§W;x
@@ -6168,7 +6175,7 @@ DIPLOMACY_ACCEPTEDCULTURE_DESC;Our accepted culture(s) are people that are toler
 PROJECT_BUILD;Build;x
 PROJECT_REOPEN;Reopen;x
 PROJECT_EXPAND;Expand;x
-BUDGET_GOLD_INCOME_DESC;Income from gold mines and capital;x
+BUDGET_GOLD_INCOME_DESC;Income from nividium mines;x
 TOTAL_TAX_EFFICIENCY;Tax Efficiency: §Y$VAL$§W;x
 TOTAL_TAX_EFFICIENCY_BASED;Calculated from:;x
 TAX_POOR_DESC;This controls how much of the poor strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs.;x
@@ -6457,6 +6464,7 @@ TRADE_FLOW_CONSUME_DESC_RGO;§Y$POP$§! are using §Y$AMOUNT$ $RESOURCE$§! to p
 TRADE_FLOW_CONSUME_DESC_FACTORY;Our §Y$FACTORY$§! in §Y$STATE$§! is using §Y$AMOUNT$ $RESOURCE$§! for an input and/or maintenance requirements.;x
 TRADE_FLOW_CONSUME_DESC_POPS;Our §Y$POP$§! are using §Y$AMOUNT$ $RESOURCE$§! as part of their daily needs.;x
 TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using §Y$AMOUNT$ $RESOURCE$§! as a daily supply consumption.;x
+TRADE_FLOW_CONSUME_DESC_ARTISAN;Artisans are using $AMOUNT$ $RESOURCE$, to produce $OUTPUT$.;x
 TRADE_FLOW_MAY_USE_MILITARY_DESC;§Y$INPUT$§! may be used by our armies as a daily supply consumption.;x
 TRADE_FLOW_MAY_USE_DESC;§Y$INPUT$§! may be used by §Y$PRODUCER$§! to produce §Y$OUTPUT$§!.;x
 TRADE_NEEDS;Needs;x
