@@ -1,12 +1,19 @@
 sprite = 3
 color = { 234 227 40 }
 strata = middle
-
 research_points = 3	#if max %, then 2 extra research points.
 research_optimum = 0.02	#2%
-
-
 can_reduce_consciousness = yes
+
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0.4
+	fighter = 0.4
+	infantry = 0
+	courier = 0.1
+	scout = 0.1
+}
 
 life_needs_income = {
 	type = education

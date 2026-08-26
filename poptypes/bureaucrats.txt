@@ -2,12 +2,19 @@ sprite = 12
 color = { 136 136 136 }
 strata = middle
 state_capital_only = yes
-
 demote_migrant = yes
-
 administrative_efficiency = yes
-
 tax_eff = 1.0
+
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0.4
+	fighter = 0.4
+	infantry = 0
+	courier = 0.1
+	scout = 0.1
+}
 
 life_needs_income = {
 	type = administration

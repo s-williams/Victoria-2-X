@@ -4,6 +4,16 @@ strata = poor
 unemployment = yes
 equivalent = labourers
 
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0
+	fighter = 0
+	infantry = 0.6
+	courier = 0.2
+	scout = 0.2
+}
+
 everyday_needs = {
 	energy_cells = 0.5
 	water = 0.1

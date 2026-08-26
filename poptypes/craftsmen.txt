@@ -2,8 +2,17 @@ sprite = 6
 unemployment = yes
 can_work_factory = yes
 color = { 12 157 162 }
-
 strata = poor
+
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0
+	fighter = 0
+	infantry = 0.6
+	courier = 0.2
+	scout = 0.2
+}
 
 everyday_needs = {
 	energy_cells = 0.5

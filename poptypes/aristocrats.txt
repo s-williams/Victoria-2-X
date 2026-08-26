@@ -3,6 +3,16 @@ color = { 11 40 93 }
 strata = rich
 state_capital_only = yes
 
+rebel = {
+	artillery = 0.1
+	destroyer = 0.1
+	heavy_fighter = 0.6
+	fighter = 0.1
+	infantry = 0.0
+	courier = 0
+	scout = 0.1
+}
+
 life_needs = {
 	energy_cells = 2.2
 	water = 0.2

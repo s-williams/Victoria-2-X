@@ -3,8 +3,17 @@ color = { 127 3 3 }
 is_artisan = yes
 max_size = 250000
 merge_max_size = 10000
-
 strata = middle
+
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0.4
+	fighter = 0.4
+	infantry = 0
+	courier = 0.1
+	scout = 0.1
+}
 
 everyday_needs = {
 	energy_cells = 1.5

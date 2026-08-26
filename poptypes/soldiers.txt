@@ -1,8 +1,17 @@
 sprite = 7
 color = { 200 187 157 }
 strata = poor
-
 can_be_recruited = yes
+
+rebel = {
+	artillery = 0.1
+	destroyer = 0.1
+	heavy_fighter = 0.4
+	fighter = 0.4
+	infantry = 0
+	courier = 0
+	scout = 0
+}
 
 life_needs_income = {
 	type = military

@@ -5,6 +5,16 @@ is_slave = yes
 color = { 17 17 17 }
 unemployment = yes
 
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0
+	fighter = 0
+	infantry = 1.0
+	courier = 0
+	scout = 0
+}
+
 everyday_needs = {
 	energy_cells = 0.5
 	water = 0.1

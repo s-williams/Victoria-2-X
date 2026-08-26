@@ -1,8 +1,6 @@
 strata = middle
 research_points = 2
 research_optimum = 0.04
-
-
 factory = yes
 workplace_input = -0.1
 workplace_output = 0
@@ -11,6 +9,16 @@ starter_share = 1.0
 unemployment = yes
 can_work_factory = yes
 color = { 240 240 240 }
+
+rebel = {
+	artillery = 0
+	destroyer = 0
+	heavy_fighter = 0.4
+	fighter = 0.4
+	infantry = 0
+	courier = 0.1
+	scout = 0.1
+}
 
 everyday_needs = {
 	energy_cells = 1.5
