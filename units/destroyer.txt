@@ -17,11 +17,24 @@ destroyer = { # Destroyer (equivalent to engineer)
 	#Building Costs
 	build_time = 120
 	build_cost = {
+		hull_parts = 250
+		engine_parts = 100
+		energy_cells = 1000
+		weapon_components = 75
+		shield_components = 75
+		missile_components = 100
+		turret_components = 25
+		electronics = 20
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}	
+		energy_cells = 25
+		weapon_components = 0.75
+		shield_components = 0.75
+		missile_components = 1.0
+		electronics = 0.2
+	}
 
 	#Land Abilties
 	reconnaissance = 0

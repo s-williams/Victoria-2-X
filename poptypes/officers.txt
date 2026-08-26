@@ -47,6 +47,10 @@ luxury_needs = {
 	alcohol = 0.5
 	microchips = 0.1
 	electronics = 0.1
+	weapon_components = 0.2
+	shield_components = 0.2
+	missile_components = 0.2
+	turret_components = 0.1
 }
 
 country_migration_target =

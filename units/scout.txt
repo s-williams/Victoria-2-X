@@ -23,11 +23,21 @@ scout = { # Scout (equivalent to hussar)
 	#Building Costs
 	build_time = 120
 	build_cost = {
+		hull_parts = 100
+		engine_parts = 50
+		energy_cells = 250
+		weapon_components = 20
+		shield_components = 10
+		electronics = 1
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}	
+		energy_cells = 5
+		weapon_components = 0.2
+		shield_components = 0.1
+		electronics = 0.1
+	}
 
 	#Land Abilties
 	reconnaissance = 2

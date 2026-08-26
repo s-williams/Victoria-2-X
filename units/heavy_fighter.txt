@@ -17,13 +17,23 @@ heavy_fighter = { # Heavy Fighters (equivalent to guard)
 	#Building Costs
 	build_time = 90
 	build_cost = {
-		hull_parts = 10
-		engine_parts = 5
+		hull_parts = 150
+		engine_parts = 80
+		energy_cells = 500
+		weapon_components = 40
+		shield_components = 30
+		missile_components = 50
+		electronics = 5
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}	
+		energy_cells = 15
+		weapon_components = 0.4
+		shield_components = 0.3
+		missile_components = 0.5
+		electronics = 0.5
+	}
 
 	#Land Abilties
 	reconnaissance = 0

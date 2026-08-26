@@ -18,12 +18,25 @@ artillery = { # Frigate (equivalent to artillery)
 	#Building Costs
 	build_time = 120
 	build_cost = {
+		hull_parts = 150
+		engine_parts = 50
+		energy_cells = 750
+		weapon_components = 50
+		shield_components = 25
+		missile_components = 80
+		turret_components = 10
+		electronics = 20
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}
-	
+		energy_cells = 25
+		weapon_components = 0.5
+		shield_components = 0.25
+		missile_components = 0.8
+		turret_components = 0.1
+		electronics = 0.2
+	}	
 
 	#Land Abilties
 	reconnaissance = 0

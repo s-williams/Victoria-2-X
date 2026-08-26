@@ -17,13 +17,23 @@ fighter = { # Fighters (equivalent to infantry)
 	#Building Costs
 	build_time = 90
 	build_cost = {
-		hull_parts = 10
-		engine_parts = 5
+		hull_parts = 100
+		engine_parts = 50
+		energy_cells = 500
+		weapon_components = 30
+		shield_components = 20
+		missile_components = 10
+		electronics = 2
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}	
+		energy_cells = 5
+		weapon_components = 0.3
+		shield_components = 0.2
+		missile_components = 0.1
+		electronics = 0.2
+	}
 
 	#Land Abilties
 	reconnaissance = 0

@@ -17,13 +17,15 @@ infantry = { # Civilian ships (equivalent to irregulars)
 	#Building Costs
 	build_time = 90
 	build_cost = {
-		hull_parts = 10
-		engine_parts = 5
+		hull_parts = 50
+		engine_parts = 25
+		energy_cells = 100
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-	}	
+		energy_cells = 1
+	}
 
 	#Land Abilties
 	reconnaissance = 0
