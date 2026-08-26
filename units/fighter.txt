@@ -1,8 +1,8 @@
-irregular = {
-	icon = 17
+fighter = { # Fighters (equivalent to infantry)
+	icon = 1
 	
 	type = land
-	sprite = Irregular
+	sprite = Infantry
 	active = yes
 	unit_type = infantry
 	floating_flag = no
@@ -14,10 +14,11 @@ irregular = {
 	maximum_speed = 4.00
 	weighted_value = 1.0
 
-
 	#Building Costs
-	build_time = 45
+	build_time = 90
 	build_cost = {
+		hull_parts = 10
+		engine_parts = 5
 	}
 	
 	supply_consumption = 1.0

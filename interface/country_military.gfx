@@ -74,18 +74,18 @@ spriteTypes = {
 	
 	#unit folders.
 	spriteType = {
-		name = "GFX_unit_folder_army_0_irregular"
-		texturefile = "gfx\\interface\\unit_folder_army_0_irregular.dds"
+		name = "GFX_unit_folder_army_0_infantry"
+		texturefile = "gfx\\interface\\unit_folder_army_0_infantry.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_1_infantry"
-		texturefile = "gfx\\interface\\unit_folder_army_1_infantry.dds"
+		name = "GFX_unit_folder_army_1_fighter"
+		texturefile = "gfx\\interface\\unit_folder_army_1_fighter.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_2_cavalry"
-		texturefile = "gfx\\interface\\unit_folder_army_2_cavalry.dds"
+		name = "GFX_unit_folder_army_2_courier"
+		texturefile = "gfx\\interface\\unit_folder_army_2_courier.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -94,38 +94,18 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_4_engineer"
-		texturefile = "gfx\\interface\\unit_folder_army_4_engineer.dds"
+		name = "GFX_unit_folder_army_4_destroyer"
+		texturefile = "gfx\\interface\\unit_folder_army_4_destroyer.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_5_guard"
-		texturefile = "gfx\\interface\\unit_folder_army_5_guard.dds"
+		name = "GFX_unit_folder_army_5_heavy_fighter"
+		texturefile = "gfx\\interface\\unit_folder_army_5_heavy_fighter.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_6_dragoon"
-		texturefile = "gfx\\interface\\unit_folder_army_6_dragoon.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_7_cuirassier"
-		texturefile = "gfx\\interface\\unit_folder_army_7_cuirassier.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_8_hussar"
-		texturefile = "gfx\\interface\\unit_folder_army_8_hussar.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_9_tank"
-		texturefile = "gfx\\interface\\unit_folder_army_9_tank.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_10_plane"
-		texturefile = "gfx\\interface\\unit_folder_army_10_plane.dds"
+		name = "GFX_unit_folder_army_6_scout"
+		texturefile = "gfx\\interface\\unit_folder_army_6_scout.dds"
 		noOfFrames = 2
 	}
 	

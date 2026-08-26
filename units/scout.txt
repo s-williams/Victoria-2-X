@@ -1,4 +1,4 @@
-hussar = {
+scout = { # Scout (equivalent to hussar)
 	icon = 15
 	
 	type = land
@@ -36,5 +36,4 @@ hussar = {
 	discipline = 1.0
 	support = 0.0
 	maneuver = 4
-	
 }

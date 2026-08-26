@@ -5,12 +5,6 @@ state_capital_only = yes
 
 demote_migrant = yes
 
-rebel =
-{
-	infantry = 0.5
-	irregular = 0.5
-}
-
 administrative_efficiency = yes
 
 tax_eff = 1.0

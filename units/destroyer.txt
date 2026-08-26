@@ -1,18 +1,17 @@
-plane = {
-	icon = 19
+destroyer = { # Destroyer (equivalent to engineer)
+	icon = 16
 	
 	type = land
-	sprite = Plane
+	sprite = Engineer
 	active = no
-	unit_type = cavalry
-	floating_flag = no
-	
+	unit_type = special
 	#Core Abilities
-	priority = 45
+	priority = 15
 	max_strength = 3
 	default_organisation = 30
 	maximum_speed = 5.00
-	weighted_value = 10.0
+	weighted_value = 3.0
+	floating_flag = no
 
 
 	#Building Costs
@@ -25,10 +24,11 @@ plane = {
 	}	
 
 	#Land Abilties
-	reconnaissance = 4
-	attack = 1
-	defence = 10
-	discipline = 0.1
-	support = 2
+	reconnaissance = 0
+	attack = 2
+	defence = 6
+	discipline = 1.0
+	support = 0.5
 	maneuver = 2
+	siege = 1
 }

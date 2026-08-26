@@ -5,12 +5,6 @@ strata = middle
 research_points = 3	#if max %, then 2 extra research points.
 research_optimum = 0.02	#2%
 
-rebel =
-{
-	infantry = 0.5
-	irregular = 0.5
-}
-
 
 can_reduce_consciousness = yes
 

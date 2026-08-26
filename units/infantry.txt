@@ -1,23 +1,24 @@
-infantry = {
-	icon = 1
+infantry = { # Civilian ships (equivalent to irregulars)
+	icon = 17
 	
 	type = land
 	sprite = Infantry
-	active = no
+	active = yes
 	unit_type = infantry
 	floating_flag = no
 	
 	#Core Abilities
-	priority = 10
+	priority = 5
 	max_strength = 3
-	default_organisation = 30
+	default_organisation = 20
 	maximum_speed = 4.00
-	weighted_value = 2.0
-
+	weighted_value = 1.0
 
 	#Building Costs
 	build_time = 90
 	build_cost = {
+		hull_parts = 10
+		engine_parts = 5
 	}
 	
 	supply_consumption = 1.0
@@ -26,9 +27,9 @@ infantry = {
 
 	#Land Abilties
 	reconnaissance = 0
-	attack = 4
-	defence = 4
-	discipline = 1.0
+	attack = 2
+	defence = 2
+	discipline = 1
 	support = 0.0
 	maneuver = 1
 }
