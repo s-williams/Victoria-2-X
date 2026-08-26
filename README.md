@@ -15,8 +15,9 @@ Terrain.bmp - ???
         - [/] Starting governments, reforms
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
+        - [ ] On colourmap maybe???
     - [x] Resources on map
-    - [ ] Terrains (empty space, nebula, asteroid field, etc)
+    - [ ] Terrains (unique per region)
     - [x] Climates as sun exposure levels
     - [ ] Starting industries
     - [x] Starting pops
@@ -34,8 +35,8 @@ Terrain.bmp - ???
     - [ ] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [ ] Inventions
 - [ ] Units
-    - [ ] Rework
-    - [ ] Resource costs
+    - [x] Rework
+    - [x] Resource costs
     - [ ] Icons
 
 # Beta
