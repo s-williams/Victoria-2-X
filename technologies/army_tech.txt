@@ -1,167 +1,449 @@
-#army_doctrine
-post_napoleonic_thought = {
-	area = army_doctrine
-	year = 1836
+#tech_static_defences
+tech_static_defences_1 = {
+	area = tech_static_defences
+	year = 2990
 	cost = 3600
+	unciv_military = yes
+
+	activate_building = fort
+	dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_1 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
-strategic_mobility = {
-	area = army_doctrine
-	year = 1836
+tech_static_defences_2 = {
+	area = tech_static_defences
+	year = 2990
 	cost = 7200
+	unciv_military = yes
+
+    max_fort = 1
+    dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_2 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
-point_defense_system = {
-	area = army_doctrine
-	year = 1850
+tech_static_defences_3 = {
+	area = tech_static_defences
+	year = 3010
 	cost = 10800
+	unciv_military = yes
+
+    max_fort = 1
+    dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_3 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
-deep_defense_system = {
-	area = army_doctrine
-	year = 1870
+tech_static_defences_4 = {
+	area = tech_static_defences
+	year = 3030
 	cost = 14400
+	unciv_military = yes
+
+    max_fort = 1
+    dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_4 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
-infiltration = {
-	area = army_doctrine
-	year = 1900
+tech_static_defences_5 = {
+	area = tech_static_defences
+	year = 3050
 	cost = 18000
+	unciv_military = yes
+
+    max_fort = 1
+    dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_5 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
-modern_army_doctrine = {
-	area = army_doctrine
-	year = 1919
+tech_static_defences_6 = {
+	area = tech_static_defences
+	year = 3080
 	cost = 21600
+	unciv_military = yes
+
+    max_fort = 1
+    dig_in_cap = 1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_static_defences_6 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
 
-#light_armament
-flintlock_rifles = {
-	area = light_armament
-	year = 1836
+#tech_light_armament
+tech_light_armament_1 = {
+	area = tech_light_armament
+	year = 2990
 	cost = 3600
+	unciv_military = yes
 }
-muzzle_loaded_rifles = {
-	area = light_armament
-	year = 1836
+tech_light_armament_2 = {
+	area = tech_light_armament
+	year = 2990
 	cost = 7200
+	unciv_military = yes
 }
-breech_loaded_rifles = {
-	area = light_armament
-	year = 1850
+tech_light_armament_3 = {
+	area = tech_light_armament
+	year = 3010
 	cost = 10800
+	unciv_military = yes
 }
-machine_guns = {
-	area = light_armament
-	year = 1870
+tech_light_armament_4 = {
+	area = tech_light_armament
+	year = 3030
 	cost = 14400
+	unciv_military = yes
 }
-bolt_action_rifles = {
-	area = light_armament
-	year = 1900
+tech_light_armament_5 = {
+	area = tech_light_armament
+	year = 3050
 	cost = 18000
+	unciv_military = yes
 }
-modern_divisional_structure = {
-	area = light_armament
-	year = 1919
+tech_light_armament_6 = {
+	area = tech_light_armament
+	year = 3080
 	cost = 21600
+	unciv_military = yes
 }
 
 
-#heavy_armament
-bronze_muzzle_loaded_artillery = {
-	area = heavy_armament
-	year = 1836
+#tech_heavy_armament
+tech_heavy_armament_1 = {
+	area = tech_heavy_armament
+	year = 2990
 	cost = 3600
+	unciv_military = yes
 }
-iron_muzzle_loaded_artillery = {
-	area = heavy_armament
-	year = 1836
+tech_heavy_armament_2 = {
+	area = tech_heavy_armament
+	year = 2990
 	cost = 7200
+	unciv_military = yes
 }
-iron_breech_loaded_artillery = {
-	area = heavy_armament
-	year = 1850
+tech_heavy_armament_3 = {
+	area = tech_heavy_armament
+	year = 3010
 	cost = 10800
+	unciv_military = yes
 }
-steel_breech_loaded_artillery = {
-	area = heavy_armament
-	year = 1870
+tech_heavy_armament_4 = {
+	area = tech_heavy_armament
+	year = 3030
 	cost = 14400
+	unciv_military = yes
 }
-indirect_artillery_fire = {
-	area = heavy_armament
-	year = 1900
+tech_heavy_armament_5 = {
+	area = tech_heavy_armament
+	year = 3050
 	cost = 18000
+	unciv_military = yes
 }
-heavy_armament_dunno = {
-	area = heavy_armament
-	year = 1919
+tech_heavy_armament_6 = {
+	area = tech_heavy_armament
+	year = 3080
 	cost = 21600
+	unciv_military = yes
 }
 
 
-#military_science
-military_staff_system = {
-	area = military_science
-	year = 1836
+#tech_military_doctrine
+tech_military_doctrine_1 = {
+	area = tech_military_doctrine
+	year = 2990
 	cost = 3600
+	unciv_military = yes
 }
-military_plans = {
-	area = military_science
-	year = 1836
+tech_military_doctrine_2 = {
+	area = tech_military_doctrine
+	year = 2990
 	cost = 7200
+	unciv_military = yes
 }
-military_statistics = {
-	area = military_science
-	year = 1850
+tech_military_doctrine_3 = {
+	area = tech_military_doctrine
+	year = 3010
 	cost = 10800
+	unciv_military = yes
 }
-military_logistics = {
-	area = military_science
-	year = 1870
+tech_military_doctrine_4 = {
+	area = tech_military_doctrine
+	year = 3030
 	cost = 14400
+	unciv_military = yes
 }
-military_directionism = {
-	area = military_science
-	year = 1900
+tech_military_doctrine_5 = {
+	area = tech_military_doctrine
+	year = 3050
 	cost = 18000
+	unciv_military = yes
 }
-aeronautics = {
-	area = military_science
+tech_military_doctrine_6 = {
+	area = tech_military_doctrine
 	year = 1914
 	cost = 21600
+	unciv_military = yes
 }
 
 
-#army_leadership
-army_command_principle = {
-	area = army_leadership
-	year = 1836
+#tech_military_leadership
+tech_military_leadership_1 = {
+	area = tech_military_leadership
+	year = 2990
 	cost = 3600
+	unciv_military = yes
 }
-army_professionalism = {
-	area = army_leadership
-	year = 1836
+tech_military_leadership_2 = {
+	area = tech_military_leadership
+	year = 2990
 	cost = 7200
+	unciv_military = yes
 }
-army_decision_making = {
-	area = army_leadership
-	year = 1850
+tech_military_leadership_3 = {
+	area = tech_military_leadership
+	year = 3010
 	cost = 10800
+	unciv_military = yes
 }
-army_risk_management = {
-	area = army_leadership
-	year = 1870
+tech_military_leadership_4 = {
+	area = tech_military_leadership
+	year = 3030
 	cost = 14400
+	unciv_military = yes
 }
-army_nco_training = {
-	area = army_leadership
-	year = 1900
+tech_military_leadership_5 = {
+	area = tech_military_leadership
+	year = 3050
 	cost = 18000
+	unciv_military = yes
 }
-great_war_experience = {
-	area = army_leadership
-	year = 1919
+tech_military_leadership_6 = {
+	area = tech_military_leadership
+	year = 3080
 	cost = 21600
+	unciv_military = yes
 }
 
 

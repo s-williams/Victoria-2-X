@@ -175,7 +175,7 @@ conquest = {
 				THIS = {
 					OR = {
 						NOT = { is_greater_power = yes }
-						NOT = { nationalism_n_imperialism = 1 }
+						NOT = { tech_political_thought_4 = 1 }
 					}
 				}
 			}
@@ -1251,7 +1251,7 @@ establish_protectorate_casus_belli = {
 				THIS = {
 					AND = {
 						is_greater_power = yes
-						nationalism_n_imperialism = 1
+						tech_political_thought_4 = 1
 					}
 				}
 				NOT = { number_of_states = 5 }
@@ -1300,7 +1300,7 @@ unification_humiliate_cb = {
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
-			nationalism_n_imperialism = 1
+			tech_political_thought_4 = 1
 			is_greater_power = yes
 		}
 		is_greater_power = yes
@@ -1352,7 +1352,7 @@ unification_release_puppet_cb = {
 		num_of_vassals_no_substates = 1
 		THIS = {
 			culture_has_union_tag = yes
-			nationalism_n_imperialism = 1
+			tech_political_thought_4 = 1
 			is_greater_power = yes		
 			is_cultural_union = no
 		}
@@ -1411,7 +1411,7 @@ unification_casus_belli = {
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
-			nationalism_n_imperialism = 1
+			tech_political_thought_4 = 1
 			is_greater_power = yes
 			is_cultural_union = no
 		}
@@ -1479,7 +1479,7 @@ unification_annex_casus_belli = {
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
-			nationalism_n_imperialism = 1
+			tech_political_thought_4 = 1
 			is_greater_power = yes
 			is_cultural_union = no
 		}

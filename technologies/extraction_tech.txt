@@ -1,0 +1,163 @@
+#tech_solar_extraction
+tech_solar_extraction_1 = {
+	area = tech_solar_extraction
+	year = 2990
+	cost = 3600
+}
+tech_solar_extraction_2 = {
+	area = tech_solar_extraction
+	year = 2990
+	cost = 7200
+}
+tech_solar_extraction_3 = {
+	area = tech_solar_extraction
+	year = 1855
+	cost = 10800
+}
+tech_solar_extraction_4 = {
+	area = tech_solar_extraction
+	year = 1875
+	cost = 14400
+}
+
+tech_solar_extraction_5 = {
+	area = tech_solar_extraction
+	year = 1895
+	cost = 18000
+}
+tech_solar_extraction_6 = {
+	area = tech_solar_extraction
+	year = 1914
+	cost = 21600
+}
+
+
+#tech_ore_extraction
+tech_ore_extraction_1 = {
+	area = tech_ore_extraction
+	year = 2990
+	cost = 3600
+}
+tech_ore_extraction_2 = {
+	area = tech_ore_extraction
+	year = 2990
+	cost = 7200
+}
+tech_ore_extraction_3 = {
+	area = tech_ore_extraction
+	year = 3020
+	cost = 10800
+}
+tech_ore_extraction_4 = {
+	area = tech_ore_extraction
+	year = 3040
+	cost = 14400
+}
+tech_ore_extraction_5 = {
+	area = tech_ore_extraction
+	year = 3050
+	cost = 18000
+}
+tech_ore_extraction_6 = {
+	area = tech_ore_extraction
+	year = 3080
+	cost = 21600
+}
+
+#tech_silicon_extraction
+tech_silicon_extraction_1 = {
+	area = tech_silicon_extraction
+	year = 2990
+	cost = 3600
+}
+tech_silicon_extraction_2 = {
+	area = tech_silicon_extraction
+	year = 2990
+	cost = 7200
+}
+
+tech_silicon_extraction_3 = {
+	area = tech_silicon_extraction
+	year = 3010
+	cost = 10800
+}
+tech_silicon_extraction_4 = {
+	area = tech_silicon_extraction
+	year = 3030
+	cost = 14400
+}
+tech_silicon_extraction_5 = {
+	area = tech_silicon_extraction
+	year = 3050
+	cost = 18000
+}
+tech_silicon_extraction_6 = {
+	area = tech_silicon_extraction
+	year = 3080
+	cost = 21600
+}
+
+#tech_ice_extraction
+tech_ice_extraction_1 = {
+	area = tech_ice_extraction
+	year = 2990
+	cost = 3600
+}
+tech_ice_extraction_2 = {
+	area = tech_ice_extraction
+	year = 2990
+	cost = 7200
+}
+tech_ice_extraction_3 = {
+	area = tech_ice_extraction
+	year = 3010
+	cost = 10800
+}
+tech_ice_extraction_4 = {
+	area = tech_ice_extraction
+	year = 3030
+	cost = 14400
+}
+tech_ice_extraction_5 = {
+	area = tech_ice_extraction
+	year = 3050
+	cost = 18000
+}
+tech_ice_extraction_6 = {
+	area = tech_ice_extraction
+	year = 3080
+	cost = 21600
+}
+
+
+#tech_gas_extraction
+tech_gas_extraction_1 = {
+	area = tech_gas_extraction
+	year = 2990
+	cost = 3600
+}
+tech_gas_extraction_2 = {
+	area = tech_gas_extraction
+	year = 2990
+	cost = 7200
+}
+tech_gas_extraction_3 = {
+	area = tech_gas_extraction
+	year = 3010
+	cost = 10800
+}
+tech_gas_extraction_4 = {
+	area = tech_gas_extraction
+	year = 3030
+	cost = 14400
+}
+tech_gas_extraction_5 = {
+	area = tech_gas_extraction
+	year = 3050
+	cost = 18000
+}
+tech_gas_extraction_6 = {
+	area = tech_gas_extraction
+	year = 3080
+	cost = 21600
+}

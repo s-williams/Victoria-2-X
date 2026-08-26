@@ -186,14 +186,6 @@ political_reforms = {
 		}
 		no_slavery = {
 			rules = { slavery_allowed = no }
-			allow = { 
-				OR = {
-					NOT = { 
-						has_country_flag = the_slavery_debate
-					}
-					year = 1875
-				}
-			}
 
 			global_immigrant_attract = 0.01
 		}
@@ -722,7 +714,7 @@ economic_reforms = {
 					}
 				}
 				effect = {
-					activate_technology = experimental_railroad
+					activate_technology = tech_infrastructure_1
 					build_railway_in_capital = {
 						in_whole_capital_state = yes # no = just in main capital province.
 						limit_to_world_greatest_level = yes
@@ -756,7 +748,7 @@ economic_reforms = {
 			civilization_progress_modifier = 0.2
 			on_execute = {
 				effect = {
-					activate_technology = water_wheel_power
+					activate_technology = tech_mechanization_1
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal
@@ -850,7 +842,7 @@ military_reforms = {
 						
 			on_execute = {
 				effect = {
-					activate_technology = flintlock_rifles
+					activate_technology = tech_light_armament_1
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal
@@ -886,7 +878,7 @@ military_reforms = {
 					}
 				}
 				effect = {
-					activate_technology = post_napoleonic_thought
+					activate_technology = tech_static_defences_1
 					build_fort_in_capital = {
 						in_whole_capital_state = no # no = just in main capital province.
 						limit_to_world_greatest_level = yes
@@ -922,7 +914,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
-					activate_technology = military_staff_system
+					activate_technology = tech_military_doctrine_1
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal
@@ -1040,7 +1032,7 @@ military_reforms = {
 			
 			on_execute = {
 				effect = {
-					activate_technology = post_nelsonian_thought
+					activate_technology = tech_solar_extraction_1
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal

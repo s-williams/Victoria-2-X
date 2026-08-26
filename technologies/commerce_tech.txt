@@ -1,165 +1,164 @@
-#financial_institutions
-private_banks = {
-	area = financial_institutions
-	year = 1836
+#tech_financial_institutions
+tech_financial_institutions_1 = {
+	area = tech_financial_institutions
+	year = 2990
 	cost = 3600
 }
-stock_exchange = {
-	area = financial_institutions
-	year = 1836
+tech_financial_institutions_2 = {
+	area = tech_financial_institutions
+	year = 2990
 	cost = 7200
 }
-business_banks = {
-	area = financial_institutions
-	year = 1850
+tech_financial_institutions_3 = {
+	area = tech_financial_institutions
+	year = 3010
 	cost = 10800
 }
-investment_banks = {
-	area = financial_institutions
-	year = 1870
+tech_financial_institutions_4 = {
+	area = tech_financial_institutions
+	year = 3030
 	cost = 14400
 }
-bank_inspection_board = {
-	area = financial_institutions
-	year = 1900
+tech_financial_institutions_5 = {
+	area = tech_financial_institutions
+	year = 3050
 	cost = 18000
 }
-mutual_funds = {
-	area = financial_institutions
-	year = 1919
+tech_financial_institutions_6 = {
+	area = tech_financial_institutions
+	year = 3080
 	cost = 21600
 }
 
 
-#monetary_system
-no_standard = {
-	area = monetary_system
-	year = 1836
+#tech_administration
+tech_administration_1 = {
+	area = tech_administration
+	year = 2990
 	cost = 3600
 }
-ad_hoc_money_bill_printing = {
-	area = monetary_system
-	year = 1836
+tech_administration_2 = {
+	area = tech_administration
+	year = 2990
 	cost = 7200
-}  
-private_bank_money_bill_printing = {
-	area = monetary_system
-	year = 1836
+}
+tech_administration_3 = {
+	area = tech_administration
+	year = 2990
 	cost = 10800
 }
-central_bank_money_bill_printing = {
-	area = monetary_system
-	year = 1850
+tech_administration_4 = {
+	area = tech_administration
+	year = 3010
 	cost = 14400
 }
-modern_central_bank_system = {
-	area = monetary_system
-	year = 1870
+tech_administration_5 = {
+	area = tech_administration
+	year = 3030
 	cost = 18000
 }
-market_determined_exchange_rates = {
-	area = monetary_system
-	year = 1900
+tech_administration_6 = {
+	area = tech_administration
+	year = 3050
 	cost = 21600
 }
 
 
-#economic_thought_and_critique
-early_classical_theory_and_critique = {
-	area = economic_thought_and_critique
-	year = 1836
+#tech_efficiency
+tech_efficiency_1 = {
+	area = tech_efficiency
+	year = 2990
 	cost = 3600
 }
-late_classical_theory = {
-	area = economic_thought_and_critique
-	year = 1836
+tech_efficiency_2 = {
+	area = tech_efficiency
+	year = 2990
 	cost = 7200
 }
-collectivist_theory = {
-	area = economic_thought_and_critique
-	year = 1836
+tech_efficiency_3 = {
+	area = tech_efficiency
+	year = 2990
 	cost = 10800
 }
-the_historical_theory = {
-	area = economic_thought_and_critique
-	year = 1850
+tech_efficiency_4 = {
+	area = tech_efficiency
+	year = 3010
 	cost = 14400
 }
-neoclassical_theory = {
-	area = economic_thought_and_critique
-	year = 1870
+tech_efficiency_5 = {
+	area = tech_efficiency
+	year = 3030
 	cost = 18000
 }
-keynesian_economics = {
-	area = economic_thought_and_critique
-	year = 1900
+tech_efficiency_6 = {
+	area = tech_efficiency
+	year = 3050
 	cost = 21600
 }
 
 
-#market_functionality
-freedom_of_trade = {
-	area = market_functionality
-	year = 1836
+#tech_infrastructure
+tech_infrastructure_1 = {
+	area = tech_infrastructure
+	year = 2990
 	cost = 3600
 }
-market_structure = {
-	area = market_functionality
-	year = 1836
+tech_infrastructure_2 = {
+	area = tech_infrastructure
+	year = 2990
 	cost = 7200
 }
-business_regulations = {
-	area = market_functionality
-	year = 1836
+tech_infrastructure_3 = {
+	area = tech_infrastructure
+	year = 2990
 	cost = 10800
 }
-market_regulations = {
-	area = market_functionality
-	year = 1850
+tech_infrastructure_4 = {
+	area = tech_infrastructure
+	year = 3010
 	cost = 14400
 }
-economic_responsibility = {
-	area = market_functionality
-	year = 1870
+tech_infrastructure_5 = {
+	area = tech_infrastructure
+	year = 3030
 	cost = 18000
 }
-government_interventionism = {
-	area = market_functionality
-	year = 1900
+tech_infrastructure_6 = {
+	area = tech_infrastructure
+	year = 3050
 	cost = 21600
 }
 
 
-#tech_organization
-guild_based_production = {
-	area = tech_organization
-	year = 1836
+#tech_markets
+tech_markets_1 = {
+	area = tech_markets
+	year = 2990
 	cost = 3600
 }
-organized_factories = {
-	area = tech_organization
-	year = 1836
+tech_markets_2 = {
+	area = tech_markets
+	year = 2990
 	cost = 7200
 }
-scientific_management = {
-	area = tech_organization
-	year = 1836
+tech_markets_3 = {
+	area = tech_markets
+	year = 2990
 	cost = 10800
 }
-time_saving_measures = {
-	area = tech_organization
-	year = 1850
+tech_markets_4 = {
+	area = tech_markets
+	year = 3010
 	cost = 14400
 }
-management_strategy = {
-	area = tech_organization
-	year = 1870
+tech_markets_5 = {
+	area = tech_markets
+	year = 3030
 	cost = 18000
 }
-organizational_development = {
-	area = tech_organization
-	year = 1900
+tech_markets_6 = {
+	area = tech_markets
+	year = 3050
 	cost = 21600
 }
-
 

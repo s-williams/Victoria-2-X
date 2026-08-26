@@ -1,168 +1,167 @@
-#aesthetics
-classicism_n_early_romanticism = {
-	area = aesthetics
-	year = 1836
+#tech_aesthetics
+tech_aesthetics_1 = {
+	area = tech_aesthetics
+	year = 2990
 	cost = 3600
 }
 
-romanticism = {
-	area = aesthetics
-	year = 1836
+tech_aesthetics_2 = {
+	area = tech_aesthetics
+	year = 2990
 	cost = 7200
 }
 
-realism = {
-	area = aesthetics
-	year = 1836
+tech_aesthetics_3 = {
+	area = tech_aesthetics
+	year = 2990
 	cost = 10800
 }
-impressionism = {
-	area = aesthetics
-	year = 1850
+tech_aesthetics_4 = {
+	area = tech_aesthetics
+	year = 3010
 	cost = 14400
 }
-expressionism = {
-	area = aesthetics
-	year = 1870
+tech_aesthetics_5 = {
+	area = tech_aesthetics
+	year = 3030
 	cost = 18000
 }
-mass_culture_n_the_avant_garde = {
-	area = aesthetics
-	year = 1900
+tech_aesthetics_6 = {
+	area = tech_aesthetics
+	year = 3050
 	cost = 21600
 }
 
 
-#philosophy
-late_enlightenment_philosophy = {
-	area = philosophy
-	year = 1836
+#tech_education
+tech_education_1 = {
+	area = tech_education
+	year = 2990
 	cost = 3600
 }
-idealism = {
-	area = philosophy
-	year = 1840
+tech_education_2 = {
+	area = tech_education
+	year = 3000
 	cost = 7200
 }
 
-empiricism = {
-	area = philosophy
-	year = 1860
+tech_education_3 = {
+	area = tech_education
+	year = 3020
 	cost = 10800
 }
-analytic_philosophy = {
-	area = philosophy
-	year = 1870
+tech_education_4 = {
+	area = tech_education
+	year = 3030
 	cost = 14400
 }
-phenomenology_n_hermeneutic = {
-	area = philosophy
-	year = 1880
+tech_education_5 = {
+	area = tech_education
+	year = 3040
 	cost = 18000
 }
-anti__rationalism = {
-	area = philosophy
-	year = 1900
+tech_education_6 = {
+	area = tech_education
+	year = 3050
 	cost = 21600
 }
 
 
-#social_thought
-malthusian_thought = {
-	area = social_thought
-	year = 1836
+#tech_social_thought
+tech_social_thought_1 = {
+	area = tech_social_thought
+	year = 2990
 	cost = 3600
 }
-positivism = {
-	area = social_thought
-	year = 1836
+tech_social_thought_2 = {
+	area = tech_social_thought
+	year = 2990
 	cost = 7200
 }
-functionalism = {
-	area = social_thought
-	year = 1836
+tech_social_thought_3 = {
+	area = tech_social_thought
+	year = 2990
 	cost = 10800
 }
-biologism = {
-	area = social_thought
-	year = 1850
+tech_social_thought_4 = {
+	area = tech_social_thought
+	year = 3010
 	cost = 14400
 }
-social_science = {
-	area = social_thought
-	year = 1870
+tech_social_thought_5 = {
+	area = tech_social_thought
+	year = 3030
 	cost = 18000
 }
-social_alienation = {
-	area = social_thought
-	year = 1900
+tech_social_thought_6 = {
+	area = tech_social_thought
+	year = 3050
 	cost = 21600
 }
 
 
-#political_thought
-enlightenment_thought = {
-	area = political_thought
-	year = 1836
+#tech_political_thought
+tech_political_thought_1 = {
+	area = tech_political_thought
+	year = 2990
 	cost = 3600
 }
-ideological_thought = {
-	area = political_thought
-	year = 1836
+tech_political_thought_2 = {
+	area = tech_political_thought
+	year = 2990
 	cost = 7200
 }
-state_n_government = {
-	area = political_thought
-	year = 1840
+tech_political_thought_3 = {
+	area = tech_political_thought
+	year = 3000
 	cost = 10800
 }
-nationalism_n_imperialism = {
-	area = political_thought
-	year = 1850
+tech_political_thought_4 = {
+	area = tech_political_thought
+	year = 3010
 	cost = 14400
 }
-revolution_n_counterrevolution = {
-	area = political_thought
-	year = 1870
+tech_political_thought_5 = {
+	area = tech_political_thought
+	year = 3030
 	cost = 18000
 }
-mass_politics = {
-	area = political_thought
-	year = 1900
+tech_political_thought_6 = {
+	area = tech_political_thought
+	year = 3050
 	cost = 21600
 }
 
 
-#psychology
-introspectionism = {
-	area = psychology
-	year = 1836
+#tech_martial_culture
+tech_martial_culture_1 = {
+	area = tech_martial_culture
+	year = 2990
 	cost = 3600
 }
-associationism = {
-	area = psychology
-	year = 1836
+tech_martial_culture_2 = {
+	area = tech_martial_culture
+	year = 2990
 	cost = 7200
 }
-phenomenalism = {
-	area = psychology
-	year = 1836
+tech_martial_culture_3 = {
+	area = tech_martial_culture
+	year = 2990
 	cost = 10800
 }
-experimental_psychology = {
-	area = psychology
-	year = 1850
+tech_martial_culture_4 = {
+	area = tech_martial_culture
+	year = 3010
 	cost = 14400
 }
-psychoanalysis = {
-	area = psychology
-	year = 1870
+tech_martial_culture_5 = {
+	area = tech_martial_culture
+	year = 3030
 	cost = 18000
 }
-behaviorism = {
-	area = psychology
-	year = 1900
+tech_martial_culture_6 = {
+	area = tech_martial_culture
+	year = 3050
 	cost = 21600
 }
-
 

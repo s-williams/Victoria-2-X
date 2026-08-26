@@ -1,0 +1,183 @@
+######################;x
+##### TECHNOLOGY #####;x
+######################;x
+army_tech;Military;x
+tech_static_defences;Static Defences;x
+tech_static_defences_1;Static Defences 1;x
+tech_static_defences_2;Static Defences 2;x
+tech_static_defences_3;Static Defences 3;x
+tech_static_defences_4;Static Defences 4;x
+tech_static_defences_5;Static Defences 5;x
+tech_static_defences_6;Static Defences 6;x
+tech_light_armament;Light Armament;x
+tech_light_armament_1;Light Armament 1;x
+tech_light_armament_2;Light Armament 2;x
+tech_light_armament_3;Light Armament 3;x
+tech_light_armament_4;Light Armament 4;x
+tech_light_armament_5;Light Armament 5;x
+tech_light_armament_6;Light Armament 6;x
+tech_heavy_armament;Heavy Armament;x
+tech_heavy_armament_1;Heavy Armament 1;x
+tech_heavy_armament_2;Heavy Armament 2;x
+tech_heavy_armament_3;Heavy Armament 3;x
+tech_heavy_armament_4;Heavy Armament 4;x
+tech_heavy_armament_5;Heavy Armament 5;x
+tech_heavy_armament_6;Heavy Armament 6;x
+tech_military_doctrine;Military Doctrine;x
+tech_military_doctrine_1;Military Doctrine 1;x
+tech_military_doctrine_2;Military Doctrine 2;x
+tech_military_doctrine_3;Military Doctrine 3;x
+tech_military_doctrine_4;Military Doctrine 4;x
+tech_military_doctrine_5;Military Doctrine 5;x
+tech_military_doctrine_6;Military Doctrine 6;x
+tech_military_leadership;Military Leadership;x
+tech_military_leadership_1;Military Leadership 1;x
+tech_military_leadership_2;Military Leadership 2;x
+tech_military_leadership_3;Military Leadership 3;x
+tech_military_leadership_4;Military Leadership 4;x
+tech_military_leadership_5;Military Leadership 5;x
+tech_military_leadership_6;Military Leadership 6;x
+extraction_tech;Extraction;x
+tech_solar_extraction;Solar Extraction;x
+tech_solar_extraction_1;Solar Extraction 1;x
+tech_solar_extraction_2;Solar Extraction 2;x
+tech_solar_extraction_3;Solar Extraction 3;x
+tech_solar_extraction_4;Solar Extraction 4;x
+tech_solar_extraction_5;Solar Extraction 5;x
+tech_solar_extraction_6;Solar Extraction 6;x
+tech_ore_extraction;Ore Extraction;x
+tech_ore_extraction_1;Ore Extraction 1;x
+tech_ore_extraction_2;Ore Extraction 2;x
+tech_ore_extraction_3;Ore Extraction 3;x
+tech_ore_extraction_4;Ore Extraction 4;x
+tech_ore_extraction_5;Ore Extraction 5;x
+tech_ore_extraction_6;Ore Extraction 6;x
+tech_silicon_extraction;Silicon Extraction;x
+tech_silicon_extraction_1;Silicon Extraction 1;x
+tech_silicon_extraction_2;Silicon Extraction 2;x
+tech_silicon_extraction_3;Silicon Extraction 3;x
+tech_silicon_extraction_4;Silicon Extraction 4;x
+tech_silicon_extraction_5;Silicon Extraction 5;x
+tech_silicon_extraction_6;Silicon Extraction 6;x
+tech_ice_extraction;Ice Extraction;x
+tech_ice_extraction_1;Ice Extraction 1;x
+tech_ice_extraction_2;Ice Extraction 2;x
+tech_ice_extraction_3;Ice Extraction 3;x
+tech_ice_extraction_4;Ice Extraction 4;x
+tech_ice_extraction_5;Ice Extraction 5;x
+tech_ice_extraction_6;Ice Extraction 6;x
+tech_gas_extraction;Gas Extraction;x
+tech_gas_extraction_1;Gas Extraction 1;x
+tech_gas_extraction_2;Gas Extraction 2;x
+tech_gas_extraction_3;Gas Extraction 3;x
+tech_gas_extraction_4;Gas Extraction 4;x
+tech_gas_extraction_5;Gas Extraction 5;x
+tech_gas_extraction_6;Gas Extraction 6;x
+commerce_tech;Commerce;x
+tech_financial_institutions;Financial Institutions;x
+tech_financial_institutions_1;Financial Institutions 1;x
+tech_financial_institutions_2;Financial Institutions 2;x
+tech_financial_institutions_3;Financial Institutions 3;x
+tech_financial_institutions_4;Financial Institutions 4;x
+tech_financial_institutions_5;Financial Institutions 5;x
+tech_financial_institutions_6;Financial Institutions 6;x
+tech_administration;Administration;x
+tech_administration_1;Administration 1;x
+tech_administration_2;Administration 2;x
+tech_administration_3;Administration 3;x
+tech_administration_4;Administration 4;x
+tech_administration_5;Administration 5;x
+tech_administration_6;Administration 6;x
+tech_efficiency;Efficiency;x
+tech_efficiency_1;Efficiency 1;x
+tech_efficiency_2;Efficiency 2;x
+tech_efficiency_3;Efficiency 3;x
+tech_efficiency_4;Efficiency 4;x
+tech_efficiency_5;Efficiency 5;x
+tech_efficiency_6;Efficiency 6;x
+tech_infrastructure;Infrastructure;x
+tech_infrastructure_1;Infrastructure 1;x
+tech_infrastructure_2;Infrastructure 2;x
+tech_infrastructure_3;Infrastructure 3;x
+tech_infrastructure_4;Infrastructure 4;x
+tech_infrastructure_5;Infrastructure 5;x
+tech_infrastructure_6;Infrastructure 6;x
+tech_markets;Markets;x
+tech_markets_1;Markets 1;x
+tech_markets_2;Markets 2;x
+tech_markets_3;Markets 3;x
+tech_markets_4;Markets 4;x
+tech_markets_5;Markets 5;x
+tech_markets_6;Markets 6;x
+industry_tech;Industry;x
+tech_mechanization;Mechanization;x
+tech_mechanization_1;Mechanization 1;x
+tech_mechanization_2;Mechanization 2;x
+tech_mechanization_3;Mechanization 3;x
+tech_mechanization_4;Mechanization 4;x
+tech_mechanization_5;Mechanization 5;x
+tech_mechanization_6;Mechanization 6;x
+tech_biotech;Biotech;x
+tech_biotech_1;Biotech 1;x
+tech_biotech_2;Biotech 2;x
+tech_biotech_3;Biotech 3;x
+tech_biotech_4;Biotech 4;x
+tech_biotech_5;Biotech 5;x
+tech_biotech_6;Biotech 6;x
+tech_material_science;Material Science;x
+tech_material_science_1;Material Science 1;x
+tech_material_science_2;Material Science 2;x
+tech_material_science_3;Material Science 3;x
+tech_material_science_4;Material Science 4;x
+tech_material_science_5;Material Science 5;x
+tech_material_science_6;Material Science 6;x
+tech_weapons_production;Weapons Production;x
+tech_weapons_production_1;Weapons Production 1;x
+tech_weapons_production_2;Weapons Production 2;x
+tech_weapons_production_3;Weapons Production 3;x
+tech_weapons_production_4;Weapons Production 4;x
+tech_weapons_production_5;Weapons Production 5;x
+tech_weapons_production_6;Weapons Production 6;x
+tech_medicine;Medicine;x
+tech_medicine_1;Medicine 1;x
+tech_medicine_2;Medicine 2;x
+tech_medicine_3;Medicine 3;x
+tech_medicine_4;Medicine 4;x
+tech_medicine_5;Medicine 5;x
+tech_medicine_6;Medicine 6;x
+culture_tech;Culture;x
+tech_aesthetics;Aesthetics;x
+tech_aesthetics_1;Aesthetics 1;x
+tech_aesthetics_2;Aesthetics 2;x
+tech_aesthetics_3;Aesthetics 3;x
+tech_aesthetics_4;Aesthetics 4;x
+tech_aesthetics_5;Aesthetics 5;x
+tech_aesthetics_6;Aesthetics 6;x
+tech_education;Education;x
+tech_education_1;Education 1;x
+tech_education_2;Education 2;x
+tech_education_3;Education 3;x
+tech_education_4;Education 4;x
+tech_education_5;Education 5;x
+tech_education_6;Education 6;x
+tech_social_thought;Social Thought;x
+tech_social_thought_1;Social Thought 1;x
+tech_social_thought_2;Social Thought 2;x
+tech_social_thought_3;Social Thought 3;x
+tech_social_thought_4;Social Thought 4;x
+tech_social_thought_5;Social Thought 5;x
+tech_social_thought_6;Social Thought 6;x
+tech_political_thought;Political Thought;x
+tech_political_thought_1;Political Thought 1;x
+tech_political_thought_2;Political Thought 2;x
+tech_political_thought_3;Political Thought 3;x
+tech_political_thought_4;Political Thought 4;x
+tech_political_thought_5;Political Thought 5;x
+tech_political_thought_6;Political Thought 6;x
+tech_martial_culture;Martial Culture;x
+tech_martial_culture_1;Martial Culture 1;x
+tech_martial_culture_2;Martial Culture 2;x
+tech_martial_culture_3;Martial Culture 3;x
+tech_martial_culture_4;Martial Culture 4;x
+tech_martial_culture_5;Martial Culture 5;x
+tech_martial_culture_6;Martial Culture 6;x

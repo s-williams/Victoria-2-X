@@ -2,46 +2,46 @@
 # If adding new technology, make sure they are uniquely named.
 
 folders = {
-	army_tech = #tech_group_military
+	army_tech =
 	{
-		army_doctrine #tech_static_defences
-		light_armament #tech_light_armament
-		heavy_armament #tech_heavy_armament
-		military_science #tech_military_doctrine
-		army_leadership #tech_military_leadership
+		tech_static_defences
+		tech_light_armament
+		tech_heavy_armament
+		tech_military_doctrine
+		tech_military_leadership
 	}
 
-	navy_tech = { #tech_group_extraction
-		naval_doctrine #solar_extraction
-		ship_construction #ore_extraction
-		naval_engineering #silicon_extraction
-		naval_science #ice_extraction
-		naval_leadership #gas_extraction
+	extraction_tech = {
+		tech_solar_extraction
+		tech_ore_extraction
+		tech_silicon_extraction
+		tech_ice_extraction
+		tech_gas_extraction
 	}
-	
-	commerce_tech = { # tech_group_commerce
-		financial_institutions #tech_financial_institutions
-		monetary_system # tech_administration
-		economic_thought_and_critique # tech_efficiency
-		market_functionality #tech_infrastructure
-		tech_organization #tech_markets
+
+	commerce_tech = {
+		tech_financial_institutions
+		tech_administration
+		tech_efficiency
+		tech_infrastructure
+		tech_markets
 	}
-	
-	industry_tech = { # tech_group_industry
-		tech_power #tech_mechanization
-		mechanization #tech_biotech
-		metallurgy #tech_material_science
-		tech_infrastructure # tech_weapons_production
-		chemistry_and_electricity #tech_medicine
+
+	industry_tech = {
+		tech_mechanization
+		tech_biotech
+		tech_material_science
+		tech_weapons_production
+		tech_medicine
 	}
-	
-	culture_tech = { tech_group_culture
-		aesthetics # tech_aesthetics
-		philosophy # tech_education
-		social_thought # tech_social_thought
-		political_thought # tech_political_thought
-		psychology #martial_culture
-	}	
+
+	culture_tech = {
+		tech_aesthetics
+		tech_education
+		tech_social_thought
+		tech_political_thought
+		tech_martial_culture
+	}
 }
 
 schools ={
@@ -51,7 +51,7 @@ schools ={
 		commerce_tech_research_bonus = 0
 		culture_tech_research_bonus = 0
 		industry_tech_research_bonus = 0
-		navy_tech_research_bonus = 0
+		extraction_tech_research_bonus = 0
 	}
 	
 	army_tech_school = 
@@ -60,7 +60,7 @@ schools ={
 		commerce_tech_research_bonus = 0
 		culture_tech_research_bonus = -0.1
 		industry_tech_research_bonus = 0.1
-		navy_tech_research_bonus = -0.05
+		extraction_tech_research_bonus = -0.05
 		unciv_economic_modifier = -0.05
 		unciv_military_modifier = -0.15
 	}
@@ -70,7 +70,7 @@ schools ={
 		commerce_tech_research_bonus = 0.1
 		culture_tech_research_bonus = -0.1
 		industry_tech_research_bonus = 0
-		navy_tech_research_bonus = 0.15
+		extraction_tech_research_bonus = 0.15
 		unciv_economic_modifier = -0.05
 		unciv_military_modifier = -0.15
 	}
@@ -80,7 +80,7 @@ schools ={
 		commerce_tech_research_bonus = 0.05
 		culture_tech_research_bonus = 0
 		industry_tech_research_bonus = 0.15
-		navy_tech_research_bonus = -0.1
+		extraction_tech_research_bonus = -0.1
 		unciv_economic_modifier = -0.05
 	}
 	
@@ -89,7 +89,7 @@ schools ={
 		commerce_tech_research_bonus = 0
 		culture_tech_research_bonus = 0.05
 		industry_tech_research_bonus = -0.05
-		navy_tech_research_bonus = -0.25
+		extraction_tech_research_bonus = -0.25
 		unciv_economic_modifier = -0.10
 		unciv_military_modifier = -0.05
 	}
@@ -99,7 +99,7 @@ schools ={
 		commerce_tech_research_bonus = 0.1
 		culture_tech_research_bonus = 0.1
 		industry_tech_research_bonus = 0.05
-		navy_tech_research_bonus = -0.1
+		extraction_tech_research_bonus = -0.1
 		unciv_economic_modifier = -0.25
 		unciv_military_modifier = -0.05
 	}
@@ -109,7 +109,7 @@ schools ={
 		commerce_tech_research_bonus = 0
 		culture_tech_research_bonus = 0.05
 		industry_tech_research_bonus = 0.15
-		navy_tech_research_bonus = -0.15
+		extraction_tech_research_bonus = -0.15
 		unciv_economic_modifier = -0.05
 		unciv_military_modifier = -0.15
 	}
