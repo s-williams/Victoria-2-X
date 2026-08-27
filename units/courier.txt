@@ -3,7 +3,7 @@ courier = { # Courier (equivalent to Cavalry)
 	
 	type = land
 	sprite = Cavalry
-	active = yes
+	active = no
 	unit_type = cavalry
 	floating_flag = yes
 	

@@ -297,36 +297,284 @@ tech_light_armament_1 = {
 	year = 2990
 	cost = 3600
 	unciv_military = yes
+
+	activate_unit = fighter
+	combat_width = -1
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_1 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_light_armament_2 = {
 	area = tech_light_armament
 	year = 2990
 	cost = 7200
 	unciv_military = yes
+
+	activate_unit = heavy_fighter
+	combat_width = -2
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_2 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_light_armament_3 = {
 	area = tech_light_armament
 	year = 3010
 	cost = 10800
 	unciv_military = yes
+	
+	combat_width = -2
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_3 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_light_armament_4 = {
 	area = tech_light_armament
 	year = 3030
 	cost = 14400
 	unciv_military = yes
+
+	combat_width = -5
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_4 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_light_armament_5 = {
 	area = tech_light_armament
 	year = 3050
 	cost = 18000
 	unciv_military = yes
+
+	combat_width = -5
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_5 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_light_armament_6 = {
 	area = tech_light_armament
 	year = 3080
 	cost = 21600
 	unciv_military = yes
+
+	combat_width = -5
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_light_armament_6 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
 
@@ -336,36 +584,274 @@ tech_heavy_armament_1 = {
 	year = 2990
 	cost = 3600
 	unciv_military = yes
+
+	activate_unit = artillery
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_1 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_heavy_armament_2 = {
 	area = tech_heavy_armament
 	year = 2990
 	cost = 7200
 	unciv_military = yes
+
+	activate_unit = destroyer
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_2 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_heavy_armament_3 = {
 	area = tech_heavy_armament
 	year = 3010
 	cost = 10800
 	unciv_military = yes
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_3 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_heavy_armament_4 = {
 	area = tech_heavy_armament
 	year = 3030
 	cost = 14400
 	unciv_military = yes
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_4 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_heavy_armament_5 = {
 	area = tech_heavy_armament
 	year = 3050
 	cost = 18000
 	unciv_military = yes
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_5 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_heavy_armament_6 = {
 	area = tech_heavy_armament
 	year = 3080
 	cost = 21600
 	unciv_military = yes
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_heavy_armament_6 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
 
@@ -375,36 +861,302 @@ tech_military_doctrine_1 = {
 	year = 2990
 	cost = 3600
 	unciv_military = yes
+
+	activate_unit = courier
+    army_base = {
+        default_organisation = 5
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_1 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_doctrine_2 = {
 	area = tech_military_doctrine
 	year = 2990
 	cost = 7200
 	unciv_military = yes
+
+	activate_unit = scout
+    army_base = {
+        default_organisation = 5
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_2 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_doctrine_3 = {
 	area = tech_military_doctrine
 	year = 3010
 	cost = 10800
 	unciv_military = yes
+
+    army_base = {
+        default_organisation = 5
+        supply_consumption = 0.20
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_3 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_doctrine_4 = {
 	area = tech_military_doctrine
 	year = 3030
 	cost = 14400
 	unciv_military = yes
+
+    army_base = {
+        default_organisation = 5
+        supply_consumption = 0.20
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_4 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_doctrine_5 = {
 	area = tech_military_doctrine
 	year = 3050
 	cost = 18000
 	unciv_military = yes
+
+    army_base = {
+        default_organisation = 10
+        supply_consumption = 0.20
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_5 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_doctrine_6 = {
 	area = tech_military_doctrine
 	year = 1914
 	cost = 21600
 	unciv_military = yes
+
+    army_base = {
+        default_organisation = 10
+        supply_consumption = 0.20
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_doctrine_6 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
 
@@ -414,36 +1166,306 @@ tech_military_leadership_1 = {
 	year = 2990
 	cost = 3600
 	unciv_military = yes
+
+    morale = 0.25
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_1 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_leadership_2 = {
 	area = tech_military_leadership
 	year = 2990
 	cost = 7200
 	unciv_military = yes
+
+    morale = 0.10
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_2 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_leadership_3 = {
 	area = tech_military_leadership
 	year = 3010
 	cost = 10800
 	unciv_military = yes
+
+    morale = 0.20
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_3 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_leadership_4 = {
 	area = tech_military_leadership
 	year = 3030
 	cost = 14400
 	unciv_military = yes
+
+    morale = 0.20
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_4 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_leadership_5 = {
 	area = tech_military_leadership
 	year = 3050
 	cost = 18000
 	unciv_military = yes
+
+    morale = 0.25
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_5 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 tech_military_leadership_6 = {
 	area = tech_military_leadership
 	year = 3080
 	cost = 21600
 	unciv_military = yes
+
+    morale = 0.50
+    military_tactics = 0.25
+    army_base = {
+        supply_consumption = 0.10
+    }
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			any_neighbor_country = {
+				tech_military_leadership_6 = 1
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				war = yes
+				has_recently_lost_war = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				war_policy = jingoism
+				has_unclaimed_cores = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_greater_power = {
+				military_score = THIS
+			}
+		}
+	}
 }
 
 

@@ -3,31 +3,163 @@ tech_financial_institutions_1 = {
 	area = tech_financial_institutions
 	year = 2990
 	cost = 3600
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_financial_institutions_2 = {
 	area = tech_financial_institutions
 	year = 2990
 	cost = 7200
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_financial_institutions_3 = {
 	area = tech_financial_institutions
 	year = 3010
 	cost = 10800
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_financial_institutions_4 = {
 	area = tech_financial_institutions
 	year = 3030
 	cost = 14400
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_financial_institutions_5 = {
 	area = tech_financial_institutions
 	year = 3050
 	cost = 18000
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_financial_institutions_6 = {
 	area = tech_financial_institutions
 	year = 3080
 	cost = 21600
+
+	tax_eff = 5
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 
 
@@ -36,31 +168,164 @@ tech_administration_1 = {
 	area = tech_administration
 	year = 2990
 	cost = 3600
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
+
 }
 tech_administration_2 = {
 	area = tech_administration
 	year = 2990
 	cost = 7200
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_administration_3 = {
 	area = tech_administration
 	year = 2990
 	cost = 10800
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_administration_4 = {
 	area = tech_administration
 	year = 3010
 	cost = 14400
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_administration_5 = {
 	area = tech_administration
 	year = 3030
 	cost = 18000
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 tech_administration_6 = {
 	area = tech_administration
 	year = 3050
 	cost = 21600
+
+	administrative_efficiency = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 3.5
+            rank = 8
+        }
+        modifier = {
+            factor = 2
+            economic_policy = interventionism
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.1
+            literacy = 0.6
+        }
+    }
 }
 
 
@@ -69,31 +334,145 @@ tech_efficiency_1 = {
 	area = tech_efficiency
 	year = 2990
 	cost = 3600
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 tech_efficiency_2 = {
 	area = tech_efficiency
 	year = 2990
 	cost = 7200
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 tech_efficiency_3 = {
 	area = tech_efficiency
 	year = 2990
 	cost = 10800
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 tech_efficiency_4 = {
 	area = tech_efficiency
 	year = 3010
 	cost = 14400
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 tech_efficiency_5 = {
 	area = tech_efficiency
 	year = 3030
 	cost = 18000
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 tech_efficiency_6 = {
 	area = tech_efficiency
 	year = 3050
 	cost = 21600
+
+	factory_input = -0.01
+	factory_output = 0.01
+
+	ai_chance = {
+        factor = 1
+		modifier = {
+			factor = 1.1
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.5
+			industrial_score = 25
+		}
+	}
 }
 
 
@@ -102,31 +481,115 @@ tech_infrastructure_1 = {
 	area = tech_infrastructure
 	year = 2990
 	cost = 3600
+
+	activate_building = railroad
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_infrastructure_2 = {
 	area = tech_infrastructure
 	year = 2990
 	cost = 7200
+
+	max_railroad = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_infrastructure_3 = {
 	area = tech_infrastructure
 	year = 2990
 	cost = 10800
+
+	max_railroad = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_infrastructure_4 = {
 	area = tech_infrastructure
 	year = 3010
 	cost = 14400
+
+	max_railroad = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_infrastructure_5 = {
 	area = tech_infrastructure
 	year = 3030
 	cost = 18000
+
+	max_railroad = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_infrastructure_6 = {
 	area = tech_infrastructure
 	year = 3050
 	cost = 21600
+
+	max_railroad = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 
 
@@ -135,30 +598,120 @@ tech_markets_1 = {
 	area = tech_markets
 	year = 2990
 	cost = 3600
+	
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_markets_2 = {
 	area = tech_markets
 	year = 2990
 	cost = 7200
+	
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_markets_3 = {
 	area = tech_markets
 	year = 2990
 	cost = 10800
+	
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_markets_4 = {
 	area = tech_markets
 	year = 3010
 	cost = 14400
+	
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_markets_5 = {
 	area = tech_markets
 	year = 3030
 	cost = 18000
+	
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 tech_markets_6 = {
 	area = tech_markets
 	year = 3050
 	cost = 21600
+
+	diplomatic_points = 0.05
+	influence = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            rank = 8
+        }
+	}
 }
 
