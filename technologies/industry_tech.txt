@@ -127,36 +127,95 @@ tech_weapons_production_6 = {
 	cost = 21600
 }
 
-
 #tech_medicine
 tech_medicine_1 = {
 	area = tech_medicine
 	year = 2990
 	cost = 3600
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 tech_medicine_2 = {
 	area = tech_medicine
 	year = 2990
 	cost = 7200
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 tech_medicine_3 = {
 	area = tech_medicine
 	year = 3010
 	cost = 10800
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 tech_medicine_4 = {
 	area = tech_medicine
 	year = 3030
 	cost = 14400
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 tech_medicine_5 = {
 	area = tech_medicine
 	year = 3040
 	cost = 18000
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 tech_medicine_6 = {
 	area = tech_medicine
 	year = 3080
 	cost = 21600
+
+    supply_limit = 0.25
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.5
+            is_greater_power = yes
+        }
+    }
 }
 
