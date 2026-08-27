@@ -3,31 +3,43 @@ tech_mechanization_1 = {
 	area = tech_mechanization
 	year = 2990
 	cost = 3600
+
+	factory_throughput = 0.05
 }
 tech_mechanization_2 = {
 	area = tech_mechanization
 	year = 2990
 	cost = 7200
+
+	factory_throughput = 0.05
 }
 tech_mechanization_3 = {
 	area = tech_mechanization
 	year = 2990
 	cost = 10800
+
+	factory_throughput = 0.05
 }
 tech_mechanization_4 = {
 	area = tech_mechanization
 	year = 3010
 	cost = 14400
+
+	factory_throughput = 0.05
 }
 tech_mechanization_5 = {
 	area = tech_mechanization
 	year = 3040
 	cost = 18000
+
+	factory_throughput = 0.05
 }
 tech_mechanization_6 = {
 	area = tech_mechanization
 	year = 3050
 	cost = 21600
+
+	factory_throughput = 0.05
 }
 
 #tech_biotech
@@ -35,31 +47,43 @@ tech_biotech_1 = {
 	area = tech_biotech
 	year = 2990
 	cost = 3600
+
+	factory_throughput = 0.05
 }
 tech_biotech_2 = {
 	area = tech_biotech
 	year = 2990
 	cost = 7200
+
+	factory_throughput = 0.05
 }
 tech_biotech_3 = {
 	area = tech_biotech
 	year = 2990
 	cost = 10800
+
+	factory_throughput = 0.05
 }
 tech_biotech_4 = {
 	area = tech_biotech
 	year = 3010
 	cost = 14400
+
+	factory_throughput = 0.05
 }
 tech_biotech_5 = {
 	area = tech_biotech
 	year = 3030
 	cost = 18000
+
+	factory_throughput = 0.05
 }
 tech_biotech_6 = {
 	area = tech_biotech
 	year = 3050
 	cost = 21600
+
+	factory_throughput = 0.05
 }
 
 #tech_material_science
@@ -67,31 +91,43 @@ tech_material_science_1 = {
 	area = tech_material_science
 	year = 2990
 	cost = 3600
+
+	factory_cost = -0.05
 }
 tech_material_science_2 = {
 	area = tech_material_science
 	year = 2990
 	cost = 7200
+
+	factory_cost = -0.05
 }
 tech_material_science_3 = {
 	area = tech_material_science
 	year = 2990
 	cost = 10800
+
+	factory_cost = -0.05
 }
 tech_material_science_4 = {
 	area = tech_material_science
 	year = 3010
 	cost = 14400
+
+	factory_cost = -0.05
 }
 tech_material_science_5 = {
 	area = tech_material_science
 	year = 3030
 	cost = 18000
+
+	factory_cost = -0.05
 }
 tech_material_science_6 = {
 	area = tech_material_science
 	year = 3050
 	cost = 21600
+
+	factory_cost = -0.05
 }
 
 
@@ -134,6 +170,7 @@ tech_medicine_1 = {
 	cost = 3600
 
     supply_limit = 0.25
+	activate_building = medical_supplies_factory
 
     ai_chance = {
         factor = 1
