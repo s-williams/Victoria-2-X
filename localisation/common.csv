@@ -3953,6 +3953,12 @@ RGO_THROUGHPUT_TECH;RGO throughput efficiency tech;x
 RGO_NONE_EFFECT_TECH;;x
 FACTORY_NONE_EFFECT_TECH;;x
 ARTISAN_NONE_EFFECT_TECH;;x
+FACTORY_INPUT_TECH;Factory input efficiency tech;x
+FACTORY_OUTPUT_TECH;Factory output efficiency tech;x
+FACTORY_THROUGHPUT_TECH;Factory throughput tech;x
+ARTISAN_INPUT_TECH;Artisan input efficiency tech;x
+ARTISAN_OUTPUT_TECH;Artisan output efficiency tech;x
+ARTISAN_THROUGHPUT_TECH;Artisan throughput efficiency tech;x
 NONE_TYPE_INPUT_TECH;;x
 NONE_TYPE_OUTPUT_TECH;;x
 NONE_TYPE_THROUGHPUT_TECH;;x

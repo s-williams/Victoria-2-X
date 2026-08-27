@@ -3,67 +3,279 @@ tech_aesthetics_1 = {
 	area = tech_aesthetics
 	year = 2990
 	cost = 3600
-}
 
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
+}
 tech_aesthetics_2 = {
 	area = tech_aesthetics
 	year = 2990
 	cost = 7200
-}
 
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
+}
 tech_aesthetics_3 = {
 	area = tech_aesthetics
 	year = 2990
 	cost = 10800
+
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
 }
 tech_aesthetics_4 = {
 	area = tech_aesthetics
 	year = 3010
 	cost = 14400
+
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
 }
 tech_aesthetics_5 = {
 	area = tech_aesthetics
 	year = 3030
 	cost = 18000
+
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
 }
 tech_aesthetics_6 = {
 	area = tech_aesthetics
 	year = 3050
 	cost = 21600
-}
 
+    prestige = 0.075
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 0.75
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 3
+            is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = boron
+        }
+        modifier = {
+            factor = 0.5
+            NOT = { literacy = 0.3 }
+        }
+    }
+}
 
 #tech_education
 tech_education_1 = {
 	area = tech_education
 	year = 2990
 	cost = 3600
+
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_education_2 = {
 	area = tech_education
 	year = 3000
 	cost = 7200
-}
 
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
+}
 tech_education_3 = {
 	area = tech_education
 	year = 3020
 	cost = 10800
+
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_education_4 = {
 	area = tech_education
 	year = 3030
 	cost = 14400
+
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_education_5 = {
 	area = tech_education
 	year = 3040
 	cost = 18000
+
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_education_6 = {
 	area = tech_education
 	year = 3050
 	cost = 21600
+
+	increase_research = 0.50
+	education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 5
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 
 
@@ -72,96 +284,358 @@ tech_social_thought_1 = {
 	area = tech_social_thought
 	year = 2990
 	cost = 3600
+
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_social_thought_2 = {
 	area = tech_social_thought
 	year = 2990
 	cost = 7200
+
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_social_thought_3 = {
 	area = tech_social_thought
 	year = 2990
 	cost = 10800
+
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_social_thought_4 = {
 	area = tech_social_thought
 	year = 3010
 	cost = 14400
+
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_social_thought_5 = {
 	area = tech_social_thought
 	year = 3030
 	cost = 18000
+
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
 }
 tech_social_thought_6 = {
 	area = tech_social_thought
 	year = 3050
 	cost = 21600
-}
 
+    colonial_migration = 0.05
+	colonial_points = 50
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 2
+            is_secondary_power = yes
+        }
+	}
+}
 
 #tech_political_thought
 tech_political_thought_1 = {
 	area = tech_political_thought
 	year = 2990
 	cost = 3600
+
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
 }
 tech_political_thought_2 = {
 	area = tech_political_thought
 	year = 2990
 	cost = 7200
+
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
 }
 tech_political_thought_3 = {
 	area = tech_political_thought
 	year = 3000
 	cost = 10800
+
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
 }
 tech_political_thought_4 = {
 	area = tech_political_thought
 	year = 3010
 	cost = 14400
+
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
 }
 tech_political_thought_5 = {
 	area = tech_political_thought
 	year = 3030
 	cost = 18000
+
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
 }
 tech_political_thought_6 = {
 	area = tech_political_thought
 	year = 3050
 	cost = 21600
-}
 
+	max_national_focus = 1
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 2
+            is_greater_power = yes
+        }
+	}
+}
 
 #tech_martial_culture
 tech_martial_culture_1 = {
 	area = tech_martial_culture
 	year = 2990
 	cost = 3600
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 tech_martial_culture_2 = {
 	area = tech_martial_culture
 	year = 2990
 	cost = 7200
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 tech_martial_culture_3 = {
 	area = tech_martial_culture
 	year = 2990
 	cost = 10800
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 tech_martial_culture_4 = {
 	area = tech_martial_culture
 	year = 3010
 	cost = 14400
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 tech_martial_culture_5 = {
 	area = tech_martial_culture
 	year = 3030
 	cost = 18000
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 tech_martial_culture_6 = {
 	area = tech_martial_culture
 	year = 3050
 	cost = 21600
+
+    regular_experience_level = 5
+    reinforce_rate = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.5
+            primary_culture = split
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+	}
 }
 

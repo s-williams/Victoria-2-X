@@ -1,0 +1,74 @@
+#################################
+##### tech_solar_extraction #####
+#################################
+# tech_solar_extraction_1
+
+# tech_solar_extraction_2
+
+# tech_solar_extraction_3
+
+# tech_solar_extraction_4
+
+# tech_solar_extraction_5
+
+# tech_solar_extraction_6
+
+###############################
+##### tech_ore_extraction #####
+###############################
+# tech_ore_extraction_1
+
+# tech_ore_extraction_2
+
+# tech_ore_extraction_3
+
+# tech_ore_extraction_4
+
+# tech_ore_extraction_5
+
+# tech_ore_extraction_6
+
+###################################
+##### tech_silicon_extraction #####
+###################################
+# tech_silicon_extraction_1
+
+# tech_silicon_extraction_2
+
+# tech_silicon_extraction_3
+
+# tech_silicon_extraction_4
+
+# tech_silicon_extraction_5
+
+# tech_silicon_extraction_6
+
+###############################
+##### tech_ice_extraction #####
+###############################
+# tech_ice_extraction_1
+
+# tech_ice_extraction_2
+
+# tech_ice_extraction_3
+
+# tech_ice_extraction_4
+
+# tech_ice_extraction_5
+
+# tech_ice_extraction_6
+
+###############################
+##### tech_gas_extraction #####
+###############################
+# tech_gas_extraction_1
+
+# tech_gas_extraction_2
+
+# tech_gas_extraction_3
+
+# tech_gas_extraction_4
+
+# tech_gas_extraction_5
+
+# tech_gas_extraction_6

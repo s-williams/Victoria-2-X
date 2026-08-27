@@ -1,0 +1,74 @@
+##############################
+##### tech_mechanization #####
+##############################
+# tech_mechanization_1
+
+# tech_mechanization_2
+
+# tech_mechanization_3
+
+# tech_mechanization_4
+
+# tech_mechanization_5
+
+# tech_mechanization_6
+
+########################
+##### tech_biotech #####
+########################
+# tech_biotech_1
+
+# tech_biotech_2
+
+# tech_biotech_3
+
+# tech_biotech_4
+
+# tech_biotech_5
+
+# tech_biotech_6
+
+#################################
+##### tech_material_science #####
+#################################
+# tech_material_science_1
+
+# tech_material_science_2
+
+# tech_material_science_3
+
+# tech_material_science_4
+
+# tech_material_science_5
+
+# tech_material_science_6
+
+###################################
+##### tech_weapons_production #####
+###################################
+# tech_weapons_production_1
+
+# tech_weapons_production_2
+
+# tech_weapons_production_3
+
+# tech_weapons_production_4
+
+# tech_weapons_production_5
+
+# tech_weapons_production_6
+
+#########################
+##### tech_medicine #####
+#########################
+# tech_medicine_1
+
+# tech_medicine_2
+
+# tech_medicine_3
+
+# tech_medicine_4
+
+# tech_medicine_5
+
+# tech_medicine_6

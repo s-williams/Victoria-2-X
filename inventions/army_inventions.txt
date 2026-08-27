@@ -1,0 +1,530 @@
+################################
+##### tech_static_defences #####
+################################
+# tech_static_defences_1
+defensive_manouveres = {
+    limit = { tech_static_defences_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+
+# tech_static_defences_2
+defensive_formations = {
+    limit = { tech_static_defences_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+
+# tech_static_defences_3
+force_multiplication = {
+    limit = { tech_static_defences_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+
+# tech_static_defences_4
+chokepoints = {
+    limit = { tech_static_defences_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+
+# tech_static_defences_5
+field_fortifications = {
+    limit = { tech_static_defences_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+turret_doctrine = {
+    limit = { tech_static_defences_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            defence = 1
+        }
+        destroyer = {
+            defence = 1
+        }
+    }
+}
+
+# tech_static_defences_6
+advanced_field_fortifications = {
+    limit = { tech_static_defences_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            defence = 0.5
+        }
+        fighter = {
+            defence = 1
+        }
+        heavy_fighter = {
+            defence = 1
+        }
+        courier = {
+            defence = 1
+        }
+        scout = {
+            defence = 1
+        }
+    }
+}
+advanced_turret_doctrine = {
+    limit = { tech_static_defences_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            defence = 1
+        }
+        destroyer = {
+            defence = 1
+        }
+    }
+}
+
+###############################
+##### tech_light_armament #####
+###############################
+# tech_light_armament_1
+basic_primary_weapons = {
+    limit = { tech_light_armament_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+
+# tech_light_armament_2
+rocketry = {
+    limit = { tech_light_armament_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }    
+}
+basic_turrets = {
+    limit = { tech_light_armament_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            defence = 1
+        }
+        destroyer = {
+            defence = 1
+        }
+    }
+}
+
+# tech_light_armament_3
+basic_missiles = {
+    limit = { tech_light_armament_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+
+# tech_light_armament_4
+intermediate_primary_weapons = {
+    limit = { tech_light_armament_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+advanced_turrets = {
+    limit = { tech_light_armament_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            defence = 1
+        }
+        destroyer = {
+            defence = 1
+        }
+    }
+}
+
+# tech_light_armament_5
+advanced_primary_weapons = {
+    limit = { tech_light_armament_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+tracking_missiles = {
+    limit = { tech_light_armament_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+
+# tech_light_armament_6
+hyperadvanced_primary_weapons = {
+    limit = { tech_light_armament_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+smart_missiles = {
+    limit = { tech_light_armament_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 0.5
+        }
+        fighter = {
+            attack = 1
+        }
+        heavy_fighter = {
+            attack = 1
+        }
+        courier = {
+            attack = 0.5
+        }
+        scout = {
+            attack = 1
+        }
+    }
+}
+
+###############################
+##### tech_heavy_armament #####
+###############################
+# tech_heavy_armament_1
+tech_heavy_armament_1_1 = {
+    limit = { tech_heavy_armament_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.25
+            support = 0.5
+            supply_consumption = 0.3
+        }
+    }
+}
+
+# tech_heavy_armament_2
+tech_heavy_armament_2_1 = {
+    limit = { tech_heavy_armament_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.25
+            support = 0.5
+            supply_consumption = 0.3
+        }
+    }
+}
+
+# tech_heavy_armament_3
+tech_heavy_armament_3_1 = {
+    limit = { tech_heavy_armament_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.5
+            support = 0.5
+            supply_consumption = 0.3
+        }
+    }
+}
+
+# tech_heavy_armament_4
+tech_heavy_armament_4_1 = {
+    limit = { tech_heavy_armament_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.5
+            support = 1.0
+            supply_consumption = 0.3
+        }
+    }
+}
+
+# tech_heavy_armament_5
+tech_heavy_armament_5_1 = {
+    limit = { tech_heavy_armament_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.5
+            support = 1.0
+            supply_consumption = 0.3
+        }
+    }
+}
+
+# tech_heavy_armament_6
+tech_heavy_armament_6_1 = {
+    limit = { tech_heavy_armament_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.5
+            support = 1.0
+            supply_consumption = 0.3
+        }
+    }
+}
+
+##################################
+##### tech_military_doctrine #####
+##################################
+# tech_military_doctrine_1
+
+# tech_military_doctrine_2
+
+# tech_military_doctrine_3
+
+# tech_military_doctrine_4
+
+# tech_military_doctrine_5
+
+# tech_military_doctrine_6
+
+####################################
+##### tech_military_leadership #####
+####################################
+# tech_military_leadership_1
+
+# tech_military_leadership_2
+
+# tech_military_leadership_3
+
+# tech_military_leadership_4
+
+# tech_military_leadership_5
+
+# tech_military_leadership_6

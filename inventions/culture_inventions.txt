@@ -1,0 +1,74 @@
+###########################
+##### tech_aesthetics #####
+###########################
+# tech_aesthetics_1
+
+# tech_aesthetics_2
+
+# tech_aesthetics_3
+
+# tech_aesthetics_4
+
+# tech_aesthetics_5
+
+# tech_aesthetics_6
+
+##########################
+##### tech_education #####
+##########################
+# tech_education_1
+
+# tech_education_2
+
+# tech_education_3
+
+# tech_education_4
+
+# tech_education_5
+
+# tech_education_6
+
+###############################
+##### tech_social_thought #####
+###############################
+# tech_social_thought_1
+
+# tech_social_thought_2
+
+# tech_social_thought_3
+
+# tech_social_thought_4
+
+# tech_social_thought_5
+
+# tech_social_thought_6
+
+##################################
+##### tech_political_thought #####
+##################################
+# tech_political_thought_1
+
+# tech_political_thought_2
+
+# tech_political_thought_3
+
+# tech_political_thought_4
+
+# tech_political_thought_5
+
+# tech_political_thought_6
+
+################################
+##### tech_martial_culture #####
+################################
+# tech_martial_culture_1
+
+# tech_martial_culture_2
+
+# tech_martial_culture_3
+
+# tech_martial_culture_4
+
+# tech_martial_culture_5
+
+# tech_martial_culture_6

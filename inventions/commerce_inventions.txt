@@ -1,0 +1,74 @@
+#######################################
+##### tech_financial_institutions #####
+#######################################
+# tech_financial_institutions_1
+
+# tech_financial_institutions_2
+
+# tech_financial_institutions_3
+
+# tech_financial_institutions_4
+
+# tech_financial_institutions_5
+
+# tech_financial_institutions_6
+
+###############################
+##### tech_administration #####
+###############################
+# tech_administration_1
+
+# tech_administration_2
+
+# tech_administration_3
+
+# tech_administration_4
+
+# tech_administration_5
+
+# tech_administration_6
+
+###########################
+##### tech_efficiency #####
+###########################
+# tech_efficiency_1
+
+# tech_efficiency_2
+
+# tech_efficiency_3
+
+# tech_efficiency_4
+
+# tech_efficiency_5
+
+# tech_efficiency_6
+
+###############################
+##### tech_infrastructure #####
+###############################
+# tech_infrastructure_1
+
+# tech_infrastructure_2
+
+# tech_infrastructure_3
+
+# tech_infrastructure_4
+
+# tech_infrastructure_5
+
+# tech_infrastructure_6
+
+########################
+##### tech_markets #####
+########################
+# tech_markets_1
+
+# tech_markets_2
+
+# tech_markets_3
+
+# tech_markets_4
+
+# tech_markets_5
+
+# tech_markets_6
