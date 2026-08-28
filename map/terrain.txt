@@ -184,7 +184,7 @@ categories =  {
 	##### X TERRAINS #####
 	######################
 
-	adventures_promise = {
+	adventures_promise = { # asteroid_field_template
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
@@ -196,7 +196,7 @@ categories =  {
 		min_build_railroad = 2
 		combat_width = -0.66
 	}
-	antigone_memorial = {
+	antigone_memorial = { # asteroid_field_template
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
@@ -208,7 +208,16 @@ categories =  {
 		min_build_railroad = 2
 		combat_width = -0.66
 	}
-	argon_prime = {
+	argon_prime = { # empty_space_template
+		movement_cost = 1.0
+		color = { 241 221 184 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 10
+	}
+	atiyas_misfortune = { # asteroid_field_template
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
@@ -220,43 +229,31 @@ categories =  {
 		min_build_railroad = 2
 		combat_width = -0.66
 	}
-	atiyas_misfortune = {
+	atreus_clouds = { # nebula_template
+		movement_cost = 1.4
+		defence = 1
+		color = { 76 112 105 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = -0.5
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.1
+		supply_limit = 2
+		min_build_railroad = 4
+		combat_width = -0.25
+	}
+	avarice = { # asteroid_field_template - with bonus farm_rgo_eff
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
 		farm_rgo_size = 0
-		farm_rgo_eff = -0.25
+		farm_rgo_eff = 0.75
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.1
 		supply_limit = 2
 		min_build_railroad = 2
 		combat_width = -0.66
 	}
-	atreus_clouds = {
-		movement_cost = 1.4
-		defence = 2
-		color = { 117 108 119 }
-		farm_rgo_size = 0
-		farm_rgo_eff = -0.25
-		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.1
-		supply_limit = 2
-		min_build_railroad = 2
-		combat_width = -0.66
-	}
-	avarice = {
-		movement_cost = 1.4
-		defence = 2
-		color = { 117 108 119 }
-		farm_rgo_size = 0
-		farm_rgo_eff = -0.25
-		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.1
-		supply_limit = 2
-		min_build_railroad = 2
-		combat_width = -0.66
-	}
-	barren_shores = {
+	barren_shores = { # asteroid_field_template
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
@@ -280,31 +277,25 @@ categories =  {
 		min_build_railroad = 2
 		combat_width = -0.66
 	}
-	brennans_triumph = {
-		movement_cost = 1.4
-		defence = 2
-		color = { 117 108 119 }
-		farm_rgo_size = 0
-		farm_rgo_eff = -0.25
+	brennans_triumph = { # empty_space_template
+		movement_cost = 1.0
+		color = { 241 221 184 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.1
-		supply_limit = 2
-		min_build_railroad = 2
-		combat_width = -0.66
+		mine_rgo_eff = 0.0
+		supply_limit = 10
 	}
-	bright_promise = {
-		movement_cost = 1.4
-		defence = 2
-		color = { 117 108 119 }
-		farm_rgo_size = 0
-		farm_rgo_eff = -0.25
+	bright_promise = { # empty_space_template
+		movement_cost = 1.0
+		color = { 241 221 184 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.1
-		supply_limit = 2
-		min_build_railroad = 2
-		combat_width = -0.66
+		mine_rgo_eff = 0.0
+		supply_limit = 10
 	}
-	cardinals_domain = {
+	cardinals_domain = { # asteroid_field_template
 		movement_cost = 1.4
 		defence = 2
 		color = { 117 108 119 }
