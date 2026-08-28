@@ -1,2 +1,3 @@
 trade_goods = ore
 life_rating = 25
+terrain = sanctuary_of_darkness

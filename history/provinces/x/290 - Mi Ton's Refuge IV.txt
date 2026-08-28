@@ -3,3 +3,4 @@ controller = SPP
 add_core = SPP
 trade_goods = nividium
 life_rating = 25
+terrain = mi_tons_refuge

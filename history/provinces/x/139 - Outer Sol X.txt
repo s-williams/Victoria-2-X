@@ -3,3 +3,4 @@ controller = TER
 add_core = TER
 trade_goods = silicon
 life_rating = 25
+terrain = outer_sol

@@ -1,2 +1,3 @@
 trade_goods = energy_cells
 life_rating = 25
+terrain = getsu_fune

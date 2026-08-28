@@ -3,3 +3,4 @@ controller = RIP
 add_core = RIP
 trade_goods = silicon
 life_rating = 25
+terrain = avarice

@@ -3,3 +3,4 @@ controller = TEL
 add_core = TEL
 trade_goods = nividium
 life_rating = 25
+terrain = ianamus_zura

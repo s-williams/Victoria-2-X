@@ -3,3 +3,4 @@ controller = HOP
 add_core = HOP
 trade_goods = ice
 life_rating = 25
+terrain = holy_vision

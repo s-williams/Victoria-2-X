@@ -3,3 +3,4 @@ controller = FRF
 add_core = FRF
 trade_goods = energy_cells
 life_rating = 25
+terrain = family_tkr

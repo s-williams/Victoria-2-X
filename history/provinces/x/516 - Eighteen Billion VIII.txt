@@ -4,3 +4,4 @@ add_core = TEL
 add_core = MIN
 trade_goods = silicon
 life_rating = 25
+terrain = eighteen_billion

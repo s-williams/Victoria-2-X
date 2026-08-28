@@ -3,3 +3,4 @@ controller = ZYA
 add_core = ZYA
 trade_goods = silicon
 life_rating = 25
+terrain = family_nhuut

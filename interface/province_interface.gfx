@@ -247,6 +247,491 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain\\terrain_black_hole_sun.tga"
 		norefcount = yes
 	}
+	spriteType = {
+		name = "GFX_terrainimg_kingdom_end"
+		texturefile = "gfx\\interface\\terrain\\terrain_kingdom_end.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_rolks_demise"
+		texturefile = "gfx\\interface\\terrain\\terrain_rolks_demise.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_menelaus_oasis"
+		texturefile = "gfx\\interface\\terrain\\terrain_menelaus_oasis.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_atreus_clouds"
+		texturefile = "gfx\\interface\\terrain\\terrain_atreus_clouds.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_sanctuary_of_darkness"
+		texturefile = "gfx\\interface\\terrain\\terrain_sanctuary_of_darkness.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_great_reef"
+		texturefile = "gfx\\interface\\terrain\\terrain_great_reef.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_barren_shores"
+		texturefile = "gfx\\interface\\terrain\\terrain_barren_shores.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ocean_of_fantasy"
+		texturefile = "gfx\\interface\\terrain\\terrain_ocean_of_fantasy.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_adventures_promise"
+		texturefile = "gfx\\interface\\terrain\\terrain_adventures_promise.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_queens_space"
+		texturefile = "gfx\\interface\\terrain\\terrain_queens_space.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_watchful_gaze"
+		texturefile = "gfx\\interface\\terrain\\terrain_watchful_gaze.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_heretics_end"
+		texturefile = "gfx\\interface\\terrain\\terrain_heretics_end.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_wretched_skies"
+		texturefile = "gfx\\interface\\terrain\\terrain_wretched_skies.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_litany_of_fury"
+		texturefile = "gfx\\interface\\terrain\\terrain_litany_of_fury.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_emperors_pride"
+		texturefile = "gfx\\interface\\terrain\\terrain_emperors_pride.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_family_zhin"
+		texturefile = "gfx\\interface\\terrain\\terrain_family_zhin.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_family_kritt"
+		texturefile = "gfx\\interface\\terrain\\terrain_family_kritt.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_rhys_defiance"
+		texturefile = "gfx\\interface\\terrain\\terrain_rhys_defiance.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_matrix_598"
+		texturefile = "gfx\\interface\\terrain\\terrain_matrix_598.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_zyarths_dominion"
+		texturefile = "gfx\\interface\\terrain\\terrain_zyarths_dominion.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_family_nhuut"
+		texturefile = "gfx\\interface\\terrain\\terrain_family_nhuut.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_open_market"
+		texturefile = "gfx\\interface\\terrain\\terrain_open_market.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_two_grand"
+		texturefile = "gfx\\interface\\terrain\\terrain_two_grand.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_eleventh_hour"
+		texturefile = "gfx\\interface\\terrain\\terrain_eleventh_hour.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_guiding_star"
+		texturefile = "gfx\\interface\\terrain\\terrain_guiding_star.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_fires_of_defeat"
+		texturefile = "gfx\\interface\\terrain\\terrain_fires_of_defeat.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_heart_of_acrimony"
+		texturefile = "gfx\\interface\\terrain\\terrain_heart_of_acrimony.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_tharkas_ravine"
+		texturefile = "gfx\\interface\\terrain\\terrain_tharkas_ravine.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_family_tkr"
+		texturefile = "gfx\\interface\\terrain\\terrain_family_tkr.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_thuruks_demise"
+		texturefile = "gfx\\interface\\terrain\\terrain_thuruks_demise.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_matrix_9"
+		texturefile = "gfx\\interface\\terrain\\terrain_matrix_9.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_matrix_451"
+		texturefile = "gfx\\interface\\terrain\\terrain_matrix_451.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_inner_sol"
+		texturefile = "gfx\\interface\\terrain\\terrain_inner_sol.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_outer_sol"
+		texturefile = "gfx\\interface\\terrain\\terrain_outer_sol.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_brennans_triumph"
+		texturefile = "gfx\\interface\\terrain\\terrain_brennans_triumph.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_gaian_prophecy"
+		texturefile = "gfx\\interface\\terrain\\terrain_gaian_prophecy.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_segaris"
+		texturefile = "gfx\\interface\\terrain\\terrain_segaris.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_getsu_fune"
+		texturefile = "gfx\\interface\\terrain\\terrain_getsu_fune.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_savage_spur"
+		texturefile = "gfx\\interface\\terrain\\terrain_savage_spur.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_matrix_79b"
+		texturefile = "gfx\\interface\\terrain\\terrain_matrix_79b.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_tharkas_cascade"
+		texturefile = "gfx\\interface\\terrain\\terrain_tharkas_cascade.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_matrix_101"
+		texturefile = "gfx\\interface\\terrain\\terrain_matrix_101.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_silent_witness"
+		texturefile = "gfx\\interface\\terrain\\terrain_silent_witness.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_presidents_end"
+		texturefile = "gfx\\interface\\terrain\\terrain_presidents_end.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_hatikvahs_choice"
+		texturefile = "gfx\\interface\\terrain\\terrain_hatikvahs_choice.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_morning_star"
+		texturefile = "gfx\\interface\\terrain\\terrain_morning_star.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_argon_prime"
+		texturefile = "gfx\\interface\\terrain\\terrain_argon_prime.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_the_reach"
+		texturefile = "gfx\\interface\\terrain\\terrain_the_reach.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_nopileos_memorial"
+		texturefile = "gfx\\interface\\terrain\\terrain_nopileos_memorial.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_hatikvahs_faith"
+		texturefile = "gfx\\interface\\terrain\\terrain_hatikvahs_faith.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_antigone_memorial"
+		texturefile = "gfx\\interface\\terrain\\terrain_antigone_memorial.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_the_void"
+		texturefile = "gfx\\interface\\terrain\\terrain_the_void.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_second_contact"
+		texturefile = "gfx\\interface\\terrain\\terrain_second_contact.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_windfall"
+		texturefile = "gfx\\interface\\terrain\\terrain_windfall.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_avarice"
+		texturefile = "gfx\\interface\\terrain\\terrain_avarice.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_cloudbase"
+		texturefile = "gfx\\interface\\terrain\\terrain_cloudbase.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_profit_center_alpha"
+		texturefile = "gfx\\interface\\terrain\\terrain_profit_center_alpha.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_bright_promise"
+		texturefile = "gfx\\interface\\terrain\\terrain_bright_promise.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ianamus_zura"
+		texturefile = "gfx\\interface\\terrain\\terrain_ianamus_zura.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mitsunos_remembrance"
+		texturefile = "gfx\\interface\\terrain\\terrain_mitsunos_remembrance.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_eighteen_billion"
+		texturefile = "gfx\\interface\\terrain\\terrain_eighteen_billion.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_memory_of_profit"
+		texturefile = "gfx\\interface\\terrain\\terrain_memory_of_profit.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_trinity_sanctum"
+		texturefile = "gfx\\interface\\terrain\\terrain_trinity_sanctum.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_hewas_twin"
+		texturefile = "gfx\\interface\\terrain\\terrain_hewas_twin.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_company_regard"
+		texturefile = "gfx\\interface\\terrain\\terrain_company_regard.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_turqoise_sea"
+		texturefile = "gfx\\interface\\terrain\\terrain_turqoise_sea.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_scale_plate_green"
+		texturefile = "gfx\\interface\\terrain\\terrain_scale_plate_green.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_grand_exchange"
+		texturefile = "gfx\\interface\\terrain\\terrain_grand_exchange.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_path_to_profit"
+		texturefile = "gfx\\interface\\terrain\\terrain_path_to_profit.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_nopileos_fortune"
+		texturefile = "gfx\\interface\\terrain\\terrain_nopileos_fortune.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_unholy_retribution"
+		texturefile = "gfx\\interface\\terrain\\terrain_unholy_retribution.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ceos_doubt"
+		texturefile = "gfx\\interface\\terrain\\terrain_ceos_doubt.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_elysium_of_light"
+		texturefile = "gfx\\interface\\terrain\\terrain_elysium_of_light.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_sohnen"
+		texturefile = "gfx\\interface\\terrain\\terrain_sohnen.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_third_redemption"
+		texturefile = "gfx\\interface\\terrain\\terrain_third_redemption.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ore_belt"
+		texturefile = "gfx\\interface\\terrain\\terrain_ore_belt.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_frontier_edge"
+		texturefile = "gfx\\interface\\terrain\\terrain_frontier_edge.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_atiyas_misfortune"
+		texturefile = "gfx\\interface\\terrain\\terrain_atiyas_misfortune.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mists_of_artemis"
+		texturefile = "gfx\\interface\\terrain\\terrain_mists_of_artemis.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_sanctum_verge"
+		texturefile = "gfx\\interface\\terrain\\terrain_sanctum_verge.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_circle_of_deceit"
+		texturefile = "gfx\\interface\\terrain\\terrain_circle_of_deceit.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_tempting_fumes"
+		texturefile = "gfx\\interface\\terrain\\terrain_tempting_fumes.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_true_sight"
+		texturefile = "gfx\\interface\\terrain\\terrain_true_sight.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_scarlet_star"
+		texturefile = "gfx\\interface\\terrain\\terrain_scarlet_star.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_void_of_opportunity"
+		texturefile = "gfx\\interface\\terrain\\terrain_void_of_opportunity.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_faulty_logic"
+		texturefile = "gfx\\interface\\terrain\\terrain_faulty_logic.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_holy_vision"
+		texturefile = "gfx\\interface\\terrain\\terrain_holy_vision.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_pontifexs_claim"
+		texturefile = "gfx\\interface\\terrain\\terrain_pontifexs_claim.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_cardinals_redress"
+		texturefile = "gfx\\interface\\terrain\\terrain_cardinals_redress.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_lasting_vengeance"
+		texturefile = "gfx\\interface\\terrain\\terrain_lasting_vengeance.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_freedoms_reach"
+		texturefile = "gfx\\interface\\terrain\\terrain_freedoms_reach.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_pious_mists"
+		texturefile = "gfx\\interface\\terrain\\terrain_pious_mists.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_sacred_relic"
+		texturefile = "gfx\\interface\\terrain\\terrain_sacred_relic.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_cardinals_domain"
+		texturefile = "gfx\\interface\\terrain\\terrain_cardinals_domain.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_moo_kyes_revenge"
+		texturefile = "gfx\\interface\\terrain\\terrain_moo_kyes_revenge.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mi_tons_refuge"
+		texturefile = "gfx\\interface\\terrain\\terrain_mi_tons_refuge.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_loomanckstrats_legacy"
+		texturefile = "gfx\\interface\\terrain\\terrain_loomanckstrats_legacy.tga"
+		norefcount = yes
+	}
 	
 	
 	spriteType = {

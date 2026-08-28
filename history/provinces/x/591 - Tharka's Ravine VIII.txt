@@ -4,3 +4,4 @@ add_core = FRF
 add_core = COC
 trade_goods = ice
 life_rating = 25
+terrain = tharkas_ravine

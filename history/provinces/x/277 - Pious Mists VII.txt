@@ -3,3 +3,4 @@ controller = GOD
 add_core = GOD
 trade_goods = ore
 life_rating = 25
+terrain = pious_mists

@@ -3,3 +3,4 @@ controller = HOP
 add_core = HOP
 trade_goods = energy_cells
 life_rating = 25
+terrain = pontifexs_claim

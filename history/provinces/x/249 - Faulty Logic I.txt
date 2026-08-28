@@ -3,3 +3,4 @@ controller = XEN
 add_core = XEN
 trade_goods = ore
 life_rating = 25
+terrain = faulty_logic

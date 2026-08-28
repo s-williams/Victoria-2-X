@@ -4,3 +4,4 @@ add_core = TEL
 add_core = MIN
 trade_goods = energy_cells
 life_rating = 25
+terrain = eighteen_billion

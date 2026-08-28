@@ -4,3 +4,4 @@ add_core = TEL
 add_core = FTN
 trade_goods = ore
 life_rating = 25
+terrain = hewas_twin

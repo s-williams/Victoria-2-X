@@ -4,3 +4,4 @@ add_core = XEN
 add_core = EKK
 trade_goods = ore
 life_rating = 25
+terrain = matrix_451

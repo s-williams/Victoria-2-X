@@ -3,3 +3,4 @@ controller = CKK
 add_core = CKK
 trade_goods = energy_cells
 life_rating = 25
+terrain = silent_witness

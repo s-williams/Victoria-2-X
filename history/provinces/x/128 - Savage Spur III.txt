@@ -3,3 +3,4 @@ controller = YAK
 add_core = YAK
 trade_goods = methane
 life_rating = 25
+terrain = savage_spur

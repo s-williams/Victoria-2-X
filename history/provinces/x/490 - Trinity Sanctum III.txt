@@ -4,3 +4,4 @@ add_core = GOD
 add_core = ALI
 trade_goods = energy_cells
 life_rating = 25
+terrain = trinity_sanctum
