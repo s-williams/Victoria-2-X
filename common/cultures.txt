@@ -36,8 +36,8 @@ split_group = {
 	unit = EuropeanGC
 	split = {
 		color = { 154 202 75 }
-		first_names = { Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Sendir Yu }
-		last_names = { "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Tn" }
+		first_names = { Chin Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Sendir She Yu }
+		last_names = { "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Thhg" "t'Tn" }
 	}
 }
 
