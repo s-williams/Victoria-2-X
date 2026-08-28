@@ -13,6 +13,7 @@ Terrain.bmp - ???
         - [x] All flags
         - [/] Political parties
         - [/] Starting governments, reforms
+        - [ ] Add Provinces Adrift
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
         - [ ] On colourmap maybe???
@@ -26,6 +27,7 @@ Terrain.bmp - ???
     - [x] Cultures
 - [ ] Politics
     - [ ] Cultures weighted issues/ideologies
+        - [ ] Teladi living nearby Split will support slavery
 - [ ] Industry
     - [x] Resources
     - [x] Production types
