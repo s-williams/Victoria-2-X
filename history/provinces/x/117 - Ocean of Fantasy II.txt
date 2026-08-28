@@ -1,6 +1,6 @@
-owner = BOR
-controller = BOR
-add_core = BOR
+owner = BOP
+controller = BOP
+add_core = BOP
 trade_goods = energy_cells
 life_rating = 25
 terrain = ocean_of_fantasy

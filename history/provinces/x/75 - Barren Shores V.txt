@@ -1,6 +1,6 @@
-owner = BOR
-controller = BOR
-add_core = BOR
+owner = BOP
+controller = BOP
+add_core = BOP
 trade_goods = silicon
 life_rating = 25
 terrain = barren_shores

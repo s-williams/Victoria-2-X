@@ -16,6 +16,7 @@ SOL = "countries/Solara.txt"
 
 # Boron
 BOR = "countries/Queendom of Boron.txt"
+BOP = "countries/Provinces Adrift.txt"
 WEN = "countries/Wenedra Prime.txt"
 
 # Split
