@@ -146,7 +146,7 @@ conservative;Centrist;x
 conservative_uh;Conservatives prefer the status-quo, but may back reforms under conditions of high militancy.;x
 socialist;Progressive;x
 socialist_uh;Socialists want to see the enactment of further social reforms, but may back political reforms under conditions of high militancy.;x
-collectivist;Collectivist;
+communist;Collectivist;
 communist_uh;Communists want to enact social reforms, but want to see political reforms rolled back.;x
 liberal;Neoliberal;x
 liberal_uh;Liberals want to enact further political reforms, but will also support social reform under conditions of high militancy.;x
