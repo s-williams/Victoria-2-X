@@ -5,18 +5,18 @@ human_group = {
 	unit = EuropeanGC
 	argon = {
 		color = { 47 127 230 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	terran = {
 		color = { 159 208 255 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	goner = {
 		color = { 111 52 0 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 }
 
@@ -25,7 +25,7 @@ paranid_group = {
 	unit = EuropeanGC
 	paranid = {
 		color = { 185 90 199 }
-		first_names = { Amanckalat Axiom Ebmancketvahs Maximus Nobumancketslat Olmanckarsat Olmancketslat Tebathimanckatt }
+		first_names = { Amanckalat Axiom Ebmancketvahs Maximus Nobumancketslat Numanckaret Olmanckarsat Olmancketslat Tebathimanckatt }
 		last_names = { Paranidia }
 	}
 
@@ -46,8 +46,8 @@ teladi_group = {
 	unit = EuropeanGC
 	teladi = {
 		color = { 212 179 16 }
-		first_names = { Dagobas Ganatos Isemados Lahubasis Mikimades Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yoolis Ysandreis Zusilas }
-		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yalos Yohiris Yurilos }
+		first_names = { Dagobas Ganatos Isemados Lahubasis Luuligos Mikimades Monisessas Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yalamandis Yoolis Yooses Ysandreis Zusilas }
+		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yahandis Yalos Yohiris Yoyunis Yurilos }
 	}
 }
 
@@ -56,8 +56,8 @@ boron_group = {
 	unit = EuropeanGC
 	boron = {
 		color = { 62 199 230 }
-		first_names = { Boso Fomo Nila Suli  }
-		last_names = { Do Fi Ta Ti }
+		first_names = { Boso Fomo Halili Leda Nila Suli  }
+		last_names = { Do Fi Lu Ta Ti We }
 	}
 }
 
