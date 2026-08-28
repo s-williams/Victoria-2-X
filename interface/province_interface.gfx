@@ -237,6 +237,16 @@ spriteTypes = {
 		name = "GFX_province_chart_small"
 		size = 14
 	}
+
+	####################
+	##### TERRAINS #####
+	####################
+
+	spriteType = {
+		name = "GFX_terrainimg_black_hole_sun"
+		texturefile = "gfx\\interface\\terrain\\terrain_black_hole_sun.tga"
+		norefcount = yes
+	}
 	
 	
 	spriteType = {
@@ -304,7 +314,7 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_desert.tga"
 		norefcount = yes
 	}
-	
+
 	spriteType = {
 		name = "GFX_terrainimg_arctic"
 		texturefile = "gfx\\interface\\terrain_arctic.tga"
@@ -316,6 +326,7 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_mountains.tga"
 		norefcount = yes
 	}
+
 	spriteType = {
 		name = "GFX_invest_rail_button"
 		texturefile = "gfx\\interface\\invest_rail_button.tga"
