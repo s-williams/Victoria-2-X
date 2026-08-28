@@ -13,12 +13,12 @@ Terrain.bmp - ???
         - [x] All flags
         - [/] Political parties
         - [/] Starting governments, reforms
-        - [ ] Add Provinces Adrift
+        - [x] Add Provinces Adrift
     - [x] Adjacencies (gates)
         - [ ] As province modifiers
         - [ ] On colourmap maybe???
     - [x] Resources on map
-    - [ ] Terrains (unique per region)
+    - [x] Terrains (unique per region)
     - [x] Climates as sun exposure levels
     - [ ] Starting industries
     - [x] Starting pops
