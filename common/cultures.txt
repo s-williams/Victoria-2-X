@@ -5,18 +5,18 @@ human_group = {
 	unit = EuropeanGC
 	argon = {
 		color = { 47 127 230 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	terran = {
 		color = { 159 208 255 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	goner = {
 		color = { 111 52 0 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
+		last_names = { Borman Brennan Busta Cheran Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 }
 
@@ -36,8 +36,8 @@ split_group = {
 	unit = EuropeanGC
 	split = {
 		color = { 154 202 75 }
-		first_names = { Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Yu }
-		last_names = { "t'Gllt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Tn" }
+		first_names = { Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Sendir Yu }
+		last_names = { "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Tn" }
 	}
 }
 
