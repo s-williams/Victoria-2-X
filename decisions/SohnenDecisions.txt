@@ -2,7 +2,7 @@
 political_decisions = {
     SOH_start_decision = {
         potential = {
-            always = yes
+            always = no
             tag = SOH
         }
         ai_will_do = {
