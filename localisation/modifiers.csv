@@ -8,199 +8,101 @@ xenon_hivemind;Xenon Hivemind;x
 #######################################;x
 ##### JUMPGATE PROVINCE MODIFIERS #####;x
 #######################################;x
-jumpgate_to_adventures_promise_desc;This sector contains a jumpgate to §YAdventure's Promise§!;x
-jumpgate_to_adventures_promise;Jumpgate to §YAdventure's Promise§!;x
-jumpgate_to_antigone_memorial_desc;This sector contains a jumpgate to §YAntigone Memorial§!;x
-jumpgate_to_antigone_memorial;Jumpgate to §YAntigone Memorial§!;x
-jumpgate_to_argon_prime_desc;This sector contains a jumpgate to §YArgon Prime§!;x
-jumpgate_to_argon_prime;Jumpgate to §YArgon Prime§!;x
-jumpgate_to_atiyas_misfortune_desc;This sector contains a jumpgate to §YAtiya's Misfortune§!;x
-jumpgate_to_atiyas_misfortune;Jumpgate to §YAtiya's Misfortune§!;x
-jumpgate_to_atreus_clouds_desc;This sector contains a jumpgate to §YAtreus' Clouds§!;x
-jumpgate_to_atreus_clouds;Jumpgate to §YAtreus' Clouds§!;x
-jumpgate_to_avarice_desc;This sector contains a jumpgate to §YAvarice§!;x
-jumpgate_to_avarice;Jumpgate to §YAvarice§!;x
-jumpgate_to_barren_shores_desc;This sector contains a jumpgate to §YBarren Shores§!;x
-jumpgate_to_barren_shores;Jumpgate to §YBarren Shores§!;x
-jumpgate_to_black_hole_sun_desc;This sector contains a jumpgate to §YBlack Hole Sun§!;x
-jumpgate_to_black_hole_sun;Jumpgate to §YBlack Hole Sun§!;x
-jumpgate_to_brennans_triumph_desc;This sector contains a jumpgate to §YBrennan's Triumph§!;x
-jumpgate_to_brennans_triumph;Jumpgate to §YBrennan's Triumph§!;x
-jumpgate_to_bright_promise_desc;This sector contains a jumpgate to §YBright Promise§!;x
-jumpgate_to_bright_promise;Jumpgate to §YBright Promise§!;x
-jumpgate_to_cardinals_domain_desc;This sector contains a jumpgate to §YCardinal's Domain§!;x
-jumpgate_to_cardinals_domain;Jumpgate to §YCardinal's Domain§!;x
-jumpgate_to_cardinals_redress_desc;This sector contains a jumpgate to §YCardinal's Redress§!;x
-jumpgate_to_cardinals_redress;Jumpgate to §YCardinal's Redress§!;x
-jumpgate_to_ceos_doubt_desc;This sector contains a jumpgate to §YCEO's Doubt§!;x
-jumpgate_to_ceos_doubt;Jumpgate to §YCEO's Doubt§!;x
-jumpgate_to_circle_of_deceit_desc;This sector contains a jumpgate to §YCircle of Deceit§!;x
-jumpgate_to_circle_of_deceit;Jumpgate to §YCircle of Deceit§!;x
-jumpgate_to_cloudbase_desc;This sector contains a jumpgate to §YCloudbase§!;x
-jumpgate_to_cloudbase;Jumpgate to §YCloudbase§!;x
-jumpgate_to_company_regard_desc;This sector contains a jumpgate to §YCompany Regard§!;x
-jumpgate_to_company_regard;Jumpgate to §YCompany Regard§!;x
-jumpgate_to_eighteen_billion_desc;This sector contains a jumpgate to §YEighteen Billion§!;x
-jumpgate_to_eighteen_billion;Jumpgate to §YEighteen Billion§!;x
-jumpgate_to_eleventh_hour_desc;This sector contains a jumpgate to §YEleventh Hour§!;x
-jumpgate_to_eleventh_hour;Jumpgate to §YEleventh Hour§!;x
-jumpgate_to_elysium_of_light_desc;This sector contains a jumpgate to §YElysium of Light§!;x
-jumpgate_to_elysium_of_light;Jumpgate to §YElysium of Light§!;x
-jumpgate_to_emperors_pride_desc;This sector contains a jumpgate to §YEmperor's Pride§!;x
-jumpgate_to_emperors_pride;Jumpgate to §YEmperor's Pride§!;x
-jumpgate_to_family_kritt_desc;This sector contains a jumpgate to §YFamily Kritt§!;x
-jumpgate_to_family_kritt;Jumpgate to §YFamily Kritt§!;x
-jumpgate_to_family_nhuut_desc;This sector contains a jumpgate to §YFamily Nhuut§!;x
-jumpgate_to_family_nhuut;Jumpgate to §YFamily Nhuut§!;x
-jumpgate_to_family_tkr_desc;This sector contains a jumpgate to §YFamily Tkr§!;x
-jumpgate_to_family_tkr;Jumpgate to §YFamily Tkr§!;x
-jumpgate_to_family_zhin_desc;This sector contains a jumpgate to §YFamily Zhin§!;x
-jumpgate_to_family_zhin;Jumpgate to §YFamily Zhin§!;x
-jumpgate_to_faulty_logic_desc;This sector contains a jumpgate to §YFaulty Logic§!;x
-jumpgate_to_faulty_logic;Jumpgate to §YFaulty Logic§!;x
-jumpgate_to_fires_of_defeat_desc;This sector contains a jumpgate to §YFires of Defeat§!;x
-jumpgate_to_fires_of_defeat;Jumpgate to §YFires of Defeat§!;x
-jumpgate_to_freedoms_reach_desc;This sector contains a jumpgate to §YFreedom's Reach§!;x
-jumpgate_to_freedoms_reach;Jumpgate to §YFreedom's Reach§!;x
-jumpgate_to_frontier_edge_desc;This sector contains a jumpgate to §YFrontier Edge§!;x
-jumpgate_to_frontier_edge;Jumpgate to §YFrontier Edge§!;x
-jumpgate_to_gaian_prophecy_desc;This sector contains a jumpgate to §YGaian Prophecy§!;x
-jumpgate_to_gaian_prophecy;Jumpgate to §YGaian Prophecy§!;x
-jumpgate_to_getsu_fune_desc;This sector contains a jumpgate to §YGetsu Fune§!;x
-jumpgate_to_getsu_fune;Jumpgate to §YGetsu Fune§!;x
-jumpgate_to_grand_exchange_desc;This sector contains a jumpgate to §YGrand Exchange§!;x
-jumpgate_to_grand_exchange;Jumpgate to §YGrand Exchange§!;x
-jumpgate_to_great_reef_desc;This sector contains a jumpgate to §YGreat Reef§!;x
-jumpgate_to_great_reef;Jumpgate to §YGreat Reef§!;x
-jumpgate_to_guiding_star_desc;This sector contains a jumpgate to §YGuiding Star§!;x
-jumpgate_to_guiding_star;Jumpgate to §YGuiding Star§!;x
-jumpgate_to_hatikvahs_choice_desc;This sector contains a jumpgate to §YHatikvah's Choice§!;x
-jumpgate_to_hatikvahs_choice;Jumpgate to §YHatikvah's Choice§!;x
-jumpgate_to_hatikvahs_faith_desc;This sector contains a jumpgate to §YHatikvah's Faith§!;x
-jumpgate_to_hatikvahs_faith;Jumpgate to §YHatikvah's Faith§!;x
-jumpgate_to_heart_of_acrimony_desc;This sector contains a jumpgate to §YHeart of Acrimony§!;x
-jumpgate_to_heart_of_acrimony;Jumpgate to §YHeart of Acrimony§!;x
-jumpgate_to_heretics_end_desc;This sector contains a jumpgate to §YHeretic's End§!;x
-jumpgate_to_heretics_end;Jumpgate to §YHeretic's End§!;x
-jumpgate_to_hewas_twin_desc;This sector contains a jumpgate to §YHewa's Twin§!;x
-jumpgate_to_hewas_twin;Jumpgate to §YHewa's Twin§!;x
-jumpgate_to_holy_vision_desc;This sector contains a jumpgate to §YHoly Vision§!;x
-jumpgate_to_holy_vision;Jumpgate to §YHoly Vision§!;x
-jumpgate_to_ianamus_zura_desc;This sector contains a jumpgate to §YIanamus Zura§!;x
-jumpgate_to_ianamus_zura;Jumpgate to §YIanamus Zura§!;x
-jumpgate_to_inner_sol_desc;This sector contains a jumpgate to §YInner Sol§!;x
-jumpgate_to_inner_sol;Jumpgate to §YInner Sol§!;x
-jumpgate_to_kingdom_end_desc;This sector contains a jumpgate to §YKingdom End§!;x
-jumpgate_to_kingdom_end;Jumpgate to §YKingdom End§!;x
-jumpgate_to_lasting_vengeance_desc;This sector contains a jumpgate to §YLasting Vengeance§!;x
-jumpgate_to_lasting_vengeance;Jumpgate to §YLasting Vengeance§!;x
-jumpgate_to_litany_of_fury_desc;This sector contains a jumpgate to §YLitany of Fury§!;x
-jumpgate_to_litany_of_fury;Jumpgate to §YLitany of Fury§!;x
-jumpgate_to_loomanckstrats_legacy_desc;This sector contains a jumpgate to §YLoomanckstrat's Legacy§!;x
-jumpgate_to_loomanckstrats_legacy;Jumpgate to §YLoomanckstrat's Legacy§!;x
-jumpgate_to_matrix_101_desc;This sector contains a jumpgate to §YMatrix 101§!;x
-jumpgate_to_matrix_101;Jumpgate to §YMatrix 101§!;x
-jumpgate_to_matrix_451_desc;This sector contains a jumpgate to §YMatrix 451§!;x
-jumpgate_to_matrix_451;Jumpgate to §YMatrix 451§!;x
-jumpgate_to_matrix_598_desc;This sector contains a jumpgate to §YMatrix 598§!;x
-jumpgate_to_matrix_598;Jumpgate to §YMatrix 598§!;x
-jumpgate_to_matrix_79b_desc;This sector contains a jumpgate to §YMatrix 79B§!;x
-jumpgate_to_matrix_79b;Jumpgate to §YMatrix 79B§!;x
-jumpgate_to_matrix_9_desc;This sector contains a jumpgate to §YMatrix 9§!;x
-jumpgate_to_matrix_9;Jumpgate to §YMatrix 9§!;x
-jumpgate_to_memory_of_profit_desc;This sector contains a jumpgate to §YMemory of Profit§!;x
-jumpgate_to_memory_of_profit;Jumpgate to §YMemory of Profit§!;x
-jumpgate_to_menelaus_oasis_desc;This sector contains a jumpgate to §YMenelaus' Oasis§!;x
-jumpgate_to_menelaus_oasis;Jumpgate to §YMenelaus' Oasis§!;x
-jumpgate_to_mi_tons_refuge_desc;This sector contains a jumpgate to §YMi Ton's Refuge§!;x
-jumpgate_to_mi_tons_refuge;Jumpgate to §YMi Ton's Refuge§!;x
-jumpgate_to_mists_of_artemis_desc;This sector contains a jumpgate to §YMists of Artemis§!;x
-jumpgate_to_mists_of_artemis;Jumpgate to §YMists of Artemis§!;x
-jumpgate_to_mitsunos_remembrance_desc;This sector contains a jumpgate to §YMitsunos Remembrance§!;x
-jumpgate_to_mitsunos_remembrance;Jumpgate to §YMitsunos Remembrance§!;x
-jumpgate_to_moo_kyes_revenge_desc;This sector contains a jumpgate to §YMoo Kye's Revenge§!;x
-jumpgate_to_moo_kyes_revenge;Jumpgate to §YMoo Kye's Revenge§!;x
-jumpgate_to_morning_star_desc;This sector contains a jumpgate to §YMorning Star§!;x
-jumpgate_to_morning_star;Jumpgate to §YMorning Star§!;x
-jumpgate_to_nopileos_fortune_desc;This sector contains a jumpgate to §YNopileos' Fortune§!;x
-jumpgate_to_nopileos_fortune;Jumpgate to §YNopileos' Fortune§!;x
-jumpgate_to_nopileos_memorial_desc;This sector contains a jumpgate to §YNopileos' Memorial§!;x
-jumpgate_to_nopileos_memorial;Jumpgate to §YNopileos' Memorial§!;x
-jumpgate_to_ocean_of_fantasy_desc;This sector contains a jumpgate to §YOcean of Fantasy§!;x
-jumpgate_to_ocean_of_fantasy;Jumpgate to §YOcean of Fantasy§!;x
-jumpgate_to_open_market_desc;This sector contains a jumpgate to §YOpen Market§!;x
-jumpgate_to_open_market;Jumpgate to §YOpen Market§!;x
-jumpgate_to_ore_belt_desc;This sector contains a jumpgate to §YOre Belt§!;x
-jumpgate_to_ore_belt;Jumpgate to §YOre Belt§!;x
-jumpgate_to_outer_sol_desc;This sector contains a jumpgate to §YOuter Sol§!;x
-jumpgate_to_outer_sol;Jumpgate to §YOuter Sol§!;x
-jumpgate_to_path_to_profit_desc;This sector contains a jumpgate to §YPath to Profit§!;x
-jumpgate_to_path_to_profit;Jumpgate to §YPath to Profit§!;x
-jumpgate_to_pious_mists_desc;This sector contains a jumpgate to §YPious Mists§!;x
-jumpgate_to_pious_mists;Jumpgate to §YPious Mists§!;x
-jumpgate_to_pontifexs_claim_desc;This sector contains a jumpgate to §YPontifex's Claim§!;x
-jumpgate_to_pontifexs_claim;Jumpgate to §YPontifex's Claim§!;x
-jumpgate_to_presidents_end_desc;This sector contains a jumpgate to §YPresident's End§!;x
-jumpgate_to_presidents_end;Jumpgate to §YPresident's End§!;x
-jumpgate_to_profit_center_alpha_desc;This sector contains a jumpgate to §YProfit Center Alpha§!;x
-jumpgate_to_profit_center_alpha;Jumpgate to §YProfit Center Alpha§!;x
-jumpgate_to_queens_space_desc;This sector contains a jumpgate to §YQueen's Space§!;x
-jumpgate_to_queens_space;Jumpgate to §YQueen's Space§!;x
-jumpgate_to_rhys_defiance_desc;This sector contains a jumpgate to §YRhy's Defiance§!;x
-jumpgate_to_rhys_defiance;Jumpgate to §YRhy's Defiance§!;x
-jumpgate_to_rolks_demise_desc;This sector contains a jumpgate to §YRolk's Demise§!;x
-jumpgate_to_rolks_demise;Jumpgate to §YRolk's Demise§!;x
-jumpgate_to_sacred_relic_desc;This sector contains a jumpgate to §YSacred Relic§!;x
-jumpgate_to_sacred_relic;Jumpgate to §YSacred Relic§!;x
-jumpgate_to_sanctuary_of_darkness_desc;This sector contains a jumpgate to §YSanctuary of Darkness§!;x
-jumpgate_to_sanctuary_of_darkness;Jumpgate to §YSanctuary of Darkness§!;x
-jumpgate_to_sanctum_verge_desc;This sector contains a jumpgate to §YSanctum Verge§!;x
-jumpgate_to_sanctum_verge;Jumpgate to §YSanctum Verge§!;x
-jumpgate_to_savage_spur_desc;This sector contains a jumpgate to §YSavage Spur§!;x
-jumpgate_to_savage_spur;Jumpgate to §YSavage Spur§!;x
-jumpgate_to_scale_plate_green_desc;This sector contains a jumpgate to §YScale Plate Green§!;x
-jumpgate_to_scale_plate_green;Jumpgate to §YScale Plate Green§!;x
-jumpgate_to_scarlet_star_desc;This sector contains a jumpgate to §YScarlet Star§!;x
-jumpgate_to_scarlet_star;Jumpgate to §YScarlet Star§!;x
-jumpgate_to_second_contact_desc;This sector contains a jumpgate to §YSecond Contact§!;x
-jumpgate_to_second_contact;Jumpgate to §YSecond Contact§!;x
-jumpgate_to_segaris_desc;This sector contains a jumpgate to §YSegaris§!;x
-jumpgate_to_segaris;Jumpgate to §YSegaris§!;x
-jumpgate_to_silent_witness_desc;This sector contains a jumpgate to §YSilent Witness§!;x
-jumpgate_to_silent_witness;Jumpgate to §YSilent Witness§!;x
-jumpgate_to_sohnen_desc;This sector contains a jumpgate to §YSohnen§!;x
-jumpgate_to_sohnen;Jumpgate to §YSohnen§!;x
-jumpgate_to_tempting_fumes_desc;This sector contains a jumpgate to §YTempting Fumes§!;x
-jumpgate_to_tempting_fumes;Jumpgate to §YTempting Fumes§!;x
-jumpgate_to_tharkas_cascade_desc;This sector contains a jumpgate to §YTharka's Cascade§!;x
-jumpgate_to_tharkas_cascade;Jumpgate to §YTharka's Cascade§!;x
-jumpgate_to_tharkas_ravine_desc;This sector contains a jumpgate to §YTharka's Ravine§!;x
-jumpgate_to_tharkas_ravine;Jumpgate to §YTharka's Ravine§!;x
-jumpgate_to_the_reach_desc;This sector contains a jumpgate to §YThe Reach§!;x
-jumpgate_to_the_reach;Jumpgate to §YThe Reach§!;x
-jumpgate_to_the_void_desc;This sector contains a jumpgate to §YThe Void§!;x
-jumpgate_to_the_void;Jumpgate to §YThe Void§!;x
-jumpgate_to_third_redemption_desc;This sector contains a jumpgate to §YThird Redemption§!;x
-jumpgate_to_third_redemption;Jumpgate to §YThird Redemption§!;x
-jumpgate_to_thuruks_demise_desc;This sector contains a jumpgate to §YThuruk's Demise§!;x
-jumpgate_to_thuruks_demise;Jumpgate to §YThuruk's Demise§!;x
-jumpgate_to_trinity_sanctum_desc;This sector contains a jumpgate to §YTrinity Sanctum§!;x
-jumpgate_to_trinity_sanctum;Jumpgate to §YTrinity Sanctum§!;x
-jumpgate_to_true_sight_desc;This sector contains a jumpgate to §YTrue Sight§!;x
-jumpgate_to_true_sight;Jumpgate to §YTrue Sight§!;x
-jumpgate_to_turqoise_sea_desc;This sector contains a jumpgate to §YTurqoise Sea§!;x
-jumpgate_to_turqoise_sea;Jumpgate to §YTurqoise Sea§!;x
-jumpgate_to_two_grand_desc;This sector contains a jumpgate to §YTwo Grand§!;x
-jumpgate_to_two_grand;Jumpgate to §YTwo Grand§!;x
-jumpgate_to_unholy_retribution_desc;This sector contains a jumpgate to §YUnholy Retribution§!;x
-jumpgate_to_unholy_retribution;Jumpgate to §YUnholy Retribution§!;x
-jumpgate_to_void_of_opportunity_desc;This sector contains a jumpgate to §YVoid of Opportunity§!;x
-jumpgate_to_void_of_opportunity;Jumpgate to §YVoid of Opportunity§!;x
-jumpgate_to_watchful_gaze_desc;This sector contains a jumpgate to §YWatchful Gaze§!;x
-jumpgate_to_watchful_gaze;Jumpgate to §YWatchful Gaze§!;x
-jumpgate_to_windfall_desc;This sector contains a jumpgate to §YWindfall§!;x
-jumpgate_to_windfall;Jumpgate to §YWindfall§!;x
-jumpgate_to_wretched_skies_desc;This sector contains a jumpgate to §YWretched Skies§!;x
-jumpgate_to_wretched_skies;Jumpgate to §YWretched Skies§!;x
-jumpgate_to_zyarths_dominion_desc;This sector contains a jumpgate to §YZyarth's Dominion§!;x
-jumpgate_to_zyarths_dominion;Jumpgate to §YZyarth's Dominion§!;x
+jumpgate_to_adventures_promise;Jumpgate to §GAdventure's Promise§!;x
+jumpgate_to_antigone_memorial;Jumpgate to §GAntigone Memorial§!;x
+jumpgate_to_argon_prime;Jumpgate to §GArgon Prime§!;x
+jumpgate_to_atiyas_misfortune;Jumpgate to §GAtiya's Misfortune§!;x
+jumpgate_to_atreus_clouds;Jumpgate to §GAtreus' Clouds§!;x
+jumpgate_to_avarice;Jumpgate to §GAvarice§!;x
+jumpgate_to_barren_shores;Jumpgate to §GBarren Shores§!;x
+jumpgate_to_black_hole_sun;Jumpgate to §GBlack Hole Sun§!;x
+jumpgate_to_brennans_triumph;Jumpgate to §GBrennan's Triumph§!;x
+jumpgate_to_bright_promise;Jumpgate to §GBright Promise§!;x
+jumpgate_to_cardinals_domain;Jumpgate to §GCardinal's Domain§!;x
+jumpgate_to_cardinals_redress;Jumpgate to §GCardinal's Redress§!;x
+jumpgate_to_ceos_doubt;Jumpgate to §GCEO's Doubt§!;x
+jumpgate_to_circle_of_deceit;Jumpgate to §GCircle of Deceit§!;x
+jumpgate_to_cloudbase;Jumpgate to §GCloudbase§!;x
+jumpgate_to_company_regard;Jumpgate to §GCompany Regard§!;x
+jumpgate_to_eighteen_billion;Jumpgate to §GEighteen Billion§!;x
+jumpgate_to_eleventh_hour;Jumpgate to §GEleventh Hour§!;x
+jumpgate_to_elysium_of_light;Jumpgate to §GElysium of Light§!;x
+jumpgate_to_emperors_pride;Jumpgate to §GEmperor's Pride§!;x
+jumpgate_to_family_kritt;Jumpgate to §GFamily Kritt§!;x
+jumpgate_to_family_nhuut;Jumpgate to §GFamily Nhuut§!;x
+jumpgate_to_family_tkr;Jumpgate to §GFamily Tkr§!;x
+jumpgate_to_family_zhin;Jumpgate to §GFamily Zhin§!;x
+jumpgate_to_faulty_logic;Jumpgate to §GFaulty Logic§!;x
+jumpgate_to_fires_of_defeat;Jumpgate to §GFires of Defeat§!;x
+jumpgate_to_freedoms_reach;Jumpgate to §GFreedom's Reach§!;x
+jumpgate_to_frontier_edge;Jumpgate to §GFrontier Edge§!;x
+jumpgate_to_gaian_prophecy;Jumpgate to §GGaian Prophecy§!;x
+jumpgate_to_getsu_fune;Jumpgate to §GGetsu Fune§!;x
+jumpgate_to_grand_exchange;Jumpgate to §GGrand Exchange§!;x
+jumpgate_to_great_reef;Jumpgate to §GGreat Reef§!;x
+jumpgate_to_guiding_star;Jumpgate to §GGuiding Star§!;x
+jumpgate_to_hatikvahs_choice;Jumpgate to §GHatikvah's Choice§!;x
+jumpgate_to_hatikvahs_faith;Jumpgate to §GHatikvah's Faith§!;x
+jumpgate_to_heart_of_acrimony;Jumpgate to §GHeart of Acrimony§!;x
+jumpgate_to_heretics_end;Jumpgate to §GHeretic's End§!;x
+jumpgate_to_hewas_twin;Jumpgate to §GHewa's Twin§!;x
+jumpgate_to_holy_vision;Jumpgate to §GHoly Vision§!;x
+jumpgate_to_ianamus_zura;Jumpgate to §GIanamus Zura§!;x
+jumpgate_to_inner_sol;Jumpgate to §GInner Sol§!;x
+jumpgate_to_kingdom_end;Jumpgate to §GKingdom End§!;x
+jumpgate_to_lasting_vengeance;Jumpgate to §GLasting Vengeance§!;x
+jumpgate_to_litany_of_fury;Jumpgate to §GLitany of Fury§!;x
+jumpgate_to_loomanckstrats_legacy;Jumpgate to §GLoomanckstrat's Legacy§!;x
+jumpgate_to_matrix_101;Jumpgate to §GMatrix 101§!;x
+jumpgate_to_matrix_451;Jumpgate to §GMatrix 451§!;x
+jumpgate_to_matrix_598;Jumpgate to §GMatrix 598§!;x
+jumpgate_to_matrix_79b;Jumpgate to §GMatrix 79B§!;x
+jumpgate_to_matrix_9;Jumpgate to §GMatrix 9§!;x
+jumpgate_to_memory_of_profit;Jumpgate to §GMemory of Profit§!;x
+jumpgate_to_menelaus_oasis;Jumpgate to §GMenelaus' Oasis§!;x
+jumpgate_to_mi_tons_refuge;Jumpgate to §GMi Ton's Refuge§!;x
+jumpgate_to_mists_of_artemis;Jumpgate to §GMists of Artemis§!;x
+jumpgate_to_mitsunos_remembrance;Jumpgate to §GMitsunos Remembrance§!;x
+jumpgate_to_moo_kyes_revenge;Jumpgate to §GMoo Kye's Revenge§!;x
+jumpgate_to_morning_star;Jumpgate to §GMorning Star§!;x
+jumpgate_to_nopileos_fortune;Jumpgate to §GNopileos' Fortune§!;x
+jumpgate_to_nopileos_memorial;Jumpgate to §GNopileos' Memorial§!;x
+jumpgate_to_ocean_of_fantasy;Jumpgate to §GOcean of Fantasy§!;x
+jumpgate_to_open_market;Jumpgate to §GOpen Market§!;x
+jumpgate_to_ore_belt;Jumpgate to §GOre Belt§!;x
+jumpgate_to_outer_sol;Jumpgate to §GOuter Sol§!;x
+jumpgate_to_path_to_profit;Jumpgate to §GPath to Profit§!;x
+jumpgate_to_pious_mists;Jumpgate to §GPious Mists§!;x
+jumpgate_to_pontifexs_claim;Jumpgate to §GPontifex's Claim§!;x
+jumpgate_to_presidents_end;Jumpgate to §GPresident's End§!;x
+jumpgate_to_profit_center_alpha;Jumpgate to §GProfit Center Alpha§!;x
+jumpgate_to_queens_space;Jumpgate to §GQueen's Space§!;x
+jumpgate_to_rhys_defiance;Jumpgate to §GRhy's Defiance§!;x
+jumpgate_to_rolks_demise;Jumpgate to §GRolk's Demise§!;x
+jumpgate_to_sacred_relic;Jumpgate to §GSacred Relic§!;x
+jumpgate_to_sanctuary_of_darkness;Jumpgate to §GSanctuary of Darkness§!;x
+jumpgate_to_sanctum_verge;Jumpgate to §GSanctum Verge§!;x
+jumpgate_to_savage_spur;Jumpgate to §GSavage Spur§!;x
+jumpgate_to_scale_plate_green;Jumpgate to §GScale Plate Green§!;x
+jumpgate_to_scarlet_star;Jumpgate to §GScarlet Star§!;x
+jumpgate_to_second_contact;Jumpgate to §GSecond Contact§!;x
+jumpgate_to_segaris;Jumpgate to §GSegaris§!;x
+jumpgate_to_silent_witness;Jumpgate to §GSilent Witness§!;x
+jumpgate_to_sohnen;Jumpgate to §GSohnen§!;x
+jumpgate_to_tempting_fumes;Jumpgate to §GTempting Fumes§!;x
+jumpgate_to_tharkas_cascade;Jumpgate to §GTharka's Cascade§!;x
+jumpgate_to_tharkas_ravine;Jumpgate to §GTharka's Ravine§!;x
+jumpgate_to_the_reach;Jumpgate to §GThe Reach§!;x
+jumpgate_to_the_void;Jumpgate to §GThe Void§!;x
+jumpgate_to_third_redemption;Jumpgate to §GThird Redemption§!;x
+jumpgate_to_thuruks_demise;Jumpgate to §GThuruk's Demise§!;x
+jumpgate_to_trinity_sanctum;Jumpgate to §GTrinity Sanctum§!;x
+jumpgate_to_true_sight;Jumpgate to §GTrue Sight§!;x
+jumpgate_to_turqoise_sea;Jumpgate to §GTurqoise Sea§!;x
+jumpgate_to_two_grand;Jumpgate to §GTwo Grand§!;x
+jumpgate_to_unholy_retribution;Jumpgate to §GUnholy Retribution§!;x
+jumpgate_to_void_of_opportunity;Jumpgate to §GVoid of Opportunity§!;x
+jumpgate_to_watchful_gaze;Jumpgate to §GWatchful Gaze§!;x
+jumpgate_to_windfall;Jumpgate to §GWindfall§!;x
+jumpgate_to_wretched_skies;Jumpgate to §GWretched Skies§!;x
+jumpgate_to_zyarths_dominion;Jumpgate to §GZyarth's Dominion§!;x
