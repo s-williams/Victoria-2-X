@@ -27,13 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = KHK_communist
+ruling_party = KHK_fascist
 upper_house = {
-	fascist = 0
-	liberal = 0
-	conservative = 0
-	reactionary = 0
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 100
+	fascist = 100
 }

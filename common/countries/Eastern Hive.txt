@@ -2,11 +2,11 @@ color = { 172 79 81 }
 graphical_culture = EuropeanGC
 
 party = {
-	name = "KHK_communist"
+	name = "KHK_fascist"
 	start_date = 2990.1.1
 	end_date = 4000.1.1
 
-	ideology = communist
+	ideology = fascist
 
 	economic_policy = planned_economy
 	trade_policy = protectionism

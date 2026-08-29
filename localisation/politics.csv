@@ -161,8 +161,9 @@ generic_liberal;Neoliberal Party;x
 generic_anarcho_liberal;Corporatist Party;x
 generic_socialist;Progressive Party;x
 generic_communist;Collectivist Party;x
-KHK_communist;Khaak Hivemind;x
-XEN_fascist;Xenon Continuum;x
+KHK_fascist;Khaak Hivemind;x
+SOH_fascist;Sohnen Continuum;x
+XEN_fascist;Xenon Network;x
 ############################;x
 ##### GOVERNMENT TYPES #####;x
 ############################;x
@@ -181,7 +182,7 @@ presidential_dictatorship;Presidential Dictatorship;x
 proletarian_dictatorship_ruler;Prime Minister;x
 proletarian_dictatorship;Proletarian Dictatorship;x
 prussian_constitutionalism_ruler;Lord;x
-prussian_constitutionalism;Prussian Constitutionalism;x
+prussian_constitutionalism;Semi-Parliamentary Monarchy;x
 ##################;x }
 ##### ISSUES #####;x {
 ##################;x
