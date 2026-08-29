@@ -460,6 +460,7 @@ AIREASON_BASE_RELUCTANCE;Base Reluctance;x
 AI_DIPLOMATIC_VALUE;Diplomatic Value;x
 AI_DIPLO_NO;They will not accept;x
 AI_DIPLO_YES;They will accept;x
+DIPLOMACY_AI_ACCEPTANCE;§Y$COUNTRY$§W's response: §Y$ODDS$§W;x
 SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§RCannot be built in this naval port. Requires level §Y$LVL$§R or greater.§!;x
 COLONIZE_PHASE_INTEREST;Establishing interest;x
 CREATE_PROTECTORATE;Create Protectorate;x
