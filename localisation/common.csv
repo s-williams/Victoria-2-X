@@ -422,6 +422,44 @@ PRODUCTION_PROJECT_MONEY;Project has §Y$MONEY$§W out of §Y$NEED$§W needed.;x
 LOAD_SAVEGAME_FAIL;Failed to load the savegame.;x
 NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;x
 NEWS_TOOLTIP_NO_NEW;There are no unread newspapers.;x
+AIREASON_STRATEGIC_INTERESTS;Strategic Interests;x
+AIREASON_BACKED_BY_ALLY;Backed by Ally;x
+AIREASON_ALLY;Ally;x
+AIREASON_TOO_EARLY_IN_CRISIS;Early in Crisis;x
+AIREASON_CRISIS_OFFER;$WARGOAL$:x
+AIREASON_ATTACKING_ALLY;Attacking Ally;x
+AIREASON_ATTACKING_FRIENDS;Attacking Friends;x
+AIREASON_ATTACKING_ENEMIES;Attacking Enemies;x
+AIREASON_COMMON_FOE;Common Foe;x
+AIREASON_WAR_WITH_SPHERE_LEADER;War with Sphere Leader;x
+AIREASON_CONSTRUCTING_CB;Strategic Interests;x
+AIREASON_HELD_CORES;Owns Core Provinces;x
+AIREASON_NEGATIVE_RELATIONS;Negative Relations;x
+AIREASON_THREATS;Threats;x
+AIREASON_TOO_MANY_GP_ALLIES;Too many Great Power allies;x
+AIREASON_DESIRES_GP_ALLY;Wants a Great Power ally;x
+AIREASON_ALLY_OF_ALLY;Ally of Ally;x
+AIREASON_TOO_MANY_ALLIANCES;Too Many Alliances;x
+AIREASON_RELATIVE_ARMY_STRENGTH;Army Strength;x
+AIREASON_RELATIVE_NAVY_STRENGTH;Navy Strength;x
+AIREASON_CURRENT_WARS;Current Wars;x
+AIREASON_OUR_CASUS_BELLI;Our Casus Belli;x
+AIREASON_YOUR_CASUS_BELLI;Your Casus Belli;x
+AIREASON_CIV_VS_UNCIV;Centralized vs Uncentralized;x
+AIREASON_DIPLOMATIC_GOALS;Political Considerations;x
+AIREASON_DISTANCE;Distance;x
+AIREASON_DIFFERENT_GOVTYPES;Government Type;x
+AIREASON_OUR_SPHERE;Our Sphere;x
+AIREASON_OTHER_SPHERE_LEADER;Other Sphere Leader;x
+AIREASON_OTHER_SPHERE;Other Sphere;x
+AIREASON_OVERLORD;Overlord;x
+AIREASON_BADBOY;Infamy;x
+AIREASON_RELATIONS;Relations;x
+AIREASON_GP_RELATIONS;Opinion;x
+AIREASON_BASE_RELUCTANCE;Base Reluctance;x
+AI_DIPLOMATIC_VALUE;Diplomatic Value;x
+AI_DIPLO_NO;They will not accept;x
+AI_DIPLO_YES;They will accept;x
 SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§RCannot be built in this naval port. Requires level §Y$LVL$§R or greater.§!;x
 COLONIZE_PHASE_INTEREST;Establishing interest;x
 CREATE_PROTECTORATE;Create Protectorate;x
