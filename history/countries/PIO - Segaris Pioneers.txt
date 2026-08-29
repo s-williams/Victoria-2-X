@@ -1,8 +1,8 @@
 capital = 209
 primary_culture = terran
 religion = human
-government = absolute_monarchy
-plurality = 0.2
+government = democracy
+plurality = 0.1
 nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
@@ -11,7 +11,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -37,5 +37,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-
