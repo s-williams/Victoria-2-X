@@ -1,5 +1,5 @@
 capital = 617
-primary_culture = sohnen
+primary_culture = sohnen_people
 culture = quettanaut
 religion = agi
 government = democracy

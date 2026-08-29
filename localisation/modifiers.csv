@@ -2,8 +2,8 @@
 ##### MODIFIERS AND FLAGS #####;x
 ###############################;x
 khaak_hivemind;Khaak Hivemind;x
-SOH_no_prestige_desc;Sohnen do not get prestige;x
-SOH_no_prestige;Sohnen;x
+sohnen_no_prestige_desc;Sohnen do not get prestige;x
+sohnen_no_prestige;Sohnen;x
 xenon_hivemind;Xenon Hivemind;x
 #######################################;x
 ##### JUMPGATE PROVINCE MODIFIERS #####;x

@@ -26,6 +26,14 @@ country_event = {
             country_event = 99002
         }
 
+        # Break Sohnen hivemind alliances
+        any_country = {
+            limit = {
+                has_country_modifier = sohnen_hivemind
+            }
+            country_event = 99003
+        }
+
         # Jumpgates (generated from scripts/utility/generate_jumpgates.py)
         602 = { add_province_modifier = { name = jumpgate_to_kingdom_end duration = -1 } }
         94 = { add_province_modifier = { name = jumpgate_to_queens_space duration = -1 } }
@@ -287,7 +295,6 @@ country_event = {
 	option = {
 		name = "No relations with organics"
 
-        # Break Xenon hivemind alliances
         any_country = {
             limit = {
                 exists = yes
@@ -314,11 +321,36 @@ country_event = {
 	option = {
 		name = "No relations with non-khaak"
 
-        # Break Xenon hivemind alliances
         any_country = {
             limit = {
                 exists = yes
                 NOT = { has_country_modifier = khaak_hivemind }
+            }
+
+            leave_alliance = THIS
+            end_military_access = THIS
+            relation = { who = THIS value = -400 }
+            diplomatic_influence = { who = THIS value = -400 }
+        }
+    }
+}
+
+# Break Sohnen hivemind alliances
+country_event = {
+	id = 99003
+	title = "No alliances allowed"
+	desc = "EVTDESC99003"
+	picture = "production"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "No relations as Sohnen"
+
+        any_country = {
+            limit = {
+                exists = yes
+                NOT = { has_country_modifier = sohnen_hivemind }
             }
 
             leave_alliance = THIS

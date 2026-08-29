@@ -78,7 +78,7 @@ agi_group = {
 		first_names = { Quint }
 		last_names = { Felden }
 	}
-	sohnen = {
+	sohnen_people = {
 		color = { 105 105 105 }
 		first_names = { Aged Aging Ancient Antique Experienced Grizzled Old }
 		last_names = { Being Life One }

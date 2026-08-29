@@ -26895,148 +26895,148 @@
 }
 617 = {
 	aristocrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 8
 	}
 	bureaucrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 25
 	}
 	officers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 34
 	}
 	clergymen = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 38
 	}
 	artisans = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 287
 	}
 	farmers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 2557
 	}
 }
 618 = {
 	aristocrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 16
 	}
 	bureaucrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 35
 	}
 	officers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 104
 	}
 	clergymen = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 53
 	}
 	artisans = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 588
 	}
 	farmers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 3903
 	}
 }
 619 = {
 	aristocrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 5
 	}
 	bureaucrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 27
 	}
 	officers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 65
 	}
 	clergymen = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 44
 	}
 	artisans = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 376
 	}
 	farmers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 3132
 	}
 }
 620 = {
 	aristocrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 8
 	}
 	bureaucrats = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 21
 	}
 	officers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 1
 	}
 	soldiers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 42
 	}
 	clergymen = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 28
 	}
 	artisans = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 249
 	}
 	farmers = {
-		culture = sohnen
+		culture = sohnen_people
 		religion = agi
 		size = 2051
 	}

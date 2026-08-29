@@ -23,9 +23,9 @@ academic_confusion = {
 #######################
 ##### X MODIFIERS #####
 #######################
-# Sohnen no prestige - country modifier
-SOH_no_prestige = {
-	prestige = -100
+# Sohnen - country modifier
+sohnen_hivemind = {
+	prestige = -10
 	icon = 1
 }
 # Hivemind - country modifier

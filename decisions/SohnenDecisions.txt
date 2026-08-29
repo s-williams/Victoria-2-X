@@ -10,7 +10,7 @@ political_decisions = {
         }
         effect = {
             add_country_modifier = {
-                name = SOH_no_prestige
+                name = sohnen_hivemind
                 duration = -1
             }
 
