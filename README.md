@@ -15,7 +15,7 @@ Terrain.bmp - ???
         - [/] Starting governments, reforms
         - [x] Add Provinces Adrift
     - [x] Adjacencies (gates)
-        - [ ] As province modifiers
+        - [x] As province modifiers
         - [ ] On colourmap maybe???
     - [x] Resources on map
     - [x] Terrains (unique per region)
