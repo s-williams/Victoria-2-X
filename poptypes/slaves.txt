@@ -24,12 +24,27 @@ luxury_needs = {
 	spices = 0.1
 }
 
-ideologies = {
+ideologies = {	
+	fascist = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = { has_pop_culture = terraformer }
+		}
+	}
 	liberal = {
 		factor = 4
+		modifier = {
+			factor = 0
+			has_pop_culture = terraformer
+		}
 	}
 	conservative = {
 		factor = 1
+		modifier = {
+			factor = 0
+			has_pop_culture = terraformer
+		}
 	}
 }
 issues = {
