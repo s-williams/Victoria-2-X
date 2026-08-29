@@ -1030,10 +1030,6 @@ BUILDING_NO_RAILWAYS;Economic policy allows building;x
 BUILDING_ANOTHER;Another building construction is in progress;x
 BUILDING_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;x
 UNIT_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;x
-mild_climate;Mild Climate;x
-temperate_climate;Temperate Climate;x
-harsh_climate;Harsh Climate;x
-inhospitable_climate;Inhospitable Climate;x
 GOLD;Nividium;x
 INTEREST;Interest;x
 NATIONAL_BANK;National bank;x
