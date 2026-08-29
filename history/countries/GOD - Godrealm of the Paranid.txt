@@ -2,11 +2,11 @@ capital = 488
 primary_culture = paranid
 religion = paranid
 government = absolute_monarchy
-plurality = 0.0
+plurality = 0
 nationalvalue = nv_order
 literacy = 0.22
 civilized = yes
-prestige = 0
+prestige = 25
 
 # Political reforms
 slavery = no_slavery

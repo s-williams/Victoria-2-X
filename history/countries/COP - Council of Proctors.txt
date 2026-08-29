@@ -2,11 +2,11 @@ capital = 354
 primary_culture = split
 religion = split
 government = absolute_monarchy
-plurality = 0.2
+plurality = 0
 nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
-
+prestige = 0
 
 # Political reforms
 slavery = yes_slavery
@@ -37,5 +37,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-

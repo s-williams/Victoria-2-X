@@ -2,21 +2,21 @@ capital = 427
 primary_culture = argon
 religion = human
 government = democracy
-plurality = 0.2
+plurality = 0.5
 nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
-
+prestige = 30
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = universal_voting
 public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
+press_rights = free_press
+trade_unions = state_controlled
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -37,5 +37,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-
