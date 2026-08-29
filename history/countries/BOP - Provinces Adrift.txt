@@ -1,5 +1,5 @@
 capital = 76
-primary_culture = Boron
+primary_culture = boron
 religion = boron
 government = democracy
 plurality = 0.4
