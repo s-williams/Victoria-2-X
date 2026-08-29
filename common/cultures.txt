@@ -5,19 +5,18 @@ human_group = {
 	unit = EuropeanGC
 	argon = {
 		color = { 47 127 230 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
+		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	terran = {
 		color = { 159 208 255 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
+		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
 	}
 	goner = {
 		color = { 111 52 0 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Otaku Raibu Ren Ruuf Saya Selaia Serra Sherman Siobhan Tora Val William Yishasame Yoshiko }
-		last_names = { Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Gaffelt Gardna Gunnar Hariken Hiatu Johansen Jonferson Kho Ledda Mydna Nehla Norman Otani Selton Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
-	}
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
+		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }	}
 }
 
 paranid_group = {
@@ -25,7 +24,7 @@ paranid_group = {
 	unit = EuropeanGC
 	paranid = {
 		color = { 185 90 199 }
-		first_names = { Amanckalat Axiom Ebmancketvahs Maximus Nobumancketslat Numanckaret Olmanckarsat Olmancketslat Tebathimanckatt }
+		first_names = { Amanckalat Axiom Ebmancketvahs Kuromanckami Maximus Nobumancketslat Numanckaret Olmanckarsat Olmancketslat Tebathimanckatt Ulmanckabssit }
 		last_names = { Paranidia }
 	}
 
@@ -37,7 +36,7 @@ split_group = {
 	split = {
 		color = { 154 202 75 }
 		first_names = { Chin Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Sendir She Yu }
-		last_names = { "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Thhg" "t'Tn" }
+		last_names = { "t'Cca" "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Thhg" "t'Tn" }
 	}
 }
 
@@ -86,8 +85,8 @@ agi_group = {
 	}
 	terraformer = {
 		color = { 239 68 68 }
-		first_names = { AGI AI CPU GPU MTRX TF }
-		last_names = { aaaa abac abad acde acce baaa bbbb baba babe babb caaa cccc caca ccdd ceca cece daaa dddd daff deff eaaa eaea eeee efaa efab edda edde eded faaa fafa feee fefe ffff }
+		first_names = { AGI ASI AGNT AI ANDRD BIOS CD CNN CPU DAC DVD DVI GAN GPU GNN GPT GRU HDD HDMI IC LIDA LLM LSTM MCA MCP MIDI ML MLP MOSFET MTRX NAND NMT NOR NVME NVMHCIS OS PCI PCMCIA RAG RAM RLHF RNN SATA SGD SMPS SSD SSHD TF USB VAE VGA VIT VRAM }
+		last_names = { aaaa aaab aaad abaa abba abbe abda abab abac abad acce acdc acde acea aceb acec aced acee acef adad adba adbe adca adda adfa adfe affa affe baaa baab baad baba babb babe bace badd bade bafa bafe baff bbbb beba bebe bada bade bead beda bede beed beef befa befe caaa cccc caaa caca caba cabe cace ccdd ceca cece daaa daca dace dddd daff deff eaaa eaea eeee efaa efab edaa edee edda edde eded faaa faab faad faaf faca face faba fabe fada fade fafa fafe fead feaf feba febe fece feda fede fedd feee feeb feed feef fefe ffaa ffab ffac ffad ffae ffaf ffea ffeb ffec ffed ffee fffa fffe ffff }
 	}
 }
 
@@ -96,7 +95,7 @@ khaak_group = {
 	unit = EuropeanGC
 	khaak = {
 		color = { 136 4 26 }
-		first_names = { x xx xxx xxxx z zz zzz zzzz }
-		last_names = { x xx xxx xxxx z zz zzz zzzz }
+		first_names = { Tchak Tchat Tchax Tchaz Tchek Tchet Tchex Techez Tchik Tchit Tchix Tchiz Kak Kat Kax Kaz Kek Ket Kex Kez Kik Kit Kix Kiz Kkak Kkat Kkax Kkaz Kkek Kket Kkex Kkez Kkik Kkit Kkix Kkiz Xit Xik Xix Xra Xrat Xrak Xrit Xrik Xrix Xhit Xhik Xhix Xsit Xsik Xsix Xzik Xzix }
+		last_names = { Tchak Tchat Tchax Tchaz Tchek Tchet Tchex Techez Tchik Tchit Tchix Tchiz Kak Kat Kax Kaz Kek Ket Kex Kez Kik Kit Kix Kiz Kkak Kkat Kkax Kkaz Kkek Kket Kkex Kkez Kkik Kkit Kkix Kkiz Xit Xik Xix Xra Xrat Xrak Xrit Xrik Xrix Xhit Xhik Xhix Xsit Xsik Xsix Xzik Xzix }
 	}
 }
