@@ -1,7 +1,7 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 human_group = {
-	leader = european
+	leader = human
 	unit = EuropeanGC
 	argon = {
 		color = { 47 127 230 }
@@ -21,7 +21,7 @@ human_group = {
 }
 
 paranid_group = {
-	leader = european
+	leader = paranid
 	unit = EuropeanGC
 	paranid = {
 		color = { 185 90 199 }
@@ -32,7 +32,7 @@ paranid_group = {
 }
 
 split_group = {
-	leader = european
+	leader = split
 	unit = EuropeanGC
 	split = {
 		color = { 154 202 75 }
@@ -42,7 +42,7 @@ split_group = {
 }
 
 teladi_group = {
-	leader = european
+	leader = teladi
 	unit = EuropeanGC
 	teladi = {
 		color = { 212 179 16 }
@@ -52,7 +52,7 @@ teladi_group = {
 }
 
 boron_group = {
-	leader = european
+	leader = boron
 	unit = EuropeanGC
 	boron = {
 		color = { 62 199 230 }
@@ -62,7 +62,7 @@ boron_group = {
 }
 
 wenendra_group = {
-	leader = european
+	leader = boron
 	unit = EuropeanGC
 	wenendra = {
 		color = { 34 139 211 }
@@ -72,7 +72,7 @@ wenendra_group = {
 }
 
 agi_group = {
-	leader = european
+	leader = agi
 	unit = EuropeanGC
 	quettanaut = {
 		color = { 34 197 94 }
@@ -92,7 +92,7 @@ agi_group = {
 }
 
 khaak_group = {
-	leader = european
+	leader = khaak
 	unit = EuropeanGC
 	khaak = {
 		color = { 136 4 26 }
