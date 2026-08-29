@@ -1,0 +1,86 @@
+# Daily Cleanup Tick
+country_event = {
+	id = 99000
+	title = "Daily Cleanup Tick"
+	desc = "EVTDESC99000"
+	picture = "production"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Daily Cleanup Tick"
+
+        # Break Xenon hivemind alliances
+        any_country = {
+            limit = {
+                has_country_modifier = xenon_hivemind
+            }
+            country_event = 99001
+        }
+
+        # Break Khaak hivemind alliances
+        any_country = {
+            limit = {
+                has_country_modifier = khaak_hivemind
+            }
+            country_event = 99002
+        }
+
+        # Retrigger tomorrow
+        owner = { country_event = { id = 99000 days = 1 } }
+    }
+}
+
+# Break Xenon hivemind alliances
+country_event = {
+	id = 99001
+	title = "No alliances allowed"
+	desc = "EVTDESC99001"
+	picture = "production"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "No relations with organics"
+
+        # Break Xenon hivemind alliances
+        any_country = {
+            limit = {
+                exists = yes
+                NOT = { has_country_modifier = xenon_hivemind }
+            }
+
+            leave_alliance = THIS
+            end_military_access = THIS
+            relation = { who = THIS value = -400 }
+            diplomatic_influence = { who = THIS value = -400 }
+        }
+    }
+}
+
+# Break Khaak hivemind alliances
+country_event = {
+	id = 99002
+	title = "No alliances allowed"
+	desc = "EVTDESC99002"
+	picture = "production"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "No relations with non-khaak"
+
+        # Break Xenon hivemind alliances
+        any_country = {
+            limit = {
+                exists = yes
+                NOT = { has_country_modifier = khaak_hivemind }
+            }
+
+            leave_alliance = THIS
+            end_military_access = THIS
+            relation = { who = THIS value = -400 }
+            diplomatic_influence = { who = THIS value = -400 }
+        }
+    }
+}

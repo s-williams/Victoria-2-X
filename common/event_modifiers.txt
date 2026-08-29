@@ -24,8 +24,18 @@ academic_confusion = {
 ##### X MODIFIERS #####
 #######################
 # Sohnen no prestige - country modifier
-no_prestige = {
+SOH_no_prestige = {
 	prestige = -100
+	icon = 1
+}
+# Hivemind - country modifier
+khaak_hivemind = {
+	prestige = -0.5
+	icon = 1
+}
+# Xenon hivemind - country modifier
+xenon_hivemind = {
+	prestige = -0.5
 	icon = 1
 }
 # Jump gates - province modifiers

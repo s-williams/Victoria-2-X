@@ -1,0 +1,44 @@
+# Starting Decision
+political_decisions = {
+    SOH_start_decision = {
+        potential = {
+            always = yes
+            tag = SOH
+        }
+        ai_will_do = {
+            factor = 1
+        }
+        effect = {
+            add_country_modifier = {
+                name = SOH_no_prestige
+                duration = -1
+            }
+
+            # Xenon hivemind
+            any_country = {
+                limit = {
+                    government = fascist_dictatorship
+                    primary_culture = terraformer
+                }
+                add_country_modifier = {
+                    name = xenon_hivemind
+                    duration = -1
+                }
+            }
+            # Khaak hivemind
+            any_country = {
+                limit = {
+                    government = fascist_dictatorship
+                    primary_culture = khaak
+                }
+                add_country_modifier = {
+                    name = khaak_hivemind
+                    duration = -1
+                }
+            }
+
+            # Start Daily Cleanup Tick
+            country_event = 99000
+        }
+    }
+}

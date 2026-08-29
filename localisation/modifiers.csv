@@ -1,6 +1,13 @@
 ###############################;x
 ##### MODIFIERS AND FLAGS #####;x
 ###############################;x
+khaak_hivemind;Khaak Hivemind;x
+SOH_no_prestige_desc;Sohnen do not get prestige;x
+SOH_no_prestige;Sohnen;x
+xenon_hivemind;Xenon Hivemind;x
+#######################################;x
+##### JUMPGATE PROVINCE MODIFIERS #####;x
+#######################################;x
 jumpgate_to_adventures_promise_desc;This sector contains a jumpgate to §YAdventure's Promise§!;x
 jumpgate_to_adventures_promise;Jumpgate to §YAdventure's Promise§!;x
 jumpgate_to_antigone_memorial_desc;This sector contains a jumpgate to §YAntigone Memorial§!;x
@@ -197,5 +204,3 @@ jumpgate_to_wretched_skies_desc;This sector contains a jumpgate to §YWretched S
 jumpgate_to_wretched_skies;Jumpgate to §YWretched Skies§!;x
 jumpgate_to_zyarths_dominion_desc;This sector contains a jumpgate to §YZyarth's Dominion§!;x
 jumpgate_to_zyarths_dominion;Jumpgate to §YZyarth's Dominion§!;x
-SOH_no_prestige_desc;Sohnen do not get prestige;x
-SOH_no_prestige;Sohnen;x
