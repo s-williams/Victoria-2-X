@@ -32,7 +32,7 @@ Terrain.bmp - ???
     - [x] Resources
     - [x] Production types
     - [x] Buildings
-    - [ ] Icons
+    - [x] Icons
 - [ ] Technology
     - [ ] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [ ] Inventions
@@ -69,3 +69,9 @@ Terrain.bmp - ???
 # Credits
 * X2: The Threat, X3: Reunion, X3: Terran Conflict, X3: Albion Prelude, X: Rebirth, X4: Foundations - Egosoft
 * NASA
+* Wikipedia
+* Resource icons:
+** https://assetsmithy.itch.io/32-free-medieval-crafting-material-icons-2d-rpg-survival-sampler
+** https://assetsmithy.itch.io/32-free-fantasy-jewelry-accessory-icons-rpg-rings-amulets-gems-rune-items-sa
+** https://free-game-assets.itch.io/free-cyberpunk-resource-pixel-art-3232-icons
+** https://free-game-assets.itch.io/free-protective-suit-against-radiation-and-things-pixel-art-icons

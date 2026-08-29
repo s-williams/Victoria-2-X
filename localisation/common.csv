@@ -6313,6 +6313,11 @@ PRODUCTION_TAB_PRODUCTION;Shows production overview of our country. Also shows t
 PRODUCTION_TAB_PROJECTS;Shows what our §Y$POPTYPE$§W are planning to build;x
 PRODUCTION_TAB_FACTORIES;Shows overview of all factories in our country;x
 PRODUCTION_NOTHING_PRODUCED;We are not producing any §Y$GOOD$§W in our country;x
+PRODUCTION_OPEN_FACTORY_DESC_TOOLTIP;If we open the factory, it will start to hire people and produce goods again;x
+PRODUCTION_CLOSE_FACTORY_DESC_TOOLTIP;If we shut down the factory, it will cease production and make its entire workforce unemployed;x
+PRODUCTION_EXPAND_FACTORY_DESC_TOOLTIP;If we expand this factory, we will increase the number of workers it can hire;x
+PRODUCTION_PRIO_FACTORY_DESC_TOOLTIP;Factories with higher priority will be able to hire workers and buy goods before factories with lower priority(within the same state);x
+PRODUCTION_INPUT_REQUIRED;Our artisans and/or factories need §Y$GOOD$§W to produce output;x
 PRODUCTION_PRODUCING_EACH_DAY;Our §Y$TYPE$§W are producing §Y$VALUE$ $GOOD$§W each day;x
 PRODUCTION_WANTS_EACH_DAY;Our §Y$TYPE$§W needs §Y$VALUE$ $GOOD$§W each day;x
 WARSUBSIDIES_THEY_ACCEPT_SETUP;When we start giving war subsidies to a country;x

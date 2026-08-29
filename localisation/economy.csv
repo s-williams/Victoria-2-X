@@ -94,6 +94,10 @@ regular_clothes_factory_desc;Clothing is made from working cloth into wearable o
 #######################;x
 ##### GOODS TYPES #####;x
 #######################;x
+raw_material_goods;Raw Materials;
+industrial_goods;Industrial Goods;x
+consumer_goods;Consumer Goods;x
+military_goods;Military Goods;x
 TRADE_RAW_MATERIALS;Raw Materials;x
 TRADE_INDUSTRIAL_GOODS;Industrial Goods;x
 TRADE_CONSUMER_GOODS;Consumer Goods;x
