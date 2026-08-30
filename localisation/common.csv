@@ -4010,7 +4010,8 @@ SHARED_PRESTIGE_TECH;Shared prestige(current);x
 TECH_POP_GROWTH;Pop Growth;x
 TECH_REBEL_ORG_GAIN;Rebel organization gain;x
 DIPLOMATIC_POINTS_TECH;Diplomatic points;x
-TECH_PLURALITY;Popular Anxiety;x
+TECH_PLURALITY;Plurality;x
+TECH_FACTORY;Factory Cost;x
 TECH_MAX_LEVEL;max level;x
 TECH_DIPLOMATIC_INFLUENCE;Diplomatic Points Gain;x
 TECH_GP_INFLUENCE;Diplomatic Influence;x
