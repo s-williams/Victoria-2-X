@@ -183,7 +183,7 @@ advanced_turret_doctrine = {
 ##### tech_light_armament #####
 ###############################
 # tech_light_armament_1
-basic_primary_weapons = {
+slug_launchers = {
     limit = { tech_light_armament_1 = 1 }
     chance = {
         base = 2
@@ -208,7 +208,7 @@ basic_primary_weapons = {
 }
 
 # tech_light_armament_2
-rocketry = {
+impulse_ray_emittors = {
     limit = { tech_light_armament_2 = 1 }
     chance = {
         base = 2
@@ -247,7 +247,7 @@ basic_turrets = {
 }
 
 # tech_light_armament_3
-basic_missiles = {
+mosquito_missiles = {
     limit = { tech_light_armament_3 = 1 }
     chance = {
         base = 2
@@ -272,7 +272,7 @@ basic_missiles = {
 }
 
 # tech_light_armament_4
-intermediate_primary_weapons = {
+plasma_throwers = {
     limit = { tech_light_armament_4 = 1 }
     chance = {
         base = 2
@@ -311,7 +311,7 @@ advanced_turrets = {
 }
 
 # tech_light_armament_5
-advanced_primary_weapons = {
+kyon_emitters = {
     limit = { tech_light_armament_5 = 1 }
     chance = {
         base = 2
@@ -334,7 +334,7 @@ advanced_primary_weapons = {
         }
     }
 }
-tracking_missiles = {
+wasp_missiles = {
     limit = { tech_light_armament_5 = 1 }
     chance = {
         base = 2
@@ -359,7 +359,7 @@ tracking_missiles = {
 }
 
 # tech_light_armament_6
-hyperadvanced_primary_weapons = {
+ion_disrupters = {
     limit = { tech_light_armament_6 = 1 }
     chance = {
         base = 2
@@ -382,7 +382,7 @@ hyperadvanced_primary_weapons = {
         }
     }
 }
-smart_missiles = {
+dragonfly_missiles = {
     limit = { tech_light_armament_4 = 1 }
     chance = {
         base = 2
@@ -410,7 +410,7 @@ smart_missiles = {
 ##### tech_heavy_armament #####
 ###############################
 # tech_heavy_armament_1
-tech_heavy_armament_1_1 = {
+incendiary_bomb_launcher = {
     limit = { tech_heavy_armament_1 = 1 }
     chance = {
         base = 2
@@ -425,7 +425,7 @@ tech_heavy_armament_1_1 = {
 }
 
 # tech_heavy_armament_2
-tech_heavy_armament_2_1 = {
+fragmentation_bomb_launcher = {
     limit = { tech_heavy_armament_2 = 1 }
     chance = {
         base = 2
@@ -440,7 +440,7 @@ tech_heavy_armament_2_1 = {
 }
 
 # tech_heavy_armament_3
-tech_heavy_armament_3_1 = {
+particle_accelerator_cannon = {
     limit = { tech_heavy_armament_3 = 1 }
     chance = {
         base = 2
@@ -455,7 +455,7 @@ tech_heavy_armament_3_1 = {
 }
 
 # tech_heavy_armament_4
-tech_heavy_armament_4_1 = {
+cluster_flak_array = {
     limit = { tech_heavy_armament_4 = 1 }
     chance = {
         base = 2
@@ -470,7 +470,7 @@ tech_heavy_armament_4_1 = {
 }
 
 # tech_heavy_armament_5
-tech_heavy_armament_5_1 = {
+tri_beam_cannon = {
     limit = { tech_heavy_armament_5 = 1 }
     chance = {
         base = 2
@@ -485,7 +485,7 @@ tech_heavy_armament_5_1 = {
 }
 
 # tech_heavy_armament_6
-tech_heavy_armament_6_1 = {
+point_singularity_projector = {
     limit = { tech_heavy_armament_6 = 1 }
     chance = {
         base = 2
@@ -505,12 +505,168 @@ tech_heavy_armament_6_1 = {
 # tech_military_doctrine_1
 
 # tech_military_doctrine_2
-
+military_coordination = {
+    limit = { tech_military_doctrine_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        army_base = {
+            default_organisation = 5
+            supply_consumption = 0.10
+        }
+    }
+}
+mobilization_time_tables = {
+    limit = {
+        military_plans = 1
+    }
+    chance = {
+        base = 1
+        modifier = {
+            factor = 2
+            invention = military_coordination
+        }
+    }
+    effect = {
+        mobilisation_size = 0.01
+    }
+}
+personnel_category_tables = {
+    limit = {
+        military_plans = 1
+    }
+    chance = {
+        base = 1
+        modifier = {
+            factor = 3
+            invention = mobilization_time_tables
+        }
+    }
+    effect = {
+        mobilisation_size = 0.01
+    }
+}
 # tech_military_doctrine_3
+ammunition_area_effect_calculations = {
+    limit = { tech_military_doctrine_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
+
+empirical_combat_efficiency_matrix = {
+    limit = { tech_military_doctrine_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
+
+combat_loss_evaluation_schemata = {
+    limit = { tech_military_doctrine_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
 
 # tech_military_doctrine_4
+pre_planned_depot_systems = {
+    limit = { tech_military_doctrine_4 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
+
+logistical_calculations = {
+    limit = { tech_military_doctrine_4 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
+
+replenishment_transport_organisation = {
+    limit = { tech_military_doctrine_4 = 1 }
+    chance = {
+        base = 4
+        modifier = {
+            factor = 3
+            invention = logistical_calculations
+        }
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
 
 # tech_military_doctrine_5
+military_political_lobbying = {
+    limit = { military_tech_military_doctrine_5directionism = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        mobilisation_economy_impact = -0.05
+    }
+}
+
+military_military_political_decision_making = {
+    limit = { tech_military_doctrine_5 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
+
+military_local_military_government = {
+    limit = { tech_military_doctrine_5 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+            supply_consumption = 0.05
+        }
+    }
+}
 
 # tech_military_doctrine_6
 
@@ -520,11 +676,153 @@ tech_heavy_armament_6_1 = {
 # tech_military_leadership_1
 
 # tech_military_leadership_2
+military_academic_training = {
+    limit = { tech_military_leadership_2 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        morale = 0.15
+    }
+}
+
+field_training = {
+    limit = { tech_military_leadership_2 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        mobilisation_economy_impact = -0.05
+    }
+}
+
+military_societal_status = {
+    limit = { tech_military_leadership_2 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        mobilisation_economy_impact = -0.05
+    }
+}
 
 # tech_military_leadership_3
+military_independent_command = {
+    limit = { tech_military_leadership_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+        }
+    }
+}
+
+military_continuous_issuing_of_orders = {
+    limit = { tech_military_leadership_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            maximum_speed = 1
+        }
+    }
+}
+
+military_delegated_power = {
+    limit = { tech_military_leadership_3 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        morale = 0.3
+    }
+}
 
 # tech_military_leadership_4
+military_wargames = {
+    limit = { tech_military_leadership_4 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 2.5
+        }
+    }
+}
+
+military_alternative_plans = {
+    limit = { tech_military_leadership_4 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            maximum_speed = 1
+        }
+        scout = {
+            maximum_speed = 1
+        }
+        courier = {
+            maximum_speed = 1
+        }
+    }
+}
+
+military_saddle_orders = {
+    limit = { tech_military_leadership_4 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        morale = 0.3
+    }
+}
 
 # tech_military_leadership_5
+military_literate_ncos = {
+    limit = { tech_military_leadership_5 = 1 }
+    chance = {
+        base = 3
+    }
+    effect = {
+        army_base = {
+            default_organisation = 5
+        }
+    }
+}
+
+military_nco_field_training = {
+    limit = { tech_military_leadership_5 = 1 }
+    chance = {
+        base = 3
+        modifier = {
+            factor = 3
+            invention = field_training
+        }
+    }
+    effect = {
+        army_base = {
+            maximum_speed = 1
+        }
+    }
+}
+
+military_nco_tactical_training = {
+    limit = { tech_military_leadership_5 = 1 }
+    chance = {
+        base = 3
+        modifier = {
+            factor = 2
+            invention = military_nco_field_training
+        }
+    }
+    effect = {
+        morale = 0.5
+    }
+}
 
 # tech_military_leadership_6

@@ -24,6 +24,10 @@ tech_financial_institutions_1 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
     }
 }
 tech_financial_institutions_2 = {
@@ -50,6 +54,10 @@ tech_financial_institutions_2 = {
         modifier = {
             factor = 1.1
             literacy = 0.6
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -78,6 +86,10 @@ tech_financial_institutions_3 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
     }
 }
 tech_financial_institutions_4 = {
@@ -104,6 +116,10 @@ tech_financial_institutions_4 = {
         modifier = {
             factor = 1.1
             literacy = 0.6
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
     }
 }
@@ -132,6 +148,10 @@ tech_financial_institutions_5 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
     }
 }
 tech_financial_institutions_6 = {
@@ -158,6 +178,10 @@ tech_financial_institutions_6 = {
         modifier = {
             factor = 1.1
             literacy = 0.6
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
     }
 }
@@ -189,6 +213,10 @@ tech_administration_1 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
     }
 
 }
@@ -217,6 +245,10 @@ tech_administration_2 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
     }
 }
 tech_administration_3 = {
@@ -243,6 +275,10 @@ tech_administration_3 = {
         modifier = {
             factor = 1.1
             literacy = 0.6
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -271,6 +307,10 @@ tech_administration_4 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
     }
 }
 tech_administration_5 = {
@@ -297,6 +337,10 @@ tech_administration_5 = {
         modifier = {
             factor = 1.1
             literacy = 0.6
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
     }
 }
@@ -325,6 +369,10 @@ tech_administration_6 = {
             factor = 1.1
             literacy = 0.6
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
     }
 }
 
@@ -352,6 +400,10 @@ tech_efficiency_1 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_efficiency_2 = {
@@ -376,6 +428,10 @@ tech_efficiency_2 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_efficiency_3 = {
@@ -400,6 +456,10 @@ tech_efficiency_3 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_efficiency_4 = {
@@ -424,6 +484,10 @@ tech_efficiency_4 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_efficiency_5 = {
@@ -448,6 +512,10 @@ tech_efficiency_5 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_efficiency_6 = {
@@ -472,6 +540,10 @@ tech_efficiency_6 = {
 			factor = 1.5
 			industrial_score = 25
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 
@@ -494,6 +566,10 @@ tech_infrastructure_1 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_infrastructure_2 = {
@@ -512,6 +588,10 @@ tech_infrastructure_2 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -532,6 +612,10 @@ tech_infrastructure_3 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_infrastructure_4 = {
@@ -550,6 +634,10 @@ tech_infrastructure_4 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
 	}
 }
@@ -570,6 +658,10 @@ tech_infrastructure_5 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_infrastructure_6 = {
@@ -588,6 +680,10 @@ tech_infrastructure_6 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
 	}
 }
@@ -612,6 +708,10 @@ tech_markets_1 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_markets_2 = {
@@ -631,6 +731,10 @@ tech_markets_2 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -652,6 +756,10 @@ tech_markets_3 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_markets_4 = {
@@ -671,6 +779,10 @@ tech_markets_4 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
 	}
 }
@@ -692,6 +804,10 @@ tech_markets_5 = {
             factor = 2
             rank = 8
         }
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_markets_6 = {
@@ -711,6 +827,10 @@ tech_markets_6 = {
         modifier = {
             factor = 2
             rank = 8
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
 	}
 }

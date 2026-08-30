@@ -45,9 +45,12 @@ tech_static_defences_1 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
-
 tech_static_defences_2 = {
 	area = tech_static_defences
 	year = 2990
@@ -94,9 +97,12 @@ tech_static_defences_2 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
-
 tech_static_defences_3 = {
 	area = tech_static_defences
 	year = 3010
@@ -143,6 +149,10 @@ tech_static_defences_3 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_static_defences_4 = {
@@ -191,6 +201,10 @@ tech_static_defences_4 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_static_defences_5 = {
@@ -239,6 +253,10 @@ tech_static_defences_5 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_static_defences_6 = {
@@ -287,9 +305,12 @@ tech_static_defences_6 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3095
+        }
 	}
 }
-
 
 #tech_light_armament
 tech_light_armament_1 = {
@@ -338,6 +359,10 @@ tech_light_armament_1 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_light_armament_2 = {
@@ -386,6 +411,10 @@ tech_light_armament_2 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_light_armament_3 = {
@@ -433,6 +462,10 @@ tech_light_armament_3 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_light_armament_4 = {
@@ -480,6 +513,10 @@ tech_light_armament_4 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_light_armament_5 = {
@@ -527,6 +564,10 @@ tech_light_armament_5 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_light_armament_6 = {
@@ -574,9 +615,12 @@ tech_light_armament_6 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3095
+        }
 	}
 }
-
 
 #tech_heavy_armament
 tech_heavy_armament_1 = {
@@ -624,6 +668,10 @@ tech_heavy_armament_1 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_heavy_armament_2 = {
@@ -671,6 +719,10 @@ tech_heavy_armament_2 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_heavy_armament_3 = {
@@ -716,6 +768,10 @@ tech_heavy_armament_3 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_heavy_armament_4 = {
@@ -761,6 +817,10 @@ tech_heavy_armament_4 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_heavy_armament_5 = {
@@ -806,6 +866,10 @@ tech_heavy_armament_5 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_heavy_armament_6 = {
@@ -851,9 +915,12 @@ tech_heavy_armament_6 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3095
+        }
 	}
 }
-
 
 #tech_military_doctrine
 tech_military_doctrine_1 = {
@@ -905,6 +972,10 @@ tech_military_doctrine_1 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_military_doctrine_2 = {
@@ -956,6 +1027,10 @@ tech_military_doctrine_2 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_military_doctrine_3 = {
@@ -1006,6 +1081,10 @@ tech_military_doctrine_3 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_military_doctrine_4 = {
@@ -1056,6 +1135,10 @@ tech_military_doctrine_4 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_military_doctrine_5 = {
@@ -1106,6 +1189,10 @@ tech_military_doctrine_5 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_military_doctrine_6 = {
@@ -1156,9 +1243,12 @@ tech_military_doctrine_6 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 1929
+        }
 	}
 }
-
 
 #tech_military_leadership
 tech_military_leadership_1 = {
@@ -1210,6 +1300,10 @@ tech_military_leadership_1 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_military_leadership_2 = {
@@ -1261,6 +1355,10 @@ tech_military_leadership_2 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_military_leadership_3 = {
@@ -1312,6 +1410,10 @@ tech_military_leadership_3 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_military_leadership_4 = {
@@ -1363,6 +1465,10 @@ tech_military_leadership_4 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_military_leadership_5 = {
@@ -1414,6 +1520,10 @@ tech_military_leadership_5 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_military_leadership_6 = {
@@ -1465,7 +1575,9 @@ tech_military_leadership_6 = {
 				military_score = THIS
 			}
 		}
+        modifier = {
+            factor = 1.25
+            year = 3095
+        }
 	}
 }
-
-

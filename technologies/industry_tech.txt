@@ -5,6 +5,14 @@ tech_mechanization_1 = {
 	cost = 3600
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_mechanization_2 = {
 	area = tech_mechanization
@@ -12,6 +20,14 @@ tech_mechanization_2 = {
 	cost = 7200
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_mechanization_3 = {
 	area = tech_mechanization
@@ -19,6 +35,14 @@ tech_mechanization_3 = {
 	cost = 10800
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_mechanization_4 = {
 	area = tech_mechanization
@@ -26,6 +50,14 @@ tech_mechanization_4 = {
 	cost = 14400
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
+    }
 }
 tech_mechanization_5 = {
 	area = tech_mechanization
@@ -33,6 +65,14 @@ tech_mechanization_5 = {
 	cost = 18000
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3055
+        }
+    }
 }
 tech_mechanization_6 = {
 	area = tech_mechanization
@@ -40,6 +80,14 @@ tech_mechanization_6 = {
 	cost = 21600
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
+    }
 }
 
 #tech_biotech
@@ -49,6 +97,14 @@ tech_biotech_1 = {
 	cost = 3600
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_biotech_2 = {
 	area = tech_biotech
@@ -56,6 +112,14 @@ tech_biotech_2 = {
 	cost = 7200
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_biotech_3 = {
 	area = tech_biotech
@@ -63,6 +127,14 @@ tech_biotech_3 = {
 	cost = 10800
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_biotech_4 = {
 	area = tech_biotech
@@ -70,6 +142,14 @@ tech_biotech_4 = {
 	cost = 14400
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
+    }
 }
 tech_biotech_5 = {
 	area = tech_biotech
@@ -77,6 +157,14 @@ tech_biotech_5 = {
 	cost = 18000
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
+    }
 }
 tech_biotech_6 = {
 	area = tech_biotech
@@ -84,6 +172,14 @@ tech_biotech_6 = {
 	cost = 21600
 
 	factory_throughput = 0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
+    }
 }
 
 #tech_material_science
@@ -93,6 +189,14 @@ tech_material_science_1 = {
 	cost = 3600
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_material_science_2 = {
 	area = tech_material_science
@@ -100,6 +204,14 @@ tech_material_science_2 = {
 	cost = 7200
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_material_science_3 = {
 	area = tech_material_science
@@ -107,6 +219,14 @@ tech_material_science_3 = {
 	cost = 10800
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_material_science_4 = {
 	area = tech_material_science
@@ -114,6 +234,14 @@ tech_material_science_4 = {
 	cost = 14400
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
+    }
 }
 tech_material_science_5 = {
 	area = tech_material_science
@@ -121,6 +249,14 @@ tech_material_science_5 = {
 	cost = 18000
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
+    }
 }
 tech_material_science_6 = {
 	area = tech_material_science
@@ -128,6 +264,14 @@ tech_material_science_6 = {
 	cost = 21600
 
 	factory_cost = -0.05
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
+    }
 }
 
 
@@ -136,31 +280,79 @@ tech_weapons_production_1 = {
 	area = tech_weapons_production
 	year = 2990
 	cost = 3600
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
+    }
 }
 tech_weapons_production_2 = {
 	area = tech_weapons_production
 	year = 3000
 	cost = 7200
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3015
+        }
+    }
 }
 tech_weapons_production_3 = {
 	area = tech_weapons_production
 	year = 3010
 	cost = 10800
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
+    }
 }
 tech_weapons_production_4 = {
 	area = tech_weapons_production
 	year = 3030
 	cost = 14400
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
+    }
 }
 tech_weapons_production_5 = {
 	area = tech_weapons_production
 	year = 1898
 	cost = 18000
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 1913
+        }
+    }
 }
 tech_weapons_production_6 = {
 	area = tech_weapons_production
 	year = 3080
 	cost = 21600
+
+    ai_chance = {
+        factor = 1
+        modifier = {
+            factor = 1.25
+            year = 3095
+        }
+    }
 }
 
 #tech_medicine
@@ -178,6 +370,10 @@ tech_medicine_1 = {
             factor = 1.5
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
     }
 }
 tech_medicine_2 = {
@@ -192,6 +388,10 @@ tech_medicine_2 = {
         modifier = {
             factor = 1.5
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -208,6 +408,10 @@ tech_medicine_3 = {
             factor = 1.5
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
     }
 }
 tech_medicine_4 = {
@@ -222,6 +426,10 @@ tech_medicine_4 = {
         modifier = {
             factor = 1.5
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
     }
 }
@@ -238,6 +446,10 @@ tech_medicine_5 = {
             factor = 1.5
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3055
+        }
     }
 }
 tech_medicine_6 = {
@@ -252,6 +464,10 @@ tech_medicine_6 = {
         modifier = {
             factor = 1.5
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
     }
 }

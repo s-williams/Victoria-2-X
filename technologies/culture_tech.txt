@@ -20,8 +20,20 @@ tech_aesthetics_1 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -46,8 +58,20 @@ tech_aesthetics_2 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -72,8 +96,20 @@ tech_aesthetics_3 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
     }
 }
@@ -98,8 +134,20 @@ tech_aesthetics_4 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
     }
 }
@@ -124,8 +172,20 @@ tech_aesthetics_5 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
     }
 }
@@ -150,8 +210,20 @@ tech_aesthetics_6 = {
             primary_culture = boron
         }
         modifier = {
+            factor = 0.1
+            has_country_modifier = khaak_hivemind
+        }
+        modifier = {
+            factor = 0.1
+            has_country_modifier = xenon_hivemind
+        }
+        modifier = {
             factor = 0.5
             NOT = { literacy = 0.3 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
     }
 }
@@ -175,6 +247,10 @@ tech_education_1 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_education_2 = {
@@ -194,6 +270,10 @@ tech_education_2 = {
         modifier = {
             factor = 2
             is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3015
         }
 	}
 }
@@ -215,6 +295,10 @@ tech_education_3 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3035
+        }
 	}
 }
 tech_education_4 = {
@@ -234,6 +318,10 @@ tech_education_4 = {
         modifier = {
             factor = 2
             is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
 	}
 }
@@ -255,6 +343,10 @@ tech_education_5 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3055
+        }
 	}
 }
 tech_education_6 = {
@@ -274,6 +366,10 @@ tech_education_6 = {
         modifier = {
             factor = 2
             is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
 	}
 }
@@ -298,6 +394,10 @@ tech_social_thought_1 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_social_thought_2 = {
@@ -317,6 +417,10 @@ tech_social_thought_2 = {
         modifier = {
             factor = 2
             is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -338,6 +442,10 @@ tech_social_thought_3 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_social_thought_4 = {
@@ -357,6 +465,10 @@ tech_social_thought_4 = {
         modifier = {
             factor = 2
             is_secondary_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
 	}
 }
@@ -378,6 +490,10 @@ tech_social_thought_5 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_social_thought_6 = {
@@ -398,6 +514,10 @@ tech_social_thought_6 = {
             factor = 2
             is_secondary_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 
@@ -415,6 +535,10 @@ tech_political_thought_1 = {
             factor = 2
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_political_thought_2 = {
@@ -429,6 +553,10 @@ tech_political_thought_2 = {
         modifier = {
             factor = 2
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -445,6 +573,10 @@ tech_political_thought_3 = {
             factor = 2
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3015
+        }
 	}
 }
 tech_political_thought_4 = {
@@ -459,6 +591,10 @@ tech_political_thought_4 = {
         modifier = {
             factor = 2
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
 	}
 }
@@ -475,6 +611,10 @@ tech_political_thought_5 = {
             factor = 2
             is_greater_power = yes
         }
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_political_thought_6 = {
@@ -489,6 +629,10 @@ tech_political_thought_6 = {
         modifier = {
             factor = 2
             is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
 	}
 }
@@ -516,6 +660,10 @@ tech_martial_culture_1 = {
             factor = 0.25
             NOT = { literacy = 0.4 }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_martial_culture_2 = {
@@ -539,6 +687,10 @@ tech_martial_culture_2 = {
         modifier = {
             factor = 0.25
             NOT = { literacy = 0.4 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -564,6 +716,10 @@ tech_martial_culture_3 = {
             factor = 0.25
             NOT = { literacy = 0.4 }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_martial_culture_4 = {
@@ -587,6 +743,10 @@ tech_martial_culture_4 = {
         modifier = {
             factor = 0.25
             NOT = { literacy = 0.4 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3025
         }
 	}
 }
@@ -612,6 +772,10 @@ tech_martial_culture_5 = {
             factor = 0.25
             NOT = { literacy = 0.4 }
         }
+        modifier = {
+            factor = 1.25
+            year = 3045
+        }
 	}
 }
 tech_martial_culture_6 = {
@@ -635,6 +799,10 @@ tech_martial_culture_6 = {
         modifier = {
             factor = 0.25
             NOT = { literacy = 0.4 }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3065
         }
 	}
 }

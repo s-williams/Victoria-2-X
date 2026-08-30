@@ -20,6 +20,10 @@ tech_solar_extraction_1 = {
                 produces = energy_cells
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_solar_extraction_2 = {
@@ -42,6 +46,10 @@ tech_solar_extraction_2 = {
             any_owned_province = {
                 produces = energy_cells
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -66,6 +74,10 @@ tech_solar_extraction_3 = {
                 produces = energy_cells
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 1870
+        }
 	}
 }
 tech_solar_extraction_4 = {
@@ -88,6 +100,10 @@ tech_solar_extraction_4 = {
             any_owned_province = {
                 produces = energy_cells
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 1890
         }
 	}
 }
@@ -113,6 +129,10 @@ tech_solar_extraction_5 = {
                 produces = energy_cells
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 1910
+        }
 	}
 }
 tech_solar_extraction_6 = {
@@ -135,6 +155,10 @@ tech_solar_extraction_6 = {
             any_owned_province = {
                 produces = energy_cells
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 1929
         }
 	}
 }
@@ -162,6 +186,10 @@ tech_ore_extraction_1 = {
                 produces = ore
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_ore_extraction_2 = {
@@ -184,6 +212,10 @@ tech_ore_extraction_2 = {
             any_owned_province = {
                 produces = ore
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -208,6 +240,10 @@ tech_ore_extraction_3 = {
                 produces = ore
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3035
+        }
 	}
 }
 tech_ore_extraction_4 = {
@@ -230,6 +266,10 @@ tech_ore_extraction_4 = {
             any_owned_province = {
                 produces = ore
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3055
         }
 	}
 }
@@ -254,6 +294,10 @@ tech_ore_extraction_5 = {
                 produces = ore
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_ore_extraction_6 = {
@@ -276,6 +320,10 @@ tech_ore_extraction_6 = {
             any_owned_province = {
                 produces = ore
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
 	}
 }
@@ -302,6 +350,10 @@ tech_silicon_extraction_1 = {
                 produces = silicon
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_silicon_extraction_2 = {
@@ -324,6 +376,10 @@ tech_silicon_extraction_2 = {
             any_owned_province = {
                 produces = silicon
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -349,6 +405,10 @@ tech_silicon_extraction_3 = {
                 produces = silicon
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_silicon_extraction_4 = {
@@ -371,6 +431,10 @@ tech_silicon_extraction_4 = {
             any_owned_province = {
                 produces = silicon
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
 	}
 }
@@ -395,6 +459,10 @@ tech_silicon_extraction_5 = {
                 produces = silicon
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_silicon_extraction_6 = {
@@ -417,6 +485,10 @@ tech_silicon_extraction_6 = {
             any_owned_province = {
                 produces = silicon
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
 	}
 }
@@ -443,6 +515,10 @@ tech_ice_extraction_1 = {
                 produces = ice
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_ice_extraction_2 = {
@@ -465,6 +541,10 @@ tech_ice_extraction_2 = {
             any_owned_province = {
                 produces = ice
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -489,6 +569,10 @@ tech_ice_extraction_3 = {
                 produces = ice
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_ice_extraction_4 = {
@@ -511,6 +595,10 @@ tech_ice_extraction_4 = {
             any_owned_province = {
                 produces = ice
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
 	}
 }
@@ -535,6 +623,10 @@ tech_ice_extraction_5 = {
                 produces = ice
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_ice_extraction_6 = {
@@ -557,6 +649,10 @@ tech_ice_extraction_6 = {
             any_owned_province = {
                 produces = ice
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
 	}
 }
@@ -584,6 +680,10 @@ tech_gas_extraction_1 = {
                 produces = methane
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3005
+        }
 	}
 }
 tech_gas_extraction_2 = {
@@ -606,6 +706,10 @@ tech_gas_extraction_2 = {
             any_owned_province = {
                 produces = methane
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3005
         }
 	}
 }
@@ -630,6 +734,10 @@ tech_gas_extraction_3 = {
                 produces = methane
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3025
+        }
 	}
 }
 tech_gas_extraction_4 = {
@@ -652,6 +760,10 @@ tech_gas_extraction_4 = {
             any_owned_province = {
                 produces = methane
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3045
         }
 	}
 }
@@ -676,6 +788,10 @@ tech_gas_extraction_5 = {
                 produces = methane
             }
         }
+        modifier = {
+            factor = 1.25
+            year = 3065
+        }
 	}
 }
 tech_gas_extraction_6 = {
@@ -698,6 +814,10 @@ tech_gas_extraction_6 = {
             any_owned_province = {
                 produces = methane
             }
+        }
+        modifier = {
+            factor = 1.25
+            year = 3095
         }
 	}
 }

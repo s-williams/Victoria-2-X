@@ -3,40 +3,40 @@
 ######################;x
 army_tech;Military;x
 tech_static_defences;Static Defences;x
-tech_static_defences_1;Static Defences 1;x
-tech_static_defences_2;Static Defences 2;x
-tech_static_defences_3;Static Defences 3;x
-tech_static_defences_4;Static Defences 4;x
-tech_static_defences_5;Static Defences 5;x
-tech_static_defences_6;Static Defences 6;x
+tech_static_defences_1;Static Defences;x
+tech_static_defences_2;Point Defence System;x
+tech_static_defences_3;Deep Defence System;x
+tech_static_defences_4;Defence Platform;x
+tech_static_defences_5;Defence Station;x
+tech_static_defences_6;Defence Multicomplexes;x
 tech_light_armament;Light Armament;x
-tech_light_armament_1;Light Armament 1;x
-tech_light_armament_2;Light Armament 2;x
-tech_light_armament_3;Light Armament 3;x
-tech_light_armament_4;Light Armament 4;x
-tech_light_armament_5;Light Armament 5;x
-tech_light_armament_6;Light Armament 6;x
+tech_light_armament_1;Slug Armament;x
+tech_light_armament_2;Bolt Armament;x
+tech_light_armament_3;Pulse Armament;x
+tech_light_armament_4;Beam Armament;x
+tech_light_armament_5;Shockwave Armament;x
+tech_light_armament_6;Disruptor Armament;x
 tech_heavy_armament;Heavy Armament;x
-tech_heavy_armament_1;Heavy Armament 1;x
-tech_heavy_armament_2;Heavy Armament 2;x
-tech_heavy_armament_3;Heavy Armament 3;x
-tech_heavy_armament_4;Heavy Armament 4;x
-tech_heavy_armament_5;Heavy Armament 5;x
-tech_heavy_armament_6;Heavy Armament 6;x
+tech_heavy_armament_1;Bomb Launcher Armament;x
+tech_heavy_armament_2;Heavy Armament;x
+tech_heavy_armament_3;Cannon Armament;x
+tech_heavy_armament_4;Array Armament;x
+tech_heavy_armament_5;Multi-Beam Armament;x
+tech_heavy_armament_6;Projector Armament;x
 tech_military_doctrine;Military Doctrine;x
-tech_military_doctrine_1;Military Doctrine 1;x
-tech_military_doctrine_2;Military Doctrine 2;x
-tech_military_doctrine_3;Military Doctrine 3;x
-tech_military_doctrine_4;Military Doctrine 4;x
-tech_military_doctrine_5;Military Doctrine 5;x
-tech_military_doctrine_6;Military Doctrine 6;x
+tech_military_doctrine_1;Staff System;x
+tech_military_doctrine_2;Planning;x
+tech_military_doctrine_3;Statistics;x
+tech_military_doctrine_4;Logistics;x
+tech_military_doctrine_5;Directionism;x
+tech_military_doctrine_6;Doctrine;x
 tech_military_leadership;Military Leadership;x
-tech_military_leadership_1;Military Leadership 1;x
-tech_military_leadership_2;Military Leadership 2;x
-tech_military_leadership_3;Military Leadership 3;x
-tech_military_leadership_4;Military Leadership 4;x
-tech_military_leadership_5;Military Leadership 5;x
-tech_military_leadership_6;Military Leadership 6;x
+tech_military_leadership_1;Command Principle;x
+tech_military_leadership_2;Professionalism;x
+tech_military_leadership_3;Decision Making;x
+tech_military_leadership_4;Risk Management;x
+tech_military_leadership_5;NCO Training;x
+tech_military_leadership_6;Experience;x
 extraction_tech;Extraction;x
 tech_solar_extraction;Solar Extraction;x
 tech_solar_extraction_1;Solar Extraction 1;x
