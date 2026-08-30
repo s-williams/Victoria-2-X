@@ -24,6 +24,7 @@ destroyer = { # Destroyer (equivalent to engineer)
 		shield_components = 75
 		missile_components = 100
 		turret_components = 25
+		drone_components = 25
 		electronics = 20
 	}
 	
@@ -33,6 +34,8 @@ destroyer = { # Destroyer (equivalent to engineer)
 		weapon_components = 0.75
 		shield_components = 0.75
 		missile_components = 1.0
+		turret_components = 0.25
+		drone_components = 0.25
 		electronics = 0.2
 	}
 

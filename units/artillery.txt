@@ -25,6 +25,7 @@ artillery = { # Frigate (equivalent to artillery)
 		shield_components = 25
 		missile_components = 80
 		turret_components = 10
+		drone_components = 10
 		electronics = 20
 	}
 	
@@ -35,6 +36,7 @@ artillery = { # Frigate (equivalent to artillery)
 		shield_components = 0.25
 		missile_components = 0.8
 		turret_components = 0.1
+		drone_components = 0.1
 		electronics = 0.2
 	}	
 

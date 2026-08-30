@@ -2,8 +2,62 @@
 ##### tech_mechanization #####
 ##############################
 # tech_mechanization_1
+activate_microchips_factory = {
+    limit = { tech_mechanization_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = microchips_factory
+    }
+}
+activate_scanning_arrays_factory = {
+    limit = { tech_mechanization_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = scanning_arrays_factory
+    }
+}
+activate_quantum_tubes_factory = {
+    limit = { tech_mechanization_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = quantum_tubes_factory
+    }
+}
+activate_plasma_conductors_factory = {
+    limit = { tech_mechanization_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = plasma_conductors_factory
+    }
+}
 
 # tech_mechanization_2
+activate_electronics_factory = {
+    limit = { tech_mechanization_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = electronics_factory
+    }
+}
+activate_claytronics_factory = {
+    limit = { tech_mechanization_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = claytronics_factory
+    }
+}
 
 # tech_mechanization_3
 
@@ -17,8 +71,89 @@
 ##### tech_biotech #####
 ########################
 # tech_biotech_1
+activate_water_refinery = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = water_refinery
+    }
+}
+activate_alcohol_distillery = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = alcohol_distillery
+    }
+}
+activate_protein_ranch = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = protein_ranch
+    }
+}
+activate_carbohydrates_farm = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = carbohydrates_farm
+    }
+}
+activate_spices_mixery = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = spices_mixery
+    }
+}
+activate_cloth_rimes_fact = {
+    limit = { tech_biotech_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = cloth_rimes_fact
+    }
+}
 
 # tech_biotech_2
+activate_meal_rations_factory = {
+    limit = { tech_biotech_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = meal_rations_factory
+    }
+}
+activate_luxury_clothes_factory = {
+    limit = { tech_biotech_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = luxury_clothes_factory
+    }
+}
+activate_regular_clothes_factory = {
+    limit = { tech_biotech_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = regular_clothes_factory
+    }
+}
 
 # tech_biotech_3
 
@@ -32,8 +167,61 @@
 ##### tech_material_science #####
 #################################
 # tech_material_science_1
-
+activate_silicon_refinery = {
+    limit = { tech_material_science_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = silicon_refinery
+    }
+}
+activate_ore_refinery = {
+    limit = { tech_material_science_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = ore_refinery
+    }
+}
+activate_graphene_refinery = {
+    limit = { tech_material_science_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = graphene_refinery
+    }
+}
 # tech_material_science_2
+activate_engine_parts_factory = {
+    limit = { tech_material_science_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = engine_parts_factory
+    }
+}
+activate_advanced_composites_factory = {
+    limit = { tech_material_science_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = advanced_composites_factory
+    }
+}
+activate_hull_parts_factory = {
+    limit = { tech_material_science_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = hull_parts_factory
+    }
+}
 
 # tech_material_science_3
 
@@ -47,9 +235,53 @@
 ##### tech_weapons_production #####
 ###################################
 # tech_weapons_production_1
+activate_weapon_components_factory = {
+    limit = { tech_weapons_production_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = weapon_components_factory
+    }
+}
+activate_missile_components_factory = {
+    limit = { tech_weapons_production_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = missile_components_factory
+    }
+}
+activate_shield_components_factory = {
+    limit = { tech_weapons_production_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = shield_components_factory
+    }
+}
 
 # tech_weapons_production_2
-
+activate_drone_components_factory = {
+    limit = { tech_weapons_production_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = drone_components_factory
+    }
+}
+activate_turret_components_factory = {
+    limit = { tech_weapons_production_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = turret_components_factory
+    }
+}
 # tech_weapons_production_3
 
 # tech_weapons_production_4
@@ -62,7 +294,15 @@
 ##### tech_medicine #####
 #########################
 # tech_medicine_1
-
+activate_medical_supplies_factory = {
+    limit = { tech_medicine_1 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = medical_supplies_factory
+    }
+}
 # tech_medicine_2
 
 # tech_medicine_3
