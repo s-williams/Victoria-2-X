@@ -111,33 +111,33 @@ tech_markets_5;Markets 5;x
 tech_markets_6;Markets 6;x
 industry_tech;Industry;x
 tech_mechanization;Mechanization;x
-tech_mechanization_1;Mechanization 1;x
-tech_mechanization_2;Mechanization 2;x
-tech_mechanization_3;Mechanization 3;x
-tech_mechanization_4;Mechanization 4;x
-tech_mechanization_5;Mechanization 5;x
-tech_mechanization_6;Mechanization 6;x
+tech_mechanization_1;Automated Assembly;x
+tech_mechanization_2;Robotic Integration;x
+tech_mechanization_3;Precision Servomechanics;x
+tech_mechanization_4;Autonomous Fabrication;x
+tech_mechanization_5;Nanite-Assisted Manufacturing;x
+tech_mechanization_6;Large Factory Complexes;x
 tech_biotech;Biotech;x
-tech_biotech_1;Biotech 1;x
-tech_biotech_2;Biotech 2;x
-tech_biotech_3;Biotech 3;x
-tech_biotech_4;Biotech 4;x
-tech_biotech_5;Biotech 5;x
-tech_biotech_6;Biotech 6;x
+tech_biotech_1;Aquaculture;x
+tech_biotech_2;Hydrosynthesis;x
+tech_biotech_3;Enzymatic Catalysis;x
+tech_biotech_4;Biochemical Optimization;x
+tech_biotech_5;Cellular Engineering;x
+tech_biotech_6;Symbiotic Bioforming;x
 tech_material_science;Material Science;x
-tech_material_science_1;Material Science 1;x
-tech_material_science_2;Material Science 2;x
-tech_material_science_3;Material Science 3;x
-tech_material_science_4;Material Science 4;x
-tech_material_science_5;Material Science 5;x
-tech_material_science_6;Material Science 6;x
+tech_material_science_1;Metallurgical Refinement;x
+tech_material_science_2;Structural Engineering;x
+tech_material_science_3;Alloy Optimization;x
+tech_material_science_4;Composite Reinforcement;x
+tech_material_science_5;Metamaterial Engineering;x
+tech_material_science_6;Adaptive Nanomaterials;x
 tech_weapons_production;Weapons Production;x
-tech_weapons_production_1;Weapons Production 1;x
-tech_weapons_production_2;Weapons Production 2;x
-tech_weapons_production_3;Weapons Production 3;x
-tech_weapons_production_4;Weapons Production 4;x
-tech_weapons_production_5;Weapons Production 5;x
-tech_weapons_production_6;Weapons Production 6;x
+tech_weapons_production_1;Ordnance Fabrication;x
+tech_weapons_production_2;Automated Ordnance;x
+tech_weapons_production_3;Modular Armament Systems;x
+tech_weapons_production_4;Automated Weapons Assembly;x
+tech_weapons_production_5;Precision Ordnance Engineering;x
+tech_weapons_production_6;Militarized Mass Production;x
 tech_medicine;Medicine;x
 tech_medicine_1;Medical Supplies Industrialisation;x
 tech_medicine_2;First Aid Standardisation;x

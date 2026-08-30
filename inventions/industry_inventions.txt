@@ -60,12 +60,48 @@ activate_claytronics_factory = {
 }
 
 # tech_mechanization_3
+refined_wafer_fabrication = {
+    limit = { tech_mechanization_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { microchips = 0.05 }
+    }
+}
 
 # tech_mechanization_4
+integrated_circuit_assembly = {
+    limit = { tech_mechanization_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { electronics = 0.05 }
+    }
+}
 
 # tech_mechanization_5
+nanite_assisted_etching = {
+    limit = { tech_mechanization_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { microchips = 0.05 electronics = 0.03 }
+    }
+}
 
 # tech_mechanization_6
+self_replicating_assembly_lines = {
+    limit = { tech_mechanization_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { electronics = 0.05 claytronics = 0.05 }
+    }
+}
 
 ########################
 ##### tech_biotech #####
@@ -156,12 +192,93 @@ activate_regular_clothes_factory = {
 }
 
 # tech_biotech_3
+catalytic_water_treatment = {
+    limit = { tech_biotech_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { water = 0.05 }
+    }
+}
 
 # tech_biotech_4
+optimized_rationing = {
+    limit = { tech_biotech_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { meal_rations = 0.05 }
+    }
+}
+textile_bioengineering = {
+    limit = { tech_biotech_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { regular_clothes = 0.04 luxury_clothes = 0.04 }
+    }
+}
+ultrapure_water_etching = {
+    limit = { tech_biotech_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { microchips = 0.05 }
+    }
+}
 
 # tech_biotech_5
+distillation_refinement = {
+    limit = { tech_biotech_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { alcohol = 0.05 }
+    }
+}
+precision_wafer_cleaning = {
+    limit = { tech_biotech_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { microchips = 0.05 }
+    }
+}
 
 # tech_biotech_6
+integrated_bioreactor_networks = {
+    limit = { tech_biotech_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { water = 0.05 alcohol = 0.05 }
+    }
+}
+synthetic_textile_mastery = {
+    limit = { tech_biotech_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { luxury_clothes = 0.05 regular_clothes = 0.05 }
+    }
+}
+biocatalytic_electronics = {
+    limit = { tech_biotech_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { microchips = 0.05 electronics = 0.03 }
+    }
+}
 
 #################################
 ##### tech_material_science #####
@@ -224,12 +341,75 @@ activate_hull_parts_factory = {
 }
 
 # tech_material_science_3
+high_purity_wafer_etching = {
+    limit = { tech_material_science_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { silicon_wafers = 0.05 }
+    }
+}
+ore_smelting_efficiency = {
+    limit = { tech_material_science_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { refined_metals = 0.05 }
+    }
+}
+graphene_lattice_refinement = {
+    limit = { tech_material_science_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { graphene = 0.05 }
+    }
+}
 
 # tech_material_science_4
+layered_composite_fabrication = {
+    limit = { tech_material_science_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { advanced_composites = 0.05 }
+    }
+}
 
 # tech_material_science_5
 
 # tech_material_science_6
+self_healing_alloys = {
+    limit = { tech_material_science_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { refined_metals = 0.05 hull_parts = 0.03 }
+    }
+}
+adaptive_composite_matrices = {
+    limit = { tech_material_science_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { advanced_composites = 0.05 drone_components = 0.03 }
+    }
+}
+nanostructured_graphene_lattices = {
+    limit = { tech_material_science_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { graphene = 0.05 engine_parts = 0.03 }
+    }
+}
 
 ###################################
 ##### tech_weapons_production #####
@@ -283,12 +463,57 @@ activate_turret_components_factory = {
     }
 }
 # tech_weapons_production_3
+modular_weapon_platforms = {
+    limit = { tech_weapons_production_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { weapon_components = 0.05 turret_components = 0.03 }
+    }
+}
 
 # tech_weapons_production_4
+standardized_munitions_tooling = {
+    limit = { tech_weapons_production_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { weapon_components = 0.03 missile_components = 0.03 }
+    }
+}
 
 # tech_weapons_production_5
+networked_shield_arrays = {
+    limit = { tech_weapons_production_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { shield_components = 0.05 drone_components = 0.03 }
+    }
+}
+precision_guided_munitions = {
+    limit = { tech_weapons_production_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { missile_components = 0.05 }
+    }
+}
 
 # tech_weapons_production_6
+assembly_line_warships = {
+    limit = { tech_weapons_production_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { weapon_components = 0.05 shield_components = 0.05 drone_components = 0.05 turret_components = 0.05 missile_components = 0.05 }
+    }
+}
 
 #########################
 ##### tech_medicine #####
