@@ -65,6 +65,7 @@ Terrain.bmp - ???
 * https://x4prodchart.com/
 * https://www.qsna.eu/x4/wares
 * https://veanturverse.com/guides/x4-universe-map.html
+* https://web.archive.org/web/20150315025129/http://x3wiki.com/index.php/Main_Page
 
 # Credits
 * X2: The Threat, X3: Reunion, X3: Terran Conflict, X3: Albion Prelude, X: Rebirth, X4: Foundations - Egosoft
