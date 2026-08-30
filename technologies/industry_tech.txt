@@ -362,7 +362,6 @@ tech_medicine_1 = {
 	cost = 3600
 
     supply_limit = 0.25
-	activate_building = medical_supplies_factory
 
     ai_chance = {
         factor = 1
