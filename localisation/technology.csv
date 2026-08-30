@@ -75,40 +75,40 @@ tech_gas_extraction_5;Gas Extraction 5;x
 tech_gas_extraction_6;Gas Extraction 6;x
 commerce_tech;Commerce;x
 tech_financial_institutions;Financial Institutions;x
-tech_financial_institutions_1;Financial Institutions 1;x
-tech_financial_institutions_2;Financial Institutions 2;x
-tech_financial_institutions_3;Financial Institutions 3;x
-tech_financial_institutions_4;Financial Institutions 4;x
-tech_financial_institutions_5;Financial Institutions 5;x
-tech_financial_institutions_6;Financial Institutions 6;x
+tech_financial_institutions_1;Private Banks;x
+tech_financial_institutions_2;Stock Exchanges;x
+tech_financial_institutions_3;Business Banks;x
+tech_financial_institutions_4;Investment Banks;x
+tech_financial_institutions_5;Bank Inspection Board;x
+tech_financial_institutions_6;Mutual Funds;x
 tech_administration;Administration;x
-tech_administration_1;Administration 1;x
-tech_administration_2;Administration 2;x
-tech_administration_3;Administration 3;x
-tech_administration_4;Administration 4;x
-tech_administration_5;Administration 5;x
-tech_administration_6;Administration 6;x
+tech_administration_1;Administration;x
+tech_administration_2;Institutions;x
+tech_administration_3;Ministries;x
+tech_administration_4;Meritocracy;x
+tech_administration_5;Bureaucracy;x
+tech_administration_6;Corporatocracy;x
 tech_efficiency;Efficiency;x
-tech_efficiency_1;Efficiency 1;x
-tech_efficiency_2;Efficiency 2;x
-tech_efficiency_3;Efficiency 3;x
-tech_efficiency_4;Efficiency 4;x
-tech_efficiency_5;Efficiency 5;x
-tech_efficiency_6;Efficiency 6;x
+tech_efficiency_1;Guild-Based Production;x
+tech_efficiency_2;Organized Factories;x
+tech_efficiency_3;Scientific Management;x
+tech_efficiency_4;Time-Saving Measures;x
+tech_efficiency_5;Management Strategy;x
+tech_efficiency_6;Organizational Development;x
 tech_infrastructure;Infrastructure;x
-tech_infrastructure_1;Infrastructure 1;x
-tech_infrastructure_2;Infrastructure 2;x
-tech_infrastructure_3;Infrastructure 3;x
-tech_infrastructure_4;Infrastructure 4;x
-tech_infrastructure_5;Infrastructure 5;x
-tech_infrastructure_6;Infrastructure 6;x
+tech_infrastructure_1;Navigational Beacons;x
+tech_infrastructure_2;Navigational Lanes;x
+tech_infrastructure_3;Highways;x
+tech_infrastructure_4;Superhighways;x
+tech_infrastructure_5;Hyperhighways;x
+tech_infrastructure_6;Trans Orbital Accelerators;x
 tech_markets;Markets;x
-tech_markets_1;Markets 1;x
-tech_markets_2;Markets 2;x
-tech_markets_3;Markets 3;x
-tech_markets_4;Markets 4;x
-tech_markets_5;Markets 5;x
-tech_markets_6;Markets 6;x
+tech_markets_1;Markets;x
+tech_markets_2;Commonwealth;x
+tech_markets_3;Freedom of Trade;x
+tech_markets_4;Open Competition;x
+tech_markets_5;Megacorporations;x
+tech_markets_6;Corporate Warfare;x
 industry_tech;Industry;x
 tech_mechanization;Mechanization;x
 tech_mechanization_1;Automated Assembly;x
@@ -139,7 +139,7 @@ tech_weapons_production_4;Automated Weapons Assembly;x
 tech_weapons_production_5;Precision Ordnance Engineering;x
 tech_weapons_production_6;Militarized Mass Production;x
 tech_medicine;Medicine;x
-tech_medicine_1;Medical Supplies Industrialisation;x
+tech_medicine_1;Medical Industrialisation;x
 tech_medicine_2;First Aid Standardisation;x
 tech_medicine_3;Inorganic Chemistry;x
 tech_medicine_4;Organic Chemistry;x
@@ -147,37 +147,37 @@ tech_medicine_5;Genetic Engineering;x
 tech_medicine_6;Nanomedicine;x
 culture_tech;Culture;x
 tech_aesthetics;Aesthetics;x
-tech_aesthetics_1;Aesthetics 1;x
-tech_aesthetics_2;Aesthetics 2;x
-tech_aesthetics_3;Aesthetics 3;x
-tech_aesthetics_4;Aesthetics 4;x
-tech_aesthetics_5;Aesthetics 5;x
-tech_aesthetics_6;Aesthetics 6;x
+tech_aesthetics_1;Functionalism & Utilitarianism;x
+tech_aesthetics_2;Constructivism;x
+tech_aesthetics_3;Parametricism;x
+tech_aesthetics_4;Biomorphism & Xenomorphism;x
+tech_aesthetics_5;Sublime;x
+tech_aesthetics_6;Transhumanism;x
 tech_education;Education;x
-tech_education_1;Education 1;x
-tech_education_2;Education 2;x
-tech_education_3;Education 3;x
-tech_education_4;Education 4;x
-tech_education_5;Education 5;x
-tech_education_6;Education 6;x
+tech_education_1;Empiricism & Rationalism;x
+tech_education_2;Positivism & Falsifiability;x
+tech_education_3;Reductionism & Formalism;x
+tech_education_4;Systematization;x
+tech_education_5;Complexity;x
+tech_education_6;Noosphere;x
 tech_social_thought;Social Thought;x
-tech_social_thought_1;Social Thought 1;x
-tech_social_thought_2;Social Thought 2;x
-tech_social_thought_3;Social Thought 3;x
-tech_social_thought_4;Social Thought 4;x
-tech_social_thought_5;Social Thought 5;x
-tech_social_thought_6;Social Thought 6;x
+tech_social_thought_1;Frontier Doctrine;x
+tech_social_thought_2;Settlerism;x
+tech_social_thought_3;Survivalism;x
+tech_social_thought_4;Diaspora;x
+tech_social_thought_5;Void Manifest;x
+tech_social_thought_6;Frontierism;x
 tech_political_thought;Political Thought;x
-tech_political_thought_1;Political Thought 1;x
-tech_political_thought_2;Political Thought 2;x
-tech_political_thought_3;Political Thought 3;x
-tech_political_thought_4;Political Thought 4;x
-tech_political_thought_5;Political Thought 5;x
-tech_political_thought_6;Political Thought 6;x
+tech_political_thought_1;Sentience & Sapience;x
+tech_political_thought_2;Rights & Responsibilities;x
+tech_political_thought_3;State & Government;x
+tech_political_thought_4;Nationalism & Imperialism;x
+tech_political_thought_5;Revolution;x
+tech_political_thought_6;Mass Politics;x
 tech_martial_culture;Martial Culture;x
-tech_martial_culture_1;Martial Culture 1;x
-tech_martial_culture_2;Martial Culture 2;x
-tech_martial_culture_3;Martial Culture 3;x
-tech_martial_culture_4;Martial Culture 4;x
-tech_martial_culture_5;Martial Culture 5;x
-tech_martial_culture_6;Martial Culture 6;x
+tech_martial_culture_1;Astroculture;x
+tech_martial_culture_2;Armed Astrocitizenry;x
+tech_martial_culture_3;Baptism by Fire;x
+tech_martial_culture_4;Warrior Myth;x
+tech_martial_culture_5;Militarism;x
+tech_martial_culture_6;Martial Zeitgeist;x
