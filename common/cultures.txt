@@ -5,18 +5,18 @@ human_group = {
 	unit = EuropeanGC
 	argon = {
 		color = { 47 127 230 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
-		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kaori Kasee Kaylah Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tetsushi Tora Val William Yishasame Yoshiko }
+		last_names = { Arellano Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Petrov Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Watanabe Winters Zannt }
 	}
 	terran = {
 		color = { 159 208 255 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
-		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kaori Kasee Kaylah Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tetsushi Tora Val William Yishasame Yoshiko }
+		last_names = { Arellano Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Petrov Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Watanabe Winters Zannt }
 	}
 	goner = {
 		color = { 111 52 0 }
-		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kasee Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tora Val William Yishasame Yoshiko }
-		last_names = { Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Winters Zannt }	}
+		first_names = { Anthea Adrian Alman Ash Ban Brent Bret Dal Deidre Elena Emily Emry Falk Haile Hea Inja Julian Juro Kaori Kasee Kaylah Kendai Klaudija Kyle Pok Lea Li Lindisfarne Marteen Miran Mitsuno Najia Nan Neol Ninu Noah Nobu Obelist Otaku Raibu Ren Rick Ruuf Saya Selaia Serra Sherman Siobhan Tamatha Teagan Tetsushi Tora Val William Yishasame Yoshiko }
+		last_names = { Arellano Atreides Borman Brennan Busta Cheran Chopra Cruise Danna Demetres Diraam Dirwin Enescu Feynman Gaffelt Gardna Gunnar Hariken Hiatu Ikegami Johansen Jonferson Kho Ledda Mydna Nehla Norman Orcanic Otani Petrov Reuven Selton Shani Sheppard Shinamon Singer Sloan Takio Tarren Topeka Vondrian Watanabe Winters Zannt }	}
 }
 
 paranid_group = {
@@ -24,8 +24,8 @@ paranid_group = {
 	unit = EuropeanGC
 	paranid = {
 		color = { 185 90 199 }
-		first_names = { Amanckalat Axiom Ebmancketvahs Kuromanckami Maximus Nobumancketslat Numanckaret Olmanckarsat Olmancketslat Tebathimanckatt Ulmanckabssit }
-		last_names = { Paranidia }
+		first_names = { Abmanckuttall Amanckalat Axiom Ebmanckatslot Ebmancketvahs Elmanckotsat Etmanckatsalss Idmanckardet Idmanckatslot Idmanckolok Imanckolok Idmanckosset Imanckulot Kelmanckettiks Krerkmanckestos Krimanckamstras Kuromanckami Maximus Nobumancketslat Numanckaret Olmanckarsat Olmancketslat Otmanckarsat Ramanckolok Remancketaib Tebathimanckatt Uckmanckoknnid Udmanckottack Ugmanckauhord Ulmanckabssit Ulmanckoknnid Umanckabbihs Unaibmanckistum Xaar }
+		last_names = { }
 	}
 
 }
@@ -35,8 +35,8 @@ split_group = {
 	unit = EuropeanGC
 	split = {
 		color = { 154 202 75 }
-		first_names = { Chin Fau Ge Gau Ghus Ho Lae Lu Noa Rael Rhak Sendir She Yu }
-		last_names = { "t'Cca" "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Nnt" "t'Nru" "t'Pg" "t'Pst" "t'Shn" "t'Sht" "t'Thhg" "t'Tn" }
+		first_names = { Cai Chin Chu Fae Fau Fui Ge Gau Ghus Ho Kal Kau Lae Lu Na No Noa Nu Mai Mo Pio Phi Rael Rhak Sendir Sae She Yu Zu }
+		last_names = { "t'Cca" "t'Gllt" "t'Grrt" "t'Hlp" "t'Knk" "t'Knt" "t'Kt" "t'Lt" "t'Mu" "t'Nnt" "t'Nru" "t'Nst" "t'Pg" "t'Phrn" "t'Plt" "t'Pst" "t'Ptt" "t'Re" "t'Shn" "t'Sht" "t'Tchau" "t'Thhg" "t'Tn" "t'Ve" "t'Whn" "t'Ztk" }
 	}
 }
 
@@ -45,8 +45,8 @@ teladi_group = {
 	unit = EuropeanGC
 	teladi = {
 		color = { 212 179 16 }
-		first_names = { Dagobas Ganatos Isemados Lahubasis Luuligos Mikimades Monisessas Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Towisaris Ulos Wegoras Yalamandis Yoolis Yooses Ysandreis Zusilas }
-		last_names = { Borealisas Dasino Isemados Nopileos Rusiris Sibasomos Tugas Yahandis Yalos Yohiris Yoyunis Yurilos }
+		first_names = { Dagobas Deridos Desudras Foologos Ganatos Gustiosanis Hanirases Hilibis Holigis Huritis Isemados Joranas Lahubasis Lalundas Luuligos Mikimades Monisessas Nobonis Sanduras Seminoros Sibasomos Sissandras Ssuphandros Tissmaneos Towisaris Tumulis Uguras Ulos Wegoras Yahandis Yahanis Yalamandis Yayasisos Yoolis Yooses Ysandreis Yusmaeos Zusilas }
+		last_names = { Borealisas Dasino Deridos Foologos Gobanis Horasumas Isemados Nopileos Rusiris Sibasomos Tertasobas Tissmaneos Tugas Tumulis Yahandis Yalos Yohiris Yohulbus Yoyunis Yurilos }
 	}
 }
 
@@ -55,8 +55,8 @@ boron_group = {
 	unit = EuropeanGC
 	boron = {
 		color = { 62 199 230 }
-		first_names = { Boso Fomo Halili Leda Nila Suli  }
-		last_names = { Do Fi Lu Ta Ti We }
+		first_names = { Atreus Boso Dala Fomo Galala Halili Hili Humko Kuli Lar Leda Mumi Nila Nolo Popo Suli Susu Tata }
+		last_names = { Ba Bi Bo Do Du Fa Fi Fo Ga Gi Go Inaus La Lo Lu Lyganeus Na Ni No Nu Nu Pi Po Rolk Ta Ti Tu Wa We Wi Wu }
 	}
 }
 
@@ -66,7 +66,7 @@ wenendra_group = {
 	wenendra = {
 		color = { 34 139 211 }
 		first_names = { Coral Echo Finn Luna Marina Marino Oceanus Pearl Splash Storm Ripple }
-		last_names = { Wenendra }
+		last_names = { }
 	}
 }
 
