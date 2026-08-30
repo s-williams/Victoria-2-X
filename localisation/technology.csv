@@ -139,12 +139,12 @@ tech_weapons_production_4;Weapons Production 4;x
 tech_weapons_production_5;Weapons Production 5;x
 tech_weapons_production_6;Weapons Production 6;x
 tech_medicine;Medicine;x
-tech_medicine_1;Medicine 1;x
-tech_medicine_2;Medicine 2;x
-tech_medicine_3;Medicine 3;x
-tech_medicine_4;Medicine 4;x
-tech_medicine_5;Medicine 5;x
-tech_medicine_6;Medicine 6;x
+tech_medicine_1;Medical Supplies Industrialisation;x
+tech_medicine_2;First Aid Standardisation;x
+tech_medicine_3;Inorganic Chemistry;x
+tech_medicine_4;Organic Chemistry;x
+tech_medicine_5;Genetic Engineering;x
+tech_medicine_6;Nanomedicine;x
 culture_tech;Culture;x
 tech_aesthetics;Aesthetics;x
 tech_aesthetics_1;Aesthetics 1;x

@@ -304,11 +304,167 @@ activate_medical_supplies_factory = {
     }
 }
 # tech_medicine_2
+standardised_military_first_aid_kits = {
+    limit = { tech_medicine_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        land_attrition = -0.05
+        soldier_to_pop_loss = 0.01
+    }
+}
+standardised_industrial_first_aid_kits = {
+    limit = { tech_medicine_2 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        pop_growth = 0.0001
+    }
+}
 
 # tech_medicine_3
+artificial_fertilisers = {
+    limit = { tech_medicine_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { protein = 0.01 carbohydrates = 0.01 cloth_rimes = 0.01 }
+    }
+}
+organic_compound_optimisation = {
+    limit = { tech_medicine_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { alcohol = 0.01 }
+    }
+}
+pharmaceutical_compounding = {
+    limit = { tech_medicine_3 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { medical_supplies = 0.05 }
+    }
+}
 
 # tech_medicine_4
+carbon_soil_enrichment = {
+    limit = { tech_medicine_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { carbohydrates = 0.01 }
+    }
+}
+crystal_optimisation = {
+    limit = { tech_medicine_4 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+	    rgo_goods_output = { energy_cells = 0.1 }
+    }
+}
 
 # tech_medicine_5
+genetic_engineering = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        pop_growth = 0.0001
+    }
+}
+genetic_protein_optimisation = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { protein = 0.03 }
+    }
+}
+genetic_carbohydrate_optimisation = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { carbohydrates = 0.03 }
+    }
+}
+genetic_spices_optimisation = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { spices = 0.03 }
+    }
+}
+genetic_silkworms = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { cloth_rimes = 0.03 }
+    }
+}
+genetic_antibiotics = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { medical_supplies = 0.05 }
+    }
+}
+genetic_biologics = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        factory_goods_output = { alcohol = 0.05 }
+    }
+}
+genetic_first_aid = {
+    limit = { tech_medicine_5 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        land_attrition = -0.05
+        soldier_to_pop_loss = 0.01
+    }
+}
 
 # tech_medicine_6
+nanite_based_diagnostics = {
+    limit = { tech_medicine_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        pop_growth = 0.0001
+    }
+}
+nanite_based_first_aid = {
+    limit = { tech_medicine_6 = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        land_attrition = -0.05
+        soldier_to_pop_loss = 0.01
+    }
+}
