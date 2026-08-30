@@ -37,7 +37,7 @@ guiTypes = {
 			{
 				name ="frontend_backdrop"
 				spriteType = "GFX_frontend_main_bg"
-				position = { x= -930 y = -326 }
+				position = { x= -1298 y = -774 }
 				Orientation = "CENTER"
 			}
 		iconType =
@@ -323,7 +323,7 @@ guiTypes = {
 		windowType = {
 			name ="mainmenu_panel"
 			backGround=""
-			position = { x=-276 y =-202}	
+			position = { x= 660 y = 280}	
 			size = { x=420 y =500}
 			moveable = 0
 			dontRender = ""
@@ -332,12 +332,12 @@ guiTypes = {
 			upsound = ""
 			downsound = ""
 			fullscreen=no
-			Orientation = "CENTER"
+			Orientation = "UPPER_LEFT"
 			
 			
 			guiButtonType = {
 				name = "single_player_button"
-				position = { x = -84 y = 429 }
+				position = { x = 5 y = 500	 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -348,7 +348,7 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "multi_player_button"
-				position = { x = 158 y = 429 }
+				position = { x = 5 y = 550 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -359,7 +359,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "tutorial_button"
-				position = { x = 400 y = 429 }
+				position = { x = -1000 y = 0 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -370,7 +370,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "settings_button"
-				position = { x = -84 y = 472 }
+				position = { x = 5 y = 600 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -381,7 +381,7 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "credits_button"
-				position = { x = 158 y = 472	 }
+				position = { x = -1000 y = 0 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -391,7 +391,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "exit_button"
-				position = { x = 400 y = 472 }
+				position = { x = 5 y = 650 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
@@ -403,22 +403,23 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "homepage_button"
-				position = { x = 172 y = 538 }
+				position = { x = -1000 y = 0 }
+				hyperText = "FE_EXIT"
 				quadTextureSprite ="homepage"	
 			}
 			guiButtonType = {
 				name = "forum_button"
-				position = { x = 224 y = 538 }
+				position = { x = -1000 y = 0 }
 				quadTextureSprite ="forum"	
 			}
 			guiButtonType = {
 				name = "facebook_button"
-				position = { x = 276 y = 538 }
+				position = { x = -1000 y = 0 }
 				quadTextureSprite ="facebook"	
 			}			
 			guiButtonType = {
 				name = "twitter_button"
-				position = { x = 328 y = 538 }
+				position = { x = -1000 y = 0 }
 				quadTextureSprite ="twitter"	
 			}		
 

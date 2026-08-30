@@ -5,6 +5,13 @@ Rivers.bmp - 24 bit
 Provinces.bmp - 24 bit
 Terrain.bmp - ???
 
+Colours:
+- Menu items blue inactive: 80 190 255
+- Menu items blue active: 10 185 255
+- Text highlight: 0 255 0
+- Text active 255 255 255
+- Text inactive 129 129 129
+
 ## TODO
 ### Alpha
 - [ ] Map
