@@ -20,6 +20,7 @@ Terrain.bmp - ???
     - [x] Resources on map
     - [x] Terrains (unique per region)
     - [x] Climates as sun exposure levels
+    - [ ] Starting techs
     - [ ] Starting industries
     - [x] Starting pops
 - [x] Cultures
@@ -34,15 +35,14 @@ Terrain.bmp - ???
     - [x] Buildings
     - [x] Icons
 - [ ] Technology
-    - [ ] Rework (Military, Extraction, Industry, Commerce, Culture)
-    - [ ] Inventions
+    - [x] Rework (Military, Extraction, Industry, Commerce, Culture)
+    - [/] Inventions
 - [ ] Units
     - [x] Rework
     - [x] Resource costs
     - [ ] Icons
 
 # Beta
-- [ ] Uncivilised Politics Rework
 - [ ] Flavour
     - [ ] Argon-Antigone
     - [ ] HFL joining Argon
@@ -56,7 +56,9 @@ Terrain.bmp - ???
 - [ ] Politics
     - [ ] Theocracy government type
     - [ ] Patriarchy government type?
+    - [ ] Uncivilised Politics Rework
 - [ ] Add X-Rebirth sectors? Add Aldrin? Tharka's Sun (CoP)?
+- [ ] Player faction
 
 ## Useful resources
 * https://x3.solasistim.net
