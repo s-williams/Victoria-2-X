@@ -35,8 +35,7 @@ luxury_needs = {
 	electronics = 0.1
 }
 
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {
@@ -87,8 +86,7 @@ country_migration_target =
 	}	
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {
@@ -190,8 +188,7 @@ migration_target =
 	}
 }
 
-promote_to =
-{
+promote_to = {
 	
 	bureaucrats =
 	{
@@ -736,7 +733,6 @@ promote_to =
 	
 }
 
-
 ideologies = {
 	
 	fascist = {
@@ -1233,8 +1229,7 @@ ideologies = {
 	}
 }
 
-issues =
-{
+issues = {
 	protectionism = {
 		factor = 0.8
 		modifier = {

@@ -35,8 +35,7 @@ luxury_needs = {
 	electronics = 0.1
 }
 
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {
@@ -111,8 +110,7 @@ country_migration_target =
 	}
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {

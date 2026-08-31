@@ -35,8 +35,7 @@ luxury_needs = {
 }
 
 
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {
@@ -115,8 +114,7 @@ country_migration_target =
 	}	
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {
@@ -222,8 +220,7 @@ migration_target =
 	}
 }
 
-promote_to =
-{
+promote_to = {
 		artisans =
 	{
 		factor = 0.01
@@ -1022,14 +1019,6 @@ promote_to =
 			}
 		}
 	}
-#	labourers = 
-#	{
-#		factor = 0.01
-#		modifier = {
-#			factor = 1.4
-#			not = { military_spending = 0.35 }
-#		}
-#	}
 }
 
 
@@ -1546,8 +1535,7 @@ ideologies = {
 }
 
 
-issues =
-{
+issues = {
 	protectionism = {
 		factor = 1
 		modifier = {

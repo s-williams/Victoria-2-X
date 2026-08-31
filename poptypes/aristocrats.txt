@@ -34,8 +34,7 @@ luxury_needs = {
 }
 
 
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {
@@ -110,8 +109,7 @@ country_migration_target =
 	}
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {
@@ -218,8 +216,7 @@ migration_target =
 promote_to =
 {
 
-	capitalists = 
-	{
+	capitalists = {
 		factor = 0.01
 		modifier = {
 			factor = -1
@@ -348,8 +345,7 @@ promote_to =
 			}
 		}
 	} 
-	clergymen =
-	{
+	clergymen =	{
 		factor = 0.01
 		group = {
 			modifier = {
@@ -419,7 +415,7 @@ promote_to =
 				education_spending =0.99
 			}
 		}
-		group = {		
+		group = {
 			modifier = {
 				factor = -2
 				clergymen = 0.004
@@ -488,8 +484,7 @@ promote_to =
 			}
 		}
 	}
-	bureaucrats =
-	{
+	bureaucrats = {
 		factor = 0.01
 		modifier = {
 			factor = -100 
@@ -751,28 +746,16 @@ promote_to =
 			}
 		}
 	}
-#	labourers = 
-#	{
-#		factor = 0.01
-#		modifier = {
-#			factor = 1.4
-#			not = { military_spending = 0.35 }
-#		}
-#	}
-
 }
 
-
 ideologies = {
-	
 	fascist = {
 		factor = 1
 		modifier = {
 			factor = 0
 			NOT = { has_pop_culture = terraformer }
 		}
-	}
-	
+	}	
 	reactionary = {
 		factor = 1.1
 		modifier = {
@@ -850,7 +833,6 @@ ideologies = {
 			poor_strata_militancy = 8
 		}
 	}
-
 	conservative = {
 		factor = 1
 		modifier = {
@@ -938,7 +920,6 @@ ideologies = {
 			poor_strata_militancy = 9
 		}
 	}
-
 	socialist = {
 		factor = 1
 		modifier = {
@@ -1047,7 +1028,6 @@ ideologies = {
 			consciousness = 7
 		}
 	}
-
 	communist = {
 		factor = 1
 		modifier = {
@@ -1275,8 +1255,7 @@ ideologies = {
 	}
 }
 
-issues =
-{
+issues = {
 	protectionism = {
 		factor = 1.1
 		modifier = {
@@ -2105,7 +2084,6 @@ issues =
 			consciousness = 9
 		}	
 	}
-
 	no_slavery = {
 		factor = 1
 		modifier = {
@@ -2166,10 +2144,6 @@ issues =
 			consciousness = 9
 		}
 	}
-	
-	
-	
-	
 	
 	landed_voting = {
 		factor = 1.25
@@ -2535,6 +2509,7 @@ issues =
 			consciousness = 9
 		}
 	}
+
 	jefferson_method = {
 		factor = 1
 		modifier = {
@@ -2627,6 +2602,7 @@ issues =
 			NOT = { agree_with_ruling_party = 0.80 }
 		}
 	}
+
 	harassment = {
 		factor = 1
 		modifier = {
@@ -2904,7 +2880,8 @@ issues =
 			factor = 1.25
 			consciousness = 9
 		}
-	}	
+	}
+
 	yes_meeting = {
 		factor = 1
 		modifier = {
@@ -2977,6 +2954,7 @@ issues =
 			consciousness = 9
 		}
 	}
+
 	censored_press = {
 		factor = 1
 		modifier = {
@@ -3103,6 +3081,7 @@ issues =
 			consciousness = 9
 		}
 	}
+
 	trinket_wage = { 
 		factor = 1
 		modifier = {
@@ -3691,7 +3670,6 @@ issues =
 			factor = 1.25
 			luxury_needs = 1
 		}
-
 	}
 	good_safety  = { 
 		factor = 1
@@ -3761,6 +3739,7 @@ issues =
 			luxury_needs = 1
 		}
 	}
+
 	trinket_subsidies = { 
 		factor = 1
 		modifier = {
@@ -4117,6 +4096,7 @@ issues =
 			consciousness = 9
 		}
 	}
+
 	trinket_pensions = { 
 		factor = 1
 		modifier = {
@@ -4433,6 +4413,7 @@ issues =
 			luxury_needs = 1
 		}
 	}
+
 	trinket_health_care = { 
 		factor = 1
 		modifier = {
@@ -4720,6 +4701,7 @@ issues =
 			}
 		}
 	}
+
 	fourteen_hours = { 
 		factor = 1
 		modifier = {
@@ -4972,7 +4954,6 @@ issues =
 				middle_strata_everyday_needs = 0.25
 			}
 		}
-
 	}
 	eight_hours = { 
 		factor = 1

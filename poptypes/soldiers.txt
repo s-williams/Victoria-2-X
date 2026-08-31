@@ -23,12 +23,10 @@ everyday_needs_income = {
 	weight = 1.5
 }
 
-luxury_needs_income =
-{
+luxury_needs_income = {
 	type = reforms
 	weight = 1
 }
-
 
 life_needs = {
 	energy_cells = 0.5
@@ -53,9 +51,7 @@ luxury_needs = {
 	missile_components = 0.2
 }
 
-
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 	modifier = {
 		factor = 2.0
@@ -101,8 +97,7 @@ country_migration_target =
 	}	
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {
@@ -189,11 +184,9 @@ migration_target =
 	}
 }
 
-promote_to =
-{
+promote_to = {
 
-	officers =
-	{
+	officers = {
 		factor = 0.01
 		modifier = {
 			factor = -1
@@ -245,14 +238,6 @@ promote_to =
 			}
 		}
 	}
-#	labourers = 
-#	{
-#		factor = 0.01
-#		modifier = {
-#			factor = 1.4
-#			not = { military_spending = 0.35 }
-#		}
-#	}
 
 	craftsmen = {
 		factor = 0.01
@@ -340,8 +325,7 @@ ideologies = {
 			factor = 0
 			NOT = { has_pop_culture = terraformer }
 		}
-	}
-	
+	}	
 	reactionary = {
 		factor = 1.1
 		modifier = {
@@ -421,7 +405,6 @@ ideologies = {
 			poor_strata_militancy = 8
 		}
 	}
-
 	conservative = {
 		factor = 1
 		modifier = {
@@ -509,7 +492,6 @@ ideologies = {
 			poor_strata_militancy = 9
 		}
 	}
-
 	socialist = {
 		factor = 1
 		modifier = {
@@ -618,7 +600,6 @@ ideologies = {
 			consciousness = 7
 		}
 	}
-
 	communist = {
 		factor = 1
 		modifier = {
@@ -763,8 +744,8 @@ ideologies = {
 		modifier = {
 			factor = 1.1
 			OR = { 
-			poor_strata_militancy = 5
-			middle_strata_militancy = 5
+				poor_strata_militancy = 5
+				middle_strata_militancy = 5
 			}
 		}
 		modifier = {
@@ -777,15 +758,15 @@ ideologies = {
 		modifier = {
 			factor = 1.1
 			OR = {
-			poor_strata_militancy = 7
-			middle_strata_militancy = 7
+				poor_strata_militancy = 7
+				middle_strata_militancy = 7
 			}
 		}
 		modifier = {
 			factor = 1.1
 			OR = {
-			poor_strata_militancy = 8
-			middle_strata_militancy = 8
+				poor_strata_militancy = 8
+				middle_strata_militancy = 8
 			}
 		}
 	}
@@ -848,8 +829,7 @@ ideologies = {
 
 
 
-issues =
-{
+issues = {
 	protectionism = {
 		factor = 1
 		modifier = {

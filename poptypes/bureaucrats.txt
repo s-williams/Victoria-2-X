@@ -21,14 +21,12 @@ life_needs_income = {
 	weight = 1
 }
 
-everyday_needs_income =
-{
+everyday_needs_income = {
 	type = administration
 	weight = 1
 }
 
-luxury_needs_income =
-{
+luxury_needs_income = {
 	type = administration
 	weight = 1
 }
@@ -53,8 +51,7 @@ luxury_needs = {
 	electronics = 0.1
 }
 
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {
@@ -133,8 +130,7 @@ country_migration_target =
 	}	
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0.01
 	
 	modifier = {
@@ -237,8 +233,7 @@ migration_target =
 	}
 }
 
-promote_to =
-{
+promote_to = {
 	
 	capitalists = 
 	{
@@ -344,8 +339,7 @@ promote_to =
 				}
 			}
 		}
-	}
-	
+	}	
 	officers =
 	{
 		factor = 0.01
@@ -695,8 +689,7 @@ promote_to =
 			factor = 2
 			not = { literacy = 0.50 }
 		}
-	}
-	
+	}	
 	craftsmen = {
 		factor = 0.01
 		group = {
@@ -799,16 +792,7 @@ promote_to =
 			}
 		}
 	}
-#	labourers = 
-#	{
-#		factor = 0.01
-#		modifier = {
-#			factor = 1.4
-#			not = { military_spending = 0.35 }
-#		}
-#	}
 }
-
 
 ideologies = {
 	
@@ -1321,7 +1305,6 @@ ideologies = {
 		}
 	}
 }
-
 
 issues =
 {

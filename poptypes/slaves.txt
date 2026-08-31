@@ -57,4 +57,4 @@ issues = {
 	yes_slavery = {
 		factor = 2
 	}
-} 
+}
