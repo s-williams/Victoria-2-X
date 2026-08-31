@@ -25,7 +25,6 @@ Colours:
         - [x] Add Provinces Adrift
     - [x] Adjacencies (gates)
         - [x] As province modifiers
-        - [ ] On colourmap maybe???
     - [x] Resources on map
     - [x] Terrains (unique per region)
     - [x] Climates as sun exposure levels
