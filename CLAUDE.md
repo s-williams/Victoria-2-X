@@ -42,7 +42,7 @@ Comments use `#`. String values use `"quotes"` or bare words.
 | [decisions/](decisions/) | Player-selectable decisions (`.txt`). Have `potential`, `allow`, `effect` blocks |
 | [history/countries/](history/countries/) | Starting conditions per country: ruling party, tech levels, reforms |
 | [history/provinces/](history/provinces/) | Per-province starting state: owner, controller, pops, buildings |
-| [localisation/](localisation/) | Windows-1252 CSV files mapping keys to displayed text. Format: `KEY;English text;;;;;;;;;` |
+| [localisation/](localisation/) | Windows-1252 CSV files mapping keys to displayed text. Format: `KEY;English text;x` |
 | [map/](map/) | Province definitions, regions, terrain, adjacencies, positions |
 | [technologies/](technologies/) | Tech tree files |
 | [inventions/](inventions/) | Invention unlocks triggered by technologies |
