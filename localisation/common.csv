@@ -5588,8 +5588,10 @@ MAPMODE_12;Population density;x
 MAPMODE_13;Race;x
 MAPMODE_14;Sphere of influence;x
 MAPMODE_15;Supply limit;x
+MAPMODE_16;Party loyalty;x
 MAPMODE_17;Ranking;x
 MAPMODE_18;Migrations;x
+MAPMODE_19;Centralization Level;x
 MAPMODE_20;Relations;x
 WORLD_RANKING;World ranking:;x
 WORLD_RANKING_SECONDARY_POWER;§Y$COUNTRY$§W is a Secondary Power.;x
@@ -5793,6 +5795,7 @@ MILITARYREFORM_BAD_BTN1;OK;x
 MILITARYREFORM_BAD_BTN2;OK;x
 MILITARYREFORM_BAD_BTN3;Goto;x
 MILITARYREFORM_BAD_MAP;*;x
+MODIFIER_CIVILIZATION_PROGRESS;Centralization Progress;x
 SUPPRESSION_TECH;Suppression efficiency;x
 INFLUENCE_RELATION;Relations;x
 RESEARCH_POINTS_LABEL;Research Points:;x
