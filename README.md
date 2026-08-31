@@ -46,10 +46,9 @@ Colours:
 - [ ] Technology
     - [x] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [/] Inventions
-- [ ] Units
+- [x] Units
     - [x] Rework
     - [x] Resource costs
-    - [ ] Icons
 
 # Beta
 - [ ] Flavour
@@ -68,6 +67,12 @@ Colours:
     - [ ] Uncivilised Politics Rework
 - [ ] Add X-Rebirth sectors? Add Aldrin? Tharka's Sun (CoP)?
 - [ ] Player faction
+- [ ] Finish interface rework
+- [ ] Military
+    - [ ] Starting units
+    - [ ] Unit icons
+- [ ] Jumpgates visible on map
+- [ ] Inventions galore
 
 ## Useful resources
 * https://x3.solasistim.net
