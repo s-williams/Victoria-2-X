@@ -18,7 +18,7 @@ Colours:
 ### Alpha
 - [ ] Map
     - [x] Basic provinces
-    - [ ] Starting countries
+    - [x] Starting countries
         - [x] All flags
         - [/] Political parties
         - [/] Starting governments, reforms
@@ -34,15 +34,12 @@ Colours:
 - [x] Cultures
     - [x] Species as religions
     - [x] Cultures
-- [ ] Politics
-    - [ ] Cultures weighted issues/ideologies
-        - [ ] Teladi living nearby Split will support slavery
-- [ ] Industry
+- [x] Industry
     - [x] Resources
     - [x] Production types
     - [x] Buildings
     - [x] Icons
-- [ ] Technology
+- [/] Technology
     - [x] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [/] Inventions
 - [x] Units
@@ -64,6 +61,8 @@ Colours:
     - [ ] Theocracy government type
     - [ ] Patriarchy government type?
     - [ ] Uncivilised Politics Rework
+    - [ ] Cultures weighted issues/ideologies
+        - [ ] e.g. Teladi living nearby Split will support slavery
 - [ ] Add X-Rebirth sectors? Add Aldrin? Tharka's Sun (CoP)?
 - [ ] Player faction
 - [ ] Finish interface rework
