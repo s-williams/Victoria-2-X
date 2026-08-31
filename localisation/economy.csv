@@ -117,3 +117,9 @@ labourers;Miners;x
 officers;Officers;x
 slaves;Slaves;x
 soldiers;Soldiers;x
+#####################;x
+##### BUILDINGS #####;x
+#####################;x
+fort;Defence Platform;x
+railroad;Infrastructure;x
+naval_base;Research Station;x

@@ -3100,6 +3100,7 @@ out_of_supply;Out of Supply;x
 provincial_tax_income;Provincial Tax Income;x
 city_population;City Population;x
 revolt_risk;Revolt Risk;x
+peace;Peace;x
 ENABLES;Enables $WHICH$.\n;x
 NOT_FROM_THIS_GOV;It is not possible to convert to this government type from our current form of government.;x
 NO_SHIPS;No ships;x
@@ -5023,6 +5024,10 @@ terrain;Terrain;x
 crossing;Crossing;x
 PW_SLAVE_STATE;Slave State;x
 CURR_REL_TT;Our current relations.;x
+great_power;Great Power;x
+second_power;Secondary Power;x
+civ_nation;Centralized Nation;x
+unciv_nation;Uncentralized Nation;x
 REB_TYPE_SIZE;§YRebel Support§W;x
 REB_TYPE_POWER;§YRebel Power§W;x
 PRODUCTION_MUST_PORT_ONLY;Only produced in ports.\n;x
@@ -5081,6 +5086,7 @@ INVENTION_BTN2;OK;x
 INVENTION_BTN3;Details;x
 INVENTION_MAP;*;x
 revanchism;Revanchism;x
+plurality;Plurality;x
 TOPBAR_LEADERSHIP_GAIN_TOOLTIP;We gain §Y$CURR$§W leadership from our officers each month.;x
 UW_AASIGN;Autoassign Leaders;x
 ATTR_SAFE_RANGE;A Fleet in range of supply ships, and near a coast will not take any attrition.;x
