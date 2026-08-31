@@ -4,7 +4,7 @@ religion = paranid
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.22
+literacy = 0.3
 civilized = yes
 prestige = 25
 

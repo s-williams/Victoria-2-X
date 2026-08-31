@@ -4,7 +4,7 @@ religion = agi
 government = fascist_dictatorship
 plurality = 0.2
 nationalvalue = nv_order
-literacy = 0.5
+literacy = 0.2
 civilized = yes
 prestige = 0
 
