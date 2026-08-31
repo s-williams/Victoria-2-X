@@ -1,0 +1,34 @@
+###############################
+##### META EVENTS - 10000 #####
+###############################
+
+# Introduction
+country_event = {
+	id = 10000
+	title = "Welcome"
+	desc = "EVTDESC10000"
+	picture = "introduction"
+    
+	is_triggered_only = yes
+	
+	option = {
+		name = "Thank you"
+	}
+	option = {
+		name = "Tell me about X"
+        country_event = 10001
+	}
+}
+# Introduction
+country_event = {
+	id = 10001
+	title = "X Universe"
+	desc = "EVTDESC10001"
+	picture = "introduction"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Thanks"
+	}
+}

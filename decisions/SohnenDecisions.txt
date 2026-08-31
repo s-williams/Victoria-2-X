@@ -14,6 +14,14 @@ political_decisions = {
                 duration = -1
             }
 
+            # Introduction
+            any_country = {
+                limit = {
+                    ai = no
+                }
+                country_event = 10000
+            }
+
             # Xenon hivemind
             any_country = {
                 limit = {
