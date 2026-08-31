@@ -37,3 +37,14 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+# Technologies
+tech_static_defences_1 = 1
+tech_light_armament_1 = 1
+tech_military_leadership_1 = 1
+tech_social_thought_1 = 1
+tech_solar_extraction_1 = 1
+tech_ore_extraction_1 = 1
+tech_silicon_extraction_1 = 1
+tech_ice_extraction_1 = 1
+tech_gas_extraction_1 = 1

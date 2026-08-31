@@ -37,3 +37,16 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+# Technologies
+tech_aesthetics_1 = 1
+tech_education_1 = 1
+tech_education_2 = 1
+tech_social_thought_1 = 1
+tech_political_thought_1 = 1
+tech_martial_culture_1 = 1
+tech_financial_institutions_1 = 1
+tech_administration_1 = 1
+tech_efficiency_1 = 1
+tech_infrastructure_1 = 1
+tech_markets_1 = 1

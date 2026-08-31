@@ -37,3 +37,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+# Technologies
+tech_aesthetics_1 = 1
+tech_political_thought_1 = 1

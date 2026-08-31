@@ -186,7 +186,6 @@ tech_financial_institutions_6 = {
     }
 }
 
-
 #tech_administration
 tech_administration_1 = {
 	area = tech_administration
@@ -218,7 +217,6 @@ tech_administration_1 = {
             year = 3005
         }
     }
-
 }
 tech_administration_2 = {
 	area = tech_administration
@@ -375,7 +373,6 @@ tech_administration_6 = {
         }
     }
 }
-
 
 #tech_efficiency
 tech_efficiency_1 = {
@@ -547,7 +544,6 @@ tech_efficiency_6 = {
 	}
 }
 
-
 #tech_infrastructure
 tech_infrastructure_1 = {
 	area = tech_infrastructure
@@ -687,7 +683,6 @@ tech_infrastructure_6 = {
         }
 	}
 }
-
 
 #tech_markets
 tech_markets_1 = {
@@ -834,4 +829,3 @@ tech_markets_6 = {
         }
 	}
 }
-

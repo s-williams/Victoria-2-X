@@ -29,7 +29,7 @@ Colours:
     - [x] Resources on map
     - [x] Terrains (unique per region)
     - [x] Climates as sun exposure levels
-    - [ ] Starting techs
+    - [x] Starting techs
     - [ ] Starting industries
     - [x] Starting pops
 - [x] Cultures
