@@ -266,6 +266,9 @@ COLONIZE_PHASE_INFLUENCE;Territorial competition;x
 COLONIZE_PHASE_INFLUENCE_DESC;Two countries battle with territorial power until one side can not match influence. Every time investment is made tension in state will increase and if it gets too hot turns into a crisis.;x
 COLONIZE_PHASE_COLONIZATION;Settling;x
 COLONIZE_PHASE_COLONIZATION_DESC;Winner of previous phases has $MONTHS$ months to convert to a territory or lose investments.;x
+MOBILIZATION_PROGRESS_PAUSED;Mobilization recruitment in §Y$PROV$§! will soon begin.;x
+MOBILIZATION_PROGRESS_PENDING;Current mobilization progress is §Y$PROG$%§!;x
+MOBILIZATION_PROGRESS_NOT_MOBILIZED;Mobilization will take some time, but advanced infrastructure will speed up the process.;x
 COLONY_ADD_INFLUENCE;Add territorial influence;x
 IS_NOT_COLONIAL_STATE;Is not a territorial state.;x
 IS_COLONIAL_STATE;Is a territorial state.;x
@@ -4348,11 +4351,13 @@ NAVALBATTLEOVER_BTN2;OK;x
 NAVALBATTLEOVER_BTN3;Goto;x
 NAVALBATTLEOVER_MAP;$RESULT$ ;x
 WE_MOBILIZE_HEADER;We have decided to;x
+WE_MOBILIZE_1;MOBILIZE;x
 WE_MOBILIZE_2;We will soon be able to field a strong army. This however, will be seen as a threatening move to our potential enemies.;x
 WE_MOBILIZE_3;*;x
 WE_MOBILIZE_4;*;x
 WE_MOBILIZE_5;*;x
 WE_MOBILIZE_6;*;x
+WE_MOBILIZE_LOG;We have started to mobilize our reserves.;x
 WE_MOBILIZE_BTN1;OK;x
 WE_MOBILIZE_BTN2;OK;x
 WE_MOBILIZE_BTN3;Details;x
@@ -4842,6 +4847,7 @@ WAR_DI;War;x
 WARGOAL_DI;Adding of Wargoal;x
 PEACE_DI;Peace Offer;x
 TOPBAR_LEADERSHIP_MAX;You have already reached the maximum storage of §Y$MAX$§W leadership and no new leadership will be accumulated.\n;x
+IS_MOBILIZED_IRO;(Reserves are Mobilized);x
 TOPBAR_WAR_PLUS;And their vassals and dominions.\n;x
 CANTBUILD_FORCEDISARM;We can't build new military units, as we are under a peace treaty that has forced us to disarm.;x
 SOME_LIFE_NEEDS;Life Needs partly fulfilled;x
@@ -5161,7 +5167,7 @@ BE_TECH;Technologies:;x
 BE_INVENT;Inventions:;x
 TOPBAR_DIPLOPOINTS_GAIN;We gain §Y$VALUE$§W diplomatic points each month;x
 TOPBAR_DIPLOPOINTS_BASEGAIN;Base gain: §Y$VALUE$§W diplomatic points;x
-THE_WORLD_IN;The World in $YEAR$;x
+THE_WORLD_IN;The Universe in $YEAR$;x
 TECHNOLOGY_ACTIVATION_YEAR;Activation year:;x
 TECHNOLOGY_RESEARCH_POINTS;Research points:;x
 TEMP_NEXT;Next;x
@@ -6167,8 +6173,8 @@ SLOW_SPEED;Slow Speed;x
 NORMAL_SPEED;Normal Speed;x
 FAST_SPEED;Fast Speed;x
 FASTEST_SPEED;Fastest Speed;x
-TOPBAR_DATE;This is the current date of the Third Age.\n(click to pause);x
-TOPBAR_DATE_IS_PAUSED;This is the current date of the Third Age.\n(click to unpause);x
+TOPBAR_DATE;This is the current date.\n(click to pause);x
+TOPBAR_DATE_IS_PAUSED;This is the current date.\n(click to unpause);x
 TOPBAR_PAUSE_INDICATOR;The game is currently paused.;x
 TOPBAR_SPEED_INDICATOR;The game is running at §Y$SPEED$§W.;x
 PLAYER_COUNTRY_TOPBAR_RANK;$NAME$ is a §Y$RANK$§W.;x
