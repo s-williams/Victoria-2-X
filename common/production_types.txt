@@ -414,12 +414,12 @@ RGO_template_farmers = {
 		{ 
 			poptype = farmers 
 			effect = throughput
-			amount = 1
+			amount = 0.5
 		}
 		{ 
 			poptype = slaves 
 			effect = output
-			amount = 1
+			amount = 0.5
 		}
 	}
 	
