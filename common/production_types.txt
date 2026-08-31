@@ -2,10 +2,73 @@
 ##### Factory Templates #####
 #############################
 
-factory_template = {
+cheap_factory_template = {
 	efficiency = {
 		hull_parts = 0.05
 		energy_cells = 0.5
+	}
+	
+	owner =
+	{
+		poptype = capitalists 
+		effect = input
+		effect_multiplier = -2.5
+	}
+	
+	employees = {		
+		{ 
+			poptype = craftsmen
+			effect = throughput
+			amount = 0.8
+		}		
+		{ 
+			poptype = clerks 
+			effect = output
+			effect_multiplier = 1.5
+			amount = 0.2
+		}
+	
+	}
+	type = factory
+	workforce = 10000 
+}
+
+factory_template = {
+	efficiency = {
+		hull_parts = 0.1
+		energy_cells = 1.5
+	}
+	
+	owner =
+	{
+		poptype = capitalists 
+		effect = input
+		effect_multiplier = -2.5
+	}
+	
+	employees = {		
+		{ 
+			poptype = craftsmen
+			effect = throughput
+			amount = 0.8
+		}		
+		{ 
+			poptype = clerks 
+			effect = output
+			effect_multiplier = 1.5
+			amount = 0.2
+		}
+	
+	}
+	type = factory
+	workforce = 10000 
+}
+
+expensive_factory_template = {
+	efficiency = {
+		hull_parts = 0.05
+		claytronics = 0.05
+		energy_cells = 2.5
 	}
 	
 	owner =
@@ -39,7 +102,7 @@ factory_template = {
 
 # Military goods factories
 weapon_components_factory = {
-	template = factory_template
+	template = expensive_factory_template
 	input_goods = {
 		energy_cells = 0.6
 		hull_parts = 0.2
@@ -50,7 +113,7 @@ weapon_components_factory = {
 	value = 1.6
 }
 drone_components_factory = {
-	template = factory_template
+	template = expensive_factory_template
 	input_goods = {
 		energy_cells = 0.6
 		hull_parts = 0.2
@@ -62,7 +125,7 @@ drone_components_factory = {
 	value = 1.0
 }
 missile_components_factory = {
-	template = factory_template
+	template = expensive_factory_template
 	input_goods = {
 		energy_cells = 0.2
 		advanced_composites = 0.1
@@ -73,7 +136,7 @@ missile_components_factory = {
 	value = 1.03
 }
 turret_components_factory = {
-	template = factory_template
+	template = expensive_factory_template
 	input_goods = {
 		energy_cells = 0.6
 		microchips = 0.2
@@ -85,7 +148,7 @@ turret_components_factory = {
 	value = 1.7
 }
 shield_components_factory = {
-	template = factory_template
+	template = expensive_factory_template
 	input_goods = {
 		energy_cells = 0.7
 		plasma_conductors = 0.2
@@ -98,7 +161,7 @@ shield_components_factory = {
 
 # Industrial goods factories
 silicon_refinery = {
-	template = factory_template
+	template = cheap_factory_template
 	input_goods = {
 		energy_cells = 0.9
 		silicon = 2.4
@@ -112,7 +175,7 @@ silicon_refinery = {
 	}
 }
 ore_refinery = {
-	template = factory_template
+	template = cheap_factory_template
 	input_goods = {
 		energy_cells = 0.9
 		ore = 2.4
@@ -122,7 +185,7 @@ ore_refinery = {
 	value = 1.2
 }
 graphene_refinery = {
-	template = factory_template
+	template = cheap_factory_template
 	input_goods = {
 		energy_cells = 0.8
 		methane = 3.2
