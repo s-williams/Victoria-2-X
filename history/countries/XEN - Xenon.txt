@@ -40,7 +40,6 @@ upper_house = {
 
 # Technologies
 tech_mechanization_1 = 1
-tech_mechanization_2 = 1
 tech_biotech_1 = 1
 tech_biotech_2 = 1
 tech_material_science_1 = 1
