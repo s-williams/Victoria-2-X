@@ -5445,6 +5445,10 @@ HAS_CULTURE_UNION;Has culture union;x
 HAS_NOT_CULTURE_UNION;Has NO culture union;x
 IS_STATE_CAPITAL;is state capital;x
 IS_NOT_STATE_CAPITAL;is NOT state capital;x
+SUBSIDIZE_ALL_TOOLTIP;Subsidize all factories on the list.;x
+UNSUBSIDIZE_ALL_TOOLTIP;Cancel subsidies for all factories on the list.;x
+OPEN_ALL_TOOLTIP;Open all factories on the list.;x
+CLOSE_ALL_TOOLTIP;Close all factories on the list.;x
 ON_ENACT_UNCIV_REFORM;When enacted:;x
 EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!;x
 TRIGGER_BUILD_IN_CAPITAL_DESC;§RConstruction is not allowed for now.§!;x
