@@ -32,7 +32,7 @@ guiTypes = {
 		name = "bg_main_menus"
 		spriteType = "GFX_bg_main_menus"
 		position = { x= 0 y = 0 }
-		Orientation = "UPPER_LEFT"
+		Orientation = "LOWER_RIGHT"
 	}
 
 	windowType = {

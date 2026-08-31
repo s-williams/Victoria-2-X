@@ -11,6 +11,8 @@ Colours:
 - Text highlight: 0 255 0
 - Text active 255 255 255
 - Text inactive 129 129 129
+- BG active 255 255 255
+- BG inactive 129 129 129
 
 ## TODO
 ### Alpha
