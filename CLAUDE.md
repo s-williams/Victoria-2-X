@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Victoria 2: X is a total conversion mod for Paradox Interactive's Victoria 2. It aims to overhaul the entire Victoria 2 experience - map, countries, events, decisions, cultures, religions - replacing it with content from Egosoft's X Universe. The mod also aims to implement quality of life features.
 
 ## Validation Scripts
-Python scripts in [scripts/](scripts/) validate mod consistency.
+Python scripts in [dev/scripts/cicd/](dev/scripts/cicd/) validate mod consistency. Other utility scripts live in [dev/scripts/utility/](dev/scripts/utility/).
 
 <!-- Note as of August 2026, check-provinces, check-ideologies, and check-terrains do not pass, they were copied over from another mod (TTA) and have yet to be re-implemented for X.-->
 
@@ -92,7 +92,7 @@ VANILLA DATA that references them, even after `map/`, `history/provinces/`, and
 1. `map/definition.csv` - trim to the IDs you keep. No gaps required, but no duplicate
    RGB colors allowed anywhere in the file (a duplicate color has caused a crash before,
    see git history around commit b838f91 "Somehow this works").
-2. `map/provinces.bmp` - run `scripts/replace-province-colors.py` AFTER trimming
+2. `map/provinces.bmp` - run `dev/scripts/utility/replace-province-colors.py` AFTER trimming
    `definition.csv`, so it recolors now-invalid pixels to a valid target color (default
    target matches province 1, "Space").
 3. `map/default.map` - `max_provinces` must be >= highest surviving ID + 1, and
