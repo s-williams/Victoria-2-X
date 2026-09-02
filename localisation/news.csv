@@ -128,6 +128,18 @@ AI_LOVES_US_TITLE1;$TAG_0_0$: Our best friend;x
 AI_LOVES_US_TITLE2;$TAG_0_0$ stands with us!;x
 AI_LOVES_US_TITLE3;$TAG_0_0$ knows its place!;x
 AI_LOVES_US_TITLE4;Warm Relations;x
+battle_we_lose_large;On $DATE_LONG_0$ our incompetent high command shockingly sent $VALUE_INT_0_4$ of our brave soldiers to their deaths in $STRING_0_3$ against the forces of  $TAG_0_2$. Our $VALUE_INT_0_3$ fine troops faced $VALUE_INT1$ $TAG_0_2_ADJ$ soldiers, and despite poor leadership and the enemy's underhanded tactics managed to inflict $VALUE_INT_0_2$ casualties upon them. This paper expresses grave concerns over the direction the high command is taking this war, and strongly urges the Government to take steps to correct it before it is too late!;x
+battle_we_lose_medium;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;x
+battle_we_lose_small;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;x
+battle_we_lose_title_large;MILITARY BLUNDER LEADS TO DISASTER IN $STRING_0_3$!;x
+battle_we_lose_title_medium;Defeat in $STRING_0_3$;x
+battle_we_lose_title_small;Disaster in $STRING_0_3$;x
+battle_we_win_large;On $DATE_LONG_0$ our unrivalled army was, once again, victorious in the battle of $STRING_0_3$! $VALUE_INT_0_1$ of our men bravely gave $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops a sound seeing to, and while $VALUE_INT_0_2$ of our fearless troops lost their lives, over $VALUE_INT_0_4$ $TAG_0_3_ADJ$ scoundrels were killed and the field was left in our hands. After a defeat like this, $TAG_0_3$ surely must soon seek peace terms!;x
+battle_we_win_medium;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$, at the cost of $VALUE_INT_0_2$ lives lost.;x
+battle_we_win_small;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$.;x
+battle_we_win_title_large;GLORIOUS VICTORY IN $STRING_0_3$!;x
+battle_we_win_title_medium;Victory in $STRING_0_3$!;x
+battle_we_win_title_small;Victory!;x
 CRISIS_END_DESC_LONG1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into war if a compromise was not reached. 'We declare there is no desire between our peoples to go to war against one another', the competing sides declared, though careful observers took notice that one side might be perceived as the victor, leaving the other with bitter aftertaste of concessions and loss of prestige, threatening the longevity of the signed agreement.;x
 CRISIS_END_DESC_LONG2;There is widespread relief following the news that a peaceful solution has been arrived at in $STRING_0_0$, recently a diplomatic hot spot. <CrisisWinner++++++> has managed to increase their influence after securing the backing of the Great Powers. An International Conference successfully brought the crisis to an end following weeks of diplomatic manoeuvres. War has been averted for the time being, although there is not universal satisfaction with the outcome, and it remains to be seen whether another power will challenge <CrisisWinner++++++> in the future.;x
 CRISIS_END_DESC_MEDIUM1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into the dreaded state of war if a compromise was not reached.;x
@@ -144,18 +156,30 @@ CRISIS_START_DESC_SHORT1;Great powers of the world lock themselves in a power st
 CRISIS_START_DESC_SHORT2;Tensions in $STRING_0_0$ have developed into a major crisis, as the Great Powers attempt to gain influence in the region. Frantic diplomatic activity is underway to try and avert war. ;x
 CRISIS_START_TITLE1;Crisis set in motion!;x
 CRISIS_START_TITLE2;Tensions Rise!;x
-GOODS_PRICE_UP_TITLE_LARGE;PRICES RISE!;x
-GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
-GOODS_PRICE_UP_TITLE_MEDIUM;PRICES RISE!;x
-GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
-GOODS_PRICE_UP_TITLE_SMALL;PRICES RISE!;x
-GOODS_PRICE_UP_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen!;x
-GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;x
 GOODS_PRICE_DOWN_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses.;x
-GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;x
 GOODS_PRICE_DOWN_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses;x
-GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;x
 GOODS_PRICE_DOWN_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock!;x
+GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;x
+GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;x
+GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;x
+GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
+GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
+GOODS_PRICE_UP_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen!;x
+GOODS_PRICE_UP_TITLE_LARGE;PRICES RISE!;x
+GOODS_PRICE_UP_TITLE_MEDIUM;PRICES RISE!;x
+GOODS_PRICE_UP_TITLE_SMALL;PRICES RISE!;x
+gwar_we_lose_large_desc;On $DATE_LONG_1$ the Great war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
+gwar_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;x
+gwar_we_lose_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
+gwar_we_lose_medium_title;PEACE WITH $TAG_2_0_UPPER$!;x
+gwar_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;x
+gwar_we_lose_small_title;Peace with $TAG_2_0$;x
+gwar_we_win_large_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
+gwar_we_win_large_title;$TAG_3_0_UPPER$ SURRENDERS!;x
+gwar_we_win_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
+gwar_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;x
+gwar_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;x
+gwar_we_win_small_title;Victory over $TAG_3_0$!;x
 INVENTION_NEWS_LARGE2;Science Report: Improvements and innovations in the field of $STRING_0_1$ have been patented and registered by researchers in $TAG_0_0$. The documentation of these advancements, although currently a secret kept behind closed doors, is expected to progressively spread to other lands and in time contribute to the progress of science in the world. ;x
 INVENTION_NEWS_MEDIUM2;Improvements and innovations in the field of $STRING_0_1$ have been registered in the National Patent Office of $TAG_0_0$. ;x
 INVENTION_NEWS_SMALL2;New improvements and innovations in the field of $STRING_0_1$ have been patented in $TAG_0_0$. ;x
@@ -211,6 +235,18 @@ WAR_NEWS_SMALL;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exis
 WAR_NEWS_TITLE_LARGE;WAR BETWEEN $TAG_0_0_UPPER$ AND $TAG_0_1_UPPER$!;x
 WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ GOES TO WAR!;x
 WAR_NEWS_TITLE_SMALL;$TAG_0_0_$ at War!;x
+war_we_lose_large_desc;On $DATE_LONG_1$ the war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
+war_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;x
+war_we_lose_medium_desc;On $DATE_LONG_1$, the War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end $TAG_2_0$ was the victor.;x
+war_we_lose_medium_title;SHAMEFUL PEACE SIGNED!;x
+war_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;x
+war_we_lose_small_title;Peace with $TAG_2_0$;x
+war_we_win_large_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
+war_we_win_large_title;ARMISTICE SIGNED!\n $TAG_3_0_UPPER$ SURRENDERS;x
+war_we_win_medium_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
+war_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;x
+war_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;x
+war_we_win_small_title;Victory over $TAG_3_0$!;x
 WE_BECOME_GP_DESC_LONG1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers. Many a proof of $TAG_0_0$'s struggling economy, feeble military and waning prestige unveiled over the recent months, as their allies couldn't rely on their assistance and their government became subject to foreign ploys. Their demise from the ranks of the worthy comes as benefit to us, with our global influence and leadership replacing theirs, proving that nature does not tolerate a vacuum.;x
 WE_BECOME_GP_DESC_MEDIUM1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers. Their demise from the ranks of the worthy comes as benefit to us, with our global influence replacing theirs.;x
 WE_BECOME_GP_DESC_SHORT1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers.;x
