@@ -354,6 +354,53 @@ INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes with $MUC
 INFLUENCE_CHANGE_SHORT;Influence with §Y$PASSIVE$§W changed by $MUCH$.\n;x
 HAVE_DIPLOMATIC_INFLUENCE;has more diplomatic influence than;x
 HAVE_LESS_DIPLOMATIC_INFLUENCE;has lower diplomatic influence than;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_1;§Y$ACTOR$§W;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_2;$MONARCHTITLE$, we have grown tired of the foul presence of the troops of ;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_3;§Y$RECIPIENT$§W;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_4;on our soil so we have canceled the Military Access they were so generously given;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_5;*;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_6;The people of §Y$ACTOR$§W rejoice at the news.;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN1;OK;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN2;OK;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN3;Go to;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_HEADER;The Foreign Minister reports;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_1;§Y$ACTOR$§W;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_2;$MONARCHTITLE$ we are outraged to discover that ;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_3;§Y$ACTOR$§W;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_4;has canceled the Military Access they have generously been given by us.;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_5;*;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_6;Although we should really have beaten them to it.;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN1;OK;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN2;OK;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN3;Go to;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_1;§Y$ACTOR$§W;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_2;$MONARCHTITLE$;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_3;§Y$ACTOR$§W;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_4;has canceled the Military Access they have been given by;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_5;§Y$RECIPIENT$§W;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_6;Looks like trouble is brewing. We could profit from this.;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN1;OK;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN2;OK;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN3;Go to;x
+DECREASERELATIONTITLE;Decrease Relations;x
+WARGOALTITLE;Add War Goal;x
+WARSUBSIDIESTITLE;Offer War Subsidies;x
+CANCEL_WARSUBSIDIESTITLE;Cancel War Subsidies;x
+ASKMILITARYACCESSTITLE;Request Military Access;x
+CANCELASKMILITARYACCESSTITLE;Cancel Military Access;x
+GIVEMILITARYACCESSTITLE;Offer Military Access;x
+CANCELGIVEMILITARYACCESSTITLE;Cancel granted Military Access;x
+CANCELALLIANCETITLE;Cancel Alliance;x
+CALLALLYTITLE;Call ally to War;x
+DISCREDITTITLE;Discredit Great Power;x
+EXPELADVISORSTITLE;Expel Great Power's advisers;x
+BANEMBASSYTITLE;Ban Great Power's embassy;x
+INCREASEOPINIONTITLE;Increase Opinion;x
+DECREASEOPINIONTITLE;Decrease Opinion of Great Power;x
+ADDTOSPHERETITLE;Add to Sphere of Influence;x
+REMOVEFROMSPHERETITLE;Remove from Sphere of Influence;x
 INCREASERELATION_BUTTON;Increase Relations;x
 DECREASERELATION_BUTTON;Decrease Relations;x
 CALLALLY_OFFER;The country of $ACTOR$, your faithful ally, is requesting that you come to their aid in the $LIST$.;x
@@ -3531,6 +3578,7 @@ ELECTIONDONE_SETUP;When the Election campaign has finished.;x
 ELECTIONDONE_HEADER;Political News in $COUNTRY$;x
 ELECTIONDONE_1;Election finished!;x
 ELECTIONDONE_2;$MONARCHTITLE$, the elections are now finished.;x
+ELECTIONDONE_3;$WINNER$ is now the new ruling party.;x
 ELECTIONDONE_4;$DETAILS$;x
 ELECTIONDONE_5;*;x
 ELECTIONDONE_6;*;x
@@ -5922,215 +5970,6 @@ Maneuver;Maneuver;x
 LEDGER;LEDGER;x
 IS_EMPTY; has no owner;x
 IS_NOT_EMPTY; has an owner;x
-KEYNAME;TEXT;x
-news1;The government of $TAG_2_0$ offered the peace with the following terms: $STRING_0_1$;x
-battle_we_win_title_large;GLORIOUS VICTORY IN $STRING_0_3$!;x
-battle_we_win_large;On $DATE_LONG_0$ our unrivalled army was, once again, victorious in the battle of $STRING_0_3$! $VALUE_INT_0_1$ of our men bravely gave $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops a sound seeing to, and while $VALUE_INT_0_2$ of our fearless troops lost their lives, over $VALUE_INT_0_4$ $TAG_0_3_ADJ$ scoundrels were killed and the field was left in our hands. After a defeat like this, $TAG_0_3$ surely must soon seek peace terms!;x
-battle_we_win_title_medium;Victory in $STRING_0_3$!;x
-battle_we_win_medium;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$, at the cost of $VALUE_INT_0_2$ lives lost.;x
-battle_we_win_title_small;Victory!;x
-battle_we_win_small;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$.;x
-battle_we_lose_title_large;MILITARY BLUNDER LEADS TO DISASTER IN $STRING_0_3$!;x
-battle_we_lose_large;On $DATE_LONG_0$ our incompetent high command shockingly sent $VALUE_INT_0_4$ of our brave soldiers to their deaths in $STRING_0_3$ against the forces of $TAG_0_2$. Our $VALUE_INT_0_3$ fine troops faced $VALUE_INT1$ $TAG_0_2_ADJ$ soldiers, and despite poor leadership and the enemy's underhanded tactics managed to inflict $VALUE_INT_0_2$ casualties upon them. This paper expresses grave concerns over the direction the high command is taking this war, and strongly urges the Government to take steps to correct it before it is too late!;x
-battle_we_lose_title_medium;Defeat in $STRING_0_3$;x
-battle_we_lose_medium;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;x
-battle_we_lose_title_small;Disaster in $STRING_0_3$;x
-battle_we_lose_small;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;x
-gwar_we_win_large_title;$TAG_3_0_UPPER$ SURRENDERS!;x
-gwar_we_win_large_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
-gwar_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;x
-gwar_we_win_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
-gwar_we_win_small_title;Victory over $TAG_3_0$!;x
-gwar_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;x
-gwar_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;x
-gwar_we_lose_large_desc;On $DATE_LONG_1$ the Great war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
-gwar_we_lose_medium_title;PEACE WITH $TAG_2_0_UPPER$!;x
-gwar_we_lose_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
-gwar_we_lose_small_title;Peace with $TAG_2_0$;x
-gwar_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;x
-war_we_win_large_title;ARMISTICE SIGNED!\n $TAG_3_0_UPPER$ SURRENDERS;x
-war_we_win_large_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
-war_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;x
-war_we_win_medium_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;x
-war_we_win_small_title;Victory over $TAG_3_0$!;x
-war_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;x
-war_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;x
-war_we_lose_large_desc;On $DATE_LONG_1$ the war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;x
-war_we_lose_medium_title;SHAMEFUL PEACE SIGNED!;x
-war_we_lose_medium_desc;On $DATE_LONG_1$, the War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end $TAG_2_0$ was the victor.;x
-war_we_lose_small_title;Peace with $TAG_2_0$;x
-war_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;x
-rebels_win_small_title;Revolution!;x
-rebels_win_small_desc;$STRING_0_0$ have defeated $TAG_0_0$ and broken the country, what will the $STRING_0_3$ $STRING_0_4$ do now?;x
-GOODS_PRICE_UP_TITLE_LARGE;PRICES RISE!;x
-GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
-GOODS_PRICE_UP_TITLE_MEDIUM;PRICES RISE!;x
-GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;x
-GOODS_PRICE_UP_TITLE_SMALL;PRICES RISE!;x
-GOODS_PRICE_UP_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen!;x
-GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;x
-GOODS_PRICE_DOWN_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses.;x
-GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;x
-GOODS_PRICE_DOWN_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses;x
-GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;x
-GOODS_PRICE_DOWN_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock!;x
-REVOLUTION_NEWS_TITLE_LARGE;REVOLUTION IN $TAG_0_0_UPPER$!;x
-REVOLUTION_NEWS_LARGE;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'As we take over the government, citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced. 'We are not a rogue state, we only plan to pursue more equal relations with our international partners', a government official commented, challenged about new ruling party's intentions to back down on the agreements and assurances issued by the previous administration.;x
-REVOLUTION_NEWS_TITLE_MEDIUM;REVOLUTION IN $TAG_0_0_UPPER$!;x
-REVOLUTION_NEWS_MEDIUM;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'Citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced.;x
-REVOLUTION_NEWS_TITLE_SMALL;REVOLUTION!;x
-REVOLUTION_NEWS_SMALL;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country.;x
-INVENTION_NEWS_TITLE_LARGE;INVENTION!;x
-INVENTION_NEWS_LARGE;Researchers and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;x
-INVENTION_NEWS_TITLE_MEDIUM;INVENTION!;x
-INVENTION_NEWS_MEDIUM;Researchers and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;x
-INVENTION_NEWS_TITLE_SMALL;Invention!;x
-INVENTION_NEWS_SMALL;Researchers and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;x
-INVENTION_SUFFIX1;Progress marches ever onwards!;x
-INVENTION_SUFFIX2;Truely the light of the future!;x
-INVENTION_SUFFIX3;This may doom us all!;x
-INVENTION_SUFFIX4;Good news, everyone!;x
-INVENTION_SUFFIX5;This is the dawn of a new age!;x
-INVENTION_SUFFIX6;Today's progress was yerterday's plan.;x
-INVENTION_SUFFIX7;Let us hope they use it for good.;x
-INVENTION_SUFFIX8;Science never sleeps!;x
-INVENTION_SUFFIX_LONG1; But at what cost?;x
-INVENTION_SUFFIX_LONG2; Whatever will they think of next?;x
-INVENTION_SUFFIX_LONG3; It will never catch on.;x
-INVENTION_SUFFIX_LONG4; They clearly stole the idea from us.;x
-PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$ EXPANDS!;x
-PROVINCE_NEWS_LARGE;The province of $STRING_0_0$ now belongs to $TAG_0_1$. An envoy from $TAG_0_1$ has stated that '$STRING_0_0$ is an integral part of $TAG_0_1$' and that '$TAG_0_0$ has no claim to it now it is back in our rightful hands'.;x
-PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$ EXPANDS!;x
-PROVINCE_NEWS_MEDIUM;The province of $STRING_0_0$ now belongs to $TAG_0_1$. An envoy from $TAG_0_1$ has stated that '$STRING_0_0$ is an integral part of $TAG_0_1$'.;x
-PROVINCE_NEWS_TITLE_SMALL;$TAG_0_1$ Expands!;x
-PROVINCE_NEWS_SMALL;The province of $STRING_0_0$ now belongs to $TAG_0_1$. An envoy from $TAG_0_1$ looked rather pleased in a recent interview.;x
-RESEARCH_NEWS_TITLE_LARGE;$TAG_0_0_ADJ$ research complete!;x
-RESEARCH_NEWS_LARGE;Researchers in $TAG_0_0$ have recently completed research into $STRING_0_1$. This breakthrough is sure to offer $TAG_0_0$ many advantages in the days to come as further inventions take place in this field.;x
-RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0_ADJ$ research complete!;x
-RESEARCH_NEWS_MEDIUM;Researchers in $TAG_0_0$ have recently completed research into $STRING_0_1$. This breakthrough is sure to offer $TAG_0_0$ many advantages in the days to come as further inventions take place in this field.;x
-RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0_ADJ$ research complete!;x
-RESEARCH_NEWS_SMALL;Researchers in $TAG_0_0$ have recently completed research into $STRING_0_1$.;x
-WAR_NEWS_TITLE_LARGE;WAR BETWEEN $TAG_0_0_UPPER$ AND $TAG_0_1_UPPER$!;x
-WAR_NEWS_LARGE;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists between them and $TAG_0_1$. An envoy from $TAG_0_0$, when asked for the reasons war had been declared stated the need to '$STRING_0_1$'. 'We only intend to reclaim what was unjustly claimed before and restore peace and order to the region', he added. 'This unlawful aggression will not stand' his counterpart in $TAG_0_1$ responded, demanding international community to condemn the aggressor. May Eru have mercy on them all.;x
-WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ GOES TO WAR!;x
-WAR_NEWS_MEDIUM;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists with $TAG_0_1$. The stated reason for this declaration is to '$STRING_0_1$'. 'This unlawful aggression will not stand' an envoy from $TAG_0_1$ commented.;x
-WAR_NEWS_TITLE_SMALL;$TAG_0_0_$ at War!;x
-WAR_NEWS_SMALL;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists with $TAG_0_1$.;x
-AI_FEARS_US_TITLE1;$TAG_0_0_UPPER$ FEARS OUR MIGHT!;x
-AI_FEARS_US_DESC1_LONG;Reports of rumours are coming in from our correspondent in $TAG_0_0$. An unnamed source informs that a series of meetings involving top military officers have taken place in their capital in the last few months. The top theme of these meetings involves a possible fictitious scenario where war is declared and our military invades them. Measures of counter-attack and, if needed, even guerrilla warfare methods were discussed. Apparently the top command of the $TAG_0_0_ADJ$ army is preparing for the worst. It seems we are feared by them!;x
-AI_FEARS_US_DESC1_MEDIUM;An unnamed source in $TAG_0_0$ reports that the government there is preparing for the worst. A fictitious scenario involving a war declaration by our country against them is deemed possible, and top military officers consider our military might frightening!;x
-AI_FEARS_US_DESC1_SHORT;Reports are coming in from an unnamed source in $TAG_0_0$ of a series of military meetings in their capital. It seems they deem an invasion by our troops a serious possibility! ;x
-AI_FEARS_US_TITLE2;$TAG_0_0$ fears we are coming!;x
-AI_FEARS_US_DESC2_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! A detailed analysis of the chilly relations between our countries and a careful comparison of our relative military strengths led the editor to the conclusion that our countries might soon find themselves in a state of war, and when that day comes, $TAG_0_0$'s very existence might be threatened. The elite and the commoners alike, the citizens of $TAG_0_0$ demand their government to seek alliance with a greater power to diminish the unavoidable threat we are posing.;x
-AI_FEARS_US_DESC2_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! A detailed analysis of the chilly relations between our countries led the editor to the conclusion that absent new guarantees, our countries might soon find themselves in a state of war.;x
-AI_FEARS_US_DESC2_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! Analysis of chilly relations between our countries led the editor to the conclusion that war might be unavoidable.;x
-AI_FEARS_US_TITLE3;$TAG_0_0_ADJ$ insults!;x
-AI_FEARS_US_DESC3_LONG;Prejudice and hatred reign in $TAG_0_0$. The growing chorus of insults reached new lows on Monday as the $TAG_0_0_ADJ$ official slapped our envoy in $TAG_0_0$. When asked for comment, our government said that this was 'More proof, as if any was needed, that they cannot be trusted to behave in a civilised manner. Savages and cads govern in $TAG_0_0$, and the sooner these wretches are rooted out the better'. Diplomatic channels remain open for now, but war may be inevitable.;x
-AI_FEARS_US_DESC3_MEDIUM;Prejudice and hatred reign supreme in $TAG_0_0$. On Monday the $TAG_0_0_ADJ$ official slapped our envoy. Our government said that 'savages and cads govern in $TAG_0_0$, and the sooner these wretches are rooted out, the better'.;x
-AI_FEARS_US_DESC3_SHORT;On Monday the $TAG_0_0_ADJ$ official slapped our envoy. Savages and bounders govern in $TAG_0_0$, and the sooner these wretches are rooted out, the better.;x
-AI_FEARS_OTHER_TITLE1;The fears of $TAG_0_0$;x
-AI_FEARS_OTHER_DESC1_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! A detailed analysis of their chilly relations with $TAG_0_1$ and a comparison of their relative military strengths led the editor to the conclusion that both countries might soon find themselves in a state of war, and when that day comes, $TAG_0_0$'s very existence might be threatened. The elite and the commoners alike, the citizens of $TAG_0_0$ demand their government to seek alliances to diminish the unavoidable threat the $TAG_0_1_ADJ$ pose.;x
-AI_FEARS_OTHER_DESC1_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! A detailed analysis of their chilly relations with $TAG_0_1$ led the editor to the conclusion that absent new guarantees, both countries might soon find themselves in the state of war.;x
-AI_FEARS_OTHER_DESC1_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their country! Analysis of their chilly relations with $TAG_0_1$ led to the conclusion that war might be unavoidable.;x
-AI_FEARS_OTHER_TITLE2;The $TAG_0_0_ADJ$ fear;x
-AI_FEARS_OTHER_DESC2_LONG;According to reports from the inner circles of the $TAG_0_0_ADJ$ government, the prevalent mood of all top officials is one of deep apprehension and fear. Many predict that rivalries between $TAG_0_1$ and them will spark an international conflict, one which $TAG_0_0$ might well lose. Therefore, it is rumoured they are considering the possibility that war might come to their doorstep, and are making concrete preparations should this happen. Fear seems to also be spreading to the population, who expect the worst: A cruel defeat.;x
-AI_FEARS_OTHER_DESC2_MEDIUM;The mood of $TAG_0_0_ADJ$ officials is one of frightful apprehension when it comes to the actions of $TAG_0_1$. Being ever watchful of their actions, many fear that an eventual war between both countries will result in a cruel defeat to $TAG_0_0$.;x
-AI_FEARS_OTHER_DESC2_SHORT;Through local press reports, it seems the $TAG_0_0_ADJ$ population and government are suffering from a widespread fear of $TAG_0_1$'s military power. More on page 4.;x
-AI_LOVES_US_TITLE1;$TAG_0_0$: Our best friend;x
-AI_LOVES_US_DESC1_LONG;Have you ever considered fellow $TAG_0_0_ADJ$ citizens your best friends? Perhaps. However, it certainly seems they consider us as a target, not to fight against, but to befriend! A series of diplomats and envoys in our capital have been outspoken in their support for an alliance between our two great countries, should war break out. 'It is no wonder that we must pledge support to each other in these troubled times. When everyone around you is at each other's throats, a friend in need is a friend indeed!' said a diplomat in an interview.;x
-AI_LOVES_US_DESC1_MEDIUM;$TAG_0_0_ADJ$ diplomats in our capital are outspoken in their support for an alliance between our two great countries. According to governmental sources, relations between us and them are at an all time high and may even lead to a mutual pledge of military support soon.;x
-AI_LOVES_US_DESC1_SHORT;The relations between the $TAG_0_0_ADJ$ government and ours have never been better. Political analysts say that they consider us as a potential ally and friend for peace and war.;x
-AI_LOVES_US_TITLE2;$TAG_0_0$ stands with us!;x
-AI_LOVES_US_DESC2_LONG;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our countries. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both our countries to stand as friends and brothers. Using words like 'trustworthy', 'reliable' and 'steadfast' to describe our relations, the newspaper encouraged $TAG_0_0$'s government to continue aligning themselves with our policies to pursue common interests and goals, and to strengthen mutual guarantees and assurances.;x
-AI_LOVES_US_DESC2_MEDIUM;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our countries. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both our countries to stand as friends and brothers.;x
-AI_LOVES_US_DESC2_SHORT;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our countries. Editor encouraged their government to continue aligning themselves with our policies.;x
-AI_LOVES_US_TITLE3;$TAG_0_0$ knows its place!;x
-AI_LOVES_US_DESC3_LONG;"Common sense is the order of the day in $TAG_0_0$, as their government and people continue to be enamoured with all things $OURCOUNTRY_ADJ$. In the political, military and cultural spheres, our obviously apparent superiority is readily acknowledged by the snivelling wretches. The $TAG_0_0_ADJ$ government official, in a shameful attempt to ingratiate himself with our elites, said ""We welcome the paternal and guiding hand of $OURCOUNTRY_ADJ$. Long may our countries' friendship continue, to our mutual benefit"". Whether that will be the case remains to be seen.";x
-AI_LOVES_US_DESC3_MEDIUM;Common sense is the order of the day in the $TAG_0_0_ADJ$ capital, as their government and people continue to be enamoured with all things $OURCOUNTRY_ADJ$. In the political, military and cultural spheres, our obvious superiority is acknowledged by the wretches.;x
-AI_LOVES_US_DESC3_SHORT;The $TAG_0_0_ADJ$ government and people continue to be enamoured with $OURCOUNTRY$. In all spheres, our obvious superiority is readily acknowledged.;x
-AI_LOVES_OTHER_TITLE1;$TAG_0_0$'s relations;x
-AI_LOVES_OTHER_DESC1_LONG;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of their amiable relations with $TAG_0_1$. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both countries to stand as friends and brothers. Using words like 'trustworthy', 'steadfast' and 'reliable' to describe their relations, the newspaper encouraged $TAG_0_0$'s government to continue aligning themselves with $TAG_0_1$'s policies to pursue common interests, and to strengthen mutual guarantees and assurances.;x
-AI_LOVES_OTHER_DESC1_MEDIUM;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of their amiable relations with $TAG_0_1$. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both countries to stand as friends and brothers.;x
-AI_LOVES_OTHER_DESC1_SHORT;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of their great relations with $TAG_0_1$. The editor called on the league with $TAG_0_1$ to be maintained.;x
-AI_LOVES_OTHER_TITLE2;$TAG_0_0_ADJ$-$TAG_0_1_ADJ$ relations;x
-AI_LOVES_OTHER_DESC2_LONG;Although history might have put our two countries at odds sometimes, it is clear that fate herself decided to bring us together!', said the $TAG_0_0_ADJ$ government spokesman yesterday in their country's capital, referring to the recent increase of cooperation with $TAG_0_1$. The abolition of some custom duties between both lands last year and the frequent visits of ambassadors from $TAG_0_0$ seem to show that a guarantee of friendship through a military alliance is indeed a solid possibility.;x
-AI_LOVES_OTHER_DESC2_MEDIUM;Smiling $TAG_0_0_ADJ$ diplomats were seen yesterday at a summit in the $TAG_0_1_ADJ$ capital. '$TAG_0_1$ is our natural ally', mentioned one $TAG_0_0_ADJ$ official. Political analysts predict an alliance pact might be signed soon.;x
-OTHER_NEW_GP_TITLE1;The Rise of $TAG_0_1$;x
-OTHER_NEW_GP_DESC_LONG1;Following $TAG_0_0$'s decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers. Many a proof of $TAG_0_0$'s struggling economy, feeble military and waning prestige unveiled over the recent months, as their allies couldn't rely on their assistance and their government became a subject to foreign ploys. Their fall from the ranks of the worthy comes as benefit to $TAG_0_1$, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;x
-OTHER_NEW_GP_DESC_MEDIUM1;Following $TAG_0_0$'s persisting decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;x
-OTHER_NEW_GP_DESC_SHORT1;Following $TAG_0_0$'s persisting decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers.;x
-WE_BECOME_GP_TITLE1;We benefit from $TAG_0_0$'s decline;x
-WE_BECOME_GP_DESC_LONG1;Following $TAG_0_0$'s decline, we assume our rightful standing among the countries of the world by ascending to the position of one of the great powers. Many a proof of $TAG_0_0$'s struggling economy, feeble military and waning prestige unveiled over the recent months, as their allies couldn't rely on their assistance and their government became subject to foreign ploys. Their demise from the ranks of the worthy comes as benefit to us, with our global influence and leadership replacing theirs, proving that nature does not tolerate a vacuum.;x
-WE_BECOME_GP_DESC_MEDIUM1;Following $TAG_0_0$'s decline, we assume our rightful standing among the countries of the world by ascending to the position of one of the great powers. Their demise from the ranks of the worthy comes as benefit to us, with our global influence replacing theirs.;x
-WE_BECOME_GP_DESC_SHORT1;Following $TAG_0_0$'s decline, we assume our rightful standing among the countries of the world by ascending to the position of one of the great powers.;x
-WE_LOSE_GP_TITLE1;$TAG_0_1$ benefits from our decline;x
-WE_LOSE_GP_DESC_LONG1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers. Many a proof of our struggling economy, feeble military and waning prestige unveiled over the recent months, as our allies couldn't rely on our assistance and our government became a subject to foreign ploys. Our demise from the ranks of the worthy comes as benefit to $TAG_0_1$, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;x
-WE_LOSE_GP_DESC_MEDIUM1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;x
-WE_LOSE_GP_DESC_SHORT1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the countries of the world by ascending to the position of one of the great powers.;x
-CRISIS_START_TITLE1;Crisis set in motion!;x
-CRISIS_START_DESC_LONG1;Whether there still remains any hope to resolve the matter peacefully, noone is able to tell at this point, as great powers of the world lock themselves in the power struggle of the commencing international crisis. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out, and as the belligerent participants delay the resolution by drawing lines in sand and flexing their muscles in politics of attrition and coercion to reduce or avoid concessions, they might soon find themselves in the dreaded state of war.;x
-CRISIS_START_DESC_MEDIUM1;Great powers of the world lock themselves in a power struggle. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out, as the belligerent parties delay the resolution by drawing lines in sand and flexing their muscles.;x
-CRISIS_START_DESC_SHORT1;Great powers of the world lock themselves in a power struggle. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out.;x
-CRISIS_END_TITLE1;CRISIS AVERTED!;x
-CRISIS_END_DESC_LONG1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into war if a compromise was not reached. 'We declare there is no desire between our peoples to go to war against one another', the competing sides declared, though careful observers took notice that one side might be perceived as the victor, leaving the other with bitter aftertaste of concessions and loss of prestige, threatening the longevity of the signed agreement.;x
-CRISIS_END_DESC_MEDIUM1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into the dreaded state of war if a compromise was not reached.;x
-CRISIS_END_DESC_SHORT1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, averting the possiblity of war.;x
-RESEARCH_NEWS_TITLE_LARGE2;Breakthrough in $TAG_0_0$!;x
-RESEARCH_NEWS_LARGE2;$TAG_0_0_ADJ$ researchers in $TAG_0_0$ have announced yesterday that after months of dedicated and focused research, a new breakthrough in the field of $STRING_0_1$ has been made. It is expected that the entrepreneurs and government of $TAG_0_0$ will soon start putting this newly acquired knowledge to good use, applying it in practical ways throughout the country.;x
-RESEARCH_NEWS_TITLE_MEDIUM2;Breakthrough in $TAG_0_0$!;x
-RESEARCH_NEWS_MEDIUM2;$TAG_0_0_ADJ$ researchers in $TAG_0_0$ have announced a breakthrough in the field of $STRING_0_1$. This new knowledge will soon be applied in practical ways, said one of the researchers.;x
-RESEARCH_NEWS_TITLE_SMALL2;Breakthrough in $TAG_0_0$!;x
-RESEARCH_NEWS_SMALL2;$TAG_0_0_ADJ$ researchers in $TAG_0_0$ have recently announced a breakthrough in the field of $STRING_0_1$.;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_LARGE_COMMUNIST;COMMUNISM TRIUMPHS IN $TAG_0_0_UPPER$!;x
-COMMUNIST_REVOLUTION_NEWS_LARGE_COMMUNIST;Workers of the world, unite!' Once more our rallying cry has proven fitting for such a victorious revolution. The corrupt powers of capitalism cannot stop the desire of the proletariat for a better future. We have received joyous news from our comrades in $TAG_0_0$, who managed to rise in rebellion against the crooks and thieves that mistreated and exploited the common folk. They seized the governmental powers, taking it back where it belongs: the hands of the people, represented by the people's committee: $STRING_0_0$!;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_MEDIUM_COMMUNIST;COMMUNISM IN $TAG_0_0_UPPER$!;x
-COMMUNIST_REVOLUTION_NEWS_MEDIUM_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our communist comrades have been victorious in overthrowing the government and establishing the one and true people's party: $STRING_0_0$!;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_SMALL_COMMUNIST;REVOLUTION!;x
-COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt Capitalist crooks!;x
-battle_we_lose_large_censored_press;Reports from the field tell us that on $DATE_LONG_0$, our courageous troops have made a tactical retreat from the battle against $TAG_0_3$ in $STRING_0_3$. This has been proven necessary to maximise our element of unpredictability and surprise. $VALUE_INT_0_4$ enemy soldiers have been killed by our valiant boys. Although $VALUE_INT_0_2$ of our soldiers are yet to report back for duty, it's worth noting that many of our troops remain hidden to surprise the enemy in an ambush, showing true courage and resilience!;x
-battle_we_lose_medium_censored_press;On $DATE_LONG_0$, a tactical retreat from the battle against $TAG_0_3$ has been proven necessary, in order to maximise our element of surprise! $VALUE_INT_0_2$ of our soldiers are said to be hiding for an ambush, while $VALUE_INT_0_4$ enemy troops have been killed!;x
-battle_we_lose_small_censored_press;On $DATE_LONG_0$, a tactical retreat has been conducted from the battle against $TAG_0_3$. It is thought $VALUE_INT_0_2$ of our troops are in hiding, preparing for an ambush!;x
-battle_we_lose_censored_title_large;Interrupted enemy advance in $STRING_0_3$!;x
-battle_we_lose_censored_large;They were outnumbered forty to one in some sections of the front, and still held the line' a high military commander praised the bravery of our soldiers, who managed to delay enemy advance in $STRING_0_3$ for as long as it was strategically feasible, and inflicted $VALUE_INT_0_2$ of casualties against our foes. 'We are not ready to publish the number of casualties on our side' a government official replied, when asked about our own losses. 'Our people must rally behind the government when it comes to national defence' he challenged the sceptics.;x
-battle_we_lose_censored_title_medium;Delayed enemy in $STRING_0_3$;x
-battle_we_lose_censored_medium;Our brave soldiers succeeded in slowing down enemy advance against our territory, fighting a pitched battle against outnumbering force from $TAG_0_2$. 'If we lose every battle in such a great fashion, we might as well win this entire war' a high ranking officer commented.;x
-battle_we_lose_censored_title_small;Moral victory in $STRING_0_3$;x
-battle_we_lose_censored_small;On $DATE_LONG_0$ we successfully evacuated troops from the battle of $STRING_0_3$, inflicting $VALUE_INT_0_2$ casualties, but leaving $TAG_0_2$ in control of the field.;x
-war_we_lose_censored_large_title;OUR BOYS RETURN HOME.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;x
-war_we_lose_censored_large_desc;On $DATE_LONG_1$ our government decided to yield in the war against $TAG_2_0$. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and the result was $STRINGS_LIST_4$. 'We gave no quarter, and we can be proud of our boys, we showed we are not a pushover' government officials commented, 'But in the end, it wasn't worth spilling more of our youth's blood'. All citizens are to rejoice that our brave sons are returning home, although no official celebrations are scheduled at this time.;x
-war_we_lose_censored_medium_title;PEACE WITH $TAG_2_0_UPPER$!;x
-war_we_lose_censored_medium_desc;On $DATE_LONG_1$ our government decided to yield in the war against $TAG_2_0$. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and the result was $STRINGS_LIST_4$.;x
-war_we_lose_censored_small_title;Peace with $TAG_2_0$;x
-war_we_lose_censored_small_desc;$STRING_0_0$ has ended with our surrender to the unexpected victor, $TAG_2_0$.;x
-CRISIS_START_TITLE2;Tensions Rise!;x
-CRISIS_START_DESC_LONG2;Following months of increasing pressure, tensions in $STRING_0_0$ have reached a point where we have an international crisis on our hands. The Great Powers are trying to find a peaceful solution to prevent further escalation, but there are also some who seek to increase their influence. Frantic diplomatic activity is taking place as the Great Powers clamour for influence. If a resolution is not found, and as those on the side-lines take sides in the dispute, an incident in $STRING_0_0$ has the potential to develop into a general war.;x
-CRISIS_START_DESC_MEDIUM2;Great Powers are vying for influence in $STRING_0_0$, and tensions have risen dramatically in the region. A peaceful solution is being sought by the Great Powers in a bid to avoid any further escalation, but it remains to be seen whether conflict can be avoided.;x
-CRISIS_START_DESC_SHORT2;Tensions in $STRING_0_0$ have developed into a major crisis, as the Great Powers attempt to gain influence in the region. Frantic diplomatic activity is underway to try and avert war. ;x
-CRISIS_END_TITLE2;Tensions Recede;x
-CRISIS_END_DESC_LONG2;There is widespread relief following the news that a peaceful solution has been arrived at in $STRING_0_0$, recently a diplomatic hot spot. <CrisisWinner++++++> has managed to increase their influence after securing the backing of the Great Powers. An International Conference successfully brought the crisis to an end following weeks of diplomatic manoeuvres. War has been averted for the time being, although there is not universal satisfaction with the outcome, and it remains to be seen whether another power will challenge <CrisisWinner++++++> in the future.;x
-CRISIS_END_DESC_MEDIUM2;The international crisis in $STRING_0_0$ has reached a peaceful solution following a diplomatic conference of the Great Powers. <CrisisWinner++++++> has been able to increase their influence, without resorting to war. It remains to be seen whether this peace will last.;x
-CRISIS_END_DESC_SHORT2;War has been averted as the crisis in $STRING_0_0$ has been resolved following a conference of the Great Powers. <CrisisWinner++++++> has successfully increased their influence ;x
-OTHER_NEW_GP_DESC_LONG2;$TAG_0_1$ has been growing in status for a number of years, and has now risen to be considered one of the world Great Powers. The $TAG_0_1_ADJ$ reputation, enhanced by international acceptance of their status, has grown considerably, and we now expect $TAG_0_1$ push to extend their influence. $TAG_0_0$ has been unable to halt their recent decline, and are now widely considered to be a secondary power in world affairs. This loss of status will be keenly felt, and already their international influence has decreased markedly. ;x
-OTHER_NEW_GP_DESC_MEDIUM2;$TAG_0_1$ has been widely accepted as a Great Power by the international community. This recognises the steady growth in power of the state, but has not been universally welcomed. $TAG_0_0$ is now considered a mere secondary power, much to their dismay.;x
-OTHER_NEW_GP_DESC_SHORT2;The rising state of $TAG_0_1$ has displaced $TAG_0_0$ as a Great Power in the eyes of the international community, following shifts in status and international influence. ;x
-AI_LOVES_US_TITLE4;Warm Relations;x
-AI_LOVES_US_DESC4_LONG;Our correspondent has been told by his sources within the Foreign office that in the last few weeks, the leader of $TAG_0_0$ made a grand speech to his people praising our country and the achievements of our people. It is believed that the speech is an attempt by $TAG_0_0$ to draw closer to our mighty country and it we must response to these overtures with the courtesy typical of the $TAG_0_1_ADJ$ people. We praise these attempts and hope that they will lead to a continued period of collaboration between our two glorious countries.;x
-AI_LOVES_US_DESC4_MEDIUM;After a reportedly very productive meeting with our ambassador last week, a representative of the $TAG_0_0_ADJ$ people gave a speech on the steps of the Foreign office praising our country and government, opening the door to a new dialogue of collaboration and partnership.;x
-AI_LOVES_US_DESC4_SHORT;A new era of Friendship between our nations has begun' These were the words of the $TAG_0_0_ADJ$ Ambassador as he spoke to assembled journalists following talks in the capital.;x
-INVENTION_NEWS_TITLE_LARGE2;New invention!;x
-INVENTION_NEWS_LARGE2;Science Report: Improvements and innovations in the field of $STRING_0_1$ have been registered by researchers in $TAG_0_0$. The documentation of these advancements, although currently a secret kept behind closed doors, is expected to progressively spread to other lands and in time contribute to progress in the world. ;x
-INVENTION_NEWS_TITLE_MEDIUM2;New creation!;x
-INVENTION_NEWS_MEDIUM2;Improvements and innovations in the field of $STRING_0_1$ have been registered in $TAG_0_0$. ;x
-INVENTION_NEWS_TITLE_SMALL2;New improvement!;x
-INVENTION_NEWS_SMALL2;New improvements and innovations in the field of $STRING_0_1$ have been discovered in $TAG_0_0$. ;x
-EDITORIAL_ABSMON;Editorial: why it is right and proper to hate anti-legitimists - providence itself demands it! Why, these ne’er-do-wells would have the peasant rabble govern themselves (see page 10) ;x
-EDITORIAL_PRUCON;Editorial: why it is right to hate reformists of every stripe - the natural order demands it! Why, these liberal speculators and cosmopolitans would run our country as a whorehouse (see page 10);x
-EDITORIAL_CONMON;Editorial: why it is right to hate republicans - stability demands it! Why, without a figurehead to smile benevolently upon us, intrigue and the guillotine will destroy us all (page 10);x
-EDITORIAL_DEMOCRACY;Editorial: why it is right to hate revolutionaries of every stripe - because they cannot be bribed! Why, men of such zeal and ridgid doctrinism show no respect for the rule of law (pg. 10);x
-EDITORIAL_PRESDICT;Editorial: why it is right to hate subversives - the President demands it! Why, these criminals only yesterday crudely vandalised a marble statue of his Excellency in the capital (see page 10);x
-EDITORIAL_BOURDICT;Editorial: why it is right to hate the poor - your own rational self-interest demands it! Why, these parasitic gutter people choose to be poor. Show pity to them at your peril. (see page 10);x
-EDITORIAL_PROLDICT;Editorial: why it is right to hate the parasites - the party demands it! Why, even the lowliest village baker is an exploiter of the masses. Eradicating the rich will free us all (see page 10);x
-EDITORIAL_FASCDICT;Editorial: why it is right to hate the parasites - the party demands it! Why, even the lowliest village baker is an exploiter of the masses. Eradicating the rich will free us all (see page 10);x
 DEFINE_ADMIRAL_EFFECT;Gain the service of §YAdmiral $NAME$§W ($PER$ $BAC$).\n;x
 DEFINE_GENERAL_EFFECT;Gain the service of §YGeneral $NAME$§W ($PER$ $BAC$).\n;x
 DO_NOT_HAVE_TECH_TRI;Have NOT invented §Y$TECH$§W.\n;x
