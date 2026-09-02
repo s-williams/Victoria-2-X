@@ -33,7 +33,7 @@ generate_article =
 				strings_eq = { 0 0 "build_panama_canal" }
 			}
 		}
-		picture = "news/canal.dds"
+		picture = "news/news_canal.dds"
 	}
 	picture_case = { 
 		trigger = {
@@ -48,7 +48,7 @@ generate_article =
 				strings_eq = { 0 0 "the_meiji_restoration2" }
 			}
 		}
-		picture = "news/meiji.dds"
+		picture = "news/news_meiji.dds"
 	}
 	picture_case = { 
 		trigger = {
@@ -57,7 +57,7 @@ generate_article =
 				strings_eq = { 0 0 "form_italy" }
 			}
 		}
-		picture = "news/peace_04_news_image.dds"
+		picture = "news/news_peace_04.dds"
 	}
 	picture_case = { 
 		trigger = {
@@ -87,7 +87,7 @@ generate_article =
 				strings_eq = { 0 0 "build_panama_canal" }
 			}
 		}
-		picture = "news/canal.dds"
+		picture = "news/news_canal.dds"
 	}
 	picture_case = { 
 		trigger = {
@@ -100,14 +100,14 @@ generate_article =
 			strings_eq = { 0 0 "the_meiji_restoration" }
 			strings_eq = { 0 0 "the_meiji_restoration2" }
 		}
-		picture = "news/meiji.dds"
+		picture = "news/news_meiji.dds"
 	}
 	picture_case = { 
 		trigger = {
 			strings_eq = { 0 0 "form_germany" }
 			strings_eq = { 0 0 "form_italy" }
 		}
-		picture = "news/peace_04_news_image.dds"
+		picture = "news/news_peace_04.dds"
 	}
 	picture_case = { 
 		trigger = {

@@ -186,6 +186,12 @@ INVENTION_NEWS_SMALL2;New improvements and innovations in the field of $STRING_0
 INVENTION_NEWS_TITLE_LARGE2;New patent!;x
 INVENTION_NEWS_TITLE_MEDIUM2;New patent!;x
 INVENTION_NEWS_TITLE_SMALL2;New patent!;x
+INVENTION_NEWS_TITLE_LARGE;INVENTION!;x
+INVENTION_NEWS_LARGE;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$.;x
+INVENTION_NEWS_TITLE_MEDIUM;INVENTION!;x
+INVENTION_NEWS_MEDIUM;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$.;x
+INVENTION_NEWS_TITLE_SMALL;Invention!;x
+INVENTION_NEWS_SMALL;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$.;x
 INVENTION_SUFFIX_LONG1; But at what cost?;x
 INVENTION_SUFFIX_LONG2; Whatever will they think of next?;x
 INVENTION_SUFFIX_LONG3; It will never catch on.;x
