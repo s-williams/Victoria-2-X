@@ -1,3 +1,6 @@
+owner = SLB
+controller = SLB
+add_core = SLB
 trade_goods = ice
 life_rating = 25
 terrain = getsu_fune

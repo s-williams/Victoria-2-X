@@ -1,0 +1,72 @@
+capital = 123
+primary_culture = terran
+culture = argon
+religion = human
+government = presidential_dictatorship
+plurality = 0.1
+nationalvalue = nv_order
+literacy = 0.1
+civilized = yes
+prestige = 5
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = universal_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = state_controlled
+voting_system = first_past_the_post
+political_parties = gerrymandering
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+ruling_party = generic_reactionary
+upper_house = {
+	fascist = 0
+	liberal = 25
+	conservative = 60
+	reactionary = 10
+	anarcho_liberal = 5
+	socialist = 0
+	communist = 0
+}
+
+# Technologies
+tech_aesthetics_1 = 1
+tech_education_1 = 1
+tech_social_thought_1 = 1
+tech_political_thought_1 = 1
+tech_martial_culture_1 = 1
+tech_financial_institutions_1 = 1
+tech_administration_1 = 1
+tech_efficiency_1 = 1
+tech_infrastructure_1 = 1
+tech_markets_1 = 1
+tech_mechanization_1 = 1
+tech_biotech_1 = 1
+tech_material_science_1 = 1
+tech_weapons_production_1 = 1
+tech_medicine_1 = 1
+tech_solar_extraction_1 = 1
+tech_ore_extraction_1 = 1
+tech_silicon_extraction_1 = 1
+tech_ice_extraction_1 = 1
+tech_gas_extraction_1 = 1
+tech_static_defences_1 = 1
+tech_static_defences_2 = 1
+tech_light_armament_1 = 1
+tech_light_armament_2 = 1
+tech_heavy_armament_1 = 1
+tech_heavy_armament_2 = 1
+tech_military_doctrine_1 = 1
+tech_military_doctrine_2 = 1
+tech_military_leadership_1 = 1
+tech_military_leadership_2 = 1

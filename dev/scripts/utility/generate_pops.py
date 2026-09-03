@@ -4,7 +4,7 @@ import os
 import re
 import sys
 
-provinces_csv_file = 'scripts/utility/provinces.csv'
+provinces_csv_file = 'dev/scripts/utility/provinces.csv'
 cultures_file = 'common/cultures.txt'
 religion_file = 'common/religion.txt'
 production_types_file = 'common/production_types.txt'
@@ -17,7 +17,6 @@ POP_TYPE_COLUMNS = [
 ]
 
 RELIGION_OVERRIDES = {
-    'wenendra': 'boron',
 }
 
 

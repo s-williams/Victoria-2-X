@@ -79,6 +79,10 @@ ROT_bourgeois_dictatorship;Trinity Company;x
 ROT;Realm of the Trinity;x
 SKK_ADJ;Khaak;x
 SKK;Southern Hive;x
+SLB_bourgeois_dictatorship;Solborn Company;x
+SLB_proletarian_dictatorship;Solborn Commonwealth;x
+SLB_ADJ;Solborn;x
+SLB;Solborn Militia;x
 SOH_ADJ;Sohnen;x
 SOH;Sohnen;x
 SOL_ADJ;Solaran;x
@@ -117,6 +121,7 @@ YAK;Yaki;x
 ZYA_ADJ;Zyarth;x
 ZYA_democracy;Zyarth Republic;x
 ZYA_presidential_dictatorship;Zyarth Republic;x
+ZYA_bourgeois_dictatorship;Zyarth Company;x
 ZYA;Zyarth Patriarchy;x
 ##################################;x
 ##### CULTURES AND RELIGIONS #####;x {

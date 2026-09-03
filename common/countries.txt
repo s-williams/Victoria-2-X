@@ -29,6 +29,7 @@ COP = "countries/Council of Proctors.txt"
 # Terran
 TER = "countries/Terran.txt"
 PIO = "countries/Segaris Pioneers.txt"
+SLB = "countries/Solborn Militia.txt"
 
 # Teladi
 TEL = "countries/Teladi Company.txt"

@@ -16,3 +16,9 @@ vassal = {
 	start_date = 1.1.1
 	end_date = 9999.1.1
 }
+vassal = {
+	first = TER
+	second = SLB
+	start_date = 1.1.1
+	end_date = 9999.1.1
+}

@@ -5538,352 +5538,432 @@
 	aristocrats = {
 		culture = argon
 		religion = human
-		size = 4
+		size = 19
+	}
+	bureaucrats = {
+		culture = argon
+		religion = human
+		size = 2
+	}
+	officers = {
+		culture = argon
+		religion = human
+		size = 1
 	}
 	soldiers = {
-		culture = argon
-		religion = human
-		size = 1
-	}
-	clergymen = {
-		culture = argon
-		religion = human
-		size = 1
-	}
-	artisans = {
 		culture = paranid
 		religion = paranid
 		size = 1
 	}
-	artisans = {
+	soldiers = {
 		culture = teladi
 		religion = teladi
 		size = 2
 	}
+	soldiers = {
+		culture = argon
+		religion = human
+		size = 5
+	}
+	clergymen = {
+		culture = argon
+		religion = human
+		size = 7
+	}
+	artisans = {
+		culture = boron
+		religion = boron
+		size = 2
+	}
+	artisans = {
+		culture = paranid
+		religion = paranid
+		size = 7
+	}
+	artisans = {
+		culture = teladi
+		religion = teladi
+		size = 10
+	}
 	artisans = {
 		culture = argon
 		religion = human
-		size = 6
+		size = 30
 	}
 	slaves = {
 		culture = argon
 		religion = human
-		size = 10
+		size = 49
 	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 11
+		size = 56
 	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 33
+		size = 167
 	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 45
+		size = 223
 	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 134
+		size = 668
 	}
 }
 121 = {
 	aristocrats = {
 		culture = argon
 		religion = human
-		size = 2
+		size = 10
 	}
-	clergymen = {
+	bureaucrats = {
 		culture = argon
 		religion = human
 		size = 1
 	}
+	officers = {
+		culture = argon
+		religion = human
+		size = 2
+	}
+	soldiers = {
+		culture = boron
+		religion = boron
+		size = 1
+	}
+	soldiers = {
+		culture = teladi
+		religion = teladi
+		size = 1
+	}
+	soldiers = {
+		culture = paranid
+		religion = paranid
+		size = 1
+	}
+	soldiers = {
+		culture = argon
+		religion = human
+		size = 1
+	}
+	clergymen = {
+		culture = argon
+		religion = human
+		size = 4
+	}
 	artisans = {
 		culture = boron
 		religion = boron
-		size = 3
+		size = 13
 	}
 	artisans = {
 		culture = teladi
 		religion = teladi
-		size = 3
+		size = 13
 	}
 	artisans = {
 		culture = paranid
 		religion = paranid
-		size = 3
+		size = 13
 	}
 	artisans = {
 		culture = argon
 		religion = human
-		size = 6
+		size = 25
 	}
 	slaves = {
 		culture = argon
 		religion = human
-		size = 8
+		size = 35
 	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 54
+		size = 236
 	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 54
+		size = 236
 	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 54
+		size = 236
 	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 109
+		size = 472
 	}
 }
 122 = {
 	aristocrats = {
 		culture = argon
 		religion = human
-		size = 2
+		size = 8
 	}
 	bureaucrats = {
 		culture = argon
 		religion = human
+		size = 2
+	}
+	officers = {
+		culture = argon
+		religion = human
+		size = 2
+	}
+	soldiers = {
+		culture = boron
+		religion = boron
+		size = 1
+	}
+	soldiers = {
+		culture = paranid
+		religion = paranid
 		size = 1
 	}
 	soldiers = {
 		culture = argon
 		religion = human
-		size = 1
+		size = 4
 	}
 	soldiers = {
 		culture = terran
 		religion = human
-		size = 1
+		size = 3
 	}
 	clergymen = {
 		culture = argon
 		religion = human
-		size = 2
+		size = 8
 	}
 	artisans = {
 		culture = boron
 		religion = boron
-		size = 2
+		size = 10
 	}
 	artisans = {
 		culture = paranid
 		religion = paranid
-		size = 2
+		size = 10
 	}
 	artisans = {
 		culture = argon
 		religion = human
-		size = 6
+		size = 26
 	}
 	artisans = {
 		culture = terran
 		religion = human
-		size = 5
+		size = 20
 	}
 	slaves = {
 		culture = argon
 		religion = human
-		size = 11
+		size = 45
 	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 44
+		size = 178
 	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 44
+		size = 178
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 116
+		size = 474
 	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 87
+		size = 355
 	}
 }
 123 = {
 	aristocrats = {
-		culture = argon
+		culture = terran
 		religion = human
-		size = 8
+		size = 662
 	}
-	clergymen = {
-		culture = argon
+	bureaucrats = {
+		culture = terran
 		religion = human
-		size = 2
+		size = 34
 	}
-	artisans = {
-		culture = boron
-		religion = boron
-		size = 2
-	}
-	artisans = {
-		culture = teladi
-		religion = teladi
-		size = 2
-	}
-	artisans = {
-		culture = argon
+	officers = {
+		culture = terran
 		religion = human
-		size = 4
-	}
-	artisans = {
-		culture = split
-		religion = split
-		size = 1
-	}
-	artisans = {
-		culture = paranid
-		religion = paranid
-		size = 4
-	}
-	slaves = {
-		culture = argon
-		religion = human
-		size = 6
-	}
-	labourers = {
-		culture = boron
-		religion = boron
-		size = 37
-	}
-	labourers = {
-		culture = teladi
-		religion = teladi
-		size = 37
-	}
-	labourers = {
-		culture = argon
-		religion = human
-		size = 73
-	}
-	labourers = {
-		culture = split
-		religion = split
 		size = 24
 	}
+	soldiers = {
+		culture = terran
+		religion = human
+		size = 677
+	}
+	soldiers = {
+		culture = argon
+		religion = human
+		size = 119
+	}
+	clergymen = {
+		culture = terran
+		religion = human
+		size = 146
+	}
+	artisans = {
+		culture = terran
+		religion = human
+		size = 775
+	}
+	artisans = {
+		culture = argon
+		religion = human
+		size = 258
+	}
 	labourers = {
-		culture = paranid
-		religion = paranid
-		size = 73
+		culture = terran
+		religion = human
+		size = 18049
+	}
+	labourers = {
+		culture = argon
+		religion = human
+		size = 2005
 	}
 }
 124 = {
 	aristocrats = {
-		culture = boron
-		religion = boron
-		size = 3
+		culture = terran
+		religion = human
+		size = 236
+	}
+	bureaucrats = {
+		culture = terran
+		religion = human
+		size = 26
+	}
+	officers = {
+		culture = terran
+		religion = human
+		size = 13
+	}
+	soldiers = {
+		culture = terran
+		religion = human
+		size = 676
+	}
+	soldiers = {
+		culture = argon
+		religion = human
+		size = 75
 	}
 	clergymen = {
-		culture = boron
-		religion = boron
-		size = 1
+		culture = terran
+		religion = human
+		size = 62
 	}
 	artisans = {
-		culture = boron
-		religion = boron
-		size = 3
+		culture = terran
+		religion = human
+		size = 780
 	}
 	artisans = {
 		culture = argon
 		religion = human
-		size = 3
-	}
-	artisans = {
-		culture = paranid
-		religion = paranid
-		size = 3
-	}
-	slaves = {
-		culture = boron
-		religion = boron
-		size = 8
+		size = 87
 	}
 	farmers = {
-		culture = boron
-		religion = boron
-		size = 78
+		culture = terran
+		religion = human
+		size = 16572
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 78
-	}
-	farmers = {
-		culture = paranid
-		religion = paranid
-		size = 67
+		size = 2924
 	}
 }
 125 = {
 	aristocrats = {
 		culture = argon
 		religion = human
-		size = 7
+		size = 52
 	}
 	bureaucrats = {
 		culture = argon
 		religion = human
+		size = 4
+	}
+	officers = {
+		culture = argon
+		religion = human
+		size = 3
+	}
+	soldiers = {
+		culture = boron
+		religion = boron
+		size = 2
+	}
+	soldiers = {
+		culture = argon
+		religion = human
+		size = 4
+	}
+	soldiers = {
+		culture = teladi
+		religion = teladi
 		size = 1
 	}
 	clergymen = {
 		culture = argon
 		religion = human
-		size = 2
+		size = 12
 	}
 	artisans = {
 		culture = boron
 		religion = boron
-		size = 5
+		size = 35
 	}
 	artisans = {
 		culture = argon
 		religion = human
-		size = 8
+		size = 59
 	}
 	artisans = {
 		culture = teladi
 		religion = teladi
-		size = 3
+		size = 23
 	}
 	slaves = {
 		culture = argon
 		religion = human
-		size = 10
+		size = 70
 	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 84
+		size = 615
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 140
+		size = 1025
 	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 56
+		size = 410
 	}
 }
 126 = {
@@ -26267,37 +26347,37 @@
 600 = {
 	aristocrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 92
 	}
 	bureaucrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 17
 	}
 	officers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 1
 	}
 	soldiers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 64
 	}
 	clergymen = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 69
 	}
 	artisans = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 679
 	}
 	farmers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 4578
 	}
 }
@@ -26405,69 +26485,69 @@
 604 = {
 	aristocrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 19
 	}
 	bureaucrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 5
 	}
 	soldiers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 14
 	}
 	clergymen = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 11
 	}
 	artisans = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 103
 	}
 	farmers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 1097
 	}
 }
 605 = {
 	aristocrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 18
 	}
 	bureaucrats = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 6
 	}
 	officers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 1
 	}
 	soldiers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 16
 	}
 	clergymen = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 14
 	}
 	artisans = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 125
 	}
 	farmers = {
 		culture = wenendra
-		religion = boron
+		religion = wenendra
 		size = 1171
 	}
 }
