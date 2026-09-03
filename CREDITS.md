@@ -1,4 +1,6 @@
 # Credits
+Special thanks to everyone in the [Victoria 2 Modding Discord](https://discord.gg/VFu3GjEjxM) for modding support and everyone in the [Egosoft Discord](https://discord.com/invite/J8u6Kdc).
+
 ## Graphics
 * X2: The Threat, X3: Reunion, X3: Terran Conflict, X3: Albion Prelude, X: Rebirth, X4: Foundations - Egosoft
 * NASA
@@ -9,7 +11,7 @@
     * https://free-game-assets.itch.io/free-cyberpunk-resource-pixel-art-3232-icons
     * https://free-game-assets.itch.io/free-protective-suit-against-radiation-and-things-pixel-art-icons
 
-## X Resources
+## X Lore
 * https://x3.solasistim.net
 * https://wiki.egosoft.com
 * https://x4-foundations-wiki.fandom.com
