@@ -3,16 +3,16 @@
 #####################;x
 some_fake_ANY_title_1;Space is big;x
 some_fake_ANY_1;Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.;x
-some_fake_ANY_title_2;Corporate blunders force unique 'sector auction' to recover from financial pitfall;x
-some_fake_ANY_2;Following a string of investments that resulted in significant losses for a legendary Teladi tycoon, it is slowly becoming clear that the auction of a sector his Corporation recently claimed is now a distinct possibility.;x
+some_fake_ANY_title_2;Corporate blunders force unique 'sector auction';x
+some_fake_ANY_2;Following a string of significant losses for a legendary Teladi tycoon, it is becoming clear that the auction of a sector his Corporation recently claimed is now a distinct possibility.;x
 some_fake_ANY_title_3;Weapons At War - Particle Accelerator Cannon;x
-some_fake_ANY_3;This weapon is usually found on larger fighter craft, destroyers and on some battleships and carriers. They have been around since the Argon Weapons Society was founded near the beginning of the Xenon conflict. The first of its class were developed when the Paranid and Argon were friends and both governments were focused on developing a weapon more powerful than those they currently had in service.;x
+some_fake_ANY_3;This weapon is usually found on larger fighter craft, destroyers and on some battleships and carriers. They have been around since the beginning of the Xenon conflict.;x
 some_fake_ANY_title_4;The price of vacuum: sector auction;x
-some_fake_ANY_4;The price of sectors has risen considerably, as company's compete to find the best locations for their stations and factories along new trade routes..;x
-some_fake_ANY_title_5;Galaxy Wide Martial Arts Tournament Concludes;x
-some_fake_ANY_5;The final bout of the no holds barred IGF tournament ended today at 5.45am SGT with the defeat of Argon 'Ta Shee-Do' grandmaster Nathan Gunner by Shin Zein, the current Split 'Pinja' champion after an epic two and a half hour match that left many of the spectators in awe. "It was incredible" said Ta Shee-Do enthusiast Michael Kormach, "Most of the time it was just two blurs going at it in the centre but despite the fact that I was tired, hungry, and desperately needed to relieve myself I couldn't tear my eyes away from the ring. Just crazy.";x
+some_fake_ANY_4;The price of sectors has risen considerably, as company's compete to find the best locations for their stations and factories along new trade routes.;x
+some_fake_ANY_title_5;Galaxy Wide Martial Arts Tournament;x
+some_fake_ANY_5;The final bout of the no holds barred IGF tournament ended today with the defeat of Argon 'Ta Shee-Do' grandmaster Nathan Gunner by Shin Zein, the current Split 'Pinja' champion.;x
 some_fake_ANY_title_6;Five Nation Solar Clipper Race;x
-some_fake_ANY_6;Every year the nations of the known galaxies enter into a good will race. All nations enter a basic-level ship which has been stripped down to a standard chassis and driven by solar-sail propulsion. A route is chosen to pass through a number of planetary sectors, normally pirate-free. Pirates even keep clear of the race as it draws too much attention to their activities. Solar sailing, once popular in early space travel is now the sport of Kings and Governments.;x
+some_fake_ANY_6;Every year the nations of the known galaxies enter into a good will race. All nations enter a basic-level ship which has been stripped down to a standard chassis and driven by solar-sail propulsion.;x
 some_fake_ANY_title_7;Colony Boom Leads to Big Profits for Food Distributors;x
 some_fake_ANY_7;With so many new colonies having been established in recent years, food distribution corporations are showing constantly rising profits. All races have continued their outward expansions and this has led to more and more mouths to feed in the outer territories of the known universe. Whatever the product, Nostrop, Soja, Argnu, Rastar or BoFu, profit is there to be made.;x
 some_fake_ANY_title_8;Weapons At War - Photon Pulse Cannons;x
@@ -20,7 +20,7 @@ some_fake_ANY_8;First Developed by Professor Jo Bydnah of the Argon, the Photon 
 some_fake_ANY_title_9;Xenon found;x
 some_fake_ANY_9;So far details are sketchy but the Goner science team definitely think they have hit the jackpot. Blasted by sand on a remote moon shaken by earthquakes the remains of a structure, possibly Xenon, have been uncovered. How long they have been there and what the purpose was is still unknown.;x
 some_fake_ANY_title_10;New AI Chip;x
-some_fake_ANY_10;Today a software company, GjanTech, announced that they have made an advancement in AI technologies. A spokesman for Argons Against AI (AAAI) was worried that this could result in the something similar to the Xenon, who according to Goner legends are AI creatures that were created by the Argon and turned against them many years ago.;x
+some_fake_ANY_10;A software company, GjanTech, announced that they have made an advancement in AI technologies. A spokesman for Argons Against AI (AAAI) was worried.;x
 some_fake_ANY_title_11;Fil Derk Arrested;x
 some_fake_ANY_11;A pilot has been charged with stealing state secrets by photographing Split ships at close range. Fil Derk says he was contracted to photograph the ships by "Spaceflight Monthly", when contacted, the magazine denied they had ever met Mr Derk despite recently running articles on sensitive Split technology.;x
 some_fake_ANY_title_12;Xenohistory Lecture Series Attended by Thousands;x
@@ -28,12 +28,12 @@ some_fake_ANY_12;The noted Goner historian and Doctor of Xenohistory Soma Felles
 some_fake_ANY_title_13;Teladi Freighter Crashes into Great Goner Temple;x
 some_fake_ANY_13;The Great Temple at Cloudbase was the site of a tragic accident when a Teladi freighter travelling too quickly crashed into the docking channel with the loss of the pilot, two jazura ago. It is not understood why the ship did not slow down as an examination of the debris turned up no illegal substances nor were there any pursuing vessels.;x
 some_fake_ANY_title_14;Argon One Engine Failure;x
-some_fake_ANY_14;An investigation has begun to discover why the spaceship Argon One's starboard engine disintegrated as it was returning from deep space on one of its many exploring activities. It has been reported that an astronaut was sent to look at a possible shielding failure above the starboard engine and found that it was fragmented. On further investigation it was discovered there was space debris jammed in the casing.;x
-some_fake_ANY_title_15;Goner Archaeologists Find Evidence of Fractal Civilisation;x
-some_fake_ANY_15;Archaeologists from the Goner Historical Investigations Chapter have discovered a site in Hatikvah's Faith comprising many stones carved in fractal patterns and inlaid with crystals, themselves having a fractal-type structure. The site itself is laid out according to a fractal logic and is similar to others recently found by archaeological teams of various of the races.;x
+some_fake_ANY_14;An investigation has begun to discover why the spaceship Argon One's starboard engine disintegrated as it was returning from deep space on one of its many exploring activities.;x
+some_fake_ANY_title_15;Archaeologists Find Fractal Civilisation;x
+some_fake_ANY_15;Archaeologists from the Goner Historical Investigations Chapter have discovered a site in Hatikvah's Faith comprising many stones carved in fractal patterns and inlaid with crystals.;x
 some_fake_ANY_title_16;Boron weapons Leaked to the masses;x
-some_fake_ANY_16;The leak of a cache of prototype weapons is causing trouble throughout the universe. The Argon Military are keeping mostly quiet on the subject however they have confirmed the destruction of a pirate caravan trying to traverse their space. The Boron science community is in uproar with the government at the lack of tight control on the systems.;x
-some_fake_ANY_title_17;Station races spread to the Teladi and Split;x
+some_fake_ANY_16;The leak of a cache of prototype weapons is causing trouble throughout the universe. The Boron science community is in uproar with the government at the lack of tight control on the systems.;x
+some_fake_ANY_title_17;Station races spread to Teladi and Split;x
 some_fake_ANY_17;The outlawed game Station Racing has spread from Argon space to Teladi space and now also involves the Split. The dangerous game involves an agreement on the award and then the station to land on. The Argon are believed to just like the rush of the race, the Teladi just like the gambling for credits and the Split like the danger and being able to embarrass the loser.;x
 some_fake_ANY_title_18;Weapons At War - Impulse Ray Emitter;x
 some_fake_ANY_18;The Impulse Ray Emitter is one of the oldest energy-based weapons around. No one actually knows by whom or when the weapon was first developed. The IRE, as they are better known, are mainly used on scout class craft. They require very little power to fire, and they have a rapid recharge rate.;x
@@ -45,40 +45,40 @@ some_fake_ANY_title_21;Space Flies in demand;x
 some_fake_ANY_21;Space Flies are not as common as they used to be in the systems around Split Space. Isolated colonies still exist. In order not to hunt them to extinction a group of scientists have started to clone the Markus SpaceFly. Success may one day remove the need to capture such animals in deep space. Cloned production could elevate the high Split demand for such creatures.;x
 some_fake_ANY_title_22;Exploding BoFu a Surreal Prank Say Boron;x
 some_fake_ANY_22;Boron authorities have declared a recent spate of exploding BoFu cubes is a bizarre practical joke. Food companies across space have been complaining of BoFu exploding into shreds when the containers are opened. Somehow an excess of Boron BoGas appears to have been introduced into the cubed BoFu and this produces the explosion when the lids are popped.;x
-some_fake_ANY_title_23;Concerns Over Security At Weapons Facilities;x
+some_fake_ANY_title_23;Security Concerns At Weapons Facilities;x
 some_fake_ANY_23;With the wide dispersal of weapons and shielding factories throughout the known universe, concern is growing that security may be overstretched. Most governments have allowed private corporations to take responsibility for the production of beam weapons and missile technology. Even some of the new weaponry developments are being put into production in relatively widespread sectors. While all such facilities have their own security forces, there is a real danger that opportunistic raiders could attack in force and seize large quantities of very powerful missiles and energy cannons.;x
-some_fake_ANY_title_24;Rash Boron Transmat Experiment Endangers Progress;x
-some_fake_ANY_24;It appears that a young Boron transmat expert working for the Boron Menelaus Institute of Technology, or MIT, engaged in an unauthorised and highly dangerous attempt to transport himself between sectors. Unfortunately the experiment is said to have ended with the fusion of the Boron scientist with a common Boron insect. The resulting, highly ferocious, hybrid had to be killed by security at the receiving station.;x
+some_fake_ANY_title_24;Rash Boron Transmat Experiment;x
+some_fake_ANY_24;A young Boron transmat expert working for the Menelaus Institute of Technology, or MIT, engaged in an unauthorised and highly dangerous attempt to transport himself between sectors.;x
 some_fake_ANY_title_25;Insurance Rumours Quashed;x
 some_fake_ANY_25;Senior Goner sources today moved to quash rumours that the popular life-saving insurance would be either withdrawn from sale or increased in price. The un-named source stated "We have no plans to withdraw this useful product - our product range is too limited already. As before, anyone who has sufficient notoriety with the Goners is welcome to dock and purchase it.";x
 some_fake_ANY_title_26;Weapons At War - High Energy Plasma Throwers;x
 some_fake_ANY_26;This is a deadly weapon found on some fighter craft and on all destroyers and carrier craft. The radiation is so dangerous that the weapon had to go through many years of research and development until it could be placed on the open market.;x
-some_fake_ANY_title_27;Illegal Trade Market Rivals Trade in Legal Goods;x
-some_fake_ANY_27;It is being suggested by some security and business sources that the trade in illegal goods may rival that in legitimate commodities on a per credit calculation. Dealing in prohibited alcohol and drugs, outlawed weapons systems and even the scourge of slavery have long been regarded as a problem by some governments.;x
+some_fake_ANY_title_27;Illegal Trade Market Rivals Legal Trade;x
+some_fake_ANY_27;It has been suggested by security and business sources that the trade in illegal goods may rival that in legitimate commodities on a per credit calculation.;x
 some_fake_ANY_title_28;Xenon Rock?;x
-some_fake_ANY_28;We all like a good laugh and every now and again we get one from those brain boxes in the Goner sect. Currently digging on a sandy moon they cannot quite decide if it is a Xenon artefact or a lump of rock. We have bets on that it is a rock, what do you think?;x
+some_fake_ANY_28;We like a good laugh and every now and again we get one from those brain boxes in the Goner. Currently digging on a sandy moon they cannot quite decide if it is a Xenon artefact or a lump of rock.;x
 some_fake_ANY_title_29;Musical breaks Box Office Records;x
 some_fake_ANY_29;The smash hit musical "Better dead than Split" has broken all box office records on Argon Prime after the Split Government complained it was offensive.;x
-some_fake_ANY_title_30;Competing pirate groups cause havoc in frontier sectors;x
-some_fake_ANY_30;Reports have been coming in about rival pirate groups setting up competitions between themselves. The recent spate of thefts, ship hijackings, and smuggling incidents have led to major police investigations which have revealed that the pirate groups are ranking themselves in a league table format.;x
+some_fake_ANY_title_30;Competing pirate groups cause havoc;x
+some_fake_ANY_30;It appears that rival pirate groups have set up competitions. The recent spate of thefts, hijackings, and smugglings have led police to conclude the existence of a pirate league table.;x
 some_fake_ANY_title_31;Captured Xenon Ships Turn Kamikaze;x
-some_fake_ANY_31;Several recent incidents have resulted in seven people dead, over two hundred injured and minor damage to factories in Teladi and Split space. These incidents have brought to light a new threat from supposedly captured Xenon fighters. They involve captured Xenon ships reactivating and ramming stations when docking requests have been made.;x
+some_fake_ANY_31;Several recent incidents have resulted in seven people dead, over two hundred injured and minor damage to factories in Teladi and Split space. These incidents reveal a new threat from captured Xenon fighters.;x
 some_fake_ANY_title_32;Weapons At War - The Mass Driver;x
-some_fake_ANY_32;This weapon is unique in that it is the only type of non-energy based projectile weapon available. It consists of a rapid feed multi-barrelled cannon that is capable of delivering a large number of small projectiles to its target in a short period of time.;x
+some_fake_ANY_32;This weapon is unique in that it is the only type of non-energy based projectile weapon available. It consists of a rapid feed multi-barrelled cannon.;x
 some_fake_ANY_title_33;Weapons At War - Ion Disruptor;x
-some_fake_ANY_33;Developed by Boron Scientists this weapon is unlike any weapon encountered. The Ion Disruptor fires a steady stream of ion particles in the direction of a ship. The stream is then ignited. The result is a lightning effect that affects ship systems and shields, whilst leaving the hull relatively untouched.;x
+some_fake_ANY_33;Developed by Boron Scientists this weapon is unlike any weapon encountered. The Ion Disruptor fires a steady stream of ion particles in the direction of a ship, before ignition.;x
 some_fake_ANY_title_34;Goner Priest Assaulted By Split Thugs;x
-some_fake_ANY_34;A Goner priest was being treated for severe facial injuries and a broken arm today in Black Hole Sun. The Goner priests on the ship don't know what provoked the attack and have requested answers from the Argon government.;x
+some_fake_ANY_34;A Goner priest was being treated for severe facial injuries and a broken arm today in Black Hole Sun. The Goner priests on the ship don't know what provoked the attack.;x
 some_fake_ANY_title_35;Weapons At War - Phased Shockwave Generator;x
 some_fake_ANY_35;This weapon was developed by a rare alliance between the Teladi and Paranid. It works by sending out a phased package, which reacts and expands, creating a shockwave.;x
 some_fake_ANY_title_36;Contemporary Priest!;x
-some_fake_ANY_36;The Goner High Priest was embroiled in controversy recently whilst peacefully travelling through home sectors. During a routine broadcast of "The Peacelover Show" an attempt was made to hijack the broadcast by playing contemporary music over the same frequency spectrum. The culprit was not identified but is believed to be a splinter group operating in the same region.;x
+some_fake_ANY_36;During a routine broadcast of the Goner "Peacelover Show" an attempt was made to hijack the broadcast by playing contemporary music over the same frequency spectrum. The culprit was not identified.;x
 some_fake_ANY_title_37;Cargo Compression Technology Must Improve Says Ship Designer;x
 some_fake_ANY_37;Famed civilian ship architect Roj Nolan has called on scientists and engineers to urgently work on improved and cheaper cargo compression technology.;x
 some_fake_ANY_title_38;Weapons At War - Hornet Missile;x
-some_fake_ANY_38;The Hornet Class Missile is the most powerful weapon known today. The gigantic resources needed to produce this monster also make it extremely expensive. This ship killer missile has been around since before the first Xenon conflict.;x
+some_fake_ANY_38;The Hornet Class Missile is the most powerful weapon known today. The gigantic resources needed to produce this monster also make it extremely expensive.;x
 some_fake_ANY_title_39;Official Acknowledgment of the Goners Community;x
-some_fake_ANY_39;After a recent public conference, the official acknowledgement of the Goner Community by the Argon Federation was celebrated on Argon Prime. Except for the Argon Minister of Foreign and Cultural Affairs, the President of the Argon Federation and high dignitaries of the Goners were all present.;x
+some_fake_ANY_39;After a recent public conference, an official acknowledgement of the Goner Community by the Argon Federation was celebrated on Argon Prime.;x
 some_fake_ANY_title_40;Passengers Sold To Slavery;x
 some_fake_ANY_40;A new scam has recently been uncovered where passengers have been sold into slavery instead of being delivered to their proper destination.;x
 ########################;x

@@ -1,7 +1,6 @@
 #How much printing tension gives every type of news.
 #(if not specified on the list, default value is 1)
-article_tensions =
-{
+article_tensions = {
 	PEACE_OFFER_ACCEPT = 100
 	GAME_EVENT = 5
 	PROVINCE_CHANGE_CONTROLLER = 5
@@ -26,13 +25,11 @@ article_tensions =
 }
 
 # News paper styles...
-style =
-{
+style = {
 	name = "default_style"
 
 	# trigger that determines which newspaper style should use
-	trigger =
-	{
+	trigger = {
 		# player country scope trigger - called in moment of generating the newspaper
 	}
 
@@ -40,53 +37,44 @@ style =
 	gui_window = "news_window_default"
 
 	# Big articles
-	article =
-	{
+	article = {
 		size = large
 		gui_window = "article_main"
 	}
 
 	# Medium articles
-	article =
-	{
+	article = {
 		size = medium
 		gui_window = "article_medium_1"
 	}
-	article =
-	{
+	article = {
 		size = medium
 		gui_window = "article_medium_2"
 	}
 
 	# Small articles
-	article =
-	{
+	article = {
 		size = small
 		gui_window = "article_small_1"
 	}
-	article =
-	{
+	article = {
 		size = small
 		gui_window = "article_small_2"
 	}
-	article =
-	{
+	article = {
 		size = small
 		gui_window = "article_small_3"
 	}
-	article =
-	{
+	article = {
 		size = small
 		gui_window = "article_small_4"
 	}
-	article =
-	{
+	article = {
 		size = small
 		gui_window = "article_small_5"
 	}
 
-	article_limits =
-	{
+	article_limits = {
 		PEACE_OFFER_ACCEPT = 1
 		GAME_EVENT = 6
 		PROVINCE_CHANGE_CONTROLLER = 1
@@ -109,11 +97,10 @@ style =
 		#FAKE = ? <- unused
 	}
 
-	title_image =
-	{
+	title_image = {
 		# Fallback picture
 		case = { 
-			picture = "news/newspaper_title_generic.dds" 
+			picture = "news/title_generic.dds" 
 		}
 	}
 }
