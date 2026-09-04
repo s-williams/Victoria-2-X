@@ -98,7 +98,219 @@ style = {
 	}
 
 	title_image = {
-		# Fallback picture
+		# The first case that matches is the one that applies
+		# Ordered by priority - highest first
+		
+		#################################
+		###### Government specific ######
+		#################################
+		case = { # Boron Monarchy
+			trigger = {
+				OR = {
+					AND = {
+						primary_culture = boron
+						civilized = yes
+						OR = {
+							government = absolute_monarchy
+							government = prussian_constitutionalism
+							government = hms_government
+						}
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							primary_culture = boron
+							OR = {
+								government = absolute_monarchy
+								government = prussian_constitutionalism
+								government = hms_government
+							}
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							primary_culture = boron
+							OR = {
+								government = absolute_monarchy
+								government = prussian_constitutionalism
+								government = hms_government
+							}
+						}
+					}					
+				}
+			}
+			picture = "news/title_boron_momonarchy.dds" 
+		}
+		case = { # Paranid Monarchy
+			trigger = {
+				OR = {
+					AND = {
+						primary_culture = paranid
+						civilized = yes
+						OR = {
+							government = absolute_monarchy
+							government = prussian_constitutionalism
+							government = hms_government
+						}
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							primary_culture = paranid
+							OR = {
+								government = absolute_monarchy
+								government = prussian_constitutionalism
+								government = hms_government
+							}
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							primary_culture = paranid
+							OR = {
+								government = absolute_monarchy
+								government = prussian_constitutionalism
+								government = hms_government
+							}
+						}
+					}					
+				}
+			}
+			picture = "news/title_paranid_monarchy.dds" 
+		}
+		case = { # Bourgeois Dictatorship
+			trigger = {
+				OR = {
+					AND = {
+						civilized = yes
+						government = bourgeois_dictatorship
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							government = bourgeois_dictatorship
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							government = bourgeois_dictatorship
+						}
+					}					
+				}
+			}
+			picture = "news/title_bourgeois.dds" 
+		}
+		##############################
+		###### Culture specific ######
+		##############################
+		case = { # Argon
+			trigger = {
+				OR = {
+					AND = {
+						primary_culture = argon
+						civilized = yes
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							primary_culture = argon
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							primary_culture = argon
+						}
+					}					
+				}
+			}
+			picture = "news/title_argon.dds" 
+		}
+		case = { # Goner
+			trigger = {
+				OR = {
+					AND = {
+						primary_culture = goner
+						civilized = yes
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							primary_culture = goner
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							primary_culture = goner
+						}
+					}					
+				}
+			}
+			picture = "news/title_goner.dds" 
+		}
+		case = { # Split
+			trigger = {
+				OR = {
+					AND = {
+						primary_culture = split
+						civilized = yes
+					}
+					AND = {
+						civilized = no
+						part_of_sphere = yes
+						sphere_owner = {
+							primary_culture = split
+						}
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							primary_culture = split
+						}
+					}					
+				}
+			}
+			picture = "news/title_split.dds" 
+		}
+		###########################
+		###### Uncentralised ######
+		###########################
+		case = { # Uncentralised
+			trigger = { 
+				OR = {
+					AND = {
+						civilized = no
+					}
+					AND = {
+						civilized = no
+						is_vassal = yes
+						overlord = {
+							civilized = no
+						}
+					}					
+				}
+			}
+			picture = "news/title_uncentralised.dds" 
+		}
+		
+		######################
+		###### Fallback ######
+		######################
 		case = { 
 			picture = "news/title_generic.dds" 
 		}

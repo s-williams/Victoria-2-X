@@ -44,7 +44,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_news_no_title"
-		texturefile = "gfx\\pictures\\news\\generic_newspaper_title.dds"
+		texturefile = "gfx\\pictures\\news\\title_generic.dds"
 		loadType = "INGAME"
 		norefcount = yes
 	}
