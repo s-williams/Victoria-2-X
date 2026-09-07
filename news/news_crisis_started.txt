@@ -18,7 +18,7 @@ generate_article =
 	size = large
 	name = "default"
 
-	picture_case = { picture = "events/crisis.tga" }
+	picture_case = { picture = "news/news_diplomacy_01.dds" picture = "news/news_diplomacy_02.dds" picture = "news/news_diplomacy_03.dds" picture = "news/news_diplomacy_04.dds" picture = "news/news_diplomacy_05.dds" picture = "news/news_diplomacy_06.dds" picture = "news/news_diplomacy_07.dds" picture = "news/news_diplomacy_08.dds" picture = "news/news_diplomacy_09.dds" picture = "news/news_diplomacy_10.dds" picture = "news/news_diplomacy_11.dds" picture = "news/news_diplomacy_12.dds" picture = "news/news_diplomacy_13.dds" picture = "news/news_diplomacy_14.dds" picture = "news/news_diplomacy_15.dds" picture = "news/news_diplomacy_16.dds" picture = "news/news_diplomacy_17.dds" picture = "news/news_diplomacy_18.dds" picture = "news/news_diplomacy_19.dds" picture = "news/news_diplomacy_20.dds" picture = "news/news_diplomacy_21.dds" picture = "news/news_diplomacy_22.dds" picture = "news/news_diplomacy_23.dds" picture = "news/news_diplomacy_24.dds" picture = "news/news_diplomacy_25.dds" }
 	title_case = { text_add = { CRISIS_START_TITLE1 CRISIS_START_TITLE2 } }
 	description_case = { text_add = { CRISIS_START_DESC_LONG1 CRISIS_START_DESC_LONG2} }
 }
@@ -29,7 +29,7 @@ generate_article =
 	size = medium
 	name = "default"
 
-	picture_case = { picture = "events/crisis.tga" }
+	picture_case = { picture = "news/news_diplomacy_01.dds" picture = "news/news_diplomacy_02.dds" picture = "news/news_diplomacy_03.dds" picture = "news/news_diplomacy_04.dds" picture = "news/news_diplomacy_05.dds" picture = "news/news_diplomacy_06.dds" picture = "news/news_diplomacy_07.dds" picture = "news/news_diplomacy_08.dds" picture = "news/news_diplomacy_09.dds" picture = "news/news_diplomacy_10.dds" picture = "news/news_diplomacy_11.dds" picture = "news/news_diplomacy_12.dds" picture = "news/news_diplomacy_13.dds" picture = "news/news_diplomacy_14.dds" picture = "news/news_diplomacy_15.dds" picture = "news/news_diplomacy_16.dds" picture = "news/news_diplomacy_17.dds" picture = "news/news_diplomacy_18.dds" picture = "news/news_diplomacy_19.dds" picture = "news/news_diplomacy_20.dds" picture = "news/news_diplomacy_21.dds" picture = "news/news_diplomacy_22.dds" picture = "news/news_diplomacy_23.dds" picture = "news/news_diplomacy_24.dds" picture = "news/news_diplomacy_25.dds" }
 	title_case = { text_add = { CRISIS_START_TITLE1 CRISIS_START_TITLE2} }
 	description_case = { text_add = { CRISIS_START_DESC_MEDIUM1 CRISIS_START_DESC_MEDIUM2} }
 }

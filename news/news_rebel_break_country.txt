@@ -33,7 +33,7 @@ generate_article =
 	size = large
 	name = "default"
 
-	picture_case = { picture = "news/news_revolution_01.dds" picture = "news/news_revolution_02.dds" picture = "news/news_revolution_03.dds" picture = "news/news_revolution_04.dds" picture = "news/news_revolution_05.dds" picture = "news/news_revolution_06.dds" picture = "news/news_revolution_07.dds" picture = "news/news_revolution_07.dds" picture = "news/news_revolution_08.dds" picture = "news/news_revolution_09.dds" picture = "news/news_revolution_10.dds" picture = "news/news_revolution_11.dds" picture = "news/news_revolution_12.dds" }
+	picture_case = { picture = "news/news_battle_01.dds" picture = "news/news_battle_02.dds" picture = "news/news_battle_03.dds" picture = "news/news_battle_04.dds" picture = "news/news_battle_05.dds" picture = "news/news_battle_06.dds" picture = "news/news_battle_07.dds" picture = "news/news_battle_08.dds" picture = "news/news_battle_09.dds" picture = "news/news_battle_10.dds" picture = "news/news_battle_11.dds" picture = "news/news_battle_12.dds" picture = "news/news_battle_13.dds" picture = "news/news_battle_14.dds" picture = "news/news_battle_15.dds" picture = "news/news_battle_16.dds" picture = "news/news_battle_17.dds" picture = "news/news_battle_18.dds" picture = "news/news_battle_19.dds" picture = "news/news_battle_20.dds" picture = "news/news_battle_21.dds" picture = "news/news_battle_22.dds" picture = "news/news_battle_23.dds" picture = "news/news_battle_24.dds" picture = "news/news_battle_25.dds" picture = "news/news_battle_26.dds" picture = "news/news_battle_27.dds" picture = "news/news_battle_28.dds" picture = "news/news_battle_29.dds" picture = "news/news_battle_30.dds" }
 	
 	title_case = { 
 			trigger = { 
@@ -62,7 +62,7 @@ generate_article =
 	size = medium
 	name = "default"
 
-	picture_case = { picture = "news/news_revolution_01.dds" picture = "news/news_revolution_02.dds" picture = "news/news_revolution_03.dds" picture = "news/news_revolution_04.dds" picture = "news/news_revolution_05.dds" picture = "news/news_revolution_06.dds" picture = "news/news_revolution_07.dds" picture = "news/news_revolution_07.dds" picture = "news/news_revolution_08.dds" picture = "news/news_revolution_09.dds" picture = "news/news_revolution_10.dds" picture = "news/news_revolution_11.dds" picture = "news/news_revolution_12.dds" }
+	picture_case = { picture = "news/news_battle_01.dds" picture = "news/news_battle_02.dds" picture = "news/news_battle_03.dds" picture = "news/news_battle_04.dds" picture = "news/news_battle_05.dds" picture = "news/news_battle_06.dds" picture = "news/news_battle_07.dds" picture = "news/news_battle_08.dds" picture = "news/news_battle_09.dds" picture = "news/news_battle_10.dds" picture = "news/news_battle_11.dds" picture = "news/news_battle_12.dds" picture = "news/news_battle_13.dds" picture = "news/news_battle_14.dds" picture = "news/news_battle_15.dds" picture = "news/news_battle_16.dds" picture = "news/news_battle_17.dds" picture = "news/news_battle_18.dds" picture = "news/news_battle_19.dds" picture = "news/news_battle_20.dds" picture = "news/news_battle_21.dds" picture = "news/news_battle_22.dds" picture = "news/news_battle_23.dds" picture = "news/news_battle_24.dds" picture = "news/news_battle_25.dds" picture = "news/news_battle_26.dds" picture = "news/news_battle_27.dds" picture = "news/news_battle_28.dds" picture = "news/news_battle_29.dds" picture = "news/news_battle_30.dds" }
 	title_case = { text_add = { REVOLUTION_NEWS_TITLE_MEDIUM } }
 	description_case = 
 	{ 

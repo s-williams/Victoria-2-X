@@ -102,7 +102,7 @@ generate_article =
 	{ 
 		# if province event (use general pics as those has no images defined)
 		trigger = { values_eq = { 0 4 1 } }
-		picture = "news/news_revolution_01.dds"
+		picture = "news/news_war_01.dds" picture = "news/news_war_02.dds" picture = "news/news_war_03.dds" picture = "news/news_war_04.dds" picture = "news/news_war_05.dds" picture = "news/news_war_06.dds" picture = "news/news_war_07.dds" picture = "news/news_war_08.dds" picture = "news/news_war_09.dds" picture = "news/news_war_10.dds" picture = "news/news_war_11.dds" picture = "news/news_war_12.dds" picture = "news/news_war_13.dds" picture = "news/news_war_14.dds" picture = "news/news_war_15.dds"
 	}
 	picture_case = { picture = "events/$STRING_0_1$.tga" }
 
@@ -124,7 +124,7 @@ generate_article =
 	{ 
 		# if province event (use general pics as those has no images defined)
 		trigger = { values_eq = { 0 4 1 } }
-		picture = "news/news_revolution_01.dds"
+		picture = "news/news_war_01.dds" picture = "news/news_war_02.dds" picture = "news/news_war_03.dds" picture = "news/news_war_04.dds" picture = "news/news_war_05.dds" picture = "news/news_war_06.dds" picture = "news/news_war_07.dds" picture = "news/news_war_08.dds" picture = "news/news_war_09.dds" picture = "news/news_war_10.dds" picture = "news/news_war_11.dds" picture = "news/news_war_12.dds" picture = "news/news_war_13.dds" picture = "news/news_war_14.dds" picture = "news/news_war_15.dds"
 	}
 	picture_case = { picture = "events/$STRING_0_1$.tga" }
 

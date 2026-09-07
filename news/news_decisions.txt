@@ -57,7 +57,7 @@ generate_article =
 				strings_eq = { 0 0 "form_italy" }
 			}
 		}
-		picture = "news/news_peace_04.dds"
+		picture = "news/news_diplomacy_01.dds" picture = "news/news_diplomacy_02.dds" picture = "news/news_diplomacy_03.dds" picture = "news/news_diplomacy_04.dds" picture = "news/news_diplomacy_05.dds" picture = "news/news_diplomacy_06.dds" picture = "news/news_diplomacy_07.dds" picture = "news/news_diplomacy_08.dds" picture = "news/news_diplomacy_09.dds" picture = "news/news_diplomacy_10.dds" picture = "news/news_diplomacy_11.dds" picture = "news/news_diplomacy_12.dds" picture = "news/news_diplomacy_13.dds" picture = "news/news_diplomacy_14.dds" picture = "news/news_diplomacy_15.dds" picture = "news/news_diplomacy_16.dds" picture = "news/news_diplomacy_17.dds" picture = "news/news_diplomacy_18.dds" picture = "news/news_diplomacy_19.dds" picture = "news/news_diplomacy_20.dds" picture = "news/news_diplomacy_21.dds" picture = "news/news_diplomacy_22.dds" picture = "news/news_diplomacy_23.dds" picture = "news/news_diplomacy_24.dds" picture = "news/news_diplomacy_25.dds"
 	}
 	picture_case = { 
 		trigger = {
@@ -102,12 +102,12 @@ generate_article =
 		}
 		picture = "news/news_meiji.dds"
 	}
-	picture_case = { 
+	picture_case = {
 		trigger = {
 			strings_eq = { 0 0 "form_germany" }
 			strings_eq = { 0 0 "form_italy" }
 		}
-		picture = "news/news_peace_04.dds"
+		picture = "news/news_diplomacy_01.dds" picture = "news/news_diplomacy_02.dds" picture = "news/news_diplomacy_03.dds" picture = "news/news_diplomacy_04.dds" picture = "news/news_diplomacy_05.dds" picture = "news/news_diplomacy_06.dds" picture = "news/news_diplomacy_07.dds" picture = "news/news_diplomacy_08.dds" picture = "news/news_diplomacy_09.dds" picture = "news/news_diplomacy_10.dds" picture = "news/news_diplomacy_11.dds" picture = "news/news_diplomacy_12.dds" picture = "news/news_diplomacy_13.dds" picture = "news/news_diplomacy_14.dds" picture = "news/news_diplomacy_15.dds" picture = "news/news_diplomacy_16.dds" picture = "news/news_diplomacy_17.dds" picture = "news/news_diplomacy_18.dds" picture = "news/news_diplomacy_19.dds" picture = "news/news_diplomacy_20.dds" picture = "news/news_diplomacy_21.dds" picture = "news/news_diplomacy_22.dds" picture = "news/news_diplomacy_23.dds" picture = "news/news_diplomacy_24.dds" picture = "news/news_diplomacy_25.dds"
 	}
 	picture_case = { 
 		trigger = {
