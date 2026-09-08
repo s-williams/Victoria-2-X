@@ -2,5 +2,5 @@ owner = GON
 controller = GON
 add_core = GON
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 15
 terrain = elysium_of_light

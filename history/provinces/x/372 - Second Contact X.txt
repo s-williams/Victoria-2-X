@@ -2,5 +2,5 @@ owner = ANT
 controller = ANT
 add_core = ANT
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 30
 terrain = second_contact

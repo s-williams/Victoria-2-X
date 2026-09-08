@@ -2,5 +2,5 @@ owner = AGN
 controller = AGN
 add_core = AGN
 trade_goods = nividium
-life_rating = 25
+life_rating = 30
 terrain = morning_star

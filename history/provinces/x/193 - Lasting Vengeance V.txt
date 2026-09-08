@@ -3,5 +3,5 @@ controller = SKK
 add_core = HOP
 add_core = SKK
 trade_goods = ore
-life_rating = 25
+life_rating = 30
 terrain = lasting_vengeance

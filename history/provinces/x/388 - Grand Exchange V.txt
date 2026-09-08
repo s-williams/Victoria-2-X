@@ -2,5 +2,5 @@ owner = TEL
 controller = TEL
 add_core = TEL
 trade_goods = nividium
-life_rating = 25
+life_rating = 15
 terrain = grand_exchange

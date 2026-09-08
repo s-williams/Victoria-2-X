@@ -3,5 +3,5 @@ controller = XEN
 add_core = XEN
 add_core = SPP
 trade_goods = nividium
-life_rating = 25
+life_rating = 15
 terrain = scale_plate_green

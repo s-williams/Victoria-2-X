@@ -3,5 +3,5 @@ controller = GOD
 add_core = GOD
 add_core = ZYA
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 15
 terrain = wretched_skies

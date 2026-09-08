@@ -2,5 +2,5 @@ owner = HOP
 controller = HOP
 add_core = HOP
 trade_goods = silicon
-life_rating = 25
+life_rating = 15
 terrain = cardinals_redress

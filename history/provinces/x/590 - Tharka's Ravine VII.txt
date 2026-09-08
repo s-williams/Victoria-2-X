@@ -4,5 +4,5 @@ add_core = XEN
 add_core = FRF
 add_core = COC
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 20
 terrain = tharkas_ravine

@@ -2,5 +2,5 @@ owner = HOP
 controller = HOP
 add_core = HOP
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 30
 terrain = pontifexs_claim

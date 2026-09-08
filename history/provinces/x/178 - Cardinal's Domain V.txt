@@ -2,5 +2,5 @@ owner = GOD
 controller = GOD
 add_core = GOD
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 30
 terrain = cardinals_domain

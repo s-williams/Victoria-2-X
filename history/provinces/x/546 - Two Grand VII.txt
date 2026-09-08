@@ -2,5 +2,5 @@ owner = TEL
 controller = TEL
 add_core = TEL
 trade_goods = ore
-life_rating = 25
+life_rating = 35
 terrain = two_grand

@@ -2,5 +2,5 @@ owner = WKK
 controller = WKK
 add_core = WKK
 trade_goods = silicon
-life_rating = 25
+life_rating = 15
 terrain = sanctuary_of_darkness

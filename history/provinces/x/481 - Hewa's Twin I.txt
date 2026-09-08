@@ -3,5 +3,5 @@ controller = TEL
 add_core = TEL
 add_core = FTN
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 30
 terrain = hewas_twin

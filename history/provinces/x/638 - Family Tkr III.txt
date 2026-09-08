@@ -2,5 +2,5 @@ owner = FRF
 controller = FRF
 add_core = FRF
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 15
 terrain = family_tkr

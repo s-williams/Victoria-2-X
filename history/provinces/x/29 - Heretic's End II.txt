@@ -2,5 +2,5 @@ owner = NKK
 controller = NKK
 add_core = NKK
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 35
 terrain = heretics_end

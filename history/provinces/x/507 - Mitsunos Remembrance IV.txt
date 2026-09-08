@@ -2,5 +2,5 @@ owner = QTA
 controller = QTA
 add_core = QTA
 trade_goods = silicon
-life_rating = 25
+life_rating = 15
 terrain = mitsunos_remembrance

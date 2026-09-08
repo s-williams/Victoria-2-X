@@ -2,5 +2,5 @@ owner = ZYA
 controller = ZYA
 add_core = ZYA
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 30
 terrain = family_nhuut

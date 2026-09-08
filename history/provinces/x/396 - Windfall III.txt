@@ -2,5 +2,5 @@ owner = VIG
 controller = VIG
 add_core = VIG
 trade_goods = silicon
-life_rating = 25
+life_rating = 15
 terrain = windfall

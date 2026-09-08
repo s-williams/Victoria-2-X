@@ -2,5 +2,5 @@ owner = YAK
 controller = YAK
 add_core = YAK
 trade_goods = ore
-life_rating = 25
+life_rating = 15
 terrain = savage_spur

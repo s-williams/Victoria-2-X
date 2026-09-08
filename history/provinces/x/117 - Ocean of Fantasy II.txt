@@ -2,5 +2,5 @@ owner = BOP
 controller = BOP
 add_core = BOP
 trade_goods = energy_cells
-life_rating = 25
+life_rating = 15
 terrain = ocean_of_fantasy

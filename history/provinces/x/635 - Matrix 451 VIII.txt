@@ -3,5 +3,5 @@ controller = EKK
 add_core = XEN
 add_core = EKK
 trade_goods = ore
-life_rating = 25
+life_rating = 15
 terrain = matrix_451
