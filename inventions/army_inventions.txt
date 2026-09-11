@@ -519,7 +519,7 @@ military_coordination = {
 }
 mobilization_time_tables = {
     limit = {
-        military_plans = 1
+        tech_military_doctrine_2 = 1
     }
     chance = {
         base = 1
@@ -534,7 +534,7 @@ mobilization_time_tables = {
 }
 personnel_category_tables = {
     limit = {
-        military_plans = 1
+        tech_military_doctrine_2 = 1
     }
     chance = {
         base = 1

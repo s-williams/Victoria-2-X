@@ -1,1039 +1,273 @@
 # Country unit colors.
 
-# Sweden
-SWE = {
-    color1= { 62 122 189  }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
+# Argon
+# Argon Federation
+AGN = {
+    color1 = { 47 127 230 }
+    color2 = { 255 93 83 }
+    color3 = { 141 150 19 }
 }
 
-# Denmark FIXED (dark-blue coats, blue trousers and hats)
-DEN = {
-color1= { 69 80 169 }
-color2= { 69 157 208 }
-color3= { 137 183 124 }
+# Hatikvah Free League
+HFL = {
+    color1 = { 38 194 200 }
+    color2 = { 255 79 161 }
+    color3 = { 130 76 14 }
 }
 
-
-# Finland
-FIN = {
-    color1= { 182 134 100  }
-    color2= { 39 108 140  }
-    color3= { 112 150 105  }
-}
-
-# Norway
-NOR = {
-    color1= { 117 165 188  }
-    color2= { 202 112 85  }
-    color3= { 104 137 140  }
-}
-
-# Albania
-ALB = {
-    color1= { 181 72 106  }
-    color2= { 161 126 128  }
-    color3= { 131 101 85  }
-}
- 
-# Awadh FIXED
-AWA = {
-    color1= { 215 59 53  }
-    color2= { 255 216 85  }
-    color3= { 117 127 174  }
-}
-
-# Belgium FIXED
-BEL	 = {
-    color1= { 244 56 49  }
-    color2= { 248 199 67  }
-    color3= { 107 170 77  }
-}
-
-
-# Bosnia
-BOS = {
-    color1= { 240 167 130  }
-    color2= { 126 203 120  }
-    color3= { 107 170 77  }
-}
-
-
-# Bulgaria
-BUL = {
-    color1= { 140 207 116  }
-    color2= { 255 255 255  }
-    color3= { 83 149 105  }
-}
-
-# Croatia
-CRO = {
-    color1= { 174 227 95  }
-    color2= { 129 177 125  }
-    color3= { 166 189 199  }
-}
-
-# Cyprus
-CYP = {
-    color1= { 78 75 39  }
-    color2= { 236 159 89  }
-    color3= { 80 79 88  }
-}
-
-# Frankfurt FIXED
-FRM = {
-    color1= { 244 56 49  }
-    color2= { 100 100 100  }
-    color3= { 80 79 88  }
-}
-
-# Greece FIXED
-GRE = {
-    color1= { 69 80 169  }
-    color2= { 255 255 255  }
-    color3= { 197 92 106  }
-}
-
-# Moldavia FIXED
-MOL = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 69 157 208  }
-}
-
-# Montenegro FIXED
-MON = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 184 193 89  }
-}
-
-# Serbia FIXED
-SER = {
-    color1= { 244 56 49  }
-    color2= { 69 80 169  }
-    color3= { 210 106 47  }
-}
-
-# Wallachia FIXED
-WAL = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }	
-    color3= { 187 79 86  }
-}
-
-# Hungary
-HUN = {
-    color1= { 152 85 92  }
-    color2= { 197 92 106  }
-    color3= { 119 151 122  }
-}
-
-# The Ottomans
-TUR = {
-    color1= { 126 203 120  }
-    color2= { 255 255 255  }
-    color3= { 135 104 85  }
-}
-
-
-# United Kingdom
-ENG = {
-    color1= { 193 26 14  }
-    color2= { 99 137 153  }
-    color3= { 83 149 105  }
-}
-
-# Ireland
-IRE = {
-    color1= { 112 150 105  }
-    color2= { 136 157 23  }
-    color3= { 117 127 174  }
-}
-
-# Ionian Islands FIXED
-ION = {
-    color1= { 69 80 169  }
-    color2= { 248 199 67  }
-    color3= { 131 101 85  }
-}
-
-# Scotland
-SCO = {
-    color1= { 199 175 12  }
-    color2= { 202 112 85  }
-    color3= { 104 137 140  }
-}
-
-# Brazil
-BRZ = {
-    color1= { 50 85 47  }
-    color2= { 162 145 29  }
-    color3= { 183 176 194  }
-}
-
-# Bolivia
-BOL = {
-    color1= { 66 133 63  }
-    color2= { 151 41 43  }
-    color3= { 183 176 194  }
-}
-
-# Canada
-CAN = {
-    color1= { 94 117 55  }
-    color2= { 255 87 127  }
-    color3= { 99 137 153  }
-}
-
-# Chile
-CHL = {
-    color1= { 143 42 39  }
-    color2= { 66 66 121  }
-    color3= { 80 79 88  }
-}
-
-# Paraguay
-PRG = {
-    color1= { 146 58 35  }
-    color2= { 66 66 121  }
-    color3= { 80 79 88  }
-}
-
-
-# Argentina
-ARG = {
-	color1= { 112 145 181  }
-    color2= { 255 255 255  }
-    color3= { 80 79 88  }
-}	
-	
-# Uruguay
-URU = {
-    color1= { 68 79 141  }
-    color2= { 167 157 94  }
-    color3= { 80 79 88  }
-}	
-	
-# Venezuela
-VNZ = {
-    color1= { 162 145 29  }
-    color2= { 66 66 121  }
-    color3= { 197 92 106  }
-}	
-	
-# Ecuador
-ECU = {
-    color1= { 97 144 157  }
-    color2= { 255 255 255  }
-    color3= { 197 92 106  }
-}		
-	
-# Colombia
-CLM = {
-    color1= { 143 42 39  }
-    color2= { 162 145 29  }  
-    color3= { 197 92 106  }
-}
-
-# Mexico
-MEX = {
-    color1= { 219 124 139  }
-    color2= { 101 102 163  }
-    color3= { 69 157 208  }
-}
-
-# Mewar
-MEW = {
-    color1= { 157 85 255  }
-    color2= { 255 216 85  }
-    color3= { 69 157 208  }
-}
-
-# Peru
-PEU = {
-    color1= { 124 140 162  }
-    color2= { 144 52 53  }
-    color3= { 184 193 89  }
-}
-
-# Quebec
-QUE = {
-    color1= { 194 140 86  }
-    color2= { 219 124 139  }
-    color3= { 17 16 203  }
-}
-
-# USA
-USA = {
-    color1= { 69 157 208  }
-    color2= { 124 140 162  }
-    color3= { 137 183 124  }
-}
-
-# Lithuania
-LIT = {
-    color1= { 154 69 116  }
-    color2= { 255 255 255  }
-    color3= { 210 106 47  }
-}
-
-# Liberia
-LIB = {
-    color1= { 36 84 245  }
-    color2= { 255 255 255  }
-    color3= { 210 106 47  }
-}
-
-# Poland
-POL = {
-    color1= { 197 92 106  }
-    color2= { 69 157 208  }
-    color3= { 187 79 86  }
-}
-
-# Prussia
-PRU = {
-    color1= { 80 79 88  }
-    color2= { 154 69 116  }
-    color3= { 255 255 255  }
-}
-
-# France
-FRA = {
-    color1= { 63 125 214  }
-    color2= { 129 177 125  }
-    color3= { 121 162 109  }
-}
-
-# Anhalt FIXED
-ANH = {
-    color1= { 134 224 126  }
-    color2= { 244 56 49  }
-    color3= { 134 166 117  }
-}
- 
-#  Baden FIXED
-BAD = {
-    color1= { 255 242 103  }
-    color2= { 140 126 69  }
-    color3= { 119 151 122  }
-}
-
-# Bavaria FIXED
-BAV = {
-    color1= { 122 182 242  }
-    color2= { 255 255 255  }
-    color3= { 187 79 86  }
-}
-
-# Bohemia
-BOH = {
-    color1= { 161 139 40  }
-    color2= { 194 140 86  }
-    color3= { 122 179 97  }
-}
-
-# Braunschweig FIXED
-BRA = {
-    color1= { 103 123 204  }
-    color2= { 248 199 67  }
-    color3= { 210 106 47  }
-}
-
-# Bremen FIXED
-BRE = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 137 183 124  }
-}
-
-# Germany
-GER = {
-    color1= { 255 255 255  }
-    color2= { 80 79 88  }
-    color3= { 17 16 203  }
-}
-
-# Austria
-AUS = {
-    color1= { 170 43 21  }
-    color2= { 99 137 153  }
-    color3= { 17 16 203  }
-}
-
-# Hamburg FIXED
-HAM = {
-    color1= { 244 56 49  }
-    color2= { 87 187 128  }
-    color3= { 69 157 208  }
-}
-
-# Hannover FIXED
-HAN = {
-    color1= { 248 199 67  }
-    color2= { 255 255 255  }
-    color3= { 154 69 116  }
-}
-
-# Hesse-Darmstadt FIXED
-HES = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 195 149 155  }
-}
-
-# Hesse-Kassel FIXED
-HEK = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 195 149 155  }
-}
-
-# Mecklenburg FIXED
-MEC = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }
-    color3= { 112 150 105  }
-}
-
-# Saxe-Meiningen FIXED
-MEI = {
-    color1= { 134 224 126  }
-    color2= { 255 255 255  }
-    color3= { 112 150 105  }
-}
-
-# Oldenburg FIXED
-OLD = {
-    color1= { 244 56 49  }
-    color2= { 69 80 169  }
-    color3= { 104 137 140  }
-}
-
-# Saxony FIXED
-SAX = {
-    color1= { 255 255 255  }
-    color2= { 134 224 126  }
-    color3= { 117 127 174  }
-}
-
-# Saxe-Weimar FIXED
-WEI = {
-    color1= { 134 224 126  }
-    color2= { 100 100 100  }
-    color3= { 117 127 174  }
-}
-
-# Saxe-Coburg-Gotha FIXED
-COB = {
-    color1= { 134 224 126  }
-    color2= { 248 199 67  }
-    color3= { 117 127 174  }
-}
-
-# Switzerland FIXED
-SWI = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 107 170 77  }
-}
-
-# Wurttemberg
-WUR = {
-    color1= { 100 100 100  }
-    color2= { 197 92 106  }
-    color3= { 119 151 122  }
-}
-
-# Catalonia
-CAT = {
-    color1= { 213 132 76  }
-    color2= { 183 176 194  }
-    color3= { 137 183 124  }
-}
-
-# Nassau FIXED
-NAS = {
-    color1= { 80 125 196  }
-    color2= { 215 131 0  }
-    color3= { 17 16 203  }
-}
-
-# Portugal FIXED
-POR = {
-
-    color1= { 103 123 204  }
-    color2= { 255 255 255  }
-    color3= { 69 157 208  }
-}
-
-# Spain FIXED
-SPA = {
-    color1= { 231 181 12  }
-    color2= { 244 56 49  }
-    color3= { 154 69 116  }
-}
-
-# Italy
-ITA = {
-    color1= { 255 255 255  }
-    color2= { 152 85 92  }
-    color3= { 80 79 88  }
-}
-
-# Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
-
-# Modena
-MOD = {
-    color1= { 241 252 151  }
-    color2= { 129 177 125  }
-    color3= { 193 26 14  }
-}
-
-# The Papal State FIXED
-PAP = {
-    color1= { 248 199 67  }
-    color2= { 255 255 255  }
-    color3= { 48 164 51  }
-}
-
-# Parma FIXED
-PAR = {
-    color1= { 255 255 255  }
-	color2= { 248 199 67  }
-    color3= { 112 150 105  }
-}
-
-# Sardinia FIXED
-SAR = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 104 137 140  }
-}
-
-# Two Sicilies
-SIC = {
-    color1= { 134 224 126  }
-    color2= { 255 255 255  }
-    color3= { 131 101 85  }
-}
-
-# Siebenbürgen
-SIE = {
-    color1= { 75 111 205  }
-    color2= { 124 140 162  }
-    color3= { 117 127 174  }
-}
-
-# Tuscany FIXED 
-TUS = {
-    color1= { 217 80 75  }
-    color2= { 255 255 255  }
-    color3= { 107 170 77  }
-}
-
-# Venice
-VEN = {
-    color1= { 54 167 156  }
-    color2= { 69 157 208  }
-    color3= { 166 189 199  }
-}
-
-# Flanders
-FLA = {
-    color1= { 43 141 172  }
-    color2= { 195 149 155  }
-    color3= { 134 166 117  }
-}
-
-# Haiti
-HAI = {
-    color1= { 43 42 130  }
-    color2= { 99 137 153  }
-    color3= { 187 79 86  }
-}
-
-# Holstein FIXED
-HOL = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 122 179 97  }
-}
-
-# Lippe-Detmold FIXED
-LIP = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }	
-    color3= { 255 255 255  }
-}
-
-# Luxembourg FIXED
-LUX = {
-    color1= { 122 182 242 }
-    color2= { 255 255 255  }
-    color3= { 132 11 11  }
-}
-
-# Lubeck FIXED
-LUB = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 195 149 155  }
-}
-
-# Netherlands FIXED
-NET = {
-    color1= { 66 113 188  }
-    color2= { 255 255 255  }
-    color3= { 255 255 255  }
-}
-
-# Aldjazair
-ALD = {
-    color1= { 55 100 195  }
-    color2= { 123 16 21  }
-    color3= { 17 16 203  }
-}
-
-
-
-# Armenia
-ARM = {
-    color1= { 128 170 63  }
-    color2= { 166 72 57  }
-    color3= { 17 16 203  }
-}
-
-# Australia
-AST = {
-    color1= { 26 27 154  }
-    color2= { 161 126 128  }
-    color3= { 69 157 208  }
-}
-
-# Crimea
-CRI = {
-    color1= { 59 158 125  }
-    color2= { 152 85 92  }
-    color3= { 193 26 14  }
-}
-
-# Georgia
-GEO = {
-    color1= { 36 132 247  }
-    color2= { 126 203 120  }
-    color3= { 48 164 51  }
-}
-
-# Russia
-RUS = {
-    color1= { 119 181 88  }
-    color2= { 144 52 53  }
-    color3= { 107 170 77  }
-}
-
-# Ukraine
-UKR = {
-    color1= { 124 183 151  }
-    color2= { 194 140 86  }
-    color3= { 134 166 117  }
-}
-
-# Yemen
-YEM = {
-    color1= { 213 155 81  }
-    color2= { 80 79 88  }
-    color3= { 122 179 97  }
-}
-
-# Oman
-OMA = {
-    color1= { 198 22 16  }
-    color2= { 123 16 21  }
-    color3= { 17 16 203  }
-}
-
-# Hedjaz
-HDJ = {
-    color1= { 83 167 56  }
-    color2= { 123 16 21  }
-    color3= { 69 157 208  }
-}
-
-# Krakow FIXED
-KRA = {
-    color1= { 255 255 255  }
-    color2= { 128 146 202  }
-    color3= { 255 255 255  }
-}
-
-# Trieste
-TRE = {
-    color1= { 40 164 157  }
-    color2= { 161 126 128  }
-    color3= { 80 79 88  }
-}
-
-# Burma FIXED
-BUR = {
-    color1= { 255 255 255  }
-    color2= { 193 224 126  }
-    color3= { 112 150 105  }
+# Antigone Republic
+ANT = {
+    color1 = { 195 208 208 }
+    color2 = { 255 241 248 }
+    color3 = { 135 131 126 }
 }
 
-# Morocco FIXED
-MOR = {
-    color1= { 179 54 57  }
-    color2= { 123 16 21  }
-    color3= { 48 164 51  }
+# Vigor Syndicate
+VIG = {
+    color1 = { 14 125 140 }
+    color2 = { 188 44 99 }
+    color3 = { 91 57 1 }
 }
 
-# Egypt FIXED
-EGY = {
-    color1= { 179 54 57  }
-    color2= { 123 16 21  }
-    color3= { 48 164 51  }
-}	
-	
-# Transvaal FIXED
-TRN = {
-    color1= { 49 244 76  }
-    color2= { 94 117 55  }
-    color3= { 112 150 105  }
+# Riptide Rakers
+RIP = {
+    color1 = { 154 123 18 }
+    color2 = { 51 163 205 }
+    color3 = { 29 3 100 }
 }
 
-# Tripoli FIXED
-TRI = {
-    color1= { 87 146 87  }
-    color2= { 123 16 21  }
-    color3= { 112 150 105  }
+# Yaki
+YAK = {
+    color1 = { 104 14 140 }
+    color2 = { 158 188 44 }
+    color3 = { 1 91 20 }
 }
 
-# Tunisia FIXED
-TUN = {
-    color1= { 179 54 57  }
-    color2= { 69 80 169  }
-    color3= { 121 162 109  }
+# Goner
+GON = {
+    color1 = { 111 52 0 }
+    color2 = { 23 154 149 }
+    color3 = { 0 2 72 }
 }
 
-# Sokoto FIXED
-SOK = {
-    color1= { 49 244 76  }
-    color2= { 94 117 55  }
-    color3= { 112 150 105  }
+# Albion
+ABN = {
+    color1 = { 209 147 83 }
+    color2 = { 124 254 255 }
+    color3 = { 46 46 136 }
 }
 
-# Oranje
-ORA = {
-    color1= { 255 154 82  }
-    color2= { 94 117 55  }
-    color3= { 112 150 105  }
+# Solara
+SOL = {
+    color1 = { 0 13 129 }
+    color2 = { 175 86 26 }
+    color3 = { 50 84 0 }
 }
 
-# Madagascar FIXED
-MAD = {
-    color1= { 36 84 245  }
-    color2= { 236 159 89  }
-    color3= { 121 162 109  }
-}	
-	
-# Khiva
-KHI = {
-    color1= { 121 159 109  }
-    color2= { 101 102 163  }
-    color3= { 199 175 12  }
+# Boron
+# Queendom of Boron
+BOR = {
+    color1 = { 62 199 230 }
+    color2 = { 255 97 147 }
+    color3 = { 150 112 29 }
 }
 
-# Kokand
-KOK = {
-    color1= { 98 140 84  }
-    color2= { 219 124 139  }
-    color3= { 117 127 174  }
+# Provinces Adrift
+BOP = {
+    color1 = { 69 199 230 }
+    color2 = { 255 103 150 }
+    color3 = { 150 114 34 }
 }
 
-# Persia
-PER = {
-    color1= { 199 177 128  }
-    color2= { 194 140 86  }
-    color3= { 83 149 105  }
+# Wenedra Prime
+WEN = {
+    color1 = { 34 139 211 }
+    color2 = { 255 73 90 }
+    color3 = { 137 125 11 }
 }
 
-# Cherokee
-CHE = {
-    color1= { 105 145 40  }
-    color2= { 197 92 106  }
-    color3= { 199 175 12  }
+# Split
+# Zyarth Patriarchy
+ZYA = {
+    color1 = { 154 202 75 }
+    color2 = { 119 135 255 }
+    color3 = { 120 40 131 }
 }
 
-# Siam FIXED
-SIA = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 166 189 199  }
+# Free Families
+FRF = {
+    color1 = { 245 158 11 }
+    color2 = { 48 228 255 }
+    color3 = { 20 0 159 }
 }
 
-# Ethiopia FIXED
-ETH = {
-    color1= { 255 246 82  }
-    color2= { 39 108 140  }
-    color3= { 121 162 109  }
+# Fallen Families
+FAF = {
+    color1 = { 124 81 8 }
+    color2 = { 35 152 169 }
+    color3 = { 10 0 81 }
 }
 
-# Zanzibar FIXED
-ZAN = {
-    color1= { 255 255 255  }
-    color2= { 152 85 92  }
-    color3= { 187 79 86  }
+# Cabal of Curbs
+COC = {
+    color1 = { 255 243 147 }
+    color2 = { 163 219 255 }
+    color3 = { 119 89 166 }
 }
 
-# Atjeh FIXED
-ATJ = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 80 79 88  }
+# Council of Proctors
+COP = {
+    color1 = { 178 131 61 }
+    color2 = { 103 221 234 }
+    color3 = { 40 32 116 }
 }
 
-# Bali FIXED
-BAL = {
-    color1= { 69 80 169  }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
+# Terran
+TER = {
+    color1 = { 159 208 255 }
+    color2 = { 255 173 174 }
+    color3 = { 166 165 97 }
 }
 
-# Brunei FIXED
-BRU = {
-    color1= { 248 199 67  }
-    color2= { 255 255 255  }
-    color3= { 112 150 105  }
+# Segaris Pioneers
+PIO = {
+    color1 = { 22 163 148 }
+    color2 = { 216 57 153 }
+    color3 = { 106 45 5 }
 }
 
-# Cambodia FIXED
-CAM = {
-    color1= { 244 56 49  }
-    color2= { 69 80 169  }
-    color3= { 121 162 109  }
+# Solborn Militia
+SLB = {
+    color1 = { 110 150 190 }
+    color2 = { 248 159 159 }
+    color3 = { 123 124 66 }
 }
 
-# Dai nam FIXED
-DAI = {
-    color1= { 248 199 67  }
-    color2= { 122 182 242 }
-    color3= { 131 101 85  }
+# Teladi
+# Teladi Company
+TEL = {
+    color1 = { 212 179 16 }
+    color2 = { 55 189 255 }
+    color3 = { 46 0 138 }
 }
 
-# Japan
-JAP = {
-    color1= { 209 0 0  }
-    color2= { 37 37 37  }
-    color3= { 219 192 50  }
+# Ministry of Finance
+MIN = {
+    color1 = { 23 51 23 }
+    color2 = { 63 44 82 }
+    color3 = { 33 13 23 }
 }
 
-#Johore FIXED
-JOH = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 107 170 77  }
+# First Teladi Non-profit Organisation
+FTN = {
+    color1 = { 137 123 60 }
+    color2 = { 97 157 185 }
+    color3 = { 52 34 89 }
 }
-	
-# Korea
-KOR = {
-    color1= { 244 56 49  }
-    color2= { 255 193 70  }
-    color3= { 219 192 50  }
-}
-
-# LuangPrabang FIXED
-LUA = {
-    color1= { 244 56 49  }
-    color2= { 248 199 67  }
-    color3= { 48 164 51  }
-}
-
-# Panjab
-PAN = {
-    color1= { 229 165 69  }
-    color2= { 100 100 100  }
-    color3= { 166 189 199  }
-}
-
-# Tibet FIXED
-TIB = {
-    color1= { 255 255 255  }
-    color2= { 248 199 67  }
-    color3= { 122 179 97  }
-}
-
-# Bastar FIXED (not confirmed)
-BAS = {
-    color1= { 103 123 204  }
-    color2= { 255 255 255  }
-    color3= { 195 149 155  }
-}
-
-# Beroda FIXED
-BER = {
-    color1= { 215 93 53  }
-    color2= { 255 255 255  }
-    color3= { 80 79 88  }
-}
-
-# Bhopal FIXED (not confirmed)
-BHO = {
-    color1= { 78 150 91  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
-}
-
-#  Bikaner FIXED
-BIK = {
-    color1= { 229 165 69  }
-    color2= { 202 0 0  }
-    color3= { 99 137 153  }
-}
-
-# Bhutan
-BHU = {
-    color1= { 93 180 76  }
-    color2= { 107 94 169  }
-    color3= { 183 176 194  }
-}
-
-# Bundelkhand FIXED
-BUN = {
-    color1= { 255 216 85  }
-    color2= { 255 255 255  }
-    color3= { 48 164 51  }
-}
-
-# Gwailor FIXED
-GWA = {
-    color1= { 255 216 85  }
-    color2= { 202 0 0  }
-    color3= { 121 162 109  }
-}
 
-# Hyderabad FIXED
-HYD = {
-    color1= { 251 159 86  }
-    color2= { 78 150 91  }
-    color3= { 131 101 85  }
+# Scale Plate Pact
+SPP = {
+    color1 = { 149 133 54 }
+    color2 = { 91 163 199 }
+    color3 = { 51 29 97 }
 }
 
-# Kashmir
-KAS = {
-    color1= { 63 150 30  }
-    color2= { 101 102 163  }
-    color3= { 83 149 105  }
+# Paranid
+# Godrealm of the Paranid
+GOD = {
+    color1 = { 232 121 249 }
+    color2 = { 214 255 144 }
+    color3 = { 70 162 104 }
 }
 
-# Mughalistan
-MUG = {
-    color1= { 154 133 153  }
-    color2= { 197 92 106  }
-    color3= { 137 183 124  }
+# Holy Order of the Pontifex
+HOP = {
+    color1 = { 192 38 211 }
+    color2 = { 186 255 77 }
+    color3 = { 13 137 62 }
 }
 
-# Mysore FIXED
-MYS = {
-    color1= { 244 56 49  }
-    color2= { 110 70 60  }
-    color3= { 69 157 208  }
+# Realm of the Trinity
+ROT = {
+    color1 = { 185 90 199 }
+    color2 = { 211 255 136 }
+    color3 = { 51 129 80 }
 }
 
-# Nepal FIXED
-NEP = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 69 157 208  }
+# Alliance of the Word
+ALI = {
+    color1 = { 113 69 91 }
+    color2 = { 104 156 104 }
+    color3 = { 42 73 73 }
 }
 
-# Nagpur 
-NAG = {
-    color1= { 215 93 53  }
-    color2= { 100 100 100  }
-    color3= { 69 157 208  }
+# Dukes Buccaneers
+BUC = {
+    color1 = { 41 41 41 }
+    color2 = { 70 70 70 }
+    color3 = { 27 27 27 }
 }
 
-# Nejd 
-NEJ = {
-    color1= { 87 146 87  }
-    color2= { 0 0 0  }
-    color3= { 69 157 208  }
+# Quettanauts
+QTA = {
+    color1 = { 34 197 94 }
+    color2 = { 231 76 255 }
+    color3 = { 128 12 27 }
 }
 
-
-# Orissa FIXED
-ORI = {
-    color1= { 255 255 255  }
-    color2= { 210 106 47  }
-    color3= { 154 69 116  }
-}
-
-# Sind FIXED
-SIN = {
-    color1= { 72 119 80  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
+# Sohnen
+SOH = {
+    color1 = { 105 105 105 }
+    color2 = { 146 146 146 }
+    color3 = { 68 68 68 }
 }
 
-# Indore FIXED
-IND = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
+# Khaak
+KHK = {
+    color1 = { 136 4 26 }
+    color2 = { 32 184 83 }
+    color3 = { 0 59 88 }
 }
 
-# Jaipur FIXED
-JAI = {
-    color1= { 255 216 85  }
-    color2= { 69 80 169  }
-    color3= { 99 137 153  }
+# Northern Hive
+NKK = {
+    color1 = { 147 79 81 }
+    color2 = { 119 197 156 }
+    color3 = { 47 73 96 }
 }
 
-# Jaisalmer FIXED
-JAS = {
-    color1= { 244 56 49  }
-    color2= { 157 85 255  }
-    color3= { 99 137 153  }
+# Western Hive
+WKK = {
+    color1 = { 123 51 53 }
+    color2 = { 84 168 124 }
+    color3 = { 28 56 80 }
 }
 
-# Jodhpur FIXED
-JOD = {
-    color1= { 244 56 49  }
-    color2= { 87 187 128  }
-    color3= { 99 137 153  }
+# Eastern Hive
+EKK = {
+    color1 = { 172 79 81 }
+    color2 = { 123 227 172 }
+    color3 = { 45 80 112 }
 }
 
-# Kalat FIXED
-KAL = {
-    color1= { 90 164 107  }
-    color2= { 244 56 49  }
-    color3= { 99 137 153  }
+# Southern Hive
+SKK = {
+    color1 = { 183 85 87 }
+    color2 = { 131 240 183 }
+    color3 = { 49 85 119 }
 }
 
-# Kutch FIXED
-KUT = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 69 157 208  }
+# Central Hive
+CKK = {
+    color1 = { 119 40 42 }
+    color2 = { 71 163 115 }
+    color3 = { 21 51 77 }
 }
 
-# Makran
-MAK = {
-    color1= { 90 164 107  }
-    color2= { 69 80 169  }
-    color3= { 99 137 153  }
+# Xenon
+XEN = {
+    color1 = { 239 68 68 }
+    color2 = { 100 255 177 }
+    color3 = { 33 94 155 }
 }
 
-# Travanacore FIXED
-TRA = {
-    color1= { 215 59 53  }
-    color2= { 122 182 242 }
-    color3= { 255 255 255  }
-}
