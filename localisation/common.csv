@@ -4860,6 +4860,7 @@ CB_ALLOWED_TRANSFER_PROVINCES;Transfer of provinces;x
 CB_ALLOWED_PRESTIGE;Reduction of Prestige;x
 CB_ALLOWED_CONCESSION;Concede Defeat;x
 MAINTENANCE_DESC;Maintenance goods need:;x
+MISSING_MAINTENANCE;Output is reduced to §R$PERC$§W since factory is missing maintenance goods;x
 PROCEED;Proceed;x
 ENDGAME_HEADLINE;Game Over;x
 ENDGAME_DESC;Over one hundred momentous years have passed and we have entered the Fourth Age. The world is a radically different place, how did your country do?;x

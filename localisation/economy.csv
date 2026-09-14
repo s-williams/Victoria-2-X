@@ -86,9 +86,9 @@ cloth_rimes_fact_desc;Fabrics are synthesised on stations and traded in great bo
 medical_supplies_factory;Medical Supplies Factory;x
 medical_supplies_factory_desc;Medical supplies contain a number of different concoctions and remedies used to keep populations healthier and happier during their time in space.;x
 meal_rations_factory;Meal Rations Factory;x
-meal_rations_factory_desc;Food Rations come in a large variety; as far as rations for the species Homo sapiens are concerned, they mainly contain wheat, freeze-dried meat and different spices as well as vitamins and essential minerals.;x
+meal_rations_factory_desc;Food Rations come in a large variety: as far as rations for the species Homo sapiens are concerned, they mainly contain wheat, freeze-dried meat and different spices as well as vitamins and essential minerals.;x
 luxury_clothes_factory;Luxury Clothes Factory;x
-luxury_clothes_factory_desc;Made from sewing cloth with refined metals, and utilising basic microchips, luxury clothes are highly sought out as both fashion items and key work wear. Luxury clothes are durable with built-in capabilities.;x
+luxury_clothes_factory_desc;Made from sewing thick cloth with metals and basic microchips, luxury clothes are highly sought out as both fashion items and key work wear. Luxury clothes are durable with built-in capabilities to enable existence in the vaccuum of space and manoeuvring in zero g environments.;x
 regular_clothes_factory;Regular Clothes Factory;x
 regular_clothes_factory_desc;Clothing is made from working cloth into wearable outfits for all known species. Gymnophobia, or prejudice against nudity, is not quite universal among all known life. The Teladi can frequently be seen on stations naked as the day they hatched, but even they need clothing on more formal, cross-species occassions.;x
 #######################;x
