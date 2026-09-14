@@ -5271,6 +5271,8 @@ RELEASE_VASSAL_EFFECT;Release §Y$TARGET$§W\n;x
 IS_IN_A_SPHERE;Is in a Sphere of Influence;x
 PROVINCEVIEW_SUPPLY_LIMIT;Supply Limit:;x
 PRODUCTION_COST_REOPEN;Reopening Cost: §Y$VAL$§W;x
+PRODUCTION_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;x
 NAVALATTACKTHEM_HEADER;Chief of Navy reports;x
 NAVALATTACKUS_HEADER;Chief of Navy reports;x
 SIEGEUS_SETUP;When the enemy begins to occupy our province;x
