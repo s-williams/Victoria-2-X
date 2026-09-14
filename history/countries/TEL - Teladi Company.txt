@@ -1,4 +1,4 @@
-capital = 354
+capital = 568
 primary_culture = teladi
 religion = teladi
 government = bourgeois_dictatorship
