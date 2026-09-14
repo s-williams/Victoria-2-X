@@ -15,7 +15,7 @@
     - [x] Terrains (unique per region)
     - [x] Climates as sun exposure levels
     - [x] Starting techs
-    - [ ] Starting industries
+    - [x] Starting industries
     - [x] Starting pops
 - [x] Cultures
     - [x] Species as religions
@@ -25,6 +25,7 @@
     - [x] Production types
     - [x] Buildings
     - [x] Icons
+    - [x] Production bonuses
 - [/] Technology
     - [x] Rework (Military, Extraction, Industry, Commerce, Culture)
     - [/] Inventions
