@@ -281,6 +281,8 @@ country_event = {
         163 = { add_province_modifier = { name = jumpgate_to_tempting_fumes duration = -1 } }
         167 = { add_province_modifier = { name = jumpgate_to_circle_of_deceit duration = -1 } }
         159 = { add_province_modifier = { name = jumpgate_to_sanctum_verge duration = -1 } }
+        562 = { add_province_modifier = { name = jumpgate_to_memory_of_profit duration = -1 } }
+        500 = { add_province_modifier = { name = jumpgate_to_bright_promise duration = -1 } }
 
         # Retrigger tomorrow
         owner = { country_event = { id = 99000 days = 1 } }
