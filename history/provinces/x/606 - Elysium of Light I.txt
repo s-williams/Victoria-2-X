@@ -4,3 +4,8 @@ add_core = GON
 trade_goods = energy_cells
 life_rating = 15
 terrain = elysium_of_light
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

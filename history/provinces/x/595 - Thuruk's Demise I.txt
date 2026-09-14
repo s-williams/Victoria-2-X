@@ -5,3 +5,8 @@ add_core = COC
 trade_goods = energy_cells
 life_rating = 15
 terrain = thuruks_demise
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

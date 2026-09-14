@@ -4,3 +4,18 @@ add_core = AGN
 trade_goods = ore
 life_rating = 15
 terrain = silent_witness
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = engine_parts_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = hull_parts_factory
+    upgrade = yes
+}

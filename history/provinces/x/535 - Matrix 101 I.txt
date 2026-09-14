@@ -4,3 +4,28 @@ add_core = XEN
 trade_goods = ore
 life_rating = 15
 terrain = matrix_101
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = scanning_arrays_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = microchips_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = electronics_factory
+    upgrade = yes
+}

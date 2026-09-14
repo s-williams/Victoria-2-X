@@ -5,3 +5,8 @@ add_core = COC
 trade_goods = energy_cells
 life_rating = 15
 terrain = fires_of_defeat
+state_building = {
+    level = 1
+    building = protein_ranch
+    upgrade = yes
+}

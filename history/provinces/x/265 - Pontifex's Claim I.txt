@@ -4,3 +4,23 @@ add_core = HOP
 trade_goods = energy_cells
 life_rating = 30
 terrain = pontifexs_claim
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = alcohol_distillery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

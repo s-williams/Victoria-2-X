@@ -4,3 +4,8 @@ add_core = TEL
 trade_goods = energy_cells
 life_rating = 15
 terrain = company_regard
+state_building = {
+    level = 1
+    building = meal_rations_factory
+    upgrade = yes
+}

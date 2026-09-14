@@ -4,3 +4,8 @@ add_core = GOD
 trade_goods = energy_cells
 life_rating = 15
 terrain = litany_of_fury
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

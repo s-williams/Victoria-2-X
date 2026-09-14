@@ -4,3 +4,13 @@ add_core = QTA
 trade_goods = methane
 life_rating = 15
 terrain = mitsunos_remembrance
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}

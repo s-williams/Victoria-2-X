@@ -5,3 +5,8 @@ add_core = ZYA
 trade_goods = energy_cells
 life_rating = 15
 terrain = wretched_skies
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}

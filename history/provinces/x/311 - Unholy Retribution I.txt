@@ -4,3 +4,8 @@ add_core = GOD
 trade_goods = energy_cells
 life_rating = 30
 terrain = unholy_retribution
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

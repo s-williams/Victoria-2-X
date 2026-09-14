@@ -4,3 +4,8 @@ add_core = BOR
 trade_goods = silicon
 life_rating = 25
 terrain = menelaus_oasis
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}

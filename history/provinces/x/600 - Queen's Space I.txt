@@ -4,3 +4,8 @@ add_core = WEN
 trade_goods = energy_cells
 life_rating = 20
 terrain = queens_space
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

@@ -1,6 +1,16 @@
 owner = HOP
 controller = HOP
 add_core = HOP
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 15
 terrain = cardinals_redress
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}

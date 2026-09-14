@@ -1,6 +1,6 @@
 owner = HOP
 controller = HOP
 add_core = HOP
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 15
 terrain = cardinals_redress

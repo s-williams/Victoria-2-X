@@ -4,3 +4,8 @@ add_core = BOP
 trade_goods = ore
 life_rating = 25
 terrain = barren_shores
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

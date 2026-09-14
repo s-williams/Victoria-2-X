@@ -4,3 +4,23 @@ add_core = AGN
 trade_goods = ice
 life_rating = 25
 terrain = presidents_end
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = engine_parts_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = protein_ranch
+    upgrade = yes
+}

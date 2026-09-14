@@ -4,3 +4,8 @@ add_core = BOP
 trade_goods = energy_cells
 life_rating = 30
 terrain = great_reef
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}

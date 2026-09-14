@@ -4,3 +4,8 @@ add_core = AGN
 trade_goods = energy_cells
 life_rating = 20
 terrain = cloudbase
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

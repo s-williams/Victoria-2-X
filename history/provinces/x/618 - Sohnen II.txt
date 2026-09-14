@@ -1,6 +1,6 @@
 owner = SOH
 controller = SOH
 add_core = SOH
-trade_goods = energy_cells
+trade_goods = ice
 life_rating = 20
 terrain = sohnen

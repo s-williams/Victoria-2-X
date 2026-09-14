@@ -4,3 +4,8 @@ add_core = ZYA
 trade_goods = silicon
 life_rating = 20
 terrain = family_zhin
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}

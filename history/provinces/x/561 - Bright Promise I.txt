@@ -4,3 +4,8 @@ add_core = TEL
 trade_goods = energy_cells
 life_rating = 20
 terrain = bright_promise
+state_building = {
+    level = 1
+    building = carbohydrates_farm
+    upgrade = yes
+}

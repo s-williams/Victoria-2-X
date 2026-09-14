@@ -1,6 +1,16 @@
 owner = XEN
 controller = XEN
 add_core = XEN
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 15
 terrain = matrix_451
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}

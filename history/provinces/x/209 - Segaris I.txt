@@ -4,3 +4,18 @@ add_core = PIO
 trade_goods = energy_cells
 life_rating = 15
 terrain = segaris
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = alcohol_distillery
+    upgrade = yes
+}

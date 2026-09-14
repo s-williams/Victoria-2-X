@@ -4,3 +4,8 @@ add_core = HOP
 trade_goods = energy_cells
 life_rating = 15
 terrain = true_sight
+state_building = {
+    level = 1
+    building = meal_rations_factory
+    upgrade = yes
+}

@@ -4,3 +4,23 @@ add_core = TER
 trade_goods = energy_cells
 life_rating = 35
 terrain = inner_sol
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = protein_ranch
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = meal_rations_factory
+    upgrade = yes
+}

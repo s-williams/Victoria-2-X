@@ -5,3 +5,8 @@ add_core = ALI
 trade_goods = energy_cells
 life_rating = 35
 terrain = sacred_relic
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}

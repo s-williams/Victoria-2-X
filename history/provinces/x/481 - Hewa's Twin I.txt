@@ -5,3 +5,8 @@ add_core = FTN
 trade_goods = energy_cells
 life_rating = 30
 terrain = hewas_twin
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}

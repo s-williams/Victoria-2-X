@@ -4,3 +4,13 @@ add_core = GOD
 trade_goods = ore
 life_rating = 15
 terrain = trinity_sanctum
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}

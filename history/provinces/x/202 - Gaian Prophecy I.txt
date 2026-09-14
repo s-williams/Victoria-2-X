@@ -4,3 +4,8 @@ add_core = PIO
 trade_goods = energy_cells
 life_rating = 15
 terrain = gaian_prophecy
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}

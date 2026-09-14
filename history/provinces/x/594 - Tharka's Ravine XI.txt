@@ -2,6 +2,6 @@ owner = FRF
 controller = FRF
 add_core = FRF
 add_core = COC
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 20
 terrain = tharkas_ravine

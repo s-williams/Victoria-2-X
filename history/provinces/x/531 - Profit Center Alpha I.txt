@@ -5,3 +5,8 @@ add_core = MIN
 trade_goods = energy_cells
 life_rating = 30
 terrain = profit_center_alpha
+state_building = {
+    level = 1
+    building = cloth_rimes_fact
+    upgrade = yes
+}

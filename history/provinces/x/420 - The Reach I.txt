@@ -1,6 +1,21 @@
 owner = AGN
 controller = AGN
 add_core = AGN
-trade_goods = energy_cells
+trade_goods = ore
 life_rating = 30
 terrain = the_reach
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = engine_parts_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = advanced_composites_factory
+    upgrade = yes
+}

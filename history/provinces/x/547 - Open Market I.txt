@@ -4,3 +4,8 @@ add_core = TEL
 trade_goods = energy_cells
 life_rating = 15
 terrain = open_market
+state_building = {
+    level = 1
+    building = cloth_rimes_fact
+    upgrade = yes
+}

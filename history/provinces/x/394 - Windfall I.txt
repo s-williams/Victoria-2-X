@@ -4,3 +4,8 @@ add_core = VIG
 trade_goods = ice
 life_rating = 15
 terrain = windfall
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}

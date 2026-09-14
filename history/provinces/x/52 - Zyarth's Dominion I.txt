@@ -4,3 +4,13 @@ add_core = ZYA
 trade_goods = energy_cells
 life_rating = 15
 terrain = zyarths_dominion
+state_building = {
+    level = 1
+    building = protein_ranch
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = carbohydrates_farm
+    upgrade = yes
+}

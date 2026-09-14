@@ -4,3 +4,8 @@ add_core = XEN
 trade_goods = energy_cells
 life_rating = 15
 terrain = matrix_598
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

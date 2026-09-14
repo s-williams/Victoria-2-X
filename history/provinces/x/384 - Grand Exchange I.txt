@@ -4,3 +4,18 @@ add_core = TEL
 trade_goods = ore
 life_rating = 15
 terrain = grand_exchange
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}

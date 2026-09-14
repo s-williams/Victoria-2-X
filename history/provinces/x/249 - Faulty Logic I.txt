@@ -4,3 +4,8 @@ add_core = XEN
 trade_goods = ore
 life_rating = 15
 terrain = faulty_logic
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

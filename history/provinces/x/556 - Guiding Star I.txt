@@ -4,3 +4,8 @@ add_core = AGN
 trade_goods = energy_cells
 life_rating = 15
 terrain = guiding_star
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}

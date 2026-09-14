@@ -1,6 +1,26 @@
 owner = ANT
 controller = ANT
 add_core = ANT
-trade_goods = energy_cells
+trade_goods = silicon
 life_rating = 30
 terrain = second_contact
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = alcohol_distillery
+    upgrade = yes
+}

@@ -4,3 +4,8 @@ add_core = XEN
 trade_goods = nividium
 life_rating = 15
 terrain = atiyas_misfortune
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

@@ -4,3 +4,13 @@ add_core = XEN
 trade_goods = energy_cells
 life_rating = 30
 terrain = emperors_pride
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

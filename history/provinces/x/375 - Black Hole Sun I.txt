@@ -4,3 +4,28 @@ add_core = AGN
 trade_goods = energy_cells
 life_rating = 15
 terrain = black_hole_sun
+state_building = {
+    level = 1
+    building = weapon_components_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = drone_components_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = missile_components_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = turret_components_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = shield_components_factory
+    upgrade = yes
+}

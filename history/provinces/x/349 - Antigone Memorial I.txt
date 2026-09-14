@@ -4,3 +4,18 @@ add_core = ANT
 trade_goods = silicon
 life_rating = 30
 terrain = antigone_memorial
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = water_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ore_refinery
+    upgrade = yes
+}

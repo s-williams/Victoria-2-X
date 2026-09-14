@@ -4,3 +4,13 @@ add_core = GOD
 trade_goods = silicon
 life_rating = 15
 terrain = pious_mists
+state_building = {
+    level = 1
+    building = silicon_refinery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = graphene_refinery
+    upgrade = yes
+}

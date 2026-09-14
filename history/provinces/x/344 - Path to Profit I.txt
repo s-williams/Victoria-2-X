@@ -4,3 +4,8 @@ add_core = TEL
 trade_goods = energy_cells
 life_rating = 15
 terrain = path_to_profit
+state_building = {
+    level = 1
+    building = medical_supplies_factory
+    upgrade = yes
+}
