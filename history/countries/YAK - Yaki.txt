@@ -1,4 +1,4 @@
-capital = 354
+capital = 128
 primary_culture = argon
 religion = human
 government = presidential_dictatorship
