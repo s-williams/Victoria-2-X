@@ -34,6 +34,11 @@
 		religion = agi
 		size = 1639
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1424
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -52,7 +57,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 10097
+		size = 8673
 	}
 }
 3 = {
@@ -81,6 +86,11 @@
 		religion = agi
 		size = 236
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 118
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -94,7 +104,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 1803
+		size = 1685
 	}
 }
 4 = {
@@ -128,6 +138,11 @@
 		religion = agi
 		size = 250
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 182
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -141,7 +156,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 1962
+		size = 1780
 	}
 }
 5 = {
@@ -175,6 +190,11 @@
 		religion = agi
 		size = 164
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 141
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -188,7 +208,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 1676
+		size = 1535
 	}
 }
 6 = {
@@ -222,6 +242,11 @@
 		religion = agi
 		size = 197
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 244
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -235,7 +260,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 1627
+		size = 1383
 	}
 }
 7 = {
@@ -264,6 +289,11 @@
 		religion = agi
 		size = 85
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 124
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -277,7 +307,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 871
+		size = 748
 	}
 }
 8 = {
@@ -316,10 +346,15 @@
 		religion = paranid
 		size = 1138
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1183
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 6858
+		size = 5675
 	}
 }
 9 = {
@@ -353,10 +388,15 @@
 		religion = paranid
 		size = 117
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 88
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1290
+		size = 1202
 	}
 }
 10 = {
@@ -390,10 +430,15 @@
 		religion = paranid
 		size = 82
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 92
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 850
+		size = 758
 	}
 }
 11 = {
@@ -427,10 +472,15 @@
 		religion = paranid
 		size = 100
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 66
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1069
+		size = 1003
 	}
 }
 12 = {
@@ -464,10 +514,15 @@
 		religion = paranid
 		size = 115
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 93
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1126
+		size = 1032
 	}
 }
 13 = {
@@ -501,10 +556,15 @@
 		religion = paranid
 		size = 120
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 141
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1195
+		size = 1055
 	}
 }
 14 = {
@@ -538,10 +598,15 @@
 		religion = paranid
 		size = 222
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 116
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 1866
+		size = 1750
 	}
 }
 15 = {
@@ -575,10 +640,15 @@
 		religion = paranid
 		size = 96
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 80
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 977
+		size = 897
 	}
 }
 16 = {
@@ -612,10 +682,15 @@
 		religion = paranid
 		size = 332
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 374
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 2693
+		size = 2320
 	}
 }
 17 = {
@@ -649,6 +724,11 @@
 		religion = split
 		size = 334
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 460
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -662,7 +742,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 3793
+		size = 3333
 	}
 }
 18 = {
@@ -696,6 +776,11 @@
 		religion = split
 		size = 267
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 252
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -709,7 +794,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 2873
+		size = 2621
 	}
 }
 19 = {
@@ -743,6 +828,11 @@
 		religion = split
 		size = 287
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 408
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -756,7 +846,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 3014
+		size = 2606
 	}
 }
 20 = {
@@ -790,6 +880,11 @@
 		religion = split
 		size = 307
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 517
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -803,7 +898,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 3287
+		size = 2770
 	}
 }
 21 = {
@@ -837,6 +932,11 @@
 		religion = split
 		size = 275
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 209
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -850,7 +950,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 3394
+		size = 3185
 	}
 }
 22 = {
@@ -884,6 +984,11 @@
 		religion = split
 		size = 1051
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1502
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -902,7 +1007,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 9729
+		size = 8227
 	}
 }
 23 = {
@@ -936,6 +1041,11 @@
 		religion = split
 		size = 872
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1138
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -954,7 +1064,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 7663
+		size = 6525
 	}
 }
 24 = {
@@ -988,6 +1098,11 @@
 		religion = split
 		size = 789
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 802
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1006,7 +1121,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 7813
+		size = 7011
 	}
 }
 25 = {
@@ -1040,6 +1155,11 @@
 		religion = split
 		size = 835
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 688
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1058,7 +1178,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 8592
+		size = 7904
 	}
 }
 26 = {
@@ -1092,6 +1212,11 @@
 		religion = split
 		size = 909
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1457
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1110,7 +1235,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 8067
+		size = 6610
 	}
 }
 27 = {
@@ -1144,6 +1269,11 @@
 		religion = split
 		size = 851
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 816
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1162,7 +1292,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8205
+		size = 7389
 	}
 }
 28 = {
@@ -1391,6 +1521,11 @@
 		religion = agi
 		size = 354
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 193
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -1404,7 +1539,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 2696
+		size = 2504
 	}
 }
 34 = {
@@ -1433,6 +1568,11 @@
 		religion = agi
 		size = 477
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 272
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1446,7 +1586,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 3813
+		size = 3541
 	}
 }
 35 = {
@@ -1480,6 +1620,11 @@
 		religion = agi
 		size = 393
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 502
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1493,7 +1638,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 3111
+		size = 2610
 	}
 }
 36 = {
@@ -1527,6 +1672,11 @@
 		religion = split
 		size = 231
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 392
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1540,7 +1690,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 3000
+		size = 2607
 	}
 }
 37 = {
@@ -1574,6 +1724,11 @@
 		religion = split
 		size = 219
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 425
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1587,7 +1742,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 2734
+		size = 2309
 	}
 }
 38 = {
@@ -1621,6 +1776,11 @@
 		religion = split
 		size = 125
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 240
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1634,7 +1794,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 1657
+		size = 1416
 	}
 }
 39 = {
@@ -1668,6 +1828,11 @@
 		religion = split
 		size = 196
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 306
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1681,7 +1846,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 2481
+		size = 2175
 	}
 }
 40 = {
@@ -1715,6 +1880,11 @@
 		religion = split
 		size = 200
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 435
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1728,7 +1898,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 2433
+		size = 1998
 	}
 }
 41 = {
@@ -1762,6 +1932,11 @@
 		religion = split
 		size = 199
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 272
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -1775,7 +1950,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 2568
+		size = 2296
 	}
 }
 42 = {
@@ -1809,6 +1984,11 @@
 		religion = agi
 		size = 1385
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1084
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -1827,7 +2007,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 8213
+		size = 7129
 	}
 }
 43 = {
@@ -1861,6 +2041,11 @@
 		religion = agi
 		size = 1638
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1462
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -1879,7 +2064,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 8862
+		size = 7400
 	}
 }
 44 = {
@@ -1913,6 +2098,11 @@
 		religion = agi
 		size = 1108
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 974
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -1931,7 +2121,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 7083
+		size = 6109
 	}
 }
 45 = {
@@ -1965,6 +2155,11 @@
 		religion = agi
 		size = 696
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 817
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -1978,7 +2173,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 4928
+		size = 4111
 	}
 }
 46 = {
@@ -2012,6 +2207,11 @@
 		religion = agi
 		size = 828
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 700
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -2025,7 +2225,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5331
+		size = 4631
 	}
 }
 47 = {
@@ -2059,6 +2259,11 @@
 		religion = agi
 		size = 1036
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 916
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2077,7 +2282,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 6031
+		size = 5115
 	}
 }
 48 = {
@@ -2111,6 +2316,11 @@
 		religion = agi
 		size = 1143
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 519
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -2129,7 +2339,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 7628
+		size = 7109
 	}
 }
 49 = {
@@ -2163,6 +2373,11 @@
 		religion = agi
 		size = 1082
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 597
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -2181,7 +2396,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 6604
+		size = 6007
 	}
 }
 50 = {
@@ -2215,6 +2430,11 @@
 		religion = agi
 		size = 1564
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 888
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -2233,7 +2453,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 8868
+		size = 7980
 	}
 }
 51 = {
@@ -2267,6 +2487,11 @@
 		religion = agi
 		size = 2108
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 841
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -2285,7 +2510,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 11427
+		size = 10586
 	}
 }
 52 = {
@@ -2319,6 +2544,11 @@
 		religion = split
 		size = 2131
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1576
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2342,7 +2572,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 18150
+		size = 16574
 	}
 }
 53 = {
@@ -2376,6 +2606,11 @@
 		religion = split
 		size = 1448
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 902
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2394,7 +2629,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 12240
+		size = 11339
 	}
 }
 54 = {
@@ -2428,6 +2663,11 @@
 		religion = split
 		size = 1553
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1206
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2446,7 +2686,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 12208
+		size = 11002
 	}
 }
 55 = {
@@ -2480,6 +2720,11 @@
 		religion = split
 		size = 1565
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1960
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2498,7 +2743,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 14181
+		size = 12221
 	}
 }
 56 = {
@@ -2532,6 +2777,11 @@
 		religion = split
 		size = 1452
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1427
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2550,7 +2800,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 13468
+		size = 12041
 	}
 }
 57 = {
@@ -2584,6 +2834,11 @@
 		religion = split
 		size = 1117
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1149
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2602,7 +2857,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 10649
+		size = 9500
 	}
 }
 58 = {
@@ -2636,6 +2891,11 @@
 		religion = split
 		size = 1112
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 870
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2654,7 +2914,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 10025
+		size = 9155
 	}
 }
 59 = {
@@ -2688,6 +2948,11 @@
 		religion = split
 		size = 969
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 882
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2706,7 +2971,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 9482
+		size = 8600
 	}
 }
 60 = {
@@ -2740,6 +3005,11 @@
 		religion = split
 		size = 810
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1365
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2758,7 +3028,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 7771
+		size = 6406
 	}
 }
 61 = {
@@ -2792,6 +3062,11 @@
 		religion = split
 		size = 1794
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 2124
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2810,7 +3085,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 15538
+		size = 13415
 	}
 }
 62 = {
@@ -2844,6 +3119,11 @@
 		religion = split
 		size = 1219
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1497
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2862,7 +3142,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 11187
+		size = 9690
 	}
 }
 63 = {
@@ -2896,6 +3176,11 @@
 		religion = split
 		size = 1320
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 939
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2914,7 +3199,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 11514
+		size = 10575
 	}
 }
 64 = {
@@ -2948,6 +3233,11 @@
 		religion = split
 		size = 1322
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1751
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -2966,7 +3256,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 11561
+		size = 9809
 	}
 }
 65 = {
@@ -3000,6 +3290,11 @@
 		religion = split
 		size = 1654
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1144
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -3018,7 +3313,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 13928
+		size = 12784
 	}
 }
 66 = {
@@ -3052,6 +3347,11 @@
 		religion = split
 		size = 1597
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1411
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -3070,7 +3370,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 13020
+		size = 11610
 	}
 }
 67 = {
@@ -3342,10 +3642,15 @@
 		religion = boron
 		size = 569
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 745
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 4253
+		size = 3508
 	}
 }
 72 = {
@@ -3379,10 +3684,15 @@
 		religion = boron
 		size = 378
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 428
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 3229
+		size = 2802
 	}
 }
 73 = {
@@ -3416,10 +3726,15 @@
 		religion = boron
 		size = 103
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 131
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1092
+		size = 961
 	}
 }
 74 = {
@@ -3448,10 +3763,15 @@
 		religion = boron
 		size = 92
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 130
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 971
+		size = 840
 	}
 }
 75 = {
@@ -3480,10 +3800,15 @@
 		religion = boron
 		size = 75
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 141
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 923
+		size = 782
 	}
 }
 76 = {
@@ -3517,10 +3842,15 @@
 		religion = boron
 		size = 137
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 198
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1362
+		size = 1164
 	}
 }
 77 = {
@@ -3554,10 +3884,15 @@
 		religion = boron
 		size = 93
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 91
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 1105
+		size = 1014
 	}
 }
 78 = {
@@ -3591,10 +3926,15 @@
 		religion = boron
 		size = 70
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 51
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 849
+		size = 798
 	}
 }
 79 = {
@@ -3628,10 +3968,15 @@
 		religion = boron
 		size = 74
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 84
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 908
+		size = 825
 	}
 }
 80 = {
@@ -3660,10 +4005,15 @@
 		religion = boron
 		size = 65
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 65
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 756
+		size = 691
 	}
 }
 81 = {
@@ -3692,10 +4042,15 @@
 		religion = boron
 		size = 97
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 80
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 993
+		size = 913
 	}
 }
 82 = {
@@ -3865,10 +4220,15 @@
 		religion = boron
 		size = 16895
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 12338
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 64838
+		size = 52500
 	}
 }
 86 = {
@@ -3902,10 +4262,15 @@
 		religion = boron
 		size = 3311
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 3234
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 19498
+		size = 16265
 	}
 }
 87 = {
@@ -3939,10 +4304,15 @@
 		religion = boron
 		size = 1567
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 937
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 9426
+		size = 8488
 	}
 }
 88 = {
@@ -3976,10 +4346,15 @@
 		religion = boron
 		size = 2327
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1784
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 12506
+		size = 10721
 	}
 }
 89 = {
@@ -4013,10 +4388,15 @@
 		religion = boron
 		size = 2973
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1658
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 14731
+		size = 13073
 	}
 }
 90 = {
@@ -4050,10 +4430,15 @@
 		religion = boron
 		size = 2399
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 2476
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 14500
+		size = 12024
 	}
 }
 91 = {
@@ -4087,10 +4472,15 @@
 		religion = boron
 		size = 3143
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1870
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 15412
+		size = 13542
 	}
 }
 92 = {
@@ -4124,10 +4514,15 @@
 		religion = boron
 		size = 2878
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1545
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 16608
+		size = 15063
 	}
 }
 93 = {
@@ -4161,10 +4556,15 @@
 		religion = boron
 		size = 3521
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1681
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 18193
+		size = 16512
 	}
 }
 94 = {
@@ -4198,10 +4598,15 @@
 		religion = boron
 		size = 2930
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 1963
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 14794
+		size = 12831
 	}
 }
 95 = {
@@ -4235,10 +4640,15 @@
 		religion = boron
 		size = 109
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 95
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 1102
+		size = 1007
 	}
 }
 96 = {
@@ -4272,10 +4682,15 @@
 		religion = boron
 		size = 89
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 125
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 1022
+		size = 897
 	}
 }
 97 = {
@@ -4304,10 +4719,15 @@
 		religion = boron
 		size = 85
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 147
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 929
+		size = 782
 	}
 }
 98 = {
@@ -4341,10 +4761,15 @@
 		religion = boron
 		size = 103
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 115
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1124
+		size = 1010
 	}
 }
 99 = {
@@ -4378,10 +4803,15 @@
 		religion = boron
 		size = 110
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 99
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 1211
+		size = 1112
 	}
 }
 100 = {
@@ -4410,10 +4840,15 @@
 		religion = boron
 		size = 139
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 221
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1286
+		size = 1065
 	}
 }
 101 = {
@@ -4477,25 +4912,30 @@
 		religion = split
 		size = 126
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 7625
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 48032
+		size = 41931
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 6004
+		size = 5241
 	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 5404
+		size = 4717
 	}
 	farmers = {
 		culture = split
 		religion = split
-		size = 600
+		size = 524
 	}
 }
 102 = {
@@ -4559,25 +4999,30 @@
 		religion = paranid
 		size = 94
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 2925
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 30624
+		size = 28284
 	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 3828
+		size = 3535
 	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 3445
+		size = 3182
 	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 383
+		size = 354
 	}
 }
 103 = {
@@ -4651,30 +5096,35 @@
 		religion = paranid
 		size = 381
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 2667
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 31344
+		size = 29211
 	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 1959
+		size = 1826
 	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 1959
+		size = 1826
 	}
 	labourers = {
 		culture = split
 		religion = split
-		size = 1959
+		size = 1826
 	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 1959
+		size = 1826
 	}
 }
 104 = {
@@ -4738,25 +5188,30 @@
 		religion = split
 		size = 530
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 3446
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 34807
+		size = 32050
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 2175
+		size = 2003
 	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 4351
+		size = 4006
 	}
 	farmers = {
 		culture = split
 		religion = split
-		size = 2175
+		size = 2003
 	}
 }
 105 = {
@@ -4820,25 +5275,30 @@
 		religion = split
 		size = 370
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 5145
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 31113
+		size = 26740
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 1830
+		size = 1573
 	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 1830
+		size = 1573
 	}
 	farmers = {
 		culture = split
 		religion = split
-		size = 1830
+		size = 1573
 	}
 }
 106 = {
@@ -4902,25 +5362,30 @@
 		religion = paranid
 		size = 439
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 6751
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 35298
+		size = 29560
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 2076
+		size = 1739
 	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 2076
+		size = 1739
 	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 2076
+		size = 1739
 	}
 }
 107 = {
@@ -4954,10 +5419,15 @@
 		religion = boron
 		size = 6984
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 4195
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 36403
+		size = 32208
 	}
 }
 108 = {
@@ -4991,10 +5461,15 @@
 		religion = boron
 		size = 6725
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 2236
+	}
 	labourers = {
 		culture = boron
 		religion = boron
-		size = 31438
+		size = 29202
 	}
 }
 109 = {
@@ -5028,10 +5503,15 @@
 		religion = boron
 		size = 7118
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 3563
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 31787
+		size = 28223
 	}
 }
 110 = {
@@ -5065,10 +5545,15 @@
 		religion = boron
 		size = 7829
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 6493
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 33614
+		size = 27122
 	}
 }
 111 = {
@@ -5102,10 +5587,15 @@
 		religion = boron
 		size = 7708
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 4893
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 37757
+		size = 32864
 	}
 }
 112 = {
@@ -5139,10 +5629,15 @@
 		religion = boron
 		size = 6644
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 6112
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 33312
+		size = 27200
 	}
 }
 113 = {
@@ -5417,10 +5912,15 @@
 		religion = boron
 		size = 748
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 885
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 5546
+		size = 4661
 	}
 }
 117 = {
@@ -5454,10 +5954,15 @@
 		religion = boron
 		size = 708
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 319
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 5220
+		size = 4901
 	}
 }
 118 = {
@@ -5491,10 +5996,15 @@
 		religion = boron
 		size = 660
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 726
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 5045
+		size = 4319
 	}
 }
 119 = {
@@ -5528,10 +6038,15 @@
 		religion = boron
 		size = 662
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 709
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 5114
+		size = 4405
 	}
 }
 120 = {
@@ -6044,6 +6559,11 @@
 		religion = agi
 		size = 392
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 363
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -6057,7 +6577,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 2837
+		size = 2474
 	}
 }
 128 = {
@@ -6185,10 +6705,15 @@
 		religion = human
 		size = 19300
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 12670
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 75336
+		size = 62666
 	}
 }
 131 = {
@@ -6222,10 +6747,15 @@
 		religion = human
 		size = 21811
 	}
-	farmers = {
+	craftsmen = {
 		culture = terran
 		religion = human
-		size = 91895
+		size = 19774
+	}
+	labourers = {
+		culture = terran
+		religion = human
+		size = 72120
 	}
 }
 132 = {
@@ -6259,10 +6789,15 @@
 		religion = human
 		size = 21985
 	}
-	farmers = {
+	craftsmen = {
 		culture = terran
 		religion = human
-		size = 83367
+		size = 12254
+	}
+	labourers = {
+		culture = terran
+		religion = human
+		size = 71113
 	}
 }
 133 = {
@@ -6296,10 +6831,15 @@
 		religion = human
 		size = 22002
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 16359
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 85837
+		size = 69478
 	}
 }
 134 = {
@@ -6333,10 +6873,15 @@
 		religion = human
 		size = 20155
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 16794
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 89112
+		size = 72318
 	}
 }
 135 = {
@@ -6370,10 +6915,15 @@
 		religion = human
 		size = 17888
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 18563
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 71297
+		size = 52734
 	}
 }
 136 = {
@@ -6407,10 +6957,15 @@
 		religion = human
 		size = 17155
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 18010
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 73634
+		size = 55624
 	}
 }
 137 = {
@@ -6444,10 +6999,15 @@
 		religion = human
 		size = 24433
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 16672
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 101107
+		size = 84435
 	}
 }
 138 = {
@@ -6481,10 +7041,15 @@
 		religion = human
 		size = 19072
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 15235
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 76625
+		size = 61390
 	}
 }
 139 = {
@@ -6518,10 +7083,15 @@
 		religion = human
 		size = 17350
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 10228
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 65763
+		size = 55535
 	}
 }
 140 = {
@@ -6555,10 +7125,15 @@
 		religion = human
 		size = 12956
 	}
-	farmers = {
+	craftsmen = {
 		culture = terran
 		religion = human
-		size = 58821
+		size = 14443
+	}
+	labourers = {
+		culture = terran
+		religion = human
+		size = 44377
 	}
 }
 141 = {
@@ -6592,10 +7167,15 @@
 		religion = human
 		size = 26190
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 25259
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 101955
+		size = 76696
 	}
 }
 142 = {
@@ -6629,10 +7209,15 @@
 		religion = human
 		size = 26500
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 17198
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 99779
+		size = 82581
 	}
 }
 143 = {
@@ -6666,10 +7251,15 @@
 		religion = human
 		size = 17935
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 15652
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 72893
+		size = 57241
 	}
 }
 144 = {
@@ -6703,10 +7293,15 @@
 		religion = human
 		size = 18500
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 14883
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 69134
+		size = 54250
 	}
 }
 145 = {
@@ -6740,10 +7335,15 @@
 		religion = human
 		size = 19300
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 11126
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 72483
+		size = 61357
 	}
 }
 146 = {
@@ -6777,10 +7377,15 @@
 		religion = human
 		size = 22950
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 20230
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 85397
+		size = 65167
 	}
 }
 147 = {
@@ -6814,10 +7419,15 @@
 		religion = human
 		size = 30100
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 23162
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 113513
+		size = 90351
 	}
 }
 148 = {
@@ -6851,10 +7461,15 @@
 		religion = human
 		size = 14059
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 13476
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 57975
+		size = 44499
 	}
 }
 149 = {
@@ -6888,10 +7503,15 @@
 		religion = human
 		size = 15311
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 12316
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 60198
+		size = 47881
 	}
 }
 150 = {
@@ -6925,10 +7545,15 @@
 		religion = human
 		size = 18950
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 9484
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 69979
+		size = 60494
 	}
 }
 151 = {
@@ -6962,10 +7587,15 @@
 		religion = human
 		size = 16325
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 12677
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 74290
+		size = 61612
 	}
 }
 152 = {
@@ -6999,10 +7629,15 @@
 		religion = human
 		size = 18200
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 9273
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 68118
+		size = 58845
 	}
 }
 153 = {
@@ -7036,10 +7671,15 @@
 		religion = human
 		size = 1345
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2025
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 8606
+		size = 6581
 	}
 }
 154 = {
@@ -7073,10 +7713,15 @@
 		religion = human
 		size = 1499
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2264
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 10050
+		size = 7786
 	}
 }
 155 = {
@@ -7110,10 +7755,15 @@
 		religion = human
 		size = 2227
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2840
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 12633
+		size = 9794
 	}
 }
 156 = {
@@ -7147,10 +7797,15 @@
 		religion = human
 		size = 1094
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1164
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 7467
+		size = 6303
 	}
 }
 157 = {
@@ -7184,10 +7839,15 @@
 		religion = human
 		size = 1170
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 973
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 7551
+		size = 6578
 	}
 }
 158 = {
@@ -7221,10 +7881,15 @@
 		religion = human
 		size = 1156
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1784
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 7901
+		size = 6117
 	}
 }
 159 = {
@@ -7973,10 +8638,15 @@
 		religion = paranid
 		size = 13995
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 10852
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 56830
+		size = 45978
 	}
 }
 175 = {
@@ -8010,10 +8680,15 @@
 		religion = paranid
 		size = 13915
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4498
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 57587
+		size = 53090
 	}
 }
 176 = {
@@ -8047,10 +8722,15 @@
 		religion = paranid
 		size = 16250
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 8011
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 59078
+		size = 51067
 	}
 }
 177 = {
@@ -8084,10 +8764,15 @@
 		religion = paranid
 		size = 15522
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4481
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 57914
+		size = 53433
 	}
 }
 178 = {
@@ -8121,10 +8806,15 @@
 		religion = paranid
 		size = 10770
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 8196
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 50280
+		size = 42084
 	}
 }
 179 = {
@@ -8158,10 +8848,15 @@
 		religion = paranid
 		size = 11788
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 7912
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 46495
+		size = 38582
 	}
 }
 180 = {
@@ -8195,10 +8890,15 @@
 		religion = paranid
 		size = 14295
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2681
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 61625
+		size = 58944
 	}
 }
 181 = {
@@ -8232,10 +8932,15 @@
 		religion = paranid
 		size = 7395
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1679
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 32200
+		size = 30521
 	}
 }
 182 = {
@@ -8269,10 +8974,15 @@
 		religion = paranid
 		size = 6395
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1619
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 30141
+		size = 28522
 	}
 }
 183 = {
@@ -8306,10 +9016,15 @@
 		religion = paranid
 		size = 6963
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1368
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 29347
+		size = 27979
 	}
 }
 184 = {
@@ -8343,10 +9058,15 @@
 		religion = paranid
 		size = 5145
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1541
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 25199
+		size = 23658
 	}
 }
 185 = {
@@ -8618,10 +9338,15 @@
 		religion = paranid
 		size = 8687
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 5030
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 42012
+		size = 36982
 	}
 }
 190 = {
@@ -8655,10 +9380,15 @@
 		religion = paranid
 		size = 7984
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3524
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 38213
+		size = 34689
 	}
 }
 191 = {
@@ -8692,10 +9422,15 @@
 		religion = paranid
 		size = 7976
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 5065
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 37979
+		size = 32914
 	}
 }
 192 = {
@@ -8729,10 +9464,15 @@
 		religion = paranid
 		size = 6014
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4366
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 27181
+		size = 22814
 	}
 }
 193 = {
@@ -8823,10 +9563,15 @@
 		religion = paranid
 		size = 2432
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 13107
+		size = 1157
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 11950
 	}
 }
 195 = {
@@ -8860,10 +9605,15 @@
 		religion = paranid
 		size = 2476
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 12121
+		size = 1279
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 10842
 	}
 }
 196 = {
@@ -8897,10 +9647,15 @@
 		religion = paranid
 		size = 1499
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1794
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 9868
+		size = 8074
 	}
 }
 197 = {
@@ -8934,10 +9689,15 @@
 		religion = paranid
 		size = 2078
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1581
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 10779
+		size = 9198
 	}
 }
 198 = {
@@ -8971,10 +9731,15 @@
 		religion = paranid
 		size = 2026
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1337
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 11558
+		size = 10222
 	}
 }
 199 = {
@@ -9008,10 +9773,15 @@
 		religion = paranid
 		size = 1296
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 7789
+		size = 993
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 6797
 	}
 }
 200 = {
@@ -9045,10 +9815,15 @@
 		religion = paranid
 		size = 1487
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 8834
+		size = 683
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 8151
 	}
 }
 201 = {
@@ -9082,10 +9857,15 @@
 		religion = paranid
 		size = 1676
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 888
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 9979
+		size = 9091
 	}
 }
 202 = {
@@ -9119,10 +9899,15 @@
 		religion = human
 		size = 1093
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1137
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 7008
+		size = 5871
 	}
 }
 203 = {
@@ -9156,10 +9941,15 @@
 		religion = human
 		size = 1151
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1310
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 6703
+		size = 5393
 	}
 }
 204 = {
@@ -9193,10 +9983,15 @@
 		religion = human
 		size = 1271
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1107
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 7291
+		size = 6184
 	}
 }
 205 = {
@@ -9230,10 +10025,15 @@
 		religion = human
 		size = 1043
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 946
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 6331
+		size = 5386
 	}
 }
 206 = {
@@ -9267,10 +10067,15 @@
 		religion = human
 		size = 871
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 723
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 5632
+		size = 4909
 	}
 }
 207 = {
@@ -9304,10 +10109,15 @@
 		religion = human
 		size = 694
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 970
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 5051
+		size = 4081
 	}
 }
 208 = {
@@ -9341,10 +10151,15 @@
 		religion = human
 		size = 464
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 553
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 3818
+		size = 3265
 	}
 }
 209 = {
@@ -9378,10 +10193,15 @@
 		religion = human
 		size = 2758
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 3334
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 13948
+		size = 10614
 	}
 }
 210 = {
@@ -9415,10 +10235,15 @@
 		religion = human
 		size = 2394
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 3069
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 13354
+		size = 10285
 	}
 }
 211 = {
@@ -9452,10 +10277,15 @@
 		religion = human
 		size = 2368
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1740
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 13241
+		size = 11501
 	}
 }
 212 = {
@@ -9489,10 +10319,15 @@
 		religion = human
 		size = 1634
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1424
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 9182
+		size = 7758
 	}
 }
 213 = {
@@ -9526,10 +10361,15 @@
 		religion = human
 		size = 1990
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2412
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 11729
+		size = 9317
 	}
 }
 214 = {
@@ -9563,10 +10403,15 @@
 		religion = human
 		size = 1210
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1123
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 7640
+		size = 6517
 	}
 }
 215 = {
@@ -9600,10 +10445,15 @@
 		religion = human
 		size = 1611
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 1302
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 9292
+		size = 7990
 	}
 }
 216 = {
@@ -9637,10 +10487,15 @@
 		religion = human
 		size = 1819
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2420
+	}
 	labourers = {
 		culture = terran
 		religion = human
-		size = 10106
+		size = 7686
 	}
 }
 217 = {
@@ -9674,10 +10529,15 @@
 		religion = human
 		size = 1795
 	}
+	craftsmen = {
+		culture = terran
+		religion = human
+		size = 2199
+	}
 	farmers = {
 		culture = terran
 		religion = human
-		size = 11547
+		size = 9347
 	}
 }
 218 = {
@@ -10664,6 +11524,11 @@
 		religion = agi
 		size = 29100
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 14595
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -10687,7 +11552,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 108283
+		size = 93688
 	}
 }
 238 = {
@@ -10721,6 +11586,11 @@
 		religion = agi
 		size = 22841
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 16127
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -10744,7 +11614,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 90507
+		size = 74380
 	}
 }
 239 = {
@@ -10778,6 +11648,11 @@
 		religion = agi
 		size = 23475
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 16338
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -10801,7 +11676,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 90985
+		size = 74648
 	}
 }
 240 = {
@@ -10835,6 +11710,11 @@
 		religion = agi
 		size = 21300
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 7349
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -10858,7 +11738,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 79577
+		size = 72228
 	}
 }
 241 = {
@@ -10892,6 +11772,11 @@
 		religion = agi
 		size = 21675
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 6836
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -10915,7 +11800,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 86102
+		size = 79266
 	}
 }
 242 = {
@@ -10949,6 +11834,11 @@
 		religion = agi
 		size = 17906
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 8891
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -10972,7 +11862,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 68999
+		size = 60108
 	}
 }
 243 = {
@@ -11006,6 +11896,11 @@
 		religion = agi
 		size = 16763
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 8270
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -11029,7 +11924,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 66012
+		size = 57742
 	}
 }
 244 = {
@@ -11323,6 +12218,11 @@
 		religion = agi
 		size = 5164
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 3143
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -11346,7 +12246,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 25020
+		size = 21877
 	}
 }
 250 = {
@@ -11380,6 +12280,11 @@
 		religion = agi
 		size = 5535
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 3871
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -11403,7 +12308,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 23652
+		size = 19781
 	}
 }
 251 = {
@@ -11437,6 +12342,11 @@
 		religion = agi
 		size = 4464
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 3050
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -11460,7 +12370,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 19828
+		size = 16778
 	}
 }
 252 = {
@@ -11494,6 +12404,11 @@
 		religion = agi
 		size = 2956
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 3191
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -11517,7 +12432,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 16538
+		size = 13348
 	}
 }
 253 = {
@@ -11551,10 +12466,15 @@
 		religion = paranid
 		size = 11816
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3917
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 50157
+		size = 46240
 	}
 }
 254 = {
@@ -11588,10 +12508,15 @@
 		religion = paranid
 		size = 14103
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 53839
+		size = 6524
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 47314
 	}
 }
 255 = {
@@ -11625,10 +12550,15 @@
 		religion = paranid
 		size = 9853
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 46605
+		size = 4992
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 41613
 	}
 }
 256 = {
@@ -11662,10 +12592,15 @@
 		religion = paranid
 		size = 7888
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6640
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 37539
+		size = 30899
 	}
 }
 257 = {
@@ -11699,10 +12634,15 @@
 		religion = paranid
 		size = 6946
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 33058
+		size = 3165
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 29894
 	}
 }
 258 = {
@@ -11736,10 +12676,15 @@
 		religion = paranid
 		size = 7569
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3002
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 33915
+		size = 30913
 	}
 }
 259 = {
@@ -11773,10 +12718,15 @@
 		religion = paranid
 		size = 8096
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4887
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 41130
+		size = 36243
 	}
 }
 260 = {
@@ -11810,10 +12760,15 @@
 		religion = paranid
 		size = 8562
 	}
-	farmers = {
+	craftsmen = {
 		culture = paranid
 		religion = paranid
-		size = 38657
+		size = 4679
+	}
+	labourers = {
+		culture = paranid
+		religion = paranid
+		size = 33978
 	}
 }
 261 = {
@@ -11847,10 +12802,15 @@
 		religion = paranid
 		size = 8119
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3876
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 38634
+		size = 34758
 	}
 }
 262 = {
@@ -11884,10 +12844,15 @@
 		religion = paranid
 		size = 6600
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3094
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 32092
+		size = 28998
 	}
 }
 263 = {
@@ -11921,10 +12886,15 @@
 		religion = paranid
 		size = 7469
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6190
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 33003
+		size = 26813
 	}
 }
 264 = {
@@ -11958,10 +12928,15 @@
 		religion = paranid
 		size = 7038
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4008
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 32387
+		size = 28379
 	}
 }
 265 = {
@@ -11995,10 +12970,15 @@
 		religion = paranid
 		size = 12038
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 8506
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 45801
+		size = 37294
 	}
 }
 266 = {
@@ -12032,10 +13012,15 @@
 		religion = paranid
 		size = 11533
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6431
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 45756
+		size = 39324
 	}
 }
 267 = {
@@ -12069,10 +13054,15 @@
 		religion = paranid
 		size = 9886
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3003
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 42043
+		size = 39041
 	}
 }
 268 = {
@@ -12106,10 +13096,15 @@
 		religion = paranid
 		size = 9281
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 7982
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 41017
+		size = 33035
 	}
 }
 269 = {
@@ -12143,10 +13138,15 @@
 		religion = paranid
 		size = 9609
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6847
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 38993
+		size = 32146
 	}
 }
 270 = {
@@ -12180,10 +13180,15 @@
 		religion = paranid
 		size = 7140
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6207
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 32978
+		size = 26772
 	}
 }
 271 = {
@@ -12217,10 +13222,15 @@
 		religion = paranid
 		size = 2934
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2638
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 14403
+		size = 11765
 	}
 }
 272 = {
@@ -12254,10 +13264,15 @@
 		religion = paranid
 		size = 2631
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2260
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12993
+		size = 10734
 	}
 }
 273 = {
@@ -12291,10 +13306,15 @@
 		religion = paranid
 		size = 2423
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1032
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12296
+		size = 11264
 	}
 }
 274 = {
@@ -12328,10 +13348,15 @@
 		religion = paranid
 		size = 1592
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1208
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 9933
+		size = 8725
 	}
 }
 275 = {
@@ -12365,10 +13390,15 @@
 		religion = paranid
 		size = 2014
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 964
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10674
+		size = 9710
 	}
 }
 276 = {
@@ -12402,10 +13432,15 @@
 		religion = paranid
 		size = 1875
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1311
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 11720
+		size = 10409
 	}
 }
 277 = {
@@ -12439,10 +13474,15 @@
 		religion = paranid
 		size = 2654
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 931
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 12992
+		size = 12061
 	}
 }
 278 = {
@@ -14039,10 +15079,15 @@
 		religion = teladi
 		size = 2558
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1362
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12234
+		size = 10872
 	}
 }
 303 = {
@@ -14076,10 +15121,15 @@
 		religion = teladi
 		size = 2388
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 11734
+		size = 2228
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 9506
 	}
 }
 304 = {
@@ -14113,10 +15163,15 @@
 		religion = teladi
 		size = 2404
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1090
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10872
+		size = 9782
 	}
 }
 305 = {
@@ -14150,10 +15205,15 @@
 		religion = teladi
 		size = 3774
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 16154
+		size = 2728
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 13425
 	}
 }
 306 = {
@@ -14187,10 +15247,15 @@
 		religion = teladi
 		size = 3239
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 13617
+		size = 1695
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 11921
 	}
 }
 307 = {
@@ -14224,10 +15289,15 @@
 		religion = teladi
 		size = 2606
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1546
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13236
+		size = 11690
 	}
 }
 308 = {
@@ -14261,10 +15331,15 @@
 		religion = teladi
 		size = 2985
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2404
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12742
+		size = 10338
 	}
 }
 309 = {
@@ -14298,10 +15373,15 @@
 		religion = teladi
 		size = 1897
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 9893
+		size = 1869
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 8024
 	}
 }
 310 = {
@@ -14335,10 +15415,15 @@
 		religion = teladi
 		size = 1916
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1214
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 8992
+		size = 7778
 	}
 }
 311 = {
@@ -14372,10 +15457,15 @@
 		religion = paranid
 		size = 5424
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 4080
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 26183
+		size = 22103
 	}
 }
 312 = {
@@ -14409,10 +15499,15 @@
 		religion = paranid
 		size = 5072
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2063
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 25011
+		size = 22948
 	}
 }
 313 = {
@@ -14446,10 +15541,15 @@
 		religion = paranid
 		size = 4782
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2271
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 22016
+		size = 19744
 	}
 }
 314 = {
@@ -14483,10 +15583,15 @@
 		religion = paranid
 		size = 4553
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3893
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 20416
+		size = 16523
 	}
 }
 315 = {
@@ -14520,10 +15625,15 @@
 		religion = paranid
 		size = 3190
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2153
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 15356
+		size = 13204
 	}
 }
 316 = {
@@ -14557,10 +15667,15 @@
 		religion = paranid
 		size = 3324
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2240
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 16898
+		size = 14657
 	}
 }
 317 = {
@@ -14594,10 +15709,15 @@
 		religion = paranid
 		size = 3758
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3307
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 21638
+		size = 18331
 	}
 }
 318 = {
@@ -14631,10 +15751,15 @@
 		religion = paranid
 		size = 3729
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1365
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 18927
+		size = 17562
 	}
 }
 319 = {
@@ -15152,10 +16277,15 @@
 		religion = paranid
 		size = 2074
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1680
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 12429
+		size = 10748
 	}
 }
 327 = {
@@ -15189,10 +16319,15 @@
 		religion = paranid
 		size = 2524
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1755
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 13799
+		size = 12044
 	}
 }
 328 = {
@@ -15226,10 +16361,15 @@
 		religion = paranid
 		size = 1727
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1827
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10873
+		size = 9046
 	}
 }
 329 = {
@@ -15263,10 +16403,15 @@
 		religion = paranid
 		size = 1962
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 903
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 10818
+		size = 9914
 	}
 }
 330 = {
@@ -15300,10 +16445,15 @@
 		religion = paranid
 		size = 2718
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2630
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 13963
+		size = 11334
 	}
 }
 331 = {
@@ -16088,10 +17238,15 @@
 		religion = teladi
 		size = 1967
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 783
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10743
+		size = 9960
 	}
 }
 345 = {
@@ -16125,10 +17280,15 @@
 		religion = teladi
 		size = 1735
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 727
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 8246
+		size = 7519
 	}
 }
 346 = {
@@ -16162,10 +17322,15 @@
 		religion = teladi
 		size = 1637
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1248
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9314
+		size = 8065
 	}
 }
 347 = {
@@ -16199,10 +17364,15 @@
 		religion = teladi
 		size = 2880
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2009
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13264
+		size = 11255
 	}
 }
 348 = {
@@ -16236,10 +17406,15 @@
 		religion = teladi
 		size = 3090
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1238
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12732
+		size = 11494
 	}
 }
 349 = {
@@ -16273,10 +17448,15 @@
 		religion = human
 		size = 2533
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1073
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 13983
+		size = 12911
 	}
 }
 350 = {
@@ -16310,10 +17490,15 @@
 		religion = human
 		size = 3868
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3183
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 17872
+		size = 14689
 	}
 }
 351 = {
@@ -16347,10 +17532,15 @@
 		religion = human
 		size = 2669
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1339
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 14552
+		size = 13213
 	}
 }
 352 = {
@@ -16384,10 +17574,15 @@
 		religion = human
 		size = 5053
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3619
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 26477
+		size = 22858
 	}
 }
 353 = {
@@ -16421,10 +17616,15 @@
 		religion = human
 		size = 4367
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3234
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 23084
+		size = 19851
 	}
 }
 354 = {
@@ -16458,10 +17658,15 @@
 		religion = human
 		size = 2605
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1558
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 13484
+		size = 11927
 	}
 }
 355 = {
@@ -16495,10 +17700,15 @@
 		religion = human
 		size = 5365
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3637
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 26779
+		size = 23142
 	}
 }
 356 = {
@@ -16532,10 +17742,15 @@
 		religion = human
 		size = 2804
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1949
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 15109
+		size = 13160
 	}
 }
 357 = {
@@ -16569,10 +17784,15 @@
 		religion = human
 		size = 3753
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3200
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 17534
+		size = 14334
 	}
 }
 358 = {
@@ -16606,10 +17826,15 @@
 		religion = human
 		size = 6056
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2401
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 26455
+		size = 24055
 	}
 }
 359 = {
@@ -16643,10 +17868,15 @@
 		religion = human
 		size = 2737
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2073
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 13399
+		size = 11325
 	}
 }
 360 = {
@@ -16680,10 +17910,15 @@
 		religion = human
 		size = 6031
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2505
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 26140
+		size = 23634
 	}
 }
 361 = {
@@ -16717,10 +17952,15 @@
 		religion = human
 		size = 5195
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3064
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 27467
+		size = 24403
 	}
 }
 362 = {
@@ -16754,10 +17994,15 @@
 		religion = human
 		size = 4256
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3282
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 22226
+		size = 18944
 	}
 }
 363 = {
@@ -16791,10 +18036,15 @@
 		religion = human
 		size = 2309
 	}
-	farmers = {
+	craftsmen = {
 		culture = argon
 		religion = human
-		size = 13498
+		size = 1328
+	}
+	labourers = {
+		culture = argon
+		religion = human
+		size = 12170
 	}
 }
 364 = {
@@ -16828,10 +18078,15 @@
 		religion = human
 		size = 3406
 	}
-	farmers = {
+	craftsmen = {
 		culture = argon
 		religion = human
-		size = 17656
+		size = 1816
+	}
+	labourers = {
+		culture = argon
+		religion = human
+		size = 15841
 	}
 }
 365 = {
@@ -16865,10 +18120,15 @@
 		religion = human
 		size = 2539
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2072
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 13149
+		size = 11077
 	}
 }
 366 = {
@@ -16902,10 +18162,15 @@
 		religion = human
 		size = 5679
 	}
-	farmers = {
+	craftsmen = {
 		culture = argon
 		religion = human
-		size = 25992
+		size = 1905
+	}
+	labourers = {
+		culture = argon
+		religion = human
+		size = 24087
 	}
 }
 367 = {
@@ -16939,10 +18204,15 @@
 		religion = human
 		size = 2703
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1854
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 15667
+		size = 13813
 	}
 }
 368 = {
@@ -16976,10 +18246,15 @@
 		religion = human
 		size = 3736
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3670
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 19871
+		size = 16201
 	}
 }
 369 = {
@@ -17013,10 +18288,15 @@
 		religion = human
 		size = 4577
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4301
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 22781
+		size = 18480
 	}
 }
 370 = {
@@ -17050,10 +18330,15 @@
 		religion = human
 		size = 2905
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1132
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 16031
+		size = 14900
 	}
 }
 371 = {
@@ -17087,10 +18372,15 @@
 		religion = human
 		size = 5317
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2332
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 25791
+		size = 23459
 	}
 }
 372 = {
@@ -17124,10 +18414,15 @@
 		religion = human
 		size = 2788
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1442
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 15176
+		size = 13734
 	}
 }
 373 = {
@@ -17161,10 +18456,15 @@
 		religion = human
 		size = 5197
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4829
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 26551
+		size = 21722
 	}
 }
 374 = {
@@ -17198,10 +18498,15 @@
 		religion = human
 		size = 3863
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3466
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 19903
+		size = 16436
 	}
 }
 375 = {
@@ -17235,10 +18540,15 @@
 		religion = human
 		size = 5960
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 5288
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 30377
+		size = 25088
 	}
 }
 376 = {
@@ -17272,10 +18582,15 @@
 		religion = human
 		size = 4343
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2253
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 20549
+		size = 18296
 	}
 }
 377 = {
@@ -17309,10 +18624,15 @@
 		religion = human
 		size = 3866
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1540
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 18356
+		size = 16816
 	}
 }
 378 = {
@@ -17346,10 +18666,15 @@
 		religion = human
 		size = 5967
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 5209
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 30719
+		size = 25510
 	}
 }
 379 = {
@@ -17383,10 +18708,15 @@
 		religion = human
 		size = 5944
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4659
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 31133
+		size = 26474
 	}
 }
 380 = {
@@ -17420,10 +18750,15 @@
 		religion = human
 		size = 3813
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2908
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 20850
+		size = 17942
 	}
 }
 381 = {
@@ -17457,10 +18792,15 @@
 		religion = human
 		size = 5313
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4788
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 25663
+		size = 20875
 	}
 }
 382 = {
@@ -17494,10 +18834,15 @@
 		religion = human
 		size = 3480
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2677
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 18661
+		size = 15984
 	}
 }
 383 = {
@@ -17531,10 +18876,15 @@
 		religion = human
 		size = 5859
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1928
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 30358
+		size = 28430
 	}
 }
 384 = {
@@ -17568,10 +18918,15 @@
 		religion = teladi
 		size = 1623
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1455
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 8897
+		size = 7442
 	}
 }
 385 = {
@@ -17605,10 +18960,15 @@
 		religion = teladi
 		size = 3093
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1538
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 15427
+		size = 13889
 	}
 }
 386 = {
@@ -17642,10 +19002,15 @@
 		religion = teladi
 		size = 1770
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1279
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 8763
+		size = 7484
 	}
 }
 387 = {
@@ -17679,10 +19044,15 @@
 		religion = teladi
 		size = 2087
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1921
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10559
+		size = 8638
 	}
 }
 388 = {
@@ -17716,10 +19086,15 @@
 		religion = teladi
 		size = 3318
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1151
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 13984
+		size = 12833
 	}
 }
 389 = {
@@ -17753,10 +19128,15 @@
 		religion = teladi
 		size = 3022
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1150
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 14780
+		size = 13630
 	}
 }
 390 = {
@@ -17790,10 +19170,15 @@
 		religion = teladi
 		size = 3072
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1032
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13320
+		size = 12288
 	}
 }
 391 = {
@@ -17827,10 +19212,15 @@
 		religion = teladi
 		size = 2466
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1595
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12039
+		size = 10443
 	}
 }
 392 = {
@@ -17864,10 +19254,15 @@
 		religion = teladi
 		size = 2942
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1363
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 13971
+		size = 12608
 	}
 }
 393 = {
@@ -17901,10 +19296,15 @@
 		religion = teladi
 		size = 3653
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2166
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 15146
+		size = 12981
 	}
 }
 394 = {
@@ -17938,6 +19338,11 @@
 		religion = human
 		size = 1202
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 551
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -17956,7 +19361,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 10063
+		size = 9513
 	}
 }
 395 = {
@@ -17990,6 +19395,11 @@
 		religion = human
 		size = 953
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 372
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18008,7 +19418,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 8738
+		size = 8366
 	}
 }
 396 = {
@@ -18042,6 +19452,11 @@
 		religion = human
 		size = 886
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 423
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18060,7 +19475,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 8177
+		size = 7754
 	}
 }
 397 = {
@@ -18094,6 +19509,11 @@
 		religion = human
 		size = 716
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 319
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18112,7 +19532,7 @@
 	farmers = {
 		culture = argon
 		religion = human
-		size = 7508
+		size = 7188
 	}
 }
 398 = {
@@ -18146,6 +19566,11 @@
 		religion = human
 		size = 627
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 316
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18164,7 +19589,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 6561
+		size = 6245
 	}
 }
 399 = {
@@ -18198,6 +19623,11 @@
 		religion = human
 		size = 591
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1476
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18216,7 +19646,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 6467
+		size = 4990
 	}
 }
 400 = {
@@ -18250,6 +19680,11 @@
 		religion = human
 		size = 297
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 738
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18263,7 +19698,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 3309
+		size = 2571
 	}
 }
 401 = {
@@ -18297,6 +19732,11 @@
 		religion = human
 		size = 188
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 289
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18310,7 +19750,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 2143
+		size = 1854
 	}
 }
 402 = {
@@ -18344,6 +19784,11 @@
 		religion = human
 		size = 585
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 954
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18357,7 +19802,7 @@
 	farmers = {
 		culture = argon
 		religion = human
-		size = 5549
+		size = 4595
 	}
 }
 403 = {
@@ -18391,6 +19836,11 @@
 		religion = human
 		size = 326
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 568
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18404,7 +19854,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 3724
+		size = 3155
 	}
 }
 404 = {
@@ -18438,6 +19888,11 @@
 		religion = human
 		size = 539
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 633
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18451,7 +19906,7 @@
 	farmers = {
 		culture = argon
 		religion = human
-		size = 5166
+		size = 4533
 	}
 }
 405 = {
@@ -18485,6 +19940,11 @@
 		religion = human
 		size = 477
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1071
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18498,7 +19958,7 @@
 	farmers = {
 		culture = argon
 		religion = human
-		size = 5019
+		size = 3948
 	}
 }
 406 = {
@@ -18532,6 +19992,11 @@
 		religion = human
 		size = 374
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 786
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18545,7 +20010,7 @@
 	labourers = {
 		culture = argon
 		religion = human
-		size = 3990
+		size = 3204
 	}
 }
 407 = {
@@ -18579,6 +20044,11 @@
 		religion = human
 		size = 704
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1010
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -18597,7 +20067,7 @@
 	farmers = {
 		culture = argon
 		religion = human
-		size = 6575
+		size = 5565
 	}
 }
 408 = {
@@ -19115,10 +20585,15 @@
 		religion = human
 		size = 5837
 	}
-	farmers = {
+	craftsmen = {
 		culture = argon
 		religion = human
-		size = 26323
+		size = 4195
+	}
+	labourers = {
+		culture = argon
+		religion = human
+		size = 22129
 	}
 }
 421 = {
@@ -19152,10 +20627,15 @@
 		religion = human
 		size = 3225
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2241
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 17250
+		size = 15009
 	}
 }
 422 = {
@@ -19189,10 +20669,15 @@
 		religion = human
 		size = 3263
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2093
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 17696
+		size = 15603
 	}
 }
 423 = {
@@ -19226,10 +20711,15 @@
 		religion = human
 		size = 6645
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1953
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 29435
+		size = 27481
 	}
 }
 424 = {
@@ -19263,10 +20753,15 @@
 		religion = human
 		size = 5820
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2231
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 30400
+		size = 28169
 	}
 }
 425 = {
@@ -19300,10 +20795,15 @@
 		religion = human
 		size = 4624
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4190
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 24315
+		size = 20125
 	}
 }
 426 = {
@@ -19337,10 +20837,15 @@
 		religion = human
 		size = 4616
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4373
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 24975
+		size = 20602
 	}
 }
 427 = {
@@ -19374,10 +20879,15 @@
 		religion = human
 		size = 15177
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 8661
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 63157
+		size = 54496
 	}
 }
 428 = {
@@ -19411,10 +20921,15 @@
 		religion = human
 		size = 12418
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 9539
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 56129
+		size = 46590
 	}
 }
 429 = {
@@ -19448,10 +20963,15 @@
 		religion = human
 		size = 15153
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 8610
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 60832
+		size = 52222
 	}
 }
 430 = {
@@ -19485,10 +21005,15 @@
 		religion = human
 		size = 14688
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4944
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 57265
+		size = 52321
 	}
 }
 431 = {
@@ -19522,10 +21047,15 @@
 		religion = human
 		size = 15753
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4953
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 59511
+		size = 54558
 	}
 }
 432 = {
@@ -19559,10 +21089,15 @@
 		religion = human
 		size = 15464
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 6957
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 65904
+		size = 58947
 	}
 }
 433 = {
@@ -19596,10 +21131,15 @@
 		religion = human
 		size = 14615
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 10486
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 56781
+		size = 46296
 	}
 }
 434 = {
@@ -19633,10 +21173,15 @@
 		religion = human
 		size = 10452
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 8068
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 48617
+		size = 40550
 	}
 }
 435 = {
@@ -19670,10 +21215,15 @@
 		religion = human
 		size = 16511
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 11909
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 66824
+		size = 54915
 	}
 }
 436 = {
@@ -19707,10 +21257,15 @@
 		religion = human
 		size = 3506
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3225
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 18389
+		size = 15164
 	}
 }
 437 = {
@@ -19744,10 +21299,15 @@
 		religion = human
 		size = 4532
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2048
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 22991
+		size = 20943
 	}
 }
 438 = {
@@ -19781,10 +21341,15 @@
 		religion = human
 		size = 6004
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2666
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 28154
+		size = 25488
 	}
 }
 439 = {
@@ -19818,10 +21383,15 @@
 		religion = human
 		size = 3557
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1336
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 17776
+		size = 16440
 	}
 }
 440 = {
@@ -19855,10 +21425,15 @@
 		religion = human
 		size = 3397
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2816
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 17723
+		size = 14907
 	}
 }
 441 = {
@@ -19892,10 +21467,15 @@
 		religion = human
 		size = 4927
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4173
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 23951
+		size = 19779
 	}
 }
 442 = {
@@ -19929,10 +21509,15 @@
 		religion = human
 		size = 5994
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3529
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 31162
+		size = 27633
 	}
 }
 443 = {
@@ -19966,10 +21551,15 @@
 		religion = human
 		size = 5716
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3879
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 27238
+		size = 23359
 	}
 }
 444 = {
@@ -20003,10 +21593,15 @@
 		religion = human
 		size = 5107
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1919
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 22846
+		size = 20927
 	}
 }
 445 = {
@@ -20040,10 +21635,15 @@
 		religion = human
 		size = 1936
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2045
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 11702
+		size = 9657
 	}
 }
 446 = {
@@ -20077,10 +21677,15 @@
 		religion = human
 		size = 2041
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1870
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 11132
+		size = 9261
 	}
 }
 447 = {
@@ -20114,10 +21719,15 @@
 		religion = human
 		size = 1066
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1232
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 6923
+		size = 5690
 	}
 }
 448 = {
@@ -20151,10 +21761,15 @@
 		religion = human
 		size = 2266
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2039
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 12359
+		size = 10320
 	}
 }
 449 = {
@@ -20188,10 +21803,15 @@
 		religion = human
 		size = 1895
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1906
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 11180
+		size = 9274
 	}
 }
 450 = {
@@ -20225,10 +21845,15 @@
 		religion = human
 		size = 1511
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 564
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 8640
+		size = 8076
 	}
 }
 451 = {
@@ -20262,10 +21887,15 @@
 		religion = human
 		size = 3384
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2950
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 19606
+		size = 16656
 	}
 }
 452 = {
@@ -20299,10 +21929,15 @@
 		religion = human
 		size = 2425
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1340
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 13102
+		size = 11763
 	}
 }
 453 = {
@@ -20336,6 +21971,11 @@
 		religion = agi
 		size = 668
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 851
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20349,7 +21989,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 4875
+		size = 4024
 	}
 }
 454 = {
@@ -20383,6 +22023,11 @@
 		religion = agi
 		size = 1022
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1120
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20401,7 +22046,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 7171
+		size = 6052
 	}
 }
 455 = {
@@ -20435,6 +22080,11 @@
 		religion = agi
 		size = 1162
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1323
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20453,7 +22103,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 7919
+		size = 6596
 	}
 }
 456 = {
@@ -20487,6 +22137,11 @@
 		religion = agi
 		size = 914
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 931
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -20502,10 +22157,10 @@
 		religion = human
 		size = 49
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 5651
+		size = 4720
 	}
 }
 457 = {
@@ -20539,6 +22194,11 @@
 		religion = agi
 		size = 1147
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 694
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -20557,7 +22217,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 7051
+		size = 6357
 	}
 }
 458 = {
@@ -20591,6 +22251,11 @@
 		religion = agi
 		size = 1536
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1480
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -20609,7 +22274,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 9049
+		size = 7569
 	}
 }
 459 = {
@@ -20643,6 +22308,11 @@
 		religion = agi
 		size = 1658
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 693
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -20661,7 +22331,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 8750
+		size = 8057
 	}
 }
 460 = {
@@ -20695,6 +22365,11 @@
 		religion = agi
 		size = 1846
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1804
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -20710,10 +22385,10 @@
 		religion = human
 		size = 56
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 10502
+		size = 8698
 	}
 }
 461 = {
@@ -20747,6 +22422,11 @@
 		religion = agi
 		size = 833
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 856
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20760,7 +22440,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5092
+		size = 4236
 	}
 }
 462 = {
@@ -20794,6 +22474,11 @@
 		religion = agi
 		size = 1041
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 556
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -20812,7 +22497,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5963
+		size = 5407
 	}
 }
 463 = {
@@ -20846,6 +22531,11 @@
 		religion = agi
 		size = 1649
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1626
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20864,7 +22554,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 9705
+		size = 8078
 	}
 }
 464 = {
@@ -20898,6 +22588,11 @@
 		religion = agi
 		size = 1713
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1114
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -20916,7 +22611,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 9063
+		size = 7949
 	}
 }
 465 = {
@@ -20950,6 +22645,11 @@
 		religion = agi
 		size = 2017
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1127
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -20968,7 +22668,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 11338
+		size = 10211
 	}
 }
 466 = {
@@ -21002,6 +22702,11 @@
 		religion = agi
 		size = 1366
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1237
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -21020,7 +22725,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 7405
+		size = 6168
 	}
 }
 467 = {
@@ -21054,6 +22759,11 @@
 		religion = agi
 		size = 945
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 528
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -21072,7 +22782,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5704
+		size = 5176
 	}
 }
 468 = {
@@ -21296,10 +23006,15 @@
 		religion = teladi
 		size = 2712
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 880
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13059
+		size = 12179
 	}
 }
 474 = {
@@ -21333,10 +23048,15 @@
 		religion = teladi
 		size = 2775
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1102
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12208
+		size = 11106
 	}
 }
 475 = {
@@ -21370,10 +23090,15 @@
 		religion = teladi
 		size = 2951
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1346
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12380
+		size = 11035
 	}
 }
 476 = {
@@ -21407,10 +23132,15 @@
 		religion = teladi
 		size = 2350
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1882
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10682
+		size = 8800
 	}
 }
 477 = {
@@ -21444,10 +23174,15 @@
 		religion = teladi
 		size = 2095
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1826
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9737
+		size = 7911
 	}
 }
 478 = {
@@ -21481,10 +23216,15 @@
 		religion = teladi
 		size = 1835
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 884
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 8945
+		size = 8061
 	}
 }
 479 = {
@@ -21518,10 +23258,15 @@
 		religion = teladi
 		size = 1997
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1472
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10335
+		size = 8863
 	}
 }
 480 = {
@@ -21555,10 +23300,15 @@
 		religion = teladi
 		size = 2052
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1125
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9590
+		size = 8465
 	}
 }
 481 = {
@@ -21592,10 +23342,15 @@
 		religion = teladi
 		size = 2416
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2044
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10542
+		size = 8498
 	}
 }
 482 = {
@@ -21629,10 +23384,15 @@
 		religion = teladi
 		size = 2284
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1430
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10945
+		size = 9516
 	}
 }
 483 = {
@@ -21666,10 +23426,15 @@
 		religion = teladi
 		size = 1605
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1468
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 8059
+		size = 6592
 	}
 }
 484 = {
@@ -21876,10 +23641,15 @@
 		religion = paranid
 		size = 6245
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2374
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 29415
+		size = 27041
 	}
 }
 489 = {
@@ -21913,10 +23683,15 @@
 		religion = paranid
 		size = 7045
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 5770
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 29335
+		size = 23565
 	}
 }
 490 = {
@@ -21950,10 +23725,15 @@
 		religion = paranid
 		size = 5347
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 1184
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 27510
+		size = 26326
 	}
 }
 491 = {
@@ -21987,10 +23767,15 @@
 		religion = paranid
 		size = 7003
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2196
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 34209
+		size = 32012
 	}
 }
 492 = {
@@ -22024,10 +23809,15 @@
 		religion = paranid
 		size = 7586
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3347
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 33071
+		size = 29724
 	}
 }
 493 = {
@@ -22061,10 +23851,15 @@
 		religion = paranid
 		size = 8370
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 2888
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 36433
+		size = 33545
 	}
 }
 494 = {
@@ -22098,10 +23893,15 @@
 		religion = paranid
 		size = 7654
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 3936
+	}
 	labourers = {
 		culture = paranid
 		religion = paranid
-		size = 31607
+		size = 27671
 	}
 }
 495 = {
@@ -22135,10 +23935,15 @@
 		religion = paranid
 		size = 9235
 	}
+	craftsmen = {
+		culture = paranid
+		religion = paranid
+		size = 6145
+	}
 	farmers = {
 		culture = paranid
 		religion = paranid
-		size = 38498
+		size = 32353
 	}
 }
 496 = {
@@ -22172,10 +23977,15 @@
 		religion = teladi
 		size = 3329
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1571
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 15129
+		size = 13558
 	}
 }
 497 = {
@@ -22209,10 +24019,15 @@
 		religion = teladi
 		size = 2288
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1681
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12113
+		size = 10432
 	}
 }
 498 = {
@@ -22246,10 +24061,15 @@
 		religion = teladi
 		size = 2047
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1218
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9565
+		size = 8347
 	}
 }
 499 = {
@@ -22283,10 +24103,15 @@
 		religion = teladi
 		size = 2869
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1633
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 14805
+		size = 13172
 	}
 }
 500 = {
@@ -22320,10 +24145,15 @@
 		religion = teladi
 		size = 1722
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1174
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 8541
+		size = 7367
 	}
 }
 501 = {
@@ -22357,10 +24187,15 @@
 		religion = teladi
 		size = 3115
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1321
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13413
+		size = 12092
 	}
 }
 502 = {
@@ -22394,10 +24229,15 @@
 		religion = teladi
 		size = 3068
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2315
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 15186
+		size = 12870
 	}
 }
 503 = {
@@ -22431,10 +24271,15 @@
 		religion = teladi
 		size = 2617
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 826
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12922
+		size = 12097
 	}
 }
 504 = {
@@ -22468,10 +24313,15 @@
 		religion = agi
 		size = 280
 	}
+	craftsmen = {
+		culture = quettanaut
+		religion = agi
+		size = 129
+	}
 	labourers = {
 		culture = quettanaut
 		religion = agi
-		size = 2248
+		size = 2119
 	}
 }
 505 = {
@@ -22505,10 +24355,15 @@
 		religion = agi
 		size = 244
 	}
+	craftsmen = {
+		culture = quettanaut
+		religion = agi
+		size = 108
+	}
 	labourers = {
 		culture = quettanaut
 		religion = agi
-		size = 2293
+		size = 2185
 	}
 }
 506 = {
@@ -22542,10 +24397,15 @@
 		religion = agi
 		size = 265
 	}
+	craftsmen = {
+		culture = quettanaut
+		religion = agi
+		size = 115
+	}
 	labourers = {
 		culture = quettanaut
 		religion = agi
-		size = 2211
+		size = 2096
 	}
 }
 507 = {
@@ -22574,10 +24434,15 @@
 		religion = agi
 		size = 116
 	}
+	craftsmen = {
+		culture = quettanaut
+		religion = agi
+		size = 63
+	}
 	labourers = {
 		culture = quettanaut
 		religion = agi
-		size = 1212
+		size = 1149
 	}
 }
 508 = {
@@ -22611,10 +24476,15 @@
 		religion = agi
 		size = 301
 	}
+	craftsmen = {
+		culture = quettanaut
+		religion = agi
+		size = 128
+	}
 	farmers = {
 		culture = quettanaut
 		religion = agi
-		size = 2524
+		size = 2396
 	}
 }
 509 = {
@@ -22648,10 +24518,15 @@
 		religion = teladi
 		size = 2991
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1430
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12907
+		size = 11477
 	}
 }
 510 = {
@@ -22685,10 +24560,15 @@
 		religion = teladi
 		size = 1844
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 627
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 8563
+		size = 7936
 	}
 }
 511 = {
@@ -22722,10 +24602,15 @@
 		religion = teladi
 		size = 1907
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1525
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10566
+		size = 9041
 	}
 }
 512 = {
@@ -22759,10 +24644,15 @@
 		religion = teladi
 		size = 1585
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 921
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 8847
+		size = 7926
 	}
 }
 513 = {
@@ -22796,10 +24686,15 @@
 		religion = teladi
 		size = 2239
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1091
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10374
+		size = 9283
 	}
 }
 514 = {
@@ -22833,10 +24728,15 @@
 		religion = teladi
 		size = 3005
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2319
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13053
+		size = 10735
 	}
 }
 515 = {
@@ -22870,10 +24770,15 @@
 		religion = teladi
 		size = 1962
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1543
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10221
+		size = 8677
 	}
 }
 516 = {
@@ -22907,10 +24812,15 @@
 		religion = teladi
 		size = 1776
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 944
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 9467
+		size = 8523
 	}
 }
 517 = {
@@ -22944,10 +24854,15 @@
 		religion = human
 		size = 4834
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2520
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 24588
+		size = 22068
 	}
 }
 518 = {
@@ -22981,10 +24896,15 @@
 		religion = human
 		size = 6475
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3605
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 31326
+		size = 27721
 	}
 }
 519 = {
@@ -23018,10 +24938,15 @@
 		religion = human
 		size = 3010
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1957
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 17685
+		size = 15728
 	}
 }
 520 = {
@@ -23055,10 +24980,15 @@
 		religion = human
 		size = 3246
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1859
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 19059
+		size = 17201
 	}
 }
 521 = {
@@ -23092,10 +25022,15 @@
 		religion = human
 		size = 2916
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1254
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 16271
+		size = 15017
 	}
 }
 522 = {
@@ -23129,10 +25064,15 @@
 		religion = human
 		size = 7012
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3547
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 29560
+		size = 26013
 	}
 }
 523 = {
@@ -23166,10 +25106,15 @@
 		religion = human
 		size = 3925
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3593
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 20103
+		size = 16511
 	}
 }
 524 = {
@@ -23203,10 +25148,15 @@
 		religion = human
 		size = 5651
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4426
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 30416
+		size = 25990
 	}
 }
 525 = {
@@ -23240,10 +25190,15 @@
 		religion = human
 		size = 3719
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3269
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 18289
+		size = 15020
 	}
 }
 526 = {
@@ -23277,10 +25232,15 @@
 		religion = human
 		size = 5264
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3560
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 25039
+		size = 21479
 	}
 }
 527 = {
@@ -23366,7 +25326,7 @@
 		religion = human
 		size = 8
 	}
-	farmers = {
+	labourers = {
 		culture = argon
 		religion = human
 		size = 153
@@ -23398,7 +25358,7 @@
 		religion = human
 		size = 4
 	}
-	farmers = {
+	labourers = {
 		culture = argon
 		religion = human
 		size = 158
@@ -23497,10 +25457,15 @@
 		religion = teladi
 		size = 2123
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1073
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10680
+		size = 9606
 	}
 }
 532 = {
@@ -23534,10 +25499,15 @@
 		religion = teladi
 		size = 2624
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1693
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12601
+		size = 10908
 	}
 }
 533 = {
@@ -23571,10 +25541,15 @@
 		religion = teladi
 		size = 1901
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 622
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10008
+		size = 9386
 	}
 }
 534 = {
@@ -23608,10 +25583,15 @@
 		religion = teladi
 		size = 2432
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1114
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10917
+		size = 9803
 	}
 }
 535 = {
@@ -23645,6 +25625,11 @@
 		religion = agi
 		size = 1423
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 995
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -23663,7 +25648,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 8681
+		size = 7686
 	}
 }
 536 = {
@@ -23697,6 +25682,11 @@
 		religion = agi
 		size = 2049
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1604
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -23715,7 +25705,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 11838
+		size = 10234
 	}
 }
 537 = {
@@ -23749,6 +25739,11 @@
 		religion = agi
 		size = 1595
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1265
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -23767,7 +25762,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 8690
+		size = 7425
 	}
 }
 538 = {
@@ -23801,6 +25796,11 @@
 		religion = agi
 		size = 1678
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1230
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -23819,7 +25819,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 9925
+		size = 8695
 	}
 }
 539 = {
@@ -23853,6 +25853,11 @@
 		religion = agi
 		size = 883
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 659
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -23871,7 +25876,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5685
+		size = 5026
 	}
 }
 540 = {
@@ -23905,10 +25910,15 @@
 		religion = teladi
 		size = 1783
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 850
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9700
+		size = 8850
 	}
 }
 541 = {
@@ -23942,10 +25952,15 @@
 		religion = teladi
 		size = 3170
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1751
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 14087
+		size = 12335
 	}
 }
 542 = {
@@ -23979,10 +25994,15 @@
 		religion = teladi
 		size = 3274
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2473
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 13457
+		size = 10984
 	}
 }
 543 = {
@@ -24016,10 +26036,15 @@
 		religion = teladi
 		size = 3042
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2313
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 14189
+		size = 11876
 	}
 }
 544 = {
@@ -24053,10 +26078,15 @@
 		religion = teladi
 		size = 3057
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 13887
+		size = 1203
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 12685
 	}
 }
 545 = {
@@ -24090,10 +26120,15 @@
 		religion = teladi
 		size = 2713
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 11632
+		size = 883
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 10749
 	}
 }
 546 = {
@@ -24127,10 +26162,15 @@
 		religion = teladi
 		size = 1840
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1157
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 9104
+		size = 7947
 	}
 }
 547 = {
@@ -24164,10 +26204,15 @@
 		religion = teladi
 		size = 2004
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1399
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9671
+		size = 8272
 	}
 }
 548 = {
@@ -24201,10 +26246,15 @@
 		religion = teladi
 		size = 1781
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 973
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9269
+		size = 8297
 	}
 }
 549 = {
@@ -24238,10 +26288,15 @@
 		religion = teladi
 		size = 2487
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2056
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12449
+		size = 10393
 	}
 }
 550 = {
@@ -24275,10 +26330,15 @@
 		religion = teladi
 		size = 2264
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1795
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 11332
+		size = 9536
 	}
 }
 551 = {
@@ -24312,10 +26372,15 @@
 		religion = teladi
 		size = 2733
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2094
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 14127
+		size = 12033
 	}
 }
 552 = {
@@ -24349,10 +26414,15 @@
 		religion = human
 		size = 3661
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1834
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 20590
+		size = 18756
 	}
 }
 553 = {
@@ -24386,10 +26456,15 @@
 		religion = human
 		size = 6568
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2579
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 28392
+		size = 25812
 	}
 }
 554 = {
@@ -24423,10 +26498,15 @@
 		religion = human
 		size = 3148
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1087
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 16550
+		size = 15463
 	}
 }
 555 = {
@@ -24460,10 +26540,15 @@
 		religion = human
 		size = 4283
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1989
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 21452
+		size = 19463
 	}
 }
 556 = {
@@ -24497,10 +26582,15 @@
 		religion = human
 		size = 6419
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3637
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 29327
+		size = 25690
 	}
 }
 557 = {
@@ -24534,10 +26624,15 @@
 		religion = human
 		size = 4975
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4300
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 25537
+		size = 21237
 	}
 }
 558 = {
@@ -24571,10 +26666,15 @@
 		religion = human
 		size = 3869
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1421
+	}
 	labourers = {
 		culture = argon
 		religion = human
-		size = 19781
+		size = 18360
 	}
 }
 559 = {
@@ -24608,10 +26708,15 @@
 		religion = human
 		size = 5829
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3455
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 29849
+		size = 26394
 	}
 }
 560 = {
@@ -24645,10 +26750,15 @@
 		religion = human
 		size = 3434
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2362
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 16475
+		size = 14114
 	}
 }
 561 = {
@@ -24682,10 +26792,15 @@
 		religion = teladi
 		size = 3215
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1294
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 14359
+		size = 13065
 	}
 }
 562 = {
@@ -24719,10 +26834,15 @@
 		religion = teladi
 		size = 2636
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1782
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 11392
+		size = 9610
 	}
 }
 563 = {
@@ -24756,10 +26876,15 @@
 		religion = teladi
 		size = 1831
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1143
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9220
+		size = 8076
 	}
 }
 564 = {
@@ -24793,10 +26918,15 @@
 		religion = teladi
 		size = 2537
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1064
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10877
+		size = 9814
 	}
 }
 565 = {
@@ -24830,10 +26960,15 @@
 		religion = teladi
 		size = 2975
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2139
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 14386
+		size = 12247
 	}
 }
 566 = {
@@ -24867,10 +27002,15 @@
 		religion = teladi
 		size = 2914
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 810
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12591
+		size = 11781
 	}
 }
 567 = {
@@ -24904,10 +27044,15 @@
 		religion = teladi
 		size = 2008
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1595
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 9940
+		size = 8345
 	}
 }
 568 = {
@@ -24941,10 +27086,15 @@
 		religion = teladi
 		size = 2772
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 2013
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12343
+		size = 10330
 	}
 }
 569 = {
@@ -24978,10 +27128,15 @@
 		religion = teladi
 		size = 2177
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 10813
+		size = 829
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 9985
 	}
 }
 570 = {
@@ -25015,10 +27170,15 @@
 		religion = teladi
 		size = 3291
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 14317
+		size = 1730
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 12587
 	}
 }
 571 = {
@@ -25052,10 +27212,15 @@
 		religion = teladi
 		size = 2918
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 15078
+		size = 1274
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 13804
 	}
 }
 572 = {
@@ -25089,10 +27254,15 @@
 		religion = teladi
 		size = 3210
 	}
-	farmers = {
+	craftsmen = {
 		culture = teladi
 		religion = teladi
-		size = 14193
+		size = 2661
+	}
+	labourers = {
+		culture = teladi
+		religion = teladi
+		size = 11533
 	}
 }
 573 = {
@@ -25126,10 +27296,15 @@
 		religion = teladi
 		size = 2433
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1568
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 12048
+		size = 10480
 	}
 }
 574 = {
@@ -25163,10 +27338,15 @@
 		religion = teladi
 		size = 2334
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 751
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10499
+		size = 9748
 	}
 }
 575 = {
@@ -25200,10 +27380,15 @@
 		religion = teladi
 		size = 2278
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 989
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10307
+		size = 9319
 	}
 }
 576 = {
@@ -25237,10 +27422,15 @@
 		religion = teladi
 		size = 2125
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1874
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 10900
+		size = 9026
 	}
 }
 577 = {
@@ -25274,10 +27464,15 @@
 		religion = teladi
 		size = 2698
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1582
+	}
 	farmers = {
 		culture = teladi
 		religion = teladi
-		size = 12862
+		size = 11280
 	}
 }
 578 = {
@@ -25311,10 +27506,15 @@
 		religion = teladi
 		size = 2237
 	}
+	craftsmen = {
+		culture = teladi
+		religion = teladi
+		size = 1782
+	}
 	labourers = {
 		culture = teladi
 		religion = teladi
-		size = 10811
+		size = 9028
 	}
 }
 579 = {
@@ -25385,6 +27585,11 @@
 		religion = split
 		size = 1350
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1694
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25403,7 +27608,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 11496
+		size = 9802
 	}
 }
 581 = {
@@ -25548,6 +27753,11 @@
 		religion = split
 		size = 1074
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1681
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25563,10 +27773,10 @@
 		religion = boron
 		size = 47
 	}
-	farmers = {
+	labourers = {
 		culture = split
 		religion = split
-		size = 9324
+		size = 7642
 	}
 }
 585 = {
@@ -25600,6 +27810,11 @@
 		religion = split
 		size = 1422
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1807
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25615,10 +27830,10 @@
 		religion = paranid
 		size = 97
 	}
-	farmers = {
+	labourers = {
 		culture = split
 		religion = split
-		size = 13704
+		size = 11897
 	}
 }
 586 = {
@@ -25652,6 +27867,11 @@
 		religion = split
 		size = 1515
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 2327
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25667,10 +27887,10 @@
 		religion = teladi
 		size = 200
 	}
-	farmers = {
+	labourers = {
 		culture = split
 		religion = split
-		size = 12878
+		size = 10550
 	}
 }
 587 = {
@@ -25704,6 +27924,11 @@
 		religion = split
 		size = 1183
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1920
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25722,7 +27947,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 11330
+		size = 9410
 	}
 }
 588 = {
@@ -25756,6 +27981,11 @@
 		religion = split
 		size = 680
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 940
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25774,7 +28004,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 6871
+		size = 5931
 	}
 }
 589 = {
@@ -25808,6 +28038,11 @@
 		religion = agi
 		size = 621
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 664
+	}
 	slaves = {
 		culture = teladi
 		religion = teladi
@@ -25821,7 +28056,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 4375
+		size = 3711
 	}
 }
 590 = {
@@ -25855,6 +28090,11 @@
 		religion = agi
 		size = 1293
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 965
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25873,7 +28113,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 7715
+		size = 6750
 	}
 }
 591 = {
@@ -25907,6 +28147,11 @@
 		religion = split
 		size = 1414
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 2096
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25925,7 +28170,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 12847
+		size = 10751
 	}
 }
 592 = {
@@ -25959,6 +28204,11 @@
 		religion = split
 		size = 1093
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1284
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -25977,7 +28227,7 @@
 	labourers = {
 		culture = split
 		religion = split
-		size = 9735
+		size = 8451
 	}
 }
 593 = {
@@ -26011,6 +28261,11 @@
 		religion = split
 		size = 923
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1558
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26029,7 +28284,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 9103
+		size = 7546
 	}
 }
 594 = {
@@ -26063,6 +28318,11 @@
 		religion = split
 		size = 1652
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 2227
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26078,10 +28338,10 @@
 		religion = teladi
 		size = 151
 	}
-	farmers = {
+	labourers = {
 		culture = split
 		religion = split
-		size = 14175
+		size = 11948
 	}
 }
 595 = {
@@ -26115,6 +28375,11 @@
 		religion = split
 		size = 1313
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1331
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26133,7 +28398,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 10860
+		size = 9529
 	}
 }
 596 = {
@@ -26167,6 +28432,11 @@
 		religion = split
 		size = 1523
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1165
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26185,7 +28455,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 12141
+		size = 10976
 	}
 }
 597 = {
@@ -26219,6 +28489,11 @@
 		religion = split
 		size = 1277
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1027
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26237,7 +28512,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 11030
+		size = 10002
 	}
 }
 598 = {
@@ -26271,6 +28546,11 @@
 		religion = split
 		size = 1300
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1588
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26289,7 +28569,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 11549
+		size = 9962
 	}
 }
 599 = {
@@ -26323,6 +28603,11 @@
 		religion = split
 		size = 744
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1177
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -26341,7 +28626,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 7633
+		size = 6456
 	}
 }
 600 = {
@@ -26407,10 +28692,15 @@
 		religion = boron
 		size = 264
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 286
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 2426
+		size = 2140
 	}
 }
 602 = {
@@ -26444,10 +28734,15 @@
 		religion = boron
 		size = 168
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 208
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1609
+		size = 1400
 	}
 }
 603 = {
@@ -26476,10 +28771,15 @@
 		religion = boron
 		size = 288
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 221
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 2472
+		size = 2251
 	}
 }
 604 = {
@@ -26582,10 +28882,15 @@
 		religion = human
 		size = 1296
 	}
+	craftsmen = {
+		culture = goner
+		religion = human
+		size = 299
+	}
 	farmers = {
 		culture = goner
 		religion = human
-		size = 7641
+		size = 7342
 	}
 }
 607 = {
@@ -26619,10 +28924,15 @@
 		religion = human
 		size = 1027
 	}
+	craftsmen = {
+		culture = goner
+		religion = human
+		size = 312
+	}
 	farmers = {
 		culture = goner
 		religion = human
-		size = 7192
+		size = 6880
 	}
 }
 608 = {
@@ -26656,10 +28966,15 @@
 		religion = human
 		size = 625
 	}
+	craftsmen = {
+		culture = goner
+		religion = human
+		size = 196
+	}
 	farmers = {
 		culture = goner
 		religion = human
-		size = 4624
+		size = 4428
 	}
 }
 609 = {
@@ -26693,10 +29008,15 @@
 		religion = human
 		size = 894
 	}
+	craftsmen = {
+		culture = goner
+		religion = human
+		size = 242
+	}
 	farmers = {
 		culture = goner
 		religion = human
-		size = 5412
+		size = 5170
 	}
 }
 610 = {
@@ -26730,10 +29050,15 @@
 		religion = human
 		size = 5986
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3682
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 27935
+		size = 24253
 	}
 }
 611 = {
@@ -26767,10 +29092,15 @@
 		religion = human
 		size = 3827
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1688
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 21205
+		size = 19518
 	}
 }
 612 = {
@@ -26814,15 +29144,20 @@
 		religion = human
 		size = 210
 	}
+	craftsmen = {
+		culture = goner
+		religion = human
+		size = 268
+	}
 	farmers = {
 		culture = goner
 		religion = human
-		size = 5014
+		size = 4800
 	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 1254
+		size = 1200
 	}
 }
 613 = {
@@ -26856,10 +29191,15 @@
 		religion = human
 		size = 3813
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 3188
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 21526
+		size = 18338
 	}
 }
 614 = {
@@ -26893,10 +29233,15 @@
 		religion = human
 		size = 5603
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 4317
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 28489
+		size = 24171
 	}
 }
 615 = {
@@ -26930,10 +29275,15 @@
 		religion = human
 		size = 7056
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 2256
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 31288
+		size = 29032
 	}
 }
 616 = {
@@ -26967,10 +29317,15 @@
 		religion = human
 		size = 3028
 	}
+	craftsmen = {
+		culture = argon
+		religion = human
+		size = 1821
+	}
 	farmers = {
 		culture = argon
 		religion = human
-		size = 16098
+		size = 14277
 	}
 }
 617 = {
@@ -27004,10 +29359,15 @@
 		religion = agi
 		size = 287
 	}
+	craftsmen = {
+		culture = sohnen_people
+		religion = agi
+		size = 121
+	}
 	farmers = {
 		culture = sohnen_people
 		religion = agi
-		size = 2557
+		size = 2436
 	}
 }
 618 = {
@@ -27041,10 +29401,15 @@
 		religion = agi
 		size = 588
 	}
-	farmers = {
+	craftsmen = {
 		culture = sohnen_people
 		religion = agi
-		size = 3903
+		size = 180
+	}
+	labourers = {
+		culture = sohnen_people
+		religion = agi
+		size = 3723
 	}
 }
 619 = {
@@ -27078,10 +29443,15 @@
 		religion = agi
 		size = 376
 	}
-	farmers = {
+	craftsmen = {
 		culture = sohnen_people
 		religion = agi
-		size = 3132
+		size = 124
+	}
+	labourers = {
+		culture = sohnen_people
+		religion = agi
+		size = 3007
 	}
 }
 620 = {
@@ -27115,10 +29485,15 @@
 		religion = agi
 		size = 249
 	}
+	craftsmen = {
+		culture = sohnen_people
+		religion = agi
+		size = 92
+	}
 	farmers = {
 		culture = sohnen_people
 		religion = agi
-		size = 2051
+		size = 1959
 	}
 }
 621 = {
@@ -27152,6 +29527,11 @@
 		religion = agi
 		size = 849
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 899
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -27165,7 +29545,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 5041
+		size = 4142
 	}
 }
 622 = {
@@ -27199,6 +29579,11 @@
 		religion = agi
 		size = 810
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 753
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -27212,7 +29597,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 5774
+		size = 5021
 	}
 }
 623 = {
@@ -27246,6 +29631,11 @@
 		religion = agi
 		size = 1531
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1357
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27264,7 +29654,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 8926
+		size = 7569
 	}
 }
 624 = {
@@ -27298,6 +29688,11 @@
 		religion = agi
 		size = 1003
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1120
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -27316,7 +29711,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 6511
+		size = 5392
 	}
 }
 625 = {
@@ -27350,6 +29745,11 @@
 		religion = agi
 		size = 1654
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1627
+	}
 	slaves = {
 		culture = paranid
 		religion = paranid
@@ -27368,7 +29768,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 10505
+		size = 8878
 	}
 }
 626 = {
@@ -27402,6 +29802,11 @@
 		religion = agi
 		size = 1051
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 695
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27420,7 +29825,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 6293
+		size = 5598
 	}
 }
 627 = {
@@ -27454,6 +29859,11 @@
 		religion = agi
 		size = 1506
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 612
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -27472,7 +29882,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 9996
+		size = 9384
 	}
 }
 628 = {
@@ -27506,6 +29916,11 @@
 		religion = agi
 		size = 1462
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 890
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27521,10 +29936,10 @@
 		religion = paranid
 		size = 93
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 8330
+		size = 7440
 	}
 }
 629 = {
@@ -27558,6 +29973,11 @@
 		religion = agi
 		size = 739
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 802
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27568,10 +29988,10 @@
 		religion = human
 		size = 24
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 5329
+		size = 4527
 	}
 }
 630 = {
@@ -27605,6 +30025,11 @@
 		religion = agi
 		size = 1639
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1556
+	}
 	slaves = {
 		culture = argon
 		religion = human
@@ -27623,7 +30048,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 8984
+		size = 7428
 	}
 }
 631 = {
@@ -27657,6 +30082,11 @@
 		religion = agi
 		size = 1676
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1831
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -27675,7 +30105,7 @@
 	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 10182
+		size = 8352
 	}
 }
 632 = {
@@ -27709,6 +30139,11 @@
 		religion = agi
 		size = 1646
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 1066
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27727,7 +30162,7 @@
 	farmers = {
 		culture = terraformer
 		religion = agi
-		size = 9099
+		size = 8033
 	}
 }
 633 = {
@@ -27761,6 +30196,11 @@
 		religion = agi
 		size = 804
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 799
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -27771,10 +30211,10 @@
 		religion = human
 		size = 43
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 5198
+		size = 4399
 	}
 }
 634 = {
@@ -27808,6 +30248,11 @@
 		religion = agi
 		size = 988
 	}
+	craftsmen = {
+		culture = terraformer
+		religion = agi
+		size = 795
+	}
 	slaves = {
 		culture = boron
 		religion = boron
@@ -27823,10 +30268,10 @@
 		religion = paranid
 		size = 71
 	}
-	farmers = {
+	labourers = {
 		culture = terraformer
 		religion = agi
-		size = 5959
+		size = 5164
 	}
 }
 635 = {
@@ -27912,6 +30357,11 @@
 		religion = split
 		size = 793
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1114
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27930,7 +30380,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8467
+		size = 7353
 	}
 }
 637 = {
@@ -27964,6 +30414,11 @@
 		religion = split
 		size = 696
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 609
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -27982,7 +30437,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 7164
+		size = 6555
 	}
 }
 638 = {
@@ -28016,6 +30471,11 @@
 		religion = split
 		size = 968
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 755
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28034,7 +30494,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8408
+		size = 7653
 	}
 }
 639 = {
@@ -28068,6 +30528,11 @@
 		religion = split
 		size = 1747
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1657
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28086,7 +30551,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 14111
+		size = 12454
 	}
 }
 640 = {
@@ -28120,6 +30585,11 @@
 		religion = split
 		size = 1320
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 825
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28138,7 +30608,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 12456
+		size = 11631
 	}
 }
 641 = {
@@ -28172,6 +30642,11 @@
 		religion = split
 		size = 869
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 869
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28190,7 +30665,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8525
+		size = 7656
 	}
 }
 642 = {
@@ -28224,6 +30699,11 @@
 		religion = split
 		size = 1640
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 2093
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28242,7 +30722,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 14043
+		size = 11950
 	}
 }
 643 = {
@@ -28276,6 +30756,11 @@
 		religion = split
 		size = 1380
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1424
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28294,7 +30779,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 12435
+		size = 11011
 	}
 }
 644 = {
@@ -28328,6 +30813,11 @@
 		religion = split
 		size = 1385
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 914
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28346,7 +30836,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 11336
+		size = 10421
 	}
 }
 645 = {
@@ -28380,6 +30870,11 @@
 		religion = split
 		size = 897
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1020
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28398,7 +30893,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8541
+		size = 7521
 	}
 }
 646 = {
@@ -28432,6 +30927,11 @@
 		religion = split
 		size = 1671
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1068
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28450,7 +30950,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 13499
+		size = 12431
 	}
 }
 647 = {
@@ -28484,6 +30984,11 @@
 		religion = split
 		size = 1635
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 1907
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28502,7 +31007,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 13423
+		size = 11516
 	}
 }
 648 = {
@@ -28536,6 +31041,11 @@
 		religion = split
 		size = 955
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 535
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28554,7 +31064,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 8389
+		size = 7854
 	}
 }
 649 = {
@@ -28588,6 +31098,11 @@
 		religion = split
 		size = 762
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 746
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28606,7 +31121,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 6990
+		size = 6243
 	}
 }
 650 = {
@@ -28640,6 +31155,11 @@
 		religion = split
 		size = 676
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 878
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28658,7 +31178,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 6847
+		size = 5969
 	}
 }
 651 = {
@@ -28692,6 +31212,11 @@
 		religion = split
 		size = 765
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 511
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28710,7 +31235,7 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 7945
+		size = 7434
 	}
 }
 652 = {
@@ -28744,10 +31269,15 @@
 		religion = boron
 		size = 145
 	}
+	craftsmen = {
+		culture = boron
+		religion = boron
+		size = 200
+	}
 	farmers = {
 		culture = boron
 		religion = boron
-		size = 1540
+		size = 1340
 	}
 }
 653 = {
@@ -28781,6 +31311,11 @@
 		religion = split
 		size = 1189
 	}
+	craftsmen = {
+		culture = split
+		religion = split
+		size = 849
+	}
 	slaves = {
 		culture = split
 		religion = split
@@ -28799,6 +31334,6 @@
 	farmers = {
 		culture = split
 		religion = split
-		size = 10897
+		size = 10048
 	}
 }
