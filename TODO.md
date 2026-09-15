@@ -38,6 +38,7 @@
     - [ ] Argon-Antigone
     - [ ] Sandwell archive
     - [ ] HFL joining Argon
+    - [ ] Terran-Antigone
     - [ ] Terran-Segaris
     - [ ] Terran-Yaki
     - [ ] Paranid Civil War
