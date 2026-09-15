@@ -36,14 +36,17 @@
 # Beta
 - [ ] Flavour
     - [ ] Argon-Antigone
+    - [ ] Sandwell archive
     - [ ] HFL joining Argon
     - [ ] Terran-Segaris
+    - [ ] Terran-Yaki
     - [ ] Paranid Civil War
     - [ ] Split Civil War
     - [ ] Khaak unity
     - [ ] Xenon quest for sentience
     - [ ] Random events
     - [ ] Political events
+    - [ ] Observer mode
 - [ ] Politics
     - [ ] Theocracy government type
     - [ ] Patriarchy government type?
