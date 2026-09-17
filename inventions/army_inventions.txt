@@ -17,7 +17,7 @@ defensive_manouveres = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -42,7 +42,7 @@ defensive_formations = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -67,7 +67,7 @@ force_multiplication = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -92,7 +92,7 @@ chokepoints = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -117,7 +117,7 @@ field_fortifications = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -156,7 +156,7 @@ advanced_field_fortifications = {
         heavy_fighter = {
             defence = 1
         }
-        courier = {
+        racing = {
             defence = 1
         }
         scout = {
@@ -198,7 +198,7 @@ slug_launchers = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -223,7 +223,7 @@ impulse_ray_emittors = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -262,7 +262,7 @@ mosquito_missiles = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -287,7 +287,7 @@ plasma_throwers = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -326,7 +326,7 @@ kyon_emitters = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -349,7 +349,7 @@ wasp_missiles = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -374,7 +374,7 @@ ion_disrupters = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -397,7 +397,7 @@ dragonfly_missiles = {
         heavy_fighter = {
             attack = 1
         }
-        courier = {
+        racing = {
             attack = 0.5
         }
         scout = {
@@ -766,7 +766,7 @@ military_alternative_plans = {
         scout = {
             maximum_speed = 1
         }
-        courier = {
+        racing = {
             maximum_speed = 1
         }
     }

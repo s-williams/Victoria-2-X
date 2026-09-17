@@ -572,7 +572,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "unit_folder_2"
 			position = { x= 107 y =31}
-			quadTextureSprite ="GFX_unit_folder_army_3_courier"
+			quadTextureSprite ="GFX_unit_folder_army_3_racing"
 		}
 		guiButtonType = {
 			name = "unit_folder_15"

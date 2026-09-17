@@ -1,4 +1,4 @@
-courier = { # Courier (equivalent to Cavalry)
+racing = { # Racing (equivalent to Cavalry)
 	icon = 2
 	
 	type = land
@@ -40,7 +40,7 @@ courier = { # Courier (equivalent to Cavalry)
 
 	#Land Abilties
 	reconnaissance = 1
-	attack = 3
+	attack = 1 # Weaker than Cavalry
 	defence = 1
 	discipline = 1.0
 	support = 0.0

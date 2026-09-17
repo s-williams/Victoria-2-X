@@ -16,7 +16,7 @@ rebel = {
 	heavy_fighter = 0.4
 	fighter = 0.4
 	infantry = 0
-	courier = 0.1
+	racing = 0.1
 	scout = 0.1
 }
 
