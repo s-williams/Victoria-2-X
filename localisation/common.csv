@@ -1032,6 +1032,7 @@ SUPPORT;Support;x
 MANUEVER;Maneuver;x
 GUN_RANGE;Range;x
 GUN_POWER;Attack;x
+SIEGE;Siege;x
 ##################################################;;x
 # Naming Conventions;;x
 ##################################################;;x
