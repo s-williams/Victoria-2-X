@@ -42,6 +42,7 @@
     - [ ] Terran-Segaris
     - [ ] Terran-Yaki
     - [ ] Paranid Civil War
+    - [ ] Apotheosis
     - [ ] Split Civil War
     - [ ] Khaak unity
     - [ ] Xenon quest for sentience
