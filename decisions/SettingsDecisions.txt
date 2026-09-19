@@ -1,0 +1,43 @@
+# Enable settings
+political_decisions = {
+    show_settings = {
+        alert = no
+        potential = {
+			ai = no
+			NOT = { has_global_flag = show_settings }
+        }
+        effect = {
+            set_global_flag = show_settings
+        }
+    }
+
+    hide_settings = {
+        alert = no
+        potential = {
+			ai = no
+			has_global_flag = show_settings
+        }
+        effect = {
+            clr_global_flag = show_settings
+        }
+    }
+
+	activate_observer_mode = {
+        alert = no
+        potential = {
+            ai = no
+			has_global_flag = show_settings
+			NOT = {
+				has_country_modifier = observer_mode
+			}
+        }
+        effect = {
+			add_country_modifier = {
+				name = observer_mode
+				duration = -1
+			}
+			treasury = 2147483
+        }
+        ai_will_do = { factor = 0 }
+    }
+}

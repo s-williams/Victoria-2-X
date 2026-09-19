@@ -2,6 +2,9 @@
 ##### MODIFIERS AND FLAGS #####;x
 ###############################;x
 khaak_hivemind;Khaak Hivemind;x
+observer_mode_desc;A variety of modifiers to make observer mode as chill as possible.;x
+observer_mode;Observer Mode;x
+sohnen_hivemind;Sohnen Hivemind;x
 sohnen_no_prestige_desc;Sohnen do not get prestige;x
 sohnen_no_prestige;Sohnen;x
 xenon_hivemind;Xenon Hivemind;x

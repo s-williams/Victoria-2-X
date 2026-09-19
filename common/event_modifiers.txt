@@ -5,38 +5,42 @@
 #############################
 ##### VANILLA MODIFIERS #####
 #############################
-# Tech schools
-academic_confusion = {
+academic_confusion = { # Academic confusion
 	research_points_modifier = -0.01
 	prestige = -0.01
 	icon = 6
 }
-# CB generation
- CB_gen_plus = {
+CB_gen_plus = { # CB generation
 	cb_generation_speed_modifier = 0.25
- }
- 
-  CB_gen_minus = {
+}
+CB_gen_minus = { # CB generation
 	cb_generation_speed_modifier = -0.25
- }
-
+}
 #######################
 ##### X MODIFIERS #####
 #######################
-# Sohnen - country modifier
-sohnen_hivemind = {
+sohnen_hivemind = { # Sohnen - country modifier
 	prestige = -10
 	icon = 1
 }
-# Hivemind - country modifier
-khaak_hivemind = {
+khaak_hivemind = { # Khaak - country modifier
 	prestige = -0.5
 	icon = 1
 }
-# Xenon hivemind - country modifier
-xenon_hivemind = {
+xenon_hivemind = { # Xenon hivemind - country modifier
 	prestige = -0.5
 	icon = 1
+}
+observer_mode = { # Observer mode - country modifier
+	local_rgo_output = 2.0
+	mine_rgo_size = 2.0
+	mine_rgo_eff = 2.0
+	farm_rgo_size = 2.0
+	farm_rgo_eff = 2.0
+	global_pop_militancy_modifier = -10
+	global_pop_consciousness_modifier = -10
+	
+	icon = 11
 }
 # Jump gates - province modifiers
 jumpgate_to_adventures_promise = {
