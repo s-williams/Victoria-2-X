@@ -43,6 +43,13 @@ YAK = {
     color3 = { 1 91 20 }
 }
 
+# Beryll
+BYL = {
+    color1 = { 24 24 24 }
+    color2 = { 60 60 60 }
+    color3 = { 12 12 12 }
+}
+
 # Goner
 GON = {
     color1 = { 111 52 0 }

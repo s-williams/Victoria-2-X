@@ -1,6 +1,7 @@
 owner = TER
 controller = TER
 add_core = TER
+add_core = BYL
 trade_goods = silicon
 life_rating = 20
 terrain = outer_sol
