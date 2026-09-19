@@ -48,7 +48,7 @@
     - [ ] Xenon quest for sentience
     - [ ] Random events
     - [ ] Political events
-    - [ ] Observer mode
+    - [x] Observer mode
 - [ ] Politics
     - [ ] Theocracy government type
     - [ ] Patriarchy government type?
@@ -61,7 +61,7 @@
 - [ ] Military
     - [ ] Starting units
     - [ ] Unit icons
-- [ ] Jumpgates visible on map
+- [x] Jumpgates visible on map
 - [ ] Inventions galore
 
 # Style Guide
