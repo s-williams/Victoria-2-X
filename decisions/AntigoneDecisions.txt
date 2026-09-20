@@ -1,0 +1,25 @@
+political_decisions = {
+    sandwell_archive = { # Sandwell Archive
+        potential = {
+            owns = 350 # Antigone Memorial
+            350 = {
+                NOT = { has_province_modifier = sandwell_archive_active }
+            }
+        }
+        allow = {
+            civilized = yes
+            tech_education_2 = 1
+        }
+        ai_will_do = {
+            factor = 1
+        }
+        effect = {
+            350 = {
+                add_province_modifier = {
+                    name = sandwell_archive_active
+                    duration = -1
+                }
+            }
+        }
+    }
+}

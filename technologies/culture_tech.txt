@@ -273,6 +273,10 @@ tech_education_2 = {
         }
         modifier = {
             factor = 1.25
+            owns = 350 # Antigone Memorial - Sandwell Archive
+        }
+        modifier = {
+            factor = 1.25
             year = 3015
         }
 	}
