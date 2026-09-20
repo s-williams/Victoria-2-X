@@ -1,6 +1,5 @@
-# Starting Decision
 political_decisions = {
-    SOH_start_decision = {
+    SOH_start_decision = { # Starting Decision
         potential = {
             always = no
             tag = SOH

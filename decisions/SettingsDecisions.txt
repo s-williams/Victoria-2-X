@@ -1,6 +1,5 @@
-# Enable settings
 political_decisions = {
-    show_settings = {
+    show_settings = { # Enable settings
         alert = no
         potential = {
 			ai = no
@@ -11,7 +10,7 @@ political_decisions = {
         }
     }
 
-    hide_settings = {
+    hide_settings = { # Disable settings
         alert = no
         potential = {
 			ai = no
