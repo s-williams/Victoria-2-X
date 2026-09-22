@@ -1,0 +1,67 @@
+###############################
+##### SOHNEN EVENTS 98000 #####
+###############################
+
+# Sandwell Archive ally - activation
+country_event = {
+	id = 98000
+	title = "Sandwell Archive"
+	desc = "EVTDESC98000"
+	picture = "production"
+
+    trigger = {
+        NOT = {
+            has_country_modifier = sandwell_archive_active_ally
+        }
+        any_neighbor_country = {
+            alliance_with = THIS
+            any_owned_province = {
+                province_id = 350 # Antigone Memorial
+                has_province_modifier = sandwell_archive_active
+            }
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 12
+    }
+
+    option = {
+        name = "Excellent"
+        add_country_modifier = {
+            name = sandwell_archive_active_ally
+            duration = -1
+        }
+    }
+}
+
+# Sandwell Archive ally - deactivation
+country_event = {
+	id = 98001
+	title = "Sandwell Archive"
+	desc = "EVTDESC98001"
+	picture = "production"
+
+    trigger = {
+        has_country_modifier = sandwell_archive_active_ally
+        NOT = {
+            any_neighbor_country = {
+                alliance_with = THIS
+                any_owned_province = {
+                    province_id = 350 # Antigone Memorial
+                    has_province_modifier = sandwell_archive_active
+                }
+            }
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 3
+    }
+
+    option = {
+        name = "Alas"
+        remove_country_modifier = sandwell_archive_active_ally
+    }
+}
+

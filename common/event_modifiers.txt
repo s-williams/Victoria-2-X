@@ -48,6 +48,10 @@ sandwell_archive_active = { # Sandwell archive - province modifier
 	immigrant_attract = 0.1
 	icon = 1
 }
+sandwell_archive_active_ally = { # Sandwell archive ally - country modifier
+	research_points_modifier = 0.01
+	icon = 1
+}
 # Jump gates - province modifiers
 jumpgate_to_adventures_promise = {
 	icon = 1
