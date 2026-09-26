@@ -1,5 +1,6 @@
 political_decisions = {
     sandwell_archive = { # Sandwell Archive
+        picture = sandwell_archive
         potential = {
             owns = 350 # Antigone Memorial
             350 = {

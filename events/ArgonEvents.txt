@@ -7,7 +7,7 @@ country_event = {
 	id = 98000
 	title = "Sandwell Archive"
 	desc = "EVTDESC98000"
-	picture = "production"
+	picture = "sandwell_archive"
 
     trigger = {
         NOT = {
