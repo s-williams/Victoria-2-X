@@ -40,7 +40,7 @@ country_event = {
 	id = 98001
 	title = "Sandwell Archive"
 	desc = "EVTDESC98001"
-	picture = "production"
+	picture = "sandwell_archive"
 
     trigger = {
         has_country_modifier = sandwell_archive_active_ally
