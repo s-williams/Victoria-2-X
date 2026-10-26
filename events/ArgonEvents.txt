@@ -64,4 +64,3 @@ country_event = {
         remove_country_modifier = sandwell_archive_active_ally
     }
 }
-
