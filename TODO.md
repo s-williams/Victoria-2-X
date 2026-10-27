@@ -36,11 +36,12 @@
 # Beta
 - [ ] Flavour
     - [ ] Argon-Antigone
-    - [ ] Sandwell archive
+    - [x] Sandwell archive
     - [ ] HFL joining Argon
     - [ ] Terran-Antigone
     - [ ] Terran-Segaris
     - [ ] Terran-Yaki
+    - [ ] Torus
     - [ ] Paranid Civil War
     - [ ] Apotheosis
     - [ ] Split Civil War
@@ -57,6 +58,7 @@
         - [ ] e.g. Teladi living nearby Split will support slavery
 - [ ] Add X-Rebirth sectors? Add Aldrin? Tharka's Sun (CoP)?
 - [ ] Player faction
+- [ ] Technology pictures
 - [ ] Finish interface rework
 - [ ] Military
     - [ ] Starting units
